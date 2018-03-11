@@ -1,0 +1,48 @@
+WS:25
+BS:25
+S:10
+T:10
+Ag:30
+Int:20
+WP:10
+Fel:20
+A:2
+W:4
+SB:0
+TB:0
+M:0
+Mag:0
+IP:0
+FP:0
+Skills:9
+Concealment
+Disguise
+Gossip
+Perception
+Prepare Poison
+Scale Sheer Surface
+Secret Signs (Thief)
+Shadowing
+Silent Move
+Talents:9
+Quick Draw
+Lightning Parry
+Sharpshooter
+Specialist Weapon Group (Entangling)
+Specialist Weapon Group (Parrying)
+Specialist Weapon Group (Throwing)
+Street Fighting
+Streetwise
+Swashbuckler
+Trappings:5
+Net
+4 Throwing Knives
+Grapping Hook
+10 Yards of Rope
+1 Dose of Poison (ANY)
+Exits:5
+Champion
+Outlaw Chief
+Rogue
+Sergeant
+Witch Hunter

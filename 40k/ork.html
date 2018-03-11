@@ -1,0 +1,552 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<style type="text/css">
+/* Center the title in the middle of the page in big text
+  */
+  h1 {
+    text-align: center;
+    }
+  h1 span.title {
+    padding: 5pt;
+    border: medium solid #418509;
+    -moz-border-radius: 5pt;
+    -webkit-border-radius: 5pt;
+    border-radius: 5pt;
+    }
+
+  /* Style the validation indicator in the title to look like a red circle,
+      like how it looks in AB - we use rounded borders to make it look
+      circular, but they don't work in IE8 and below.
+  */
+  h1 span#invalid {
+    padding: 0pt 8pt;
+    margin-right: 8pt;
+    border: medium solid #d00000;
+    background-color: #a00000;
+    color: #ffffff;
+    font-size: 1em;
+    -moz-border-radius: 15pt;
+    -webkit-border-radius: 15pt;
+    border-radius: 15pt;
+    }
+  /* Each squad should be in its own little "box"
+  */
+  table.squad {
+    margin: 5pt auto 5pt auto;
+    width: 95%;
+
+    border: 2pt solid #418509;
+    border-collapse:collapse;
+
+    -moz-border-radius: 5pt;
+    -webkit-border-radius: 5pt;
+    border-radius: 5pt;
+    }
+
+  table.squad th, table.squad td {
+    border: 1pt solid #418509;
+    font-size: 0.85em;
+    text-align: center;
+    }
+
+  table.squad th {
+    margin: 0pt;
+    padding: 3pt;
+    background-color: #71BF73;
+    }
+
+  /* Style the different cells in the units table
+  */
+  table.squad th.name, table.squad td.name {
+    font-weight: bold;
+    text-align: left;
+    width: 25%;
+    }
+
+  table.squad td.count {
+    font-weight: bold;
+    }
+
+  table.squad th.cost, table.squad td.cost {
+    text-align: right;
+    }
+
+  table.squad td.options {
+    text-align: left;
+    font-size: 0.85em;
+    }
+
+  table.squad td.summary {
+    text-align: left;
+    }
+
+  /* Various levels of indentation for squads
+  */
+  table.squad td.indent0 {
+    padding-left: 3pt;
+    }
+  table.squad td.indent1 {
+    padding-left: 13pt;
+    }
+  table.squad td.indent2 {
+    padding-left: 23pt;
+    }
+  table.squad td.indent3 {
+    padding-left: 33pt;
+    }
+  table.squad td.indent4 {
+    padding-left: 43pt;
+    }
+  table.squad td.indent5 {
+    padding-left: 53pt;
+    }
+  table.squad td.indent6 {
+    padding-left: 63pt;
+    }
+  table.squad td.indent7 {
+    padding-left: 73pt;
+    }
+  table.squad td.indent8 {
+    padding-left: 83pt;
+    }
+  table.squad td.indent9 {
+    padding-left: 93pt;
+    }
+  table.squad td.indent10 {
+    padding-left: 103pt;
+    }
+
+  /* Option categories and composition report
+  */
+  table.category, table.composition {
+    margin: 5pt auto 5pt auto;
+    width: 80%;
+
+    border: 2px solid #418509;
+    border-collapse:collapse;
+    }
+
+  table.category th, table.category td, table.composition th, table.composition td {
+    border: 1px solid #418509;
+    font-size: 0.85em;
+    }
+
+  table.category th, table.composition th {
+    margin: 0pt;
+    padding: 3pt;
+    text-align: center;
+    background-color: #71BF73;
+    }
+
+  table.composition td {
+    text-align: center;
+    }
+    </style>
+    
+<title>Ork Warband</title>
+</head>
+<body>
+
+<h1><span class="title">Ork Clan - Red Hand of Doom
+    (446
+    points)
+    </span></h1>
+    
+
+	<table class="squad">
+		<thead>
+			<tr>
+				<th class="name">HQ: Big Mek</th>
+				<th class="stat__Count_">#</th>
+				<th class="stat_Group">Grp</th>
+				<th class="stat_WS">WS</th>
+				<th class="stat_BS">BS</th>
+				<th class="stat_St">S</th>
+				<th class="stat_To">T</th>
+				<th class="stat_Wo">Wo</th>
+				<th class="stat_In">I</th>
+				<th class="stat_At">A</th>
+				<th class="stat_Ld">Ld</th>
+				<th class="stat_Save">Save</th>
+				<th class="cost">Cost</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td rowspan="&#xA;        2&#xA;        " class="name indent1">Big
+					Mek</td>
+				<td class="stat__Count_">1</td>
+				<td class="stat_Group">HQ</td>
+				<td class="stat_WS">4</td>
+				<td class="stat_BS">2</td>
+				<td class="stat_St">4</td>
+				<td class="stat_To">4</td>
+				<td class="stat_Wo">2</td>
+				<td class="stat_In">3</td>
+				<td class="stat_At">3</td>
+				<td class="stat_Ld">8</td>
+				<td class="stat_Save">6+</td>
+				<td class="cost">65</td>
+			</tr>
+			<tr>
+				<td class="options" colspan="99">(pp. 34 &amp; 97 C:O);
+					Unit Type: Infantry; Mek's Tools; Power Claw; Shoota/Rokkit Kombi-weapon;
+					Furious Charge; Independent Character; Mob Rule; Waaagh!</td>
+			</tr>
+		</tbody>
+	</table>
+
+
+	<table class="squad">
+		<thead>
+			<tr>
+				<th class="name">Fast Attack: Warbikers</th>
+				<th class="stat__Count_">#</th>
+				<th class="stat_Group">Grp</th>
+				<th class="stat_WS">WS</th>
+				<th class="stat_BS">BS</th>
+				<th class="stat_St">S</th>
+				<th class="stat_To">T</th>
+				<th class="stat_Wo">Wo</th>
+				<th class="stat_In">I</th>
+				<th class="stat_At">A</th>
+				<th class="stat_Ld">Ld</th>
+				<th class="stat_Save">Save</th>
+				<th class="cost">Cost</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td rowspan="&#xA;        2&#xA;        " class="name indent1">Warbikers</td>
+				<td class="stat__Count_">2</td>
+				<td class="stat_Group">Fast</td>
+				<td class="stat_WS">4</td>
+				<td class="stat_BS">2</td>
+				<td class="stat_St">3</td>
+				<td class="stat_To">4/5</td>
+				<td class="stat_Wo">1</td>
+				<td class="stat_In">2</td>
+				<td class="stat_At">2/3</td>
+				<td class="stat_Ld">7</td>
+				<td class="stat_Save">4+</td>
+				<td class="cost">50</td>
+			</tr>
+			<tr>
+				<td class="options" colspan="99">(pp. 46 &amp; 101 C:O);
+					Unit Type: Bikes; Warbike; Choppa &amp; Slugga; Dakkagun; Exhaust
+					Cloud; Furious Charge; Mob Rule</td>
+			</tr>
+			<tr>
+				<td rowspan="&#xA;        2&#xA;        " class="name indent2">Biker
+					Nob</td>
+				<td class="stat__Count_">1</td>
+				<td class="stat_Group"></td>
+				<td class="stat_WS">4</td>
+				<td class="stat_BS">2</td>
+				<td class="stat_St">4/8</td>
+				<td class="stat_To">4/5</td>
+				<td class="stat_Wo">2</td>
+				<td class="stat_In">3/1</td>
+				<td class="stat_At">3</td>
+				<td class="stat_Ld">7</td>
+				<td class="stat_Save">4+</td>
+				<td class="cost">45</td>
+			</tr>
+			<tr>
+				<td class="options" colspan="99">(pp. 46 &amp; 100 C:O);
+					Unit Type: Bikes; Warbike; Bosspole; Slugga; Big Choppa; Dakkagun;
+					Exhaust Cloud; Furious Charge; Mob Rule</td>
+			</tr>
+		</tbody>
+	</table>
+
+
+	<table class="squad">
+		<thead>
+			<tr>
+				<th class="name">Troops: Boyz</th>
+				<th class="stat__Count_">#</th>
+				<th class="stat_Group">Grp</th>
+				<th class="stat_WS">WS</th>
+				<th class="stat_BS">BS</th>
+				<th class="stat_St">S</th>
+				<th class="stat_To">T</th>
+				<th class="stat_Wo">Wo</th>
+				<th class="stat_In">I</th>
+				<th class="stat_At">A</th>
+				<th class="stat_Ld">Ld</th>
+				<th class="stat_Save">Save</th>
+				<th class="cost">Cost</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td rowspan="&#xA;        2&#xA;        " class="name indent1">Boyz</td>
+				<td class="stat__Count_">11</td>
+				<td class="stat_Group">Troops</td>
+				<td class="stat_WS">4</td>
+				<td class="stat_BS">2</td>
+				<td class="stat_St">3</td>
+				<td class="stat_To">4</td>
+				<td class="stat_Wo">1</td>
+				<td class="stat_In">2</td>
+				<td class="stat_At">2</td>
+				<td class="stat_Ld">7</td>
+				<td class="stat_Save">6+</td>
+				<td class="cost">66</td>
+			</tr>
+			<tr>
+				<td class="options" colspan="99">(pp. 40 &amp; 100 C:O);
+					Unit Type: Infantry; Shootas; Furious Charge; Mob Rule;
+					Waaagh!</td>
+			</tr>
+						<tr>
+				<td rowspan="&#xA;        2&#xA;        " class="name indent1">Boyz</td>
+				<td class="stat__Count_">1</td>
+				<td class="stat_Group">Troops</td>
+				<td class="stat_WS">4</td>
+				<td class="stat_BS">2</td>
+				<td class="stat_St">3</td>
+				<td class="stat_To">4</td>
+				<td class="stat_Wo">1</td>
+				<td class="stat_In">2</td>
+				<td class="stat_At">2</td>
+				<td class="stat_Ld">7</td>
+				<td class="stat_Save">6+</td>
+				<td class="cost">11</td>
+			</tr>
+			<tr>
+				<td class="options" colspan="99">(pp. 40 &amp; 100 C:O);
+					Unit Type: Infantry; Big Shoota; Furious Charge; Mob Rule;
+					Waaagh!</td>
+			</tr>
+			<tr>
+				<td rowspan="&#xA;        2&#xA;        " class="name indent2">Boyz
+					Nob</td>
+				<td class="stat__Count_">1</td>
+				<td class="stat_Group"></td>
+				<td class="stat_WS">4</td>
+				<td class="stat_BS">2</td>
+				<td class="stat_St">4</td>
+				<td class="stat_To">4</td>
+				<td class="stat_Wo">2</td>
+				<td class="stat_In">3</td>
+				<td class="stat_At">3</td>
+				<td class="stat_Ld">7</td>
+				<td class="stat_Save">6+</td>
+				<td class="cost">46</td>
+			</tr>
+			<tr>
+				<td class="options" colspan="99">(pp. 40 &amp; 100 C:O);
+					Unit Type: Infantry; Slugga; Power Claw; Bosspole; Furious Charge; Mob Rule; Waaagh!</td>
+			</tr>
+		</tbody>
+	</table>
+
+
+
+
+	<table class="squad">
+		<thead>
+			<tr>
+				<th class="name">Troops: Boyz</th>
+				<th class="stat__Count_">#</th>
+				<th class="stat_Group">Grp</th>
+				<th class="stat_WS">WS</th>
+				<th class="stat_BS">BS</th>
+				<th class="stat_St">S</th>
+				<th class="stat_To">T</th>
+				<th class="stat_Wo">Wo</th>
+				<th class="stat_In">I</th>
+				<th class="stat_At">A</th>
+				<th class="stat_Ld">Ld</th>
+				<th class="stat_Save">Save</th>
+				<th class="cost">Cost</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td rowspan="&#xA;        2&#xA;        " class="name indent1">Boyz</td>
+				<td class="stat__Count_">11</td>
+				<td class="stat_Group">Troops</td>
+				<td class="stat_WS">4</td>
+				<td class="stat_BS">2</td>
+				<td class="stat_St">3</td>
+				<td class="stat_To">4</td>
+				<td class="stat_Wo">1</td>
+				<td class="stat_In">2</td>
+				<td class="stat_At">2</td>
+				<td class="stat_Ld">7</td>
+				<td class="stat_Save">6+</td>
+				<td class="cost">66</td>
+			</tr>
+			<tr>
+				<td class="options" colspan="99">(pp. 40 &amp; 100 C:O);
+					Unit Type: Infantry; Slugga; Choppa; Furious Charge; Mob Rule;
+					Waaagh!</td>
+			</tr>
+					<tr>
+				<td rowspan="&#xA;        2&#xA;        " class="name indent1">Boyz</td>
+				<td class="stat__Count_">1</td>
+				<td class="stat_Group">Troops</td>
+				<td class="stat_WS">4</td>
+				<td class="stat_BS">2</td>
+				<td class="stat_St">3</td>
+				<td class="stat_To">4</td>
+				<td class="stat_Wo">1</td>
+				<td class="stat_In">2</td>
+				<td class="stat_At">2</td>
+				<td class="stat_Ld">7</td>
+				<td class="stat_Save">6+</td>
+				<td class="cost">16</td>
+			</tr>
+			<tr>
+				<td class="options" colspan="99">(pp. 40 &amp; 100 C:O);
+					Unit Type: Infantry; Choppa; Rokkit Launcha; Furious Charge; Mob Rule;
+					Waaagh!</td>
+			</tr>
+			<tr>
+				<td rowspan="&#xA;        2&#xA;        " class="name indent2">Boyz
+					Nob</td>
+				<td class="stat__Count_">1</td>
+				<td class="stat_Group"></td>
+				<td class="stat_WS">4</td>
+				<td class="stat_BS">2</td>
+				<td class="stat_St">4</td>
+				<td class="stat_To">4</td>
+				<td class="stat_Wo">2</td>
+				<td class="stat_In">3</td>
+				<td class="stat_At">3</td>
+				<td class="stat_Ld">7</td>
+				<td class="stat_Save">6+</td>
+				<td class="cost">26</td>
+			</tr>
+			<tr>
+				<td class="options" colspan="99">(pp. 40 &amp; 100 C:O);
+					Unit Type: Infantry; Slugga; Big Choppa; Bosspole; Furious Charge; Mob Rule; Waaagh!</td>
+			</tr>
+			<tr>
+<td rowspan="&#xA;        2&#xA;        " class="name indent2">Trukk</td>
+<td class="summary" colspan="11">Grp:   BS: 2  FA: 10  SA: 10  RA: 10</td>
+<td class="cost">55</td>
+</tr>
+<tr><td class="options" colspan="99">(pp. 41 &amp; 100 C:O); Unit Type: Vehicle (Fast, Open-topped); Transport Capacity: 12 models; Armour Plates; Reinforced Ram; Wreckin' Ball; Big Shoota; Ramshackle</td></tr>
+	
+		</tbody>
+	</table>
+
+
+
+<table class="category">
+<tr><th colspan="2" class="categorytitle">Special Rules</th></tr>
+<tr>
+<td class="footnotename">Exhaust Cloud</td>
+<td class="footnotetext">4+ Cover save (p46 C:O)</td>
+</tr>
+<tr>
+<td class="footnotename">Furious Charge</td>
+<td class="footnotetext">Add +1 to strength and initiative, conditions apply (p75 WH40k)</td>
+</tr>
+<tr>
+<td class="footnotename">Independent Character</td>
+<td class="footnotetext">(p50 WH40k)</td>
+</tr>
+<tr>
+<td class="footnotename">Mob Rule</td>
+<td class="footnotetext">May use number in mob instead of leadership (p31 C:O)</td>
+</tr>
+<tr>
+<td class="footnotename">Ramshackle</td>
+<td class="footnotetext">If a Trukk suffers a Vehicle Destroyed! or Vehicle Explodes! (wrecked) result, roll on the Ramshackle table below and apply the result instead of the usual effects. If the Trukk suffers more than one result, roll one die per result on the Ramshackle table , but only apply the lowest dice roll:
+1 - 2: Kaboom! Truck Destroyed, all passengers and models within D6" take a S3 hit. surviving passengers must disembark and take a Pinning test.
+3 - 4: Kareen! Move the Trukk 3D6" in a random direction, then apply the Kaboom! resul above. If the Trukk would careen into enemy models or terrain, stop it 1" away.
+5 -6 Kerrunch! Truck is wrecked, Ork passengers take no damage but must immediately disembark. </td>
+</tr>
+<tr>
+<td class="footnotename">Waaagh!</td>
+<td class="footnotetext">All friendly units have 'fleet of foot' for one turn (additional rules apply p31 C:O)</td>
+</tr>
+
+
+<tr><th colspan="2" class="categorytitle">Unit Type</th></tr>
+<tr>
+<td class="footnotename">Unit Type: Bikes</td>
+<td class="footnotetext">Unit Type: Bikes (p 53 WH40k)</td>
+</tr>
+<tr>
+<td class="footnotename">Unit Type: Vehicle (Fast, Open-topped)</td>
+<td class="footnotetext">Unit Type: Vehicle (Fast, Open-topped) (p70 WH40k)</td>
+</tr>
+<tr>
+<td class="footnotename">Unit Type: Infantry</td>
+<td class="footnotetext">Unit Type: Infantry (p54 WH40k)</td>
+</tr>
+
+
+<tr><th colspan="2" class="categorytitle">Wargear</th></tr>
+<tr>
+<td class="footnotename">Armour Plates</td>
+<td class="footnotetext">'Crew stunned' treated as 'Crew shaken' (p93 C:O)</td>
+</tr>
+<tr>
+<td class="footnotename">Bosspole</td>
+<td class="footnotetext">May re-roll failed Morale test but unit takes a wound (p92 C:O)</td>
+</tr>
+<tr>
+<td class="footnotename">Mek's Tools</td>
+<td class="footnotetext">When repairing on a 4+ the damage result is negated.  On a 1 the vehicle is shaken (p34 C:O)</td>
+</tr>
+<tr>
+<td class="footnotename">Reinforced Ram</td>
+<td class="footnotetext">May Tank Shock, Add +2 to front armour for Death or Glory, Re-roll Dangerous Terrain tests (p93 C:O)</td>
+</tr>
+<tr>
+<td class="footnotename">Wreckin' Ball</td>
+<td class="footnotetext">on a 4+ an enemy unit in 2" takes a S9 hit (p93 C:O)</td>
+</tr>
+
+
+<tr><th colspan="2" class="categorytitle">Weapons</th></tr>
+<tr>
+<td class="footnotename">Big Choppa</td>
+<td class="footnotetext">p89 C:O</td>
+</tr>
+<tr>
+<td class="footnotename">Big Shoota</td>
+<td class="footnotetext">R36"; S5; AP5; Assault 3 (p89 C:O)</td>
+</tr>
+<tr>
+<td class="footnotename">Choppa</td>
+<td class="footnotetext">If used with another close combat weapon, +1 attack in close combat.</td>
+</tr>
+<tr>
+<td class="footnotename">Dakkagun</td>
+<td class="footnotetext">R18"; S5; AP5; Assault 3; Linked (p45 C:O)</td>
+</tr>
+<tr>
+<td class="footnotename">Power Klaw</td>
+<td class="footnotetext">Ignores armour saves, increases strength in close combat.</td>
+</tr>
+<tr>
+<td class="footnotename">Rokkit Launcha</td>
+<td class="footnotetext">R24"; S8; AP3; Assault 1 (p89 C:O)</td>
+</tr>
+<tr>
+<td class="footnotename">Shoota</td>
+<td class="footnotetext">R18"; S4; AP6; Assault 2 (p91 C:O)</td>
+</tr>
+<tr>
+<td class="footnotename">Shoota/Rokkit Kombi-weapon</td>
+<td class="footnotetext">Shoota: R18"; S4; AP6; Assault 2 (p91 C:O)
+Rokkit: R24""; S8; AP3; Assault 1  (p89 C:O)</td>
+</tr>
+<tr>
+<td class="footnotename">Slugga</td>
+<td class="footnotetext">12" Range; S4; AP6; Pistol (p91 C:O).</td>
+</tr>
+</table>
+
+</body>
+</html>

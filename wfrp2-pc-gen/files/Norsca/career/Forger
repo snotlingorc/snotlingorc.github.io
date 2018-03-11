@@ -1,0 +1,45 @@
+WS:5
+BS:5
+S:10
+T:10
+Ag:20
+Int:20
+WP:10
+Fel:10
+A:0
+W:3
+SB:0
+TB:0
+M:0
+Mag:0
+IP:0
+FP:0
+Skills:13
+Academic Knowledge (the Arts)
+Charm
+Common Knowledge (ANY)
+Common Knowledge (ANY)
+Evaluate
+Haggle
+Perception
+Read/Write
+Secret Signs (Thief)
+Speak Language (ANY)
+Trade (Artist)
+Trade (Calligrapher)
+Trade (Smith)
+Talents:3
+Artistic
+Coolheaded OR Dealmaker
+Flee! OR Suave
+Trappings:2
+Trade Tools (Forger)
+Writing Kit
+Exits:7
+Artisan
+Charlatan
+Fence
+Scribe
+Tradesman
+Student
+Scholar

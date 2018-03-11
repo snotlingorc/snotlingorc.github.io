@@ -1,0 +1,38 @@
+WS:0
+BS:0
+S:10
+T:10
+Ag:15
+Int:30
+WP:20
+Fel:15
+A:0
+W:4
+SB:0
+TB:0
+M:0
+Mag:0
+IP:0
+FP:0
+Skills:8
+Academic Knowledge (Science)
+Heal
+Gossip
+Perception
+Prepare Poison
+Read/Write
+Speak Language (Classical)
+Trade (Apothecary)
+Talents:3
+Resistance to Disease
+Strike to Stun
+Surgery
+Trappings:2
+4 Healing Draughts
+Trade Tool (Medical Instruments)
+Exits:5
+Friar
+Guild Master
+Scholar
+Spy
+Astrologer

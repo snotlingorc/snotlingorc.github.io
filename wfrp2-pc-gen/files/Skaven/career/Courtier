@@ -1,0 +1,45 @@
+WS:5
+BS:5
+S:0
+T:0
+Ag:10
+Int:20
+WP:20
+Fel:20
+A:0
+W:4
+SB:0
+TB:0
+M:0
+Mag:0
+IP:0
+FP:0
+Skills:12
+Academic Knowledge (the Arts) OR Academic Knowledge (History) OR Gamble
+Blather 
+Charm
+Command OR Performer (ANY)
+Common Knowledge (Bretonnia) OR Common Knowledge (Tilea)
+Evaluate
+Gossip
+Perception
+Read/Write
+Ride
+Speak Language (Breton) OR Speak Language (Tilean)
+Speak Language (Reikspiel)
+Talents:4
+Dealmaker OR Etiquette
+Public Speaking
+Savvy OR Suave
+Schemer OR Specialist Weapon Group (Fencing)
+Trappings:3
+4 Sets of Noble's Garb
+100 gc
+Valet
+Exits:6
+Charlatan
+Duellist
+Noble Lord
+Politician
+Steward
+Spy
