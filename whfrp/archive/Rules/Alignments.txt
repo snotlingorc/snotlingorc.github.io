@@ -1,0 +1,98 @@
+From: Thomas Oesterlie <toaster@pvv.unit.no>
+Subject: [WFRP:1443] Alignments in WFRP - why?
+
+This is the second old article I found on my desk the other day. I hope it's
+contents are better than the Hornling-stuff. I haven't opened my Hogshead
+version of the rulebook, so all page-references are to the GW version.
+
+---Begin inclusion---
+
+Have you ever noticed how several races' alignments don't fit their racial
+descriptions? Take, for instance, elves. The elven races (except Dark Elves)
+are all Lawful or Good. The description of Good alignment on pp89 WFRP,
+states that:
+
+"Good characters are concerned with natural well-being. They believe in
+social hierarchy, responsibility, helping others, and settling all conflict
+by peaceful means if possible. Good characters are opposed to all
+destruction, suffering and cruelty. Unlike Lawful characters, who will often
+pursue an evil-doer to the bitter end, Good characters can be forgiving.
+
+For				Against
+Natural order and beauty	Unnecessary cruelty
+Duty and hard work		Unprovoked or excessive violence
+Learning			Crime and dishonesty"
+
+The racial description of Elves pp 217 WFRP, says the following:
+
+"Elves are the oldest and wisest of all the humanoid races. They are a
+sophisticated people, with a profound love of the arts (...)"
+
+So far everything corresponds to the description of Good aligned creatures.
+But (racial description of Elves pp217 WFRP):
+
+"(...) and lives of hedonistic self-indulgence."
+
+Hedonism, as far as I know, is a way of life in accordance to your bodily
+pleasures. Now, this doesn't necessarily contradict with the alignment
+description: "For (...) Duty and hard work", but what follows do contradict,
+without doubt:
+
+"No Elf likes to have to deal with the problems of everyday life, and labour
+of all kinds are considered dull."
+
+And the racial description continues straight into another contradiction
+with the alignment description:
+
+"Elves do not get on well with other races, being arrogant (...)"
+
+What about Good aligned creatures being "For (..) natural order"? OK, I'll
+confess that they might consider being arrogant as the natural order, but
+anyhow, I personally find this a bit strange.
+
+Another example of the racial description contradicting the race's alignment
+is the racial description of Dwarfs pp15 WFRP.
+
+"They are somewhat greedy, gruff, unfriendly, short-tempered and anti-social."
+
+In short, Dwarfs may be considered being "(...)Against (...) Sociable
+behaviour" which is a classification of Evil aligned creatures in the
+alignment description on pp89 WFRP. Also, under the racial description of
+Dwarfs on pp216 WFRP:
+
+"Dwarfs are a very materialistic people (...)"
+
+Description of Evil aligned creatures pp 89 WFRP states:
+
+"For (...) materialism"
+
+Still Dwarfs are of Neutral alignment, which, taking the major part of the
+racial description of Dwarfs in consideration, is not unfitting; but...
+there are several points in the racial description that might suggest that
+Dwarfs are Evil.
+
+Concerning the Elves: the reason why they are of Good alignment seems, at
+least to me, to be an Tolkienish illusion of Elves being good. According to
+the description of Elves, I would say that all Elves (except Dark Elves)
+should be of Neutral alignment.
+
+But the reason why I wrote this mail was not to criticise the racial
+description of Elves, but to maybe raise a discussion about the Alignment
+system of WFRP. The way I feel, is that there is no reason why the AD&Dish
+alignment system should be included in WFRP. Pledging to alignments makes
+the world extremely black and white. As I have given an example of above,
+Dwarfs are Neutral creatures (most of them at least), but they still have
+some characteristics of Evil creatures. Should Dwarfs be Neutral or Evil...
+or maybe they should be Neutral-Evil. This discussion seems pointless to me.
+Get rid of the alignment system, and read the races' racial description.
+This way the Warhammer World will still be a colourful place made up of
+different personalities and races, NOT different alignments.
+
+---End inclusion---
+
+Thomas Oesterlie
+toaster@pvv.unit.no
+Maintainer of the Warhammer Archives
+-------------------------------------------------------------
+PVV - The Software Workshop, University of Trondheim, Norway
+

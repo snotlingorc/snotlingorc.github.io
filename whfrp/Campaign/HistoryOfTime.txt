@@ -1,0 +1,92 @@
+From cm6248@wlv.ac.ukMon Aug 14 08:51:33 1995
+Date: Wed, 1 Mar 95 14:18:01 0000 (GMT)
+From: "O.Cooper" <cm6248@wlv.ac.uk>
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: WFRP Time
+
+A BRIEF HISTORY OF WFRP TIME
+
+Here's a question I bet no-ones posed before; what was the level of technology like in the Old World x-hundred years before circa 2500, the approximate date of all the WFRP & WHB stuff?
+
+Well, I was intrigued by this question as I intend to run a couple of games set in the Old Worlds history, inspired by the newish background information on the Undead and Nagash, and the Skaven stuff (from the Warhammer Armies Books, extracts in various White Dwarfs).  Here's the results of my research, you might find it useful for similar games or time travelling. If you disagree or can add more to this, let the mailing list know and we can try and compile a definitive article on this.
+
+To do this, we need to find an analogous date in real history to correspond with IC 0, the founding of The Empire by Sigmar.  Some of the events in WFRP history seem to roughly tie in with real historic events, and Sigmar seems to be the equivalent of Charles Martel (714-41) and his grandson Charlemagne (768-814).  However Sigmar is refered to as 'chief of the Unbergereons' (sp?) and a reference to Sigmar in an old White Dwarf (I forget the number) talked about his charioteers, so this seems to be a little bit late.  Sigmar's tribes seem to have had a date equivalent of about 500 AD.  This seems likely being that the real Roman Empire took decades to die, but 476 AD is the agreed cut-off point.  Sigmars level of technology is roughly parallel to the Huns, Ostrogoths etc., who inhabited Europe between the fall of Rome and the foundation of the Holy Roman Empire.
+
+The undead book states that 'over two millenia before the time of Sigmar a powerful civilization sprang up along the banks of the Great River.'  This is, of course, Warhammers Ancient Egypt, and is therefore talking about a time before IC -1500.  North and South Egypt had been united around 2300 BC so the dates here seem acceptable. 
+
+The models being released for Empire armies today have their roots in the fashions and troop types of the 16th century.  Karl Franz began his reign from Altdorf in IC 2052.  This means that it has taken the Known World 2500 years to reach the stage known as the 'Renaissance', whereas Earth took less than half this time.  Oddly, though technological progress before Sigmar seems to have been as fast as Earths, if not quicker.  Even odder, the Brettonian army models are based on ones a whole century out of date by the time of the Renaissance.  Perhaps the Grey Mountains are higher than any of us thought!  Ah well, looks like typical GW internal lack-of-internal-consistency.
+
+This raises the question.  Has each progression in the Known World taken twice as long (and if so why) or did technological advance stagnate at the current level several centuries ago.
+
+Tolkiens human civilizations were far older than us by several millenia, but still hadn't progressed past the early middle ages.  I once read in 'Dragon' that most AD&D worlds were situated on the brink of technological advance but were unlikely ever to make that final step forwards.  Why ?  I have been puzzled by this ever since I started roleplaying, and here are my suggestions to explain away such an occurence.
+
+1 - The existance of magic removes, to a certain degree, the need to invent things or discover new theoreums.  For example in our history the early aeroplanes were so crude that it was important for the aeronautical engineers to strive harder to create planes that were faster, safer, bigger and could fly further.  The Emperor or the King of Brettonia wouldn't need this because he could simply get his court wizards to cast lots of nice spells on his primitive aircraft.  In fact engineers wouldn't even need to attempt to invent the plane because of the existence of Pegasi, Manticores and Flight spells.  Barring WHB oddities such as the Dwarf Gyrocopter, the Old World will probably never invent flight unless magic and magicians vanish from the face of the earth.
+
+2 - The proven existence of Gods disencourages people from seeking for answers to a lot of questions.  Look at the creation debate for example.  IN WFRP (or any other fantasy world) no-one is ever going to discover evolution because atheism in the Known World  virtually cannot exist.  All people know Ulric exists as his clerics spells come from him and the Chaos Powers exist as they give their followers tentacles in odd places.  There is no point attempting to discover the structure of the universe if all you know you are going to find is that the Gods create it and are sitting on clouds above the world, drinking and wenching.
+
+3 - Arthur C. Clarke once said something along the lines of 'any technology, suitably advanced from that normally recognized is indistinguishable from magic'.   Where a strong distrust of magic exists, there will be an equally strong distrust of things that look like magic and cannot be told apart by the man in the street, such as radio, television remote controls and guided missiles (dare I say automatic crossbows down abandoned Dwarf mines?).  For a good example of this, the background information of WH40K states that technology is distrusted as 'witch magic' and apparently nothing of importance has been invented since the Horus Heresy.
+
+4 - Both fantasy worlds and earth appear to have had a lot of bloody wars.  However, wars in fantasy worlds, by the very nature of the fiction from which they spring, are always more world-shattering then any of ours.  For example, the war of IC 1111 to 1124 against the Skaven (Skaven army book), all the Incursions of Chaos and the almost-genocidal Dwarf/Elf Wars and Elven Civil Wars between the major races of the world.  Any of these wars had the possibility of producing a new Dark Ages brought about by the potential fall of civilization (see the end of the Roman Empire for a historical perspective or Mad Max 2 for a futuristic one).  It seems reasonable that after any of the above, technological and social progress 
+would continue at a slower pace. 
+
+I (and the list I assume) would be interested in anything further that people have to say or if they disagree with me on those points.
+
+Taking those 4 points into consideration it seems reasonable to have a slower rate of progress.  But did the Known World stagnate at its current level?
+
+The WHB 2nd Edition (1984 red box, three slim books) says the following 
+
+'The north of the Old World is technically and socially primitive (11-13th century Europe), whilst the central areas are slightly more sophisticated (13th-15th century Europe) and the south is the most advanced (15th-16th century Europe).  Gunpowder weapons and are totally [sic] unknown in the north, but are widely accepted in the south, although even here they are crude and far from common.'
+
+also-
+
+'Arabians correspond closely to Ottoman Turks of the 16th century.'
+
+The only gunpowder artillery this set of rules contains is the bombard.
+
+WFRP and WHB 3 & 4 are set at later dates obviously.  How earlier is all the WHB 2 information?  Now this is educated guesswork as the Known World was still being sketched out at the time of WHB 2, but it states that Lustria was discovered 100 years ago by Erik the Lost.  WFRP states that 'Old Worlders make exploratory sea voyages westwards' 500 years ago. This gives a  time difference between the two games of 400 years.  If it takes the WH world over twice as long to progress in terms of our world, then the equivalent of 160 years have passed (see table below for determination of this figure).  This brings us within the time scale of the more modern games, if we are prepared to accept that nothing of note has been invented in Tilea and Araby in the last century or so.  I think that provides conclusive proof that the Old World has not stagnated just yet.  Therefore technological and social changes advanced at a proportional level although slower than ours.
+
+Now the use of all this information.  How to calculate the technology level at a given date.  I see no need to invent a series of 'technological levels' such as in Traveller, so the approximate European date will suffice.  Simply look up the date (use the timeline on p 269 of WFRP to convert the different warhammer calenders).  The observant of you will notice that the Warhammer world has a slightly longer length (by about 40 days) then ours.  Err, yes well ignore this.  There is probably a mathematical formula for this table, if so let the list know, I'm abysmal at maths and would never discover it anyway.
+
+Imperial Calender          Anno Domini (approx.)
+0                          500
+100                        540
+200                        580
+300                        620
+400                        660
+500                        700
+600                        740
+700                        780
+800                        820
+900                        860
+1000                       900
+1100                       940
+1200                       980
+1300                      1020
+1400                      1060
+1500                      1100
+1600                      1140
+1700                      1180
+1800                      1220
+1900                      1260
+2000                      1300
+2100                      1340
+2200                      1380
+2300                      1420
+2400                      1460
+2500                      1500
+
+Intermediate dates can be worked out easily, as 10 IC years = 4 AD years.  For example to discover the AD equivalent of 2350, add 20 years to 1420 to get 1440 AD.
+
+A few examples from WFRP history.
+
+Black Plague 1111 IC = approx. 944 AD
+Any adventures in this time should see our PCs using the kind of armour and weaponry available to the Carloligians.  Count Mandred Skaven Slayer would not therefore have fought the Skaven with cannon.  I watched a BBC television programme the other night about the crusades and apparently stone-throwers capable of demolishing heavily fortified walls (such as those at Acre and Antioch) were not available to the crusaders until the second crusade (late 12th century) so all you WHB players intent on re-fighting the war against the Skaven with your Great Cannons and Arquebusiers had better think again!
+
+Election of Empress Magritta 1979 IC = approx. 1292 AD
+I'm sure I'm not the only player to spot GW's little joke here.  Hmm, here in 1995 AD it seems like the Conservatives have been in since 1292.
+
+Comments appreciated.
+
+Owen Cooper
+(cm6248@ccub.wlv.ac.uk)(University of Wolverhampton, England)

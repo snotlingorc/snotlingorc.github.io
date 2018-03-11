@@ -1,0 +1,123 @@
+From cc697@cleveland.freenet.eduMon Aug 14 09:07:46 1995
+Date: Sun, 9 Jul 1995 02:47:59 -0400
+From: Eric Oppen <cc697@cleveland.freenet.edu>
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: NPCs, as promised
+
+The Engel Gang
+
+The well-known enemies of Judge Dredd(tm) have counterparts in the
+Warhammer universe as well.  Nothing here is intended to harm any
+copyrights held on these characters, and they are strictly meant for use by
+private individuals.
+
+Elmer "Vati" Engel
+
+Human, Male, Outlaw Chief (ex-Outlaw)
+
+M 4 WS 55 BS 64 S 5 T 7 W 12 I 52 A 3 DEX 40 LD 56 INT 46 Cl 39 WP 25 Fel
+46
+
+Skills: Concealment Rural, Disarm, Dodge Blow, Follow Trail, ID Plants,
+Scale Sheer Surface, Secret Language (Battle and Thieves), Spot Trap,
+Strike Mighty Blow, Strike to Stun, Ride (Horse)
+
+Lives in: Originally from Warrenburg, now lives in forests near
+Norderingen, in Middenheim territory.
+
+Appearance: Podgy, unshaven, stinks of cheap booze.
+
+Elmer Engel was exiled from the territory of Middenheim for a period fo ten
+years, nearly thirty years ago.  With his sons, he headed out on travels of
+which he does not speak now.  When his exile was over, he returned and
+settled down in Warrenburg, but soon found it advisable to leave.  Settling
+in the forest near Norderingen, he and his sons soon became the terrors of
+the neighbourhood.  
+
+"Link" Engel--Outlaw
+Human, Male
+
+M 4 WS 48 BS 44 S 5 T 7 W 7 I 32 A 2 DEX 31 LD 24 INT 18 CL 23 WP 30 FEL 18
+
+Skills:Concealment Rural, Disarm, dodge Blow, Scale Sheer Surface, Secret
+Language--Battle Tongue and Thieves', Spot Trap, Strike Mighty Blow, Strike
+to Stun, Drive Cart, Ride Horse, Frenzied Attack.
+Special Rules: Subject to _stupidity_ if operating alone.
+
+"Link" Engel is one of the sons of "Vati" Engel (see above) and is a
+brutal, remorseless killer in his own right.  He obeys his father in all
+things.  If separated from his family members, he is subject to
+_stupidity._  He often teams with his brother "Maschine", who is the single
+person in the world to whom he's truly close.
+
+"Junger" Elmer Engel---Human Male, Outlaw
+
+M 4 WS 42 BS 43 S 2 T 3 W 8 I 33 A 2 DEX 34 LD 27 INT 26 CL 46 WP 35 FEL 35
+
+Skills: Concealment Rural, Disarm, drive Cart, Dodge Blow, Scale Sheer
+Surface, Secret Language--Battle and Thieves', Set Trap, Ride Horse, Silent
+Move Rural, Spot Trap, Strike Mighty Blow, Strike To Stun, Marksmanship,
+Torture.
+
+Appearance: Scroungy, badly shaven, lank greasy hair.  Wears round-topped
+hat.
+
+Junger Engel is the youngest of the Engel brothers (19) and his father's
+favourite.  Despite his youth, in many ways he is the worst of the lot.  A
+viciious sadist, he likes torture for its own sake and will "indulge" at
+every opportunity.
+ Being smarter than "Maschine" and "Link," he will usually take command in
+the absence of theri father.  He is very close to their father and devoted
+to him above all other people.
+
+"Maschine" Engel---MUTANT
+
+M 4 WS 38 BS 22 S 7 T 7 W 8 I 38 A 2 DEX 31 LD 22 INT 15 CL 89 WP 89 FEL 19
+
+Mutations (as per WD 99): Mechanical Arm (S+2, AP 2), dial on head with
+four settings: 
+1: S+1, Frenzied Attack
+2: S+2, Frenzied Attack
+3: S+3, Frenzied Attack, A+1
+4: S+4, Frenzied Attack, A+2
+
+Subject to _stupidity_.
+
+Skills: Concealment Rural, Flee!, Fleet-Footed, ID Plant, Street Fighter,
+Strike Mighty Blow.
+
+During the Engels' travels, they headed into an outshoot of the Chaos
+Wastes.  Although "Vati," "Link," and "Junger" were not particularly
+effected, "Maschine" and his brother "Fink" were.  One reason the Engels
+settled where they did was because with two mutants in their family, they
+could not live with other people.
+
+"Maschine" works, by preference, with his brother "Link."
+
+"Fink" Engel---MUTANT
+
+M 6 WS 29 BS 33 S 4 T 2 W 7 I 39 A 2 DEX 34 LD 21 INT 30 CL 39 WP 38 FEL 10
+
+Mutations: Skull Face (causes _fear_ in opponents unless save is made vs.
+WP), Very Skinny (T -1) Poison Bite (delivers 1 dose Manbane per bite)
+
+Skills: Specialist Weapon (Sling) Acute Hearing, Animal Care and Training
+(rats), Concealment Rural, Escapology, Flee!  Fleet-Footed, Frenzied
+Attack, ID Plant, Immunity-Poison and Disease, Night Vision, Prepare
+Poisons, Set Trap, Silent Move Rural, Street Fighter, Very Resilient, Swim,
+Spot Traps.
+
+Lives in:  Tunnels beneath Faustschlag.
+
+Like his brother, "Maschine," "Fink" Engel was mutated during the Engels'
+exile from Middenheim.  His mutations were less severe than his brother's,
+but they were sufficient to prevent him living among normal society.  He
+developed a compulsion to sleep underground whenever possible, and after
+finding a way into the Faustschlag's tunnel system, he more-or-less
+separated from his family.  However, he still keeps in touch, and any
+injury to them will bring him down on the guilty party.  About the only
+"Engel" virtue is family loyalty, and "Fink" has his full share of it.
+
+He has a pet mutant Giant Rat with a bite that delivers 2 doses of Manbane,
+and which is teaching him Queekish.

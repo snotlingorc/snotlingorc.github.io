@@ -1,0 +1,93 @@
+To: WFRP@cool.khis.com
+From: alien@sage.cc.purdue.edu (Martin Hillgrove)
+
+------------------------------------------------------------------------------
+
+The Wardancer
+ 
+  Among the Wood Elves of the Old World, the most feared and respected 
+warriors are the Wardancers.  They live for the glory of battle, and 
+dedicate themselves to reaching the peak of fighting prowess.  They are 
+also masters of courtesy and dance, performing their intricate maneuvers 
+with consummate ease and grace.
+  Wardancers are to be found in many of the larger Elven settlements in 
+the forests of the Old World.  They prefer the company of their own 
+kind, but often live a little way apart from the main settlement, 
+practicing their warchants and feats of arms while waiting for action.
+Wardancers may become adventurers for a number of reasons.  An 
+adventurer's life offers plenty of action, and almost unlimited 
+opportunities to hone their skills against a variety of opponents.  They 
+are wilder than the majority of Elves, and some find life in the forests 
+tame and dull.  Wardancers may even take to adventuring among other 
+races as a result of an unspoken disgrace or indiscretion, much (though 
+it's unwise to make the comparison) as a Dwarf may become a Troll 
+Slayer.
+  Wardancers are distinguished by their graceful pride, their love of 
+fighting and their fondness for spectacularly-dyed hair, often stiffened 
+with tree resin.
+ 
+Advance Scheme
+ M    WS   BS   S  T  W   I  A  Dex  Ld  Int  Cl  WP  Fel
++1   +40  +20  +3 +3 +8 +20 +2  +10          +20      +10
+ 
+Skills
+Acrobatics, Ambidextrous, Dance, Distract*, Dodge Blow, Marksmanship- 
+Thrown Wpns only, Spec Weapon- 2-handed Wpns, Strike Mighty Blow, Strike 
+to Injure, Transfix*, Warchant*, Whirling Death*
+	*=new skill described below
+ 
+Trappings
+Hand Wpn, Shield, Spear or 2-hand Wpn or 2-hand Axe
+ 
+Entered From (Only Elves are eligible)
+Bounty Hunter, Mercenary Captain, Judicial Champion, Pit Fighter, 
+Outlaw, Scout
+ 
+Career Exits
+Mercenary Captain, Outlaw Chief, Judicial Champions
+ 
+ 
+Special Skills
+  Transfix:  Confusing an opponent with feints and flurries.  Wardancer 
+must make a successful 'I' test to use the skill.  If opponent fails a 
+'WP' test, then the Wardancer gets +10 to hit and the enemy gets -10 to 
+hit the Wardancer.  If the Wardancer is fighting several opponents, then 
+he only needs to make one 'I' test, while all opponents make their own 
+'WP' tests, effects as normal.  The modifiers continue until the 
+transfixed opponent hits the Wardancer (not necessarily wound).  
+Wardancers cannot transfix opponents with 'Int' less than 6, or who are 
+immune to psychology.
+  Warchant:  Wardancer may only sing a Warchant while charging an 
+opponent.  If he passes an 'Int' test:
+    1) He may choose to enter frenzy.
+    2) All friendly characters gain +10 to fear and terror tests while 
+the Wardancer is charging.
+    3) All hostile characters suffer -10 to fear and terror tests while 
+the Wardancer is charging.
+The warchant lasts until the Wardancer is wounded or spends a round out 
+of combat (ie neither attacks or is attacked), but a new chant may be 
+raised when the Wardancer charges again.
+  Distract:  Holding off an opponent with acrobatic flips and twists.  
+The Wardancer may not attack while he is Distracting, but he gains +10 
+to his Dodge and Parry tests.  If the Wardancer is wounded, he may not 
+use this skill in the next round.
+  Whirling Death:  A state of maniacal fury.  The Wardancer may make up 
+to double his normal Attacks, but each attack over the normal amount is 
+paid for with one wound, due to great strain on the body.  The Wardancer 
+mat not parry while using this skill, but may Dodge.  Wound points lost 
+through use of this skill may be recovered as normal.  If the Wardancer 
+reaches 0 Wounds while in the Whirling Death, he becomes unconscious 
+until healed back to 1 Wound.  This skill may not be used in conjunction 
+with Distract, Transfix, or Warchant.
+ 
+Psychology
+Like all Elves, subject to Animosity against Dwarfs, and also they are 
+subject to hatred of all Goblinoids.
+ 
+Weapons and Armour
+Wardancers or former Wardancers may not use the special Wardancer skills 
+while wearing more than 1 AP of non-magical armour on any location, or 
+when using a weapon other than hand-to-hand wpns or thrown missiles.
+ 
+
+

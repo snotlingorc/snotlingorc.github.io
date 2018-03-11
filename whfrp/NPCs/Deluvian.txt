@@ -1,0 +1,187 @@
+From: Chris Clements <chris@atmnet.net>
+Subject: "Deluvian"; Possible EiF Spoilers
+
+
+'Deluvian'
+
+Humfried stalked into his room, slamming the door behind him.  Lighting a
+candle to drive away the darkness, he sat on the edge of his bed, cursing.
+Sounds of the city drifted lazily into his temporary haven through an open
+window and the naked flame of the candle danced in the gentle breeze which
+had stolen its way in as well.  The flickering light awoke the sleeping shadows
+on the walls, causing them to sway back in forth in an akward parody of
+life.
+
+"Where are they?  I know they're here, they have to be.  I've come to
+far to loose them now.  'Seekers of Pleasures and Pain', bah!  If I find
+them, all they'll know is pain..." Humfried muttered as he clenched his
+hands in frustration.  "I've come too far... Selene, oh Selene.  I'm
+sorry...".  Tears rolling down his rough face, he stared off into the
+corner of his room at a large full length mirror.  The reflection was
+his, but it was different somehow.  More captivating.  Humfried continued
+to gaze at his doppleganger, oblivious to the passing time.
+
+The room began to grow cold and the lone candle's flame turned from
+a brilliant orange into a muted grey color.  Noises from the outside
+faded away into the night.  Humfried found himself enwrapped in absolute
+silence.  Strangest of all, his reflection began to glow with a soft blue
+illumination.  Terrified of the changes around him, Humfried shook himself
+out of his trance and stood up from the bed.
+
+"Peace, good Humfried.  I am here in answers to your prayers.  I serve
+the higher powers and have come to give you aid in your direst need",
+his illuminated reflection said to him in a soft, beautiful voice that
+calmed his soul.  "You hunt the Seekers of Pleasure and Pain, yes?  I
+know where they are".
+
+"Who.. who are you?  What do you know of my quest?"
+
+"I know the pain that lies within your soul, Humfried.  It is a wound that
+bites deeper than any hurt of the flesh.  You display it with every
+breath you take... how could I not know of it?  Or of the ones who caused
+it?", the figure remarked soothingly.
+
+"You are an envoy of... of the gods?" Humfried's jaw was dropped in obvious
+shock as comprehension dawned upon him.
+
+"I serve those who wish to guide you, yes.  You shall be our champion,
+Humfried; our sword.  Will you accept the path fate has decreed for you?"
+the angelic voice answered.
+
+"Yes!  I will be your tool, just lead me to those foul perverts so I may
+avenge my fair Selene!"
+
+"Good.  They shall be yours..."
+
+"Praise Sigmar!  Thank you.. er, what is your name?"
+
+"Deluvian.  I am Deluvian..." the figure whispered.
+--
+
+Notes:
+
+Deluvian is an entity of the warp that meddles constantly in the affairs of
+mortals, passing itself off as a servant of the 'higher powers'.  In
+reality, Deluvian is a servant of the chaos god Tzeentch, though this
+is not by its choice.  This daemonic creature has manipulated humanity
+through the centuries to do the Changer of the Ways bidding.  It is
+a truly cunning creature that plays upon the mortals faults and its
+seductive words are to be feared.
+
+It only appears through reflective surfaces (such as mirrors, pools of
+water, etc.) as the viewer's image.  Deluvian always has a soft pale
+glow surrounding its frame while it communicates with its chosen
+'champion'.  This 'champion' is fed information from Deluvian that is
+full of half-truths which is intended to guide the individual towards a
+goal of Tzeentch's designs.  Often rival cults are exposed, lending
+credence to Deluvian's words.  Even small groups of Tzeentch cultists
+could be exposed if it serves their master's needs.  In the end, however,
+the individual will be betrayed in one manner or another by Deluvian
+(i.e. the person is told that a powerful political figure is a servant
+of chaos, even though he is not, in hopes that the champion will
+assassinate him).
+
+Long exposure to Deluvian wears on the sanity of the mind, but it is
+not from the danger of terror that lies behind its visage.  The sound of
+its voice is the true hazard.  It serves to unravel the threads of reality
+to those who hear it for any long lengths of time, inducing delusions of
+conspiracies and corruption.  This type of madness is implanted and
+is difficult to detect.
+
+Subtlety is the key to Deluvian's corrupting ability; it generally feeds
+its 'champion' the information the character wants to hear.  The only
+condition it places on the 'champion' is to keep its aid completely secret
+("I am for you to know about alone.  Only you are worthy...").  One
+trick that Deluvian is fond of is manipulating over a dozen people
+(usually important people) to pull an amazingly complicated scheme
+off.  If the pcs decide that Deluvian is a threat, or act against its
+plans, then it will manipulate its other 'champions' to remove the pcs.
+Woe betide the pcs if an important official has fallen under Deluvian's
+spell and the daemon has it in for them...
+
+
+Deluvian
+M   WS    BS   S   T   W   I    A   Dex   Ld   Int   Cl   Wp   Fel
+*   0     0    0   0   -   90   0   0     89   88    91   91   86
+6   59    50   5   5   25  90   3   89    89   88    91   91   86
+
+(the second pair of stats is only if Deluvian materializes {which means
+someone was foolish enough to summon it} or is attacked by magic).
+
+Skills:
+Arcane language - magick, old slann, druidic, daemonic, illusionist
+magick; blather, charm, demon lore, etiquette, history, identify
+magical artifact, lip reading, magical awareness, magical sense,
+read/write, rune lore, secret language - classical, battle tounge,
+guilder, ranger, thieves; secret signs - ranger; story telling,
+theology, Cast Spells - (see below).
+
+Languages: Can speak all mortal languages (a gift of Tzeentch).
+
+Powers/Abilities:
+Each encounter with Deluvian causes its chosen victim to make a WP
+test at -20, gaining 1 insanity point if they fail.  This test and
+the record of insanity points gained should be kept secret if the
+'champion' is a pc.  Once six points have been accumulated, the
+character must then make a CL roll - a failed roll gives the character
+*'Delusions - Deluvian's truths' (which should also be kept secret from
+a pc).  If the character passes the Cl test, then for each insanity
+point given to them by Deluvian after the sixth causes them to make
+the same CL test, with the same results if they fail.
+
+Note: This power is ineffective against actively hostile opponents.  In
+addition, each turn Deluvian appears before the character costs it d3
+magic points.  It only regains magic points by inactivity on this plane,
+at the rate of d6 per hour.
+
+Immune to all physical attacks, magic or otherwise.  Magical spells will
+affect Deluvian's incorporeal body normally.
+
+Daemonic Power Points (magic points): 54
+Level 1 Battle Magic, and Level 4 Illusionist; Deluvian also may cast
+the 3rd level Demonologist spell 'Spread Insanity'.
+(Deluvian has no need of spell ingredients; it can draw upon the warp
+to feed the material cost of a casting).
+
+* Role-playing the Delusion: Make a secret WP test for the affected character,
+at -20.  If the test is failed, the character knows that one piece of
+fact told to them be Deluvian is the truth.  The character will even
+go so far as to imagine past events differently, plant evidence to support
+their theory (and then forget about it), or 'find' confirmations
+to Deluvian's suggestions (they convince themselves).
+
+Weakness:
+The only limit on Deluvian's corrupting abilities is that it is unable
+to speak the name of any non-chaos diety.  It is physically unable to.
+To make up for this, it will refer to the character's chosen god
+metaphorically (e.g. if a character worships Ulric - "The one who
+commands the wolves and winter rules me.").  If pressed to say the name
+of a deity, it will claim it is against that deity's orders.  Clever
+players may take this statement with a understandable caution...
+
+
+Adventure Suggestions:
+
+I used Deluvian as a mover behind the scenes.  In EiF, I had it
+responsible for the much of the strange happenings: Emperor Karl-Franz
+thinking a Dr. from Morrslieb had cured him, the emperor's guard
+attacking Karl-Franz (believing it the will of Ulric), and it twisted
+Yorri's soul (corrupting him for Sheerargetru's invasion).  I even had
+it show itself to a pc who worshipped Sigmar and tried to convince her
+not to allow the hammer to be found.
+
+Deluvian is a strange opponent, because its motives are indecipherable to
+mortal minds.  It may only occasionally visit a character, guiding them
+through its own intricate plans, for which that person is only just a
+single part of.  This daemon is a truly terrifying foe; one that the
+pcs can not best through physical confrontation but only through
+cohesive planning, luck, and good hunches.
+
+One last word - pcs make great pastsies for the end result of Deluvian's
+plans.  Be forwarned, the 'safe' cities in the Empire just got a bit
+less 'safe'.
+
+Chris Clements
+chris@atmnet.com
+
+"Death?  Yeah, I've met him.  I wasn't impressed."

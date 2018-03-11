@@ -1,0 +1,87 @@
+Date: Thu, 18 Nov 1993 15:22:30 -0600
+From: aahz@hal.com (Tom Wylie)
+Subject: first draft, submitted for your approval
+To: C9221777@cc.newcastle.edu.au
+X-List: The WFRP mailing list
+Apparently-To: wfrp-list@cool.khis.com
+
+
+
+I find the fact that most skills can only be bought once rather irksome.
+For example, one can buy Pick Locks multiple times, and engineers get
+Mining twice, but you can't get any better at History than your Int.
+So, a new concept: buying skills multiple times.
+
+
+The Warhammer skills can be grouped into four major areas:
+
+        1.  Skills which add to a stat.  Fleet Footed, Very Strong,
+etc.  These cannot be bought multiple times, and are uninteresting.
+        2.  "Can or can't do" skills, which allow you to do something
+which others can't, but automatically work.  Read/Write, Cast Magick,
+Luck, any Specialist Weapon.  These can't be bought multiple times either
+(but tend to lend themselves to optional skill rules, see below).
+        3.  Skills which aid a standard test _or_ grant some special
+knowledge or ability.  Examples include Concealment, which helps
+the Hide test, or Identify Undead, which lets you do just that.
+        4.  Skills which aid a standard test _and_ grant some special
+knowledge or ability.  For example, Escapology allows the user to escape
+from chains and such, _and_ gives a modifier to the Busk test.
+
+
+The skills in groups 3 and 4 can be bought multiple times, but it gets
+progressively more expensive to do so.  As always, buying the skill
+in the first place costs 100 XP.  Buying bonuses for skills in group 3
+is linear, so it costs 200 XP for +10%, 300 XP for +20%, etc.  For group 4,
+the cost is exponential: 200 XP for +10%, 400 XP for +20%, etc.  In either
+case, the skill bonuses affect _all_ rolls associated with that skill.
+
+
+When can you buy up a skill?  Well, there are three places to get skills
+from: background skills, careers, and as a non-career skill.
+        1.  You can buy a skill once in any given career.  Thus, an
+engineer can only get Engineering once, but he can then go into Gunner,
+Sapper, and Artillerist, and buy it 3 more times (and so on).  This
+overrides any special rules (such as the one for Pick Locks) in the
+WFRP hardback.
+        2.  You can try to buy it as a non-career skill at any time.
+        3.  You can get it as a background skill.  This is a "free"
+purchase of the skill: thus, if I'm rolling up a warrior and get Disarm
+as a background skill, and roll mercenary as my career, I have Disarm at
++10% for free, and if I were to enter free lance, I could buy the bonus
+to +20% for 100 XP...  and so on.
+
+
+
+Note that for skills which specific subcategories, such as Specialist
+Weapon and Art, each subtrack is considered its own skill for purposes
+of buying and applying skill bonuses.
+
+
+Exceptions to the above:
+        1.  The Orientation (underground) skill for tunnel fighters
+is considered its own type 3 skill.  Thus, if a tunnel fighter becomes a
+runner, it only costs 100 XP to buy the normal Orientation, and he
+has a +10% bonus to using the skill underground, above any additional
+bonuses he buys with Orientation.
+
+
+Optional skill rules (not necessarily related to skill bonuses):
+        1.  Require Read/Write to be purchased for each Additional
+Language.  Languages such as Arcane, which explicitly state that learning
+the skills involves being able to read/write it, do not require
+their own Read/Write skill.
+        2.  Just to make life annoying for the warrior types...
+Specialist Weapons are normally in group 2: either you can use the
+weapon at your full WS, or you can't.  Under this option, Specialist
+Weapons become group 3, and when bought allow using the weapon at
+_innate_ WS, before any advances.  Skill bonuses can then be bought,
+with a limit of the WS advances the character has taken.  (This option
+makes some amount of sense from a "realism" point of view, but will
+tend to bog warriors down, and discourage them from branching out.)
+
+
+---------------------------------------------------------------------
+These rules are copyright 1993 by Tom Wylie.  They may be distributed
+freely so long as this copyright is attached.  Suggestions or comments
+should be emailed to aahz@hal.com.

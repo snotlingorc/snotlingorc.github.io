@@ -1,0 +1,69 @@
+From elandal@tower.nullnet.fiTue Sep 19 11:27:32 1995
+Date: Sun, 17 Sep 1995 20:30:35 GMT
+From: Ismo Peltonen <elandal@tower.nullnet.fi>
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: list-whfrp@tower.nullnet.fi
+Newsgroups: list.whfrp
+Subject: WFRP: >experience & new military careers
+
+And now, the careers of Mercenary/Military colonel and general, as I
+promised. Just don't try to tell me that they're TOO powerful - I know
+they're powerful, but they're not meant for munchkinism.
+The very high physical and WS/BS stat advances are due to high
+commanders having access to exceptionally good teachers, and not all of
+the leaders will take those advances. Only those who maintain rigorous
+training.
+
+Also, I know very well that +50 is more than usually given to any stat,
+but we do also give penalties to the skill tests. What would Ld test at
+-50 sound? If You don't give penalties to tests, then by all means do
+lower the Ld advance scheme. That'll have the drawback of allowing
+characters to gain similar leadership values to those of generals from
+other careers, too, so You should then at least give some basic bonus
+for having been / being at a career where this is a professional matter
+- leading an army is probably not a professional matter to anyone but a
+general, so he should be better at that than anybody else (and don't
+talk about the Emperor and whatever, I know that already).
+
+Mercenary
+
+	M  WS   BS   S   T   W   I    A   DX   LD  INT  CL   WP   Fel
+Colonel	   +35  +35  +3  +3  +7  +30  +2  +20  +40 +10  +30  +20  +20
+General	   +40  +40  +4  +4  +8  +40  +3  +20  +50 +20  +40  +30  +30
+
+Even though careers are given for Colonel and General it doesn't mean
+there couldn't be positions of eg. Major and different general
+positions. Just use the career of Colonel already for Majors, and career
+of General for any general. Finetuning is for roleplaying.
+
+Skills (these skills apply to both Colonel and General careers):
+Cartography
+Etiquette
+History - Military
+Law
+Leadership - Military
+Military Tactics and Strategies
+Orientation
+Public Speaking
+Read/Write
+Ride - any
+Speak Additional Language - any
+Spec Weapon - Pistol
+Wit
+
+Not all skills may be applicable for all character types. Eg. a leader
+of an infantry batallion may not need any Ride skill. Also, while not
+all Colonels may need Etiquette, it'll probably be needed before one can
+really advance to General position, as one needs to work with nobles.
+These skills are really not a binding list of skills, just a list of
+suggested skills that probably apply to most higher commanders.
+
+Trappings:
+Company (colonel)
+Army (general)
+
+--
+Elandal (aka Ismo Peltonen)                    ## snail  Hanuripolku 5B15
+Home (UUCP)   Ismo.Peltonen@tower.nullnet.fi   ## mail     00420 Helsinki
+Univ (inet)   Ismo.Peltonen@Helsinki.FI        ##                 Finland
+Errare humanum est..                           ## phone    +358-0-5042609

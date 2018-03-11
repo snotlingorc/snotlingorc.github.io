@@ -1,0 +1,55 @@
+From: Gregory Jay Scott <scott3@america.net>
+Subject: A rule/table preposal and two spells
+
+Fire storm
+
+Spell level: 2? 3?
+Magic Points: 1 per 4 micro-fireball 
+Range: 48 yards
+Duration: Instanteous
+Ingredients: A ball of sulpher?
+
+This generates a number of small intensely hot fireballs equal to (twice? 
+four times?) the casters level. These move at eight times the speed of any
+other magic missle spell. ( I am saying that magic missles have speed
+about half of that of a arrow, since they can be dodged to halve the
+damage and arrows can not be). They do one hit at strenght zero and do 1d2
+damage plus 1d3 to flamible targets and hit automatically when targeted at
+any creature or anything the caster can see clearly(he need not focus his
+attention on the target at all). A d6 is rolled seperately to check for
+extra damage (no BS check is EVER needed). The last sentence may be
+redundant with the rules I am bnot taking the time to check. Extra dice
+rolled will be d6's. The spell must target individual targets. The caster
+is specifically allowed to target arrows and other projectiles. The fire
+tries to wrap around its target so arrow shafts and vains will be
+incinerated leaving the heads to waste kinetic energy as they spin off
+course. Larger projectiles can be destroyed but very large ones will
+require multible hits. If their is a clean shot to the targets the caster
+need no see them. The number of magic points to be used must be specified
+each round in this mode however and the shots have a BS of 75. The spell
+will automatically evenly distribute the missles as evenly as possible
+among the targets that meet its parameters, remaining missles are assigned
+randomly to targets diffent targets. The parameters are limited to the
+general appearance(s) of the target(s) and wether or not it is in the
+air.Example: if the party takes a goblin prisoner and then are attacked by
+more goblins. The spell caster in a fit of panic casts the spell in the
+second mode specifing goblins on the ground and arrows in the air ( the
+most specific he can be). He uses 5 magic points. The elf of the party
+fires an arrow this round the goblins fire 3 and there are 4 attacking
+goblins. There are 9 targets (1 captive goblin + 1 elfs arrow + 3 goblin
+arrows + 4 attacking goblins = 9). Each target will get at least 2 fire
+balls and the 2 remaining are assign to two DIFFERENT targets (targets
+come only from the pool of original targets) randomly. 
+
+
+Counter-ball
+
+Spell level: 3?
+Magic Points: 2 per Counter-ball
+Range: 48 yards
+Durantion: Instant
+Ingredients: Any peice of armor or one pound of ice
+
+This targets the same way as the above spell. Level 3 casters can do 2 
+per round, level 4 can do 4. They do no damage to physical objects but 
+destroy any magic missle they hit. 

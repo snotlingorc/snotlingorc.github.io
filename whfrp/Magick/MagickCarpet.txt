@@ -1,0 +1,184 @@
+ Roll your terror tests, I'm back! ;-)
+
+ Below is revised description of Magic Carpet, new "legendary treasure" and
+two miscellaneous items. Comments are welcome... C'mon, say SOMETHING!
+
+ -=-=-=-=-=-
+
+Legendary treasure (1): The Magic Carpet
+
+"Many times it was mentioned in fairy-tales or nursery rhymes. Most of the
+ people think it is only a legend. However, after years of studies and reading
+ of many strange volumes, I have finally found a proof that Magic Carpets do
+ exist.
+ The most important reference is Al Azif, the mystic book by Al Alhazred ibn
+ Yusuf, the ancient mage of Arabia. In this volume, powers of Magic Carpets
+ are discussed thoroghfully, even moreso, the secret of creating them is
+ outlined. While this is a hair raising work of power seeking individual,
+ ready to involve himself in all sorts of evil deeds, it is also great source
+ of long-forgotten knowledge.
+ The final confirmation can be found in the Iron Book, the cursed manual of
+ evil spells, by Johann von Mittelberg. Those of you, who are allowed to peruse
+ this volume, look into chapter 21st, where von Mittelberg describes his
+ horrible magical experiments, undertaken to create Magic Carpet, similar to
+ one he saw personally."
+
+"After lengthy search, I have found, that in all written history of magical
+ arts, there are only five Magic Carpets mentioned. Two of these belonged to
+ Al Alhazred ibn Yusuf and no one knows what happened to them when he died (or
+ as many others suspect, become a liche). Another one belonged to
+ Sallah-al-mun, the ancient Arabian king and was probably destroyed when
+ dragon burned and ruined his palace. Two others belonged to great mages, one
+ to Ibn-Chanim and second to Kal-an-hain ibn Sultan, who offered it to the
+ Ormazd. Therefore, only one could be found - the last one mentioned, as it
+ probably still is kept in Great Temple of Ormazd. However, none of the
+ non-believers are allowed to enter the Temple."
+
+"Those are strange properties of Magic Carpets. One that owns such, can
+ command it to fly, carrying him and also some supplies. This strange device
+ may fly like an eagle or hover in midair. Unlike the carpets we can see in
+ palaces, it cannot be ruined by worms, rot nor passege of time and only an
+ enchanted blade may cut it. It is however in danger of burning."
+
+"The most horrible ritual used to create Magic Carpet is nowhere to be found
+ described in detail. As far as my knowledge goes, it must be begin at the
+ midnight of Geheimnisnacht. Then a carpet of highest quality is covered with
+ mixture of the blood from seven birds and enchantment begins. Further,
+ thirteen live bats are used in unknown spell, which finally confers the
+ ability to fly upon the carpet. Now is the worst. A djinni, of daemonkind, is
+ summoned and is bound into the Carpet as a source of magical power. Finally,
+ an enchantment is made to hold the previous spells forever. When the day
+ dawns, the Carpet is ready."
+
+                                                Hans Blumenkraft
+                                                Senior Scholar of
+                                                Imperial University in Altdorf
+
+  As the above excerpts describe, magic carpets are extremely rare. Never ever
+may any one of them available for sale - at least if it's priced less than
+500,000 gold crowns to be paid immediately (in VERY UNLIKELY situation it may
+be sold as ordinary carpet, it it's owner didn't realize what he/she has)
+
+  Now the deatils that dear old Hans didn't know or didn't explain fully: ;-)
+  - carpet is immune to non-magical weapons and attacks, rot etc.
+  - it is however inflammable and takes normal damage from fire
+  - optionally it may take double damege from magical fire
+  - it can carry 100 Enc per square foot, when overloaded it simply won't fly
+    (optional: flying cost x2 or x3, more than twice overload - no flying)
+  - it can carry more persons, if they all fit in the carrying capacity
+  - it will not enter any area protected against daemons
+  - the djinni needed for creation must be willing
+  - if somebody tries to steal carpet, it will roll around him and attempt to
+    crush the thief (if found, there's 75% that it doesn't have an owner and
+    won't do that)
+  - cargo and passengers are protected from falling and dangerous weather
+    conditions as long as they are in contact with carpet (sitting, standing,
+    lying, holding onto it).
+  - only the best quality Arabian carpets may be used to create magic carpet
+  - encumbrance: 10 Enc per sqare foot, 8 End per sq ft if rolled. It's quite
+    light but cumbersome.
+  - and the numbers: T=5 W=1 per sq ft
+  - requires pilot (owner or person designated by owner) to operate
+  - steering is by voice command, simple (up, down, left, right, hover etc)
+    commands will be understood in reikspiel, however complicated ones only in
+    daemonic or Arabian language
+  - if carpet is destroyed the djinni will be freed (stats as lesser daemon).
+    It will most probably just go home, but if the owner was treating carpet
+    badly, djinni may try to punish him/her.
+
+  Now is the tricky part: limiting use. Unlike "real" magic carpets, this has
+ limitations of use. The proposed system is quite complicated, by allows for
+ great flexibility. You may use time/number of uses limit instead. This is
+ mixed with basics of flight mechanics.
+
+ There is fundamental difference from flying creatures. Magic Carpet need not
+move to maintain altitude or climb. It levitates anyway... (at first, I assumed 
+it would fly literally "as eagle", but mechanics of light is too much
+different). Any speeds are related to Movement scores.
+
+  Each carpet has specific capacity for magic points, about 90-120. It uses up
+  these for flying, while djinni drains replacement points from it's home
+  plane of existence. Rate of spending points is proportional to speed and
+  altitude of flight. When not used, carpet regenerates D4 points per hour.
+
+ So there is "economy" mode: altitude up to 30 ft, speed as normal walk with
+M=4. In this mode, carpet uses up so little power, that it even regenerates 1
+MP/hour. However, this isn't fast - just a good marching speed (5.5 km/h). All
+lower speeds count as "economy", with altitude limit of 25 ft.
+ A little faster and higher - up to 50 ft and speed as M=5 - uses up 1 MP/hour. 
+Any speed higher +1 MP/hour for speed increase, +1 MP/h for altitude increase of
+more than 25 ft (per speed point). A equivalent of "running" speed costs x3.
+ Also, any sharp turns or other fast maneuver takes 1 MP. For speed changes, it 
+takes 1 MP for +-6.
+ For combat, it might be easier to assume, that carpet uses 1 MP/turn or even 1
+MP/round if it's manoeuvering(sp?), dodging missiles from ground etc.
+ When the "fuel tank" is empty, it behaves just like ordinary carpet. If this
+happens high in air, they'd better try to imitate birds ;-) Also, carpet won't
+evade obstacles by itself - if pilot is careless, he/she may crash into high
+tree, tower etc.
+
+ For the "power" travel, it amounts to maximum distance of some 200 km within
+ almost 2 hours, leaving carpet "empty" for a long recharge... (M=20 running,
+ cost 60 MP/hour).
+
+ -=-=-=-=-=-
+
+This comes from Polish national epic, called simply "The Trilogy" by H.
+Sienkiewicz. Original was nonmagical, but anyway considered very strange by
+characters that knew it.
+
+Legendary treasure (2): The Hoodcutter
+
+ This powerful magical sword has it's place amongst legends. While being a
+weapon of best quality and sharpness, it's most known from other ability. When
+swung well, it can behead even three enemies standing around it's wielder or
+in a row in front of him.
+ The history lost the name of it's first owner, all it's remembered is that he
+was priest of Ulric, fought at Sigmar Heldenhammer's side and died in great
+battle against orc army.
+
+ Now the details:
+  The Hoodcutter is large (6 1/2 ft) 2-handed flamberg sword. It appears to be
+just a normal, though larger than others, sword. There is however a drawing on
+the blade, depicting three heads over a swordblade. The lines of this picture
+glow dark red when orcs are nearby (though it's very hard to notice during
+daylight).
+
+  The Hoodcutter is very heavy and requires a Strength of at least 6 to be
+wielded properly (else it's as if the wielder doesn't have appropriate skill -
+even if he/she has it). If he/she has the strength, it can be used normally
+even without 2-handed weapons skill. The Hoodcutter is magically sharp,
+doing extra 3 points of damage. If the wielder deals a very successful blow
+(ie. 6 on D6 and successful roll for extra damage), the Hoodcutter will cut off
+target's head (critical effect #16 for head injury). For each next extra roll
+it will cut head off another enemy standing close enough to the wielder. It is
+assumed, that wielder may make up to full turn around cutting enemies' heads.
+However, he loses any remaining attacks this round.
+
+  The is one and only Hoodcutter. No one knows where it is, however legends
+  say about that: either it is in the great orc stronghold in some conquered
+  dwarven city or in the dreaded Castle Drachenfels.
+
+ -=-=-=-=-=-
+
+There's a new funny skill from Polish magazine "Talizman". While it doesn't
+change things much, it gives a cool narrative opportunity.
+
+ Neat blow: a western-style blow, after which victim flies along the ballistic
+ curve, showing his/her boot size and falling with loud "thump", creating a
+ cloud of dust (regardless of weather and other conditions). Of course,
+ victim is also knocked out for D3 rounds.
+
+Same source, new rule proposal.
+
+ For unarmed combat, if both fighters are unarmed, normal penalties are
+cancelled and appropriate skill gives +10 bonus. Normal damage is ignored,
+only extra damage is considered - multiplied by 5 it's treated as percentage
+chance of KO (change multiplier for "fragile" hit locations).
+
+ BTW: I'd also count Strength effect for Str of 7 or higher.
+
+           //\\//\\  <<  ==//
+          //  \/  \\  >>  //==  [msz@it.com.pl]
+          Michal.Szokolo@f19.n480.z2.fidonet.org
+

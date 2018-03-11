@@ -1,0 +1,1135 @@
+
+ - Clad in Steel - 
+
+
+
+
+' Smoke drifted eerily across the field of battle, touching lightly upon the corpses of the fallen, broken spears and weapons forming grotesque skeletal forms shrouded in mist.
+For that brief moment the battlefield was still...quiet...until the screams of rage and pain began again...
+	' Isn't war glorious Lord Hauer!'
+The aged Lord turned with a sigh to regard his young compatriot, his eyes a mixture of regret and scorn behind the battered visor of his knightly helm.
+	' I used to think so Sir Schmidt, but that was so long ago. Things are changing, 	young Schmidt. You see that gunner over yonder?'
+Schmidt followed the wave of Lord Hauers gauntleted fist, til his eyes alighted on the target.
+	' That, young Schmidt, is the beginning of the end for us. When those infernal gunpowder 	weapons come of age, we'll become redundant.'
+	'It'll never happen! We are superior to any gunnery troop!', scoffed Schmidt.
+Ignoring his young comrade, Lord Hauer turned to face the rank of armoured noblemen at his flank. Looking from face to face regarding their determined, and among the wise, fearful eyes, he thrust his fist in the air!
+	' CHARGE!!!'
+With a thunder of hooves, they went to face Morr'.
+
+
+Knightly Orders in the Old World
+
+Every province has its own noble knightly Order, and joining the cavalry is considered glorious and exciting for the younger sons of the nobility. Each Order is commanded by a high ranking nobleman, and there is great rivalry between the various orders.
+	Almost without exception the orders are only open to men of noble blood. A person of lower birth must have committed some great act of heroism and benefit to the nobility to even be considered for such an honour, and even then he must be sponsored by a noble and show some refinement (possess Etiquette) before being sworn in.
+	Even in the case of nobility, those who are obviously hopeless (read weak, uncoordinated) are refused, but are usually granted honourary status.
+	The training for knighthood is strenuous and demanding, and many nobles fail to complete it. The hard physical regimen and combat drills also help to harden their resolve (and some would say their arrogance as well). Strength is a great factor for  the knight, especially if they are to use such powerful (and heavy) weapons as the zweihander or flamberge.
+	They train in extra heavy plate armour that builds their strength and endurance, and makes real plate armour seem light by comparison. They are trained in a variety of weapons, but avoid the use of missile weapons, seeing them as cowardly and unbefitting of a real warrior.
+	Off the field of battle, the knights wear the typical trappings and apparel of the nobility, but they are unmistakable when girded for war. They are known for their suits of full plate armour with crested shields and helms, and only the most stubborn of Orders prefer full chain. In the case of standard and provincial noble Orders, their crests are usually an elaboration of the commander's family crest. When fighting for the Empire all of the knights bear shields with a skull motif and the initials of the current Emperor.
+	Many young hopefuls train as squires, as a form of apprenticeship to knighthood but surprisingly few are ever elevated to the status of knight.
+
+Typical Knight
+
+ - Advance Scheme - 
+ WS  S   T  W   I    A  Dex  Ld   Int   Cl  WP  Fel
+ +30 +3 +2 +6 +20 +2 +20  +30  +10 +20 +20  +10
+
+Skills				Trappings
+Disarm				Full Plate Armour
+Dodge Blow			Crested Helm
+Heraldry			Crested Shield
+Ride - Horse			Warhorse, saddle and harness
+Secret Language - Battle	Appropriate weapons
+Spec Weapon - Flail		4d6 GC
+Spec Weapon - Lance
+Spec Weapon - 2 Handed
+Strike Mighty Blow
+Strike to Injure
+Strike to Stun
+
+The Freelance (revised)
+
+The Freelance represents the unaligned or disgraced knight who serves no lord or order. 
+As such he suffers from a lack of the intensive training that is prevalent in most Orders.
+Without the financial backing of a noble house or Order, he is often less well equipped.
+Freelances, whether noble or not, are viewed with a little distaste by the nobility and aligned Orders, and become 'robber knights' who bully peasants for subsistance. But a few become the heroes of the peasantry.
+For more information see WFRP pg 98.
+
+ - Advance Scheme - 
+ WS  S  T  W   I    A  Dex  Ld Int   Cl  WP  Fel
++30 +3 +1 +6 +20 +2 +20 +20 +10 +30 +10 +10
+
+Skills				Trappings
+Disarm				Full Plate Armour (slightly battered)
+Dodge Blow			Helmet (slightly battered)
+Heraldry			Warhorse, saddle and harness
+Ride - Horse			Lance
+Secret Language - Battle	Horseman's Axe of Flail
+Spec Weapon - Flail		d6 GC
+Spec Weapon - Lance		Shield (battered and dented)
+Spec Weapon - 2 Handed
+Strike Mighty Blow
+Strike to Injure
+Strike to Stun
+
+
+Order of the High Helms
+
+Background - 	'I've just had the most splendid idea!'
+                           - Emperor Karl-Franz I
+
+	As the honourable Orders of the Empire go, the Order of the High Helms is the 	newly conceived baby. On the 1st Sigmarzeit 2511 Emperor Karl-Franz I hit upon an 	idea that struck his fancy; the creation of an Order of very tall and very tough knights 	(with the emphasis on tall).
+	Boredom can do incredible things...
+	One month later the Order was constituted and recruitment began.
+	Unsurprisingly the Order has been fairly slow to grow in numbers due to its strict 	(read: ridiculous) entry requirements. 
+
+Base of Operations - 
+	At present they are being drilled in Altdorf, and consist of 24 fully trained knights
+	with a further 12 in training.
+
+Outsiders Opinions -
+
+'Hahahahah! chuckle. This can't be serious!...can it?'
+ - the normally stoic Wolfgang Zimmerman (Knight Panther)
+
+	The typical outsiders opinion of the High Helms is one of amusement, and will 	probably stay that way until the High helms get a chance to prove themselves in 	combat. In addition the rest of the Imperial Guard have nick-named them the 'giants' 	and make disparaging comments about their lack of intellect.
+
+Typical Attitude -
+
+	' I stand tall and proud in the service of this glorious Empire!'
+    	 - Ludovicus Kemper (High Helm Commander)
+
+	The High Helms are an extremely proud and aloof Order, and are painfully aware of  	their poor reputation. Of course they pretend not to notice but it stings their pride. As 	a result they are itching for a chance to prove themselves, and come across as a little 	gung-ho and stupid for just that reason.
+
+Requirements - 
+	 - All High Helms must be at least 6'6" tall.
+	 - They must all have a Toughness of at least 5 before commencing training.
+	 - All High helms must be of Imperial noble blood.
+	 - They must swear the following Oath:
+
+I (name) do hereby swear before Sigmar, Uniter of the Empire,
+Hammer of the Goblins, and in the presence of the illustrious and esteemed
+Emperor (name), Bearer of Unity, to serve the noble and proud
+Order of the High Helms dutifully and without fail unto death, observing the  			following strictures of this most magnificent of Orders:
+
+·	 to serve and protect the Emperor, his family and the legitimate
+		successors with my life;
+·	to render full and unquestioning service to my superiors in the Order
+		      	and those they appoint over me;
+·	to serve and protect the Empire and its interests with my life.
+
+
+Symbols, Colours and Dress - 
+
+	The High Helms wear highly polished full plate armour with a tall plume on their 	helms. As part of the permanent Imperial Guard, their shields bear the skull motif 	and the Emperors initials.
+	They wear the colours of their original noble house.
+	Upon initiation they are each presented with gold medallions bearing the dragon and 	hammer. The hammer is inlayed in silver, and the dragon has a small ruby for its eye. 	The dragon also features inlayed enamel scales. The medallion is valued at 35GC.
+
+Career - 
+	See the typical Knight.
+
+The Knights Panther
+
+Background - 
+	The Knights Panther possess a long and illustrious history, tracing their founding 	back to 1500 I.C. when they formed (as the Knights Rampant) to fight in the 	crusades against Araby. They renamed their Order after the beasts they found in the 	Sultan of Araby's palace in Istranbul. They gained fame again under the banner of 	Magnus the Pious to fight the Incursions of Chaos. They served in Nuln until 	Magnus brother Gunthar withdrew to Middenheim after being refused the title of 	Emperor. The Order saw the appointment of Count Leopold of Stirland as a grave 	mistake and withdrew with Gunthar to Middenheim.
+	They hone their skills by making regular mutant hunting forays into the nearby 	Drak Wald Forest.
+	On these hunts they are often accompanied by Templars of the White Wolf, and 	as a 	result the relations between the two Orders are friendly (but still competitive).
+	Unlike many Orders they have no disdain of fighting on foot, where they use the 	halberd to deadly effect.
+	
+Base of Operations - The majority (90) of the Knights Panther are stationed in Middenheim, 	but an additional contingent of 30 is based in Talabheim with the express permission 	of Grand Duke von Krieglitz.
+	In recent years a small unit of 15 Knights Panther has been loaned to the Tsar of 	Kislev, 	in return for a much larger contingent (45) of Kislevite cavalry each summer.
+
+Outsiders Opinions - 
+
+	'In Tzeentch's name! It's the Knights Panther! Run for your lives!!'
+	  - Otto Schtump (mutant)
+
+	The Knights Panther have a powerful and respected reputation and many mutants 	live in fear of these unforgiving and fanatical warriors. Even ordinary folk view them 	as driven men and give them a healthy respect (and wide berth).
+	They have earned the respect and admiration of all other military units and Orders.
+
+Typical Attitude - 
+	
+	'Die mutant scum!!'
+	 - Gunnar Holtz (Knight Panther)
+
+	The typical Knight Panther is driven and tenacious in the extreme. They are obsessed 	with racial purity and can be very brooding and moody in aspect.
+	Many suffer with a Hatred of Mutants and Goblinoids.
+
+Requirements - 
+	 - All Knights Panther must swear the following Oath:
+
+I swear before Sigmar and Ulric, and in the witness of this company
+here gathered, to serve the ancient and noble Order of the Knights 
+Panther truly and faithfully unto death, observing the laws of the Order:
+
+·	   to serve and protect Graf (name) Todbringer, his family, his legitimate
+successors and his appointed officers with my life;
+·	   to render full and unquestioning service to my superiors in the Order
+and to those they appoint over me;
+·	   never to suffer any person or thing bearing the mark of Chaos to live
+     while there is breath in my body.
+The Order has my oath which only death may break. Let all here bear witness.
+
+Symbols, Colours and Dress - 
+
+	Each knight is presented with a gold medallion upon initiation. This medallion bears a rearing panther, with the background and spots filled in with black enamel.
+	Their helms bear unusual crests consisting of a scaly neck topped with an 	individualised demonic head, from which is hung a long black mane.
+	Their colours are black on yellow, and their tabards feature a central black flower.
+	Their shields bear their symbol.
+	A Knights Panther is depicted on WFRP pg 214.
+
+Notes - 
+	Only the most extraordinary and driven of people will ever be considered for the Knights Panther, and racial purity is an absolute law.
+
+Advance Scheme - 
+Knight Panther
+ WS S   T  W    I   A  Dex Ld  Int   Cl  WP 
++30 +3 +2 +6 +20 +2 +20 +30 +10 +30 +20 
+
+Skills				Trappings
+Disarm				Sleeved Mail Coat
+Dodge Blow			Breastplate
+Heraldry			Mail Coif
+Ride - Horse			Crested Helmet
+Secret Language - Battle	Crested Shield
+Spec Weapon - Flail		Tabard
+Spec Weapon - Lance		Panther Medallion (value 15GC)
+Spec Weapon - Pole Arm	Warhorse, saddle and harness
+Spec Weapon - 2 Handed	Appropriate weapons
+Strike Mighty Blow		3d6 GC
+Strike to Injure
+Strike to Stun
+
+
+Knights of the Golden Crest
+
+Background - 
+	Not all knightly Orders are dedicated to a realm, or for that matter, anything of 	worth. The Knights of the Golden Crest is essentially a club for wealthy men that 	fancy themselves as warriors of reknown. Although only open to nobility, admittance 	is by invite only (and a bribe is the usual method of gaining such an invite). 	Supposedly, the Crests only ask the most deserving and skilled warriors to join, but 	in practice an invalid could join with enough passed Crowns. 
+	This was not always the case however. Indeed, the Order has a long and proud 	history of heroic battles, and accounted themselves well during the last Incursions of 	Chaos. At the palace in Altdorf lay the many banners of their fallen foes. The last 	time the Order engaged in battle (without retainers and mercenaries) was well over 	forty years ago, in a skirmish against the Tzeentch cult 'Changers of Fate', which 	cost them many of their members. Since then, the Order has avoided the field of 	battle and stuck to jousts and tourneys, but with their high failure rate they are 	declining to enter many contests. Why the change? (see notes). The cause is 	probably lost to history.
+
+Base of Operations - 
+	The Golden Crests have strongholds (mansions) at many locations, with 	the biggest 	located in Altdorf. They also have a sizeable stronghold in Talabheim.
+
+Outsiders Opinions - 
+
+'To call them knights is an insult!'
+ - Wolfgang Zimmerman (Knight Panther).
+
+	Being openly arrogant, scornful of the lower classes, and obviously lacking in the 	'right stuff', the Crests have earned the disdain of commoners and other knightly 	Orders alike. They are viewed as fashionable among the young noble set but have 	spurned a few 'lesser nobles' and earned their enmity as well. Few would care to 	voice these opinions openly, for the Crests wield considerable political clout.
+	This political potency makes them difficult foes or neutral parties to deal with.
+
+Typical Attitude - 
+
+'Get out of my way you insignificant oik, before I have you flogged!'
+ - Adelbert the Gifted (Golden Crest addressing a commoner).
+
+	Their reputation proceeds them, and what's more, it is very accurate. They are 	arrogant, scornful and self important. They are also lazy, and few train for any real 	amount of time. Parties and social life are their mainstay. They ensure their members 	get the best breaks from the government and social groups, and are also rumoured to 	have links to the underground, being able to locate and retrieve items of 'special' 	interest.
+
+Requirements - 
+	 - Must be of noble blood.
+	 - Admittance by invite only.
+	 - Must swear the following Oath (not that they adhere to it anymore):
+
+I (name) of the esteemed (family), being a true,  noble and blue-blooded warrior, do 
+hereby swear to uphold the laws of this great, legendary, and supreme Order of the 
+Golden Crests, faithfully and with valour until death, observing the laws of chivalry.
+
+
+Symbols, Colours and Dress - 
+	
+	The Golden Crests are nothing if not ostentatious and wear ceremonial, embellished 	golden full plate, carry decorated hand weapons and shields. Due to the decline in 	training few of them can move swiftly in their armour. Due to this they avoid 	wearing it when possible, resorting to lavish nobility dress.
+	Their symbol is a golden half-circle enwrapped in green vines. Often the individual
+	will put his heraldic device within the borders of the half-circle. Other symbols 	include a rising sun on a red background and a golden axe, with the axe head in the 	shape of a half-circle.
+
+Notes - 
+	The Golden Crests have been infiltrated by the cult of Slaanesh! PC's may find clues 	to suggest this, and find the extent of the corruption, implicating some very 	important (and powerful) government figures.
+
+Advance Scheme - 
+Knights of the Golden Crest
+ WS BS*  T  W    I    A  Dex Ld  Int   Cl  WP Fel
+ +10 +10  +1 +4 +10 +1 +10 +30 +20 +10 +10 +30
+
+Skills				Trappings
+Bribery				Etched, golden, full plate armour (cost 5-10 times normal)
+Etiquette			Decorated hand weapon (cost 5-10 times normal)
+Heraldry			Decorated shield (cost 5-10 times normal)
+Public Speaking		Lance
+Read/Write			Warhorse, saddle and harness
+Ride - Horse			10d6 GC worth of jewellery
+Spec Weapon - Lance		fine clothes
+				10d6 GC
+
+* BS - The Golden Crests regularly have hunting parties, and given their disregard of knightly principles, do occasionally practice with missile weapons.	
+
+- The Knights Templar - 
+
+
+Several knightly Orders exist that are connected with religious cults, and these are known as the Knights of the Temple, or Knights Templar.
+	They are the elite of their respective religions fighting force, and only the most martial of the cults have such Orders.
+	Unlike the non-aligned or noble Orders, the Knights Templar are more open to the admission of commoners, but with a large number of clergy hailing from the noble houses, it is still easier for those of noble blood to join.
+	Without fail, all who desire to serve in these religious Orders must be devoted to the ruling deity, so many are recruited from promising Initiates. In the majority of cases the would be Knight Templar must undergo a period as a squire to a fully fledged member of the Order.
+	The training the Knights Templar receive is almost identical to that of a regular knight, but they are expected to be conversant in (and adhere to) cult doctrine.
+	Compared to the noble Orders, the life of a Knight Templar is spartan, for they receive few luxuries and are barracked at the temple. They receive cult garments, board, provisioning, and a modest retainer.
+	Additionally, as cult members they may receive gifts or blessings from their cults deity at the GMs discretion.
+	Unless noted, these Orders are only open to men.
+
+Order of the Blazing Sun  (Myrmidia)
+
+Background -
+	The Order of the Blazing Sun was founded during the Battle of Magritta in 1448.
+	Since that period they have served with distinction in innumerable battles, and have had a handful of famous female members.
+
+Base of Operations - 
+	The Order's main base is in Magritta, Estalia, but they have contingents in Tilea and 	Talabheim as well.
+
+Outsider Opinions - 
+
+	'Retreat!!'
+    - Commander Pavarotti of Tilea (realising he has been out manoeuvred 
+       and outflanked by the Order's tactical brilliance)
+
+	The Order of the Blazing Sun is greatly respected and admired by most of the Old 	World military, save perhaps for a number of Ulricans. They have a reputation as 	approachable and human people but can easily bore a listener to tears recounting 	great tactical battles.
+
+Typical Attitude - 
+
+	'Cohort One! Hold Fast!
+	 Cohort Two! Scissor Right!
+	 We've got them!'
+	 - Lorenz Placito (Commander of the Order)
+     successfully blocking the retreat of Pavarotti's Army.
+
+	On the whole the Knights of the Blazing Sun are a well balanced group as religious 	Orders go. They are fiercely loyal and obedient to their commanders and each other.	They are intelligent, and maintain a cool and calm attitude under the greatest of 	stress. As they'll happily tell anyone; 'losing your head can lose you the battle'.
+	They are a model of professionalism and preparation, with their only flaw being 	their love of recounting long and detailed war stories.
+	Relations with the Templars of the White Wolf are strained as they regard the 	Ulricans as brutish and unsubtle thugs.
+
+Requirements - 
+	 - The prospective knight must have served in a military profession before.
+	 - This Order is open to either sex.
+	 - They must swear the following Oath:
+
+I (name), (rank) of (army), swear before Myrmidia, Greatest of Commanders,
+and in the witness of those gathered here, to serve dutifully and honourably
+the precepts of this grand Order:
+
+·	  to render full and unquestioning service to those of higher rank, bearing that 			  Myrmidia is highest of all;
+·	  to plan for all conflicts, ensuring victory with minimal casualties;
+·	  to spare the surrendered enemy, for to do otherwise is craven and dishonourable;
+*   to protect the cult, its holdings and devoted followers with my life.
+
+The Order has my Oath, sworn with honour before Myrmidia. Let all here bear 	
+        witness.
+
+
+Symbols, Colours and Dress - 
+
+	The Blazing Suns wear full plate armour with a blazing sun helmet crest.
+	Their shields feature the Myrmidian eagle. Their trappings are white cloth edged 	with red. They all possess medallions of a gold eagle clutching a silver shield and spear.
+
+Advance Scheme - 
+Order of the Blazing Sun
+ WS  S  T  W    I   A Dex  Ld  Int   Cl  WP Fel
++30 +3 +2 +6 +30 +2 +20 +40 +20 +30 +20 +10
+
+Skills 				Trappings
+Cult Doctrine - Myrmidia	Full Plate Armour
+Disarm				Crested Helmet
+Dodge Blow			Shield
+Read/Write			Appropriate Weapons
+Ride - Horse			Symbol (value I5 GC)		
+Secret Language - Battle	Warhorse, saddle and harness	
+Spec Weapon - Flail		3d6 GC
+Spec Weapon - Lance
+Spec Weapon - 2 Handed
+Strike Mighty Blow
+Strike to Injure
+Strike to Stun
+Tactics
+
+Knights of the Cleansing Flame (Solkan)
+
+Background - 
+	The Knights of the Cleansing Flame were founded in the latter stages of the Remean 	Empire and have gained notoriety for their merciless brutality during the Crusades 	against Araby. With the erosion of Solkan's cult, the Knights of the Cleansing Flame 	have dwindled in numbers quite significantly, and are almost unknown beyond the 	boundaries of Remas.
+
+Base of Operations - 
+	The Knights of the Cleansing Flame are stationed in Remas, Tilea, but now only 	number 29.
+
+Outsiders Opinions - 
+
+	'They still exist?!'
+	 - Lorenz Placito (Blazing Sun Commander)
+
+	Few people are aware of the Orders continued existence, but if they were aware, their 	attitude would certainly be one of fear. To those that are aware of them, they are little 	better than fanatical Witch Hunters.
+
+Typical Attitude - 
+	
+'Destroy the cancer of Chaos!'
+ - Tobias (Knight of the Cleansing Flame)
+
+	The reputation of this Order is very true and accurate for many were previously 	Witch Hunters, and all are fanatical, merciless and vigilant to a degree that would make a Knights Panther shiver in revulsion. Many have suffered attacks or encounters with Chaos in their youth, and the event left them with an unremitting Hatred of chaos, and drove them to the worship of their harsh deity.
+
+Requirements - 
+	 - The candidate must be a devoted follower of Solkan
+	 - The candidate must have had no truck with Chaos nor bear its taint.
+	 - The candidate must be of Lawful alignment.
+	 - The candidate must swear the following Oath:
+
+Solkan! Baleful god of retribution! destroyer of Chaos!
+I (name) swear this Oath to thee, knowing that it is inviolate.
+I render myself unswerving to this rigid Order and the True Laws
+that you have set:
+
+·	  to seek out and burn the cancer that is Chaos!
+·	  to receive council only from these strictures!
+·	  to uphold the law, bearing that these are inviolate!
+·	  to avenge a wrong at any cost!
+*   to defend the cults holdings and true followers to my last breath!
+
+I am bound to your Law. Should I fail, may the flames of Flammendrung 
+consume me!
+
+Symbols, Colours and Dress - 
+
+	The Cleansing Flames wear shiny silver plate armour over blackened chain.
+	They wield blackened swords, and their shields and breastplates bear the symbol of  the flame engraved upon them. They wear black cloaks trimmed with fire colours.
+	They are all branded with Solkan's sigil on their chest at their initiation.
+
+Advance Scheme - 
+Knight of the Cleansing Flame
+ WS  S  T  W    I   A  Dex Ld   Int  Cl  WP
++30 +3 +2 +6 +20 +2 +20 +30 +20 +40 +30
+
+Skills				Trappings
+Cult Doctrine - Solkan		Shiny Full Plate armour
+Disarm				Shiny Crested Shield
+Dodge Blow			Black Cloak
+Read/Write			Blackened Mail
+Ride - Horse			Blackened Sword
+Secret Language - Battle	Lance
+Spec Weapon - Lance		Blackened 2 Handed Sword
+Spec Weapon - 2 Handed	Warhorse, tackle and harness
+Strike Mighty Blow		2d6 GC
+Strike to Injure			
+Strike to Stun
+
+
+Order of the Fiery Hearts (Sigmar)
+
+Background - 
+	This esteemed Order was founded during the civil war of 1359 when the cult of Sigmar was outlawed in Talabecland. Since that period they have served with 	distinction in numerous campaigns where they serve alongside the Imperial Army in 	times of war.
+	They earned their moniker due to their passion for Sigmar and the Empire.
+
+Base of Operations - 
+	Altdorf.
+
+Outsider Opinions - 
+
+'Worthy warriors. 'Tis a shame they are heretics.'
+ - Olaf (Templar of the White Wolf and adherent
+                              of the Sigmarite Heresy sect).
+
+	The Order of the Fiery hearts has a reputation for courage, honesty and fanatical 	devotion. Like all fanatics, they can be dangerous, but they garner a general respect 	and admiration of both Imperial citizens and the dwarven cults. Relations with the Templars of the WhiteWolf are strained at best.
+
+Typical Attitude - 
+
+'For Sigmar! For the Empire!'
+ - Quintus (Fiery Heart).
+
+	The temperament of the typical Fiery Heart varies tremendously but they all have 	two things in common: Fanatical devotion to Sigmar and the Empire, and a Hatred of goblinoids.
+
+Requirements - 
+	 - The candidate must be of Imperial birth.
+	 - The candidate must be free of any traces of goblinoid blood.
+	 - The candidate must swear the following Oath:
+
+I (name) swear before Sigmar, Warrior and Unifier, to serve the ancient and noble 
+Order of the Fiery Hearts truly and faithfully unto death, observing the holy laws that 
+Sigmar set forth:
+
+·	  to serve the Empire and it's interests with my life;
+*    to protect the cult, its scared ground and sublime followers til death;
+·	  to render full and unquestioning service to those of higher rank in this blessed cult;
+·	  to serve and protect the Emperor, his family and legitimate successors with my life;
+·	  to seek out and annihilate the goblinoids and wipe all trace of their existence from 
+      the Empire;
+·	  to show favour to an honourable dwarfs request for aid;
+·	  to destroy the taint of Chaos and its minions wherever and whosoever they are.
+
+The Order has my Oath, sworn before Heldenhammer. May I be damned if I fail. 
+
+Symbols, Colours and Dress - 
+
+	As with the majority of knights this Order wears full plate armour. Their shields bear a flaming heart at the centre of which is one of Sigmar's symbols. Those of noble 	blood may bear their own heraldic head crest, while those of common blood bear a 	simple pair of horns. The Order's colour is grey. Their symbol is a gold medallion inlayed with a silver hammer and coloured enamel twin-tailed comet.
+
+Notes - 
+	Because Sigmar was himself a commoner there are no restrictions on commoners 	entering this Order, but the bulk are noblemen.
+
+Advance Scheme - 
+Order of the Fiery Heart
+ WS  S  T  W    I   A  Dex  Ld  Int  Cl  WP  Fel
++30 +3 +2 +6 +20 +2 +20 +30 +10 +30 +20 +10
+
+Skills				Trappings
+Cult Doctrine - Sigmar		Full Plate Armour
+Disarm				Crested Shield
+Dodge Blow			Crested Helmet
+Etiquette			Horseman's Hammer
+Hammer of Sigmar*		Lance
+Heraldry			2 Handed Warhammer
+Read/Write			Warhorse, saddle and harness
+Ride - Horse			Symbol
+Secret Language - Battle	2d6 GC
+Spec Weapon - Lance
+Spec Weapon - 2 Handed
+Strike Mighty Blow
+Strike to Injure
+Strike to Stun
+
+* Hammer of Sigmar - special cult skill. May be used Once per day. For more details see TEW.
+
+Knights of the Holy Quest (Arianka)
+
+Background - 
+	The Templars of Arianka, goddess of Law and Discipline, are known to many scholars as the first knights. They were the first knightly Order in its true sense, but their name disappeared centuries ago. Legend has it that they were the most well structured and famous Orders with hundreds of mighty warriors preaching peace and discipline.
+	When Tzeentch, the Architect of Fate, defeated the goddess and imprisoned her in the crystal coffin, her cult collapsed...The master of the Order chose to dissolve the 	band and set them a quest: The Quest for the Holy Grave. Each knight started a long and lonely journey throughout the known world and beyond, to seek Arianka and restore her to power. As the years have passed, many have died and their have been few to replace them. Each son of a templar inherits the goal and lifestyle of his father 	in the everlasting quest.
+
+Base of Operations - 
+	None. Arianka's temples no longer stand, and her few remaining knights errant number 17.
+
+Outsiders Opinions - 
+
+'Don't be ridiculous. They are a myth, a legend. This is a story for children, 
+nothing more than a beautiful tale'.
+  - Alphonse Dumoulin (Historian in Couronne).
+
+	As noted, the Templars of the Holy Quest are few in number, and are lone knights 	scattered throughout the world. Most scholars are unsure of their continued existence. Only the Knights of the Cleansing Flame are aware they exist and attempt to aid them whenever possible.
+
+Typical Attitudes - 
+
+' Discipline is my way. Law is my Life'
+ - Yvan Kropchek (one of the few).
+
+	Knights of this Order are fierce, proud and utterly disciplined in mind and body. They live in accordance with the laws of Arianka and the Code of Chivalry, and neither are open to interpretation in their eyes. They are fanatical and driven but are 	sometimes overcome with shame at their failure to defend or find their goddess.
+
+Requirements - 
+	 - Only open to the sons of the Order.
+	 - Must be of lawful alignment.
+	 - Must swear the following Oath:
+
+I swear before Solkan, brother and consort of Arianka, my goddess, to serve the 
+everlasting quest of the Holy Grave, to never rest nor swerve from my single purpose, 
+until that day when Arianka is released to her rightful godhood.
+O Solkan, punish me without mercy if I should weaken of fail in my resolve!
+
+Symbols, Colours and Dress - 
+	Generally the members of this Order wear battered antique plate armour and weapons. Many of these ancient articles are imbued with magic. They wear white travel stained trappings.
+
+Advance Scheme - 
+Knight of the Holy Quest
+WS  S   T  W    I   A  Dex Ld   Int   Cl  WP
++30 +3 +3 +6 +20 +2 +20 +20 +20 +30 +40
+
+Skills 				Trappings*
+Cartography			Battered antique full plate
+Cult Doctrine - Arianka		Battered antique shield
+Disarm				Battered antique knights helmet
+Dodge Blow			Lance
+Law				Antique weapons
+Linguistics			Warhorse, saddle and harness
+Orientation			d6 GC
+Read/Write
+Ride - Horse
+Spec Weapon - Lance
+Spec Weapon - 2 Handed
+Strike Mighty Blow
+Strike to Injure
+Strike to Stun
+Tracking
+
+* Trappings - represents the well equipped knight. Many are not so fortunate.
+
+ 
+The Justicars (Verena)
+
+Background - According to the strictures of Verena violence is the last resort when reason has failed, and for the cult of Verena the Justicars are that last resort.
+	Their duties are many and varied involving temple and clerical guard duties, court 	guards, aides to the Inquisition, and the hunting of the most dire felons.
+	They work with the Inquisition to expose corruption and dishonesty within the cult and officialdom within Estalia. In cases where extreme injustice has been perpetrated 	(such as particularly vile rapes, murders, mass murder etc.), and the felon hasn't been 	brought to justice yet, the cult often dispatches a pair of Justicars to track down the criminal and bring him to justice. They will not rely on common bounty hunters for such tasks because bounty hunters are not above question themselves. They relentlessly and directly pursue the felon and bring him to justice, but in their eyes 	injustice is always repaid in kind, and the worst scum are captured and handed to the cults torturers. For lesser crimes they are not above acting as judge, jury and executioner. The Justicars have not taken to the field of battle since the last Incursions of Chaos in 2303.
+
+Outsiders Opinions - 
+
+'...groan...Damn you and your kind!' CRACKK!! 'Arrgh!! My arm!!'
+ - Heinz Kufer (captured and beaten murderer).
+
+	Opinions of the Justicars are very strong, and they are feared and respected both by the scum they hunt, and the common folk, who although grateful for the justice and 	protection, give them the healthy respect all driven people receive.
+
+Typical Attitude - 
+
+' How does it feel to be on the receiving end Heinz?! I'm not some defenseless 		woman am I? You're going to suffer for your crimes you sick sonofa...'
+ - Theodosius (Justicar making Heinz pay before executing him).
+
+	The Justicar is driven, relentless, determined, vigilant and utterly ruthless in the quest for justice. Most hold the law in utter contempt and are very direct in approach. despite all this they are usually good people who have turned some hurt of their past into a hatred of injustice.
+
+Requirements - 
+	 - It would be unjust to bar women entry to this Order so they are permitted.
+	 - It would be unjust to bar commoners from this Order so they to are permitted.
+	 - The prospective candidate must swear the following Oath:
+
+I (name) do hereby swear before Verena, sword of Justice, and in the presence 
+of those here gathered, to serve truly and faithfully the just Order of Justicars 
+unto death, observing the following precepts set forth by Verena:
+
+*   to seek justice above all other concerns;
+*   to never resort to falsehood save when the above stricture is served by doing so;
+*   to only pass judgement that is reasonable and true;
+*   to protect the cult, its holdings and followers truly;
+
+This I swear upon the sword, to punish the unjust.
+  
+Symbols, Colours and Dress - 
+
+	The Justicars wear functional plate mail and bear swords, including a 2 handed variety used purely for summary execution. They wear white tabards and cowls and all receive symbol in the form of a silver set of scales and sword at initiation. Their shield features an attacking owl holding a sword in one claw and a set of scales in the other. Their helms feature an attacking owl.
+
+Advance Scheme - 
+Justicar of Verena
+WS  S   T  W    I   A Dex  Ld  Int   Cl   WP
++30 +3 +2 +6 +20 +2 +20 +30 +20 +30 +30
+
+Skills				Trappings
+Cult Doctrine - Verena		Full Plate Armour
+Disarm				Crested Helmet
+Dodge Blow			Crested Shield
+Follow Trail			Sword
+Intimidate			2 Handed Executioners Sword
+Read/Write			d4+2 manacles
+Ride - Horse			Truncheon
+Sense Deception		White tabard and cowl
+Spec Weapon - 2 Handed	Symbol
+Strike Mighty Blow		Warhorse, saddle and harness
+Strike to Injure			2d6 GC
+Strike to Stun
+Wrestling
+
+
+Templars of the White Wolf (Ulric)
+
+Background - 
+	The Templars of the White Wolf can trace their heritage back further than just about any Order, right back to when they were a group of Ulrican mercenary Teutognens under the banner of Artur (approx -50 I.C).
+	As time has gone by the Order has gradually evolved and the barbarian warrior has been replaced by the knight as the epitome of personal combat.
+	The Templars of the White Wolf hone their skills by constant combat drills and matches at the temple, and regularly accompany the Knights Panther on their mutant hunting forays.
+
+Base of Operation - 
+	Middenheim.
+
+Outsiders Opinion - 
+
+'Brutish, mindless thug. Oh Sigmar! He heard me!'
+ - The soon to be beaten Herpin (Initiate of Sigmar).
+
+	The Templars of the White Wolf have a reputation as fierce, courageous (to the point of foolhardiness), and vicious fanatics. Their reputation also suffers from the bully boy antics of their more notorious members. They are respected and feared warriors, but their abrasive outlook has created a number of rivalries including the Sigmarite Order of the Fiery Hearts and the Myrmidian Order of the Blazing Sun.
+	Only the Knights Panther can claim cordial relations.
+
+Typical Attitude - 
+
+'RRAAARARGH!!!'
+ - Olaf (Templar of the White Wolf entering frenzy).
+
+	The typical Templar of the White Wolf is not as obnoxious as outsider's opinions 	would suggest, but they are fierce and usually abrupt. Patience is not their strong suit, and tactics is a filthy word. The only tactic worthy of a warrior is the charge. They prefer their combat 'up close and personal' and eschew the lance in favour of a two handed Battle Axe.
+
+Requirements - 
+	 - The candidate must have completed a conflict based career (but not necessarily     military).
+	 - The candidate must swear the following Oath:
+
+Hear me Ulric! I (name) stand before you ready! Accept me into your pack, and I will 
+be as a wolf in this powerful Order. Accept my Oath that I swear upon my life! While 
+there is breath in my body I will uphold your harsh doctrine:
+
+·	  to never refuse a direct challenge;
+·	  to never resort to the weak fools guiles of trickery, lying or cheating;
+·	  to never use the coward's weapons of gunpowder, firebombs or crossbows;
+·	  to serve my superiors without question, but hold your ideals above theirs;
+*   to protect the cults holdings with my life.
+
+Hear me Ulric! Should I fail, sunder the flesh from my body to feed your pack!
+
+
+Symbols, Colours and Dress - 
+
+	The Templars of the White Wolf wear functional, unornamented full plate armour.
+	They all wear wolfskin cloaks with the head of the wolf being mounted on the helmet. They are all given silver wolf head medallions upon initiation.
+
+Notes - 
+	'Ulric cares nothing for the lofty pretensions of the noble born. All of strong arm and 	courage are equal in His eyes'. 
+	Therefore their are no restrictions upon those of 	common birth in this Order.
+
+Advance Scheme - 
+Templar of the White Wolf
+WS  S   T  W    I   A  Dex  Ld  Cl  WP 
++40 +3 +3 +6 +20 +2 +20 +20 +40 +20
+
+Skills				Trappings
+Cult Doctrine - Ulric*		Full Plate Armour
+Charm Animal - Wolf		Shield
+Disarm				Horseman's Axe
+Dodge Blow			2 Handed Battle Axe
+Frenzied Attack			Wolfskin cloak*
+Ride - Horse			Silver Medallion (value 2 GC)
+Secret Language - Battle	Warhorse, saddle and harness.
+Spec Weapon - 2 Handed	2d6 GC
+Strike Mighty Blow
+Strike to Injure
+Strike to Stun
+Wrestling
+
+* Cult Doctrine - Ulric. The Templars of the White Wolf are taught the doctrine orally, because they won't waste valuable training time with the puny pursuit of reading.
+
+* Wolfskin Cloak - The Templars of the White Wolf may only wear the skin of a wolf they have killed personally, using only the weapons provided by nature. This act is the final part of their initiation.
+
+
+ - Defenders of the Faith - 
+
+
+Although the Knights Templar represent the elite religious fighting force, many of the less aggressive cults have their own defenders, and these are referred to simply as Templars.
+	The use of templar in this text does not necessarily imply a temple based guard or warrior, but is used to refer to religious defenders of all sorts.
+	Due to their strictures it would be against their beliefs for them to employ warriors who didn't adhere to their religious law. For example, the templars of Shallya and Morr are opposed to killing and couldn't trust normal warriors or the more militant Knights Templar to defend them without resorting to bloodshed.
+	In addition they have many unique situations or holdings that require protection, ranging from defending clerics of the faith on missions, guarding hospices or cemetaries etc. In the case of the templar of Ranald, they too are opposed to killing and require defenders who are not aligned in any way with officialdom.
+	Whatever the reasons, it is necessary for each cult to have defenders of a sort to protect their best interests.
+	It is worth noting that the templars of the less militant cults are not knights, nor do they adhere to the knightly principles or requirements.
+	All prospective templars must adhere to the strictures of their faith, and are usually chosen from suitable worshipers and initiates by a clerical council. Any unique requirements will be noted in the individual descriptions.
+	Unless noted, these Orders are open to either sex.
+
+
+Order of the Black Shroud (Morr)
+
+Background - 
+	The Order of the Black Shroud is responsible for guarding the cemetaries against the depredation of Morr's mortal enemies, the grave robbers and necromancers.
+	They maintain a long and silent vigil throughout the night, and spend the day in rest and quiet contemplation, studying the ways of their most hated foes, necromancers and the undead.
+	They take pains to avoid swelling the ranks of Khaine's realm, and avoid murder, but in the rare cases when they take to the field against an undead menace, they give no quarter.
+
+Outsiders Opinions - 
+
+	'They're downright spooky if you ask me'.
+	 - Hans Klink (Townsperson).
+
+	The Order of the Black Shroud faces mixed reactions from the outside world, ranging from a 	unease to a feeling of peace, depending on the individuals feelings about death. 
+	One thing is constant, they are always given respect, save by Necromancers or worshippers of Khaine.
+
+Typical Attitude - 
+
+	'Only in the quiet of contemplation can we even begin to comprehend death'
+	 - Hals (Order of the Black Shroud).
+
+	The typical Watcher is calm, deliberate, and above all quiet. Even when facing their 	mortal enemies they take care to avoid betraying any signs of emotion.
+	They are usually good people who have suffered some profound loss, such as the death of someone beloved.
+
+Requirements - 
+	 - the candidate must swear the following Oath:
+
+Morr, Lord of the Final Rest, I (name) swear upon my fragile life to serve the 
+Order of the Black Shroud faithfully and truly until I receive your final 
+calling, and to uphold your most holy of strictures:
+
+*   to protect your holdings, sacred ground, and the dwellings of the dead with my life;
+*   to never enter or disturb a place of burial save to protect it from desecration;
+*   to always oppose Necromancers and the followers of the evil brother.
+
+Symbols, Colours and Dress -
+  
+	The Black Shrouds avoid ostentatious apparel, preferring simple black cowls and tabards. In keeping they blacken their armour and wear black open face helmets.
+	Upon initiation they are presented with a black lacquered silver medallion of a raven.
+
+Advance Scheme - 
+Order of the Black Shroud
+ WS BS  S   T  W    I   A  Dex Ld   Int   Cl  WP
++20 +20 +1 +2 +4 +20 +2 +10 +20 +20 +30 +30
+
+Skills					Trappings
+Cult Doctrine - Morr			Black cowl and tabard
+Disarm					Stave*
+Dodge Blow				Plain Black Shield
+Identify Undead			Blackened Sleeved Mail Coat
+Night Vision				Blackened Open Face Helmet
+Read/Write				Horse, saddle and harness
+Ride - Horse				Symbol (value 2 GC)
+Speak Add Language - Necromantic	Club*
+Spec Weapon - Stave
+Strike to Stun
+
+* - In times of conflict with the undead, the templar receives a sword and crossbow instead.
+
+
+The Goodfellas (Ranald)
+
+Background - Friends of the downtrodden and fighters against oppression and tyranny, the 	Goodfellas follow their gods aspect as the Protector. As templars they 
+	strongly believe in and adhere to their cults strictures and avoid killing except in self 	defense or the defense of others. trickery and subterfuge are their weapons and they Take pains to try and expose corrupt officials and make life difficult for those that exploit the weak and poor. They work in close cooperation with Ranald's 	demagogues (the Rabble Rousers) and also protect the 'honest' thieves from capture and discovery.
+	Setting traps and leading enemies to them has become an artform for these resourceful people, but the traps are rarely lethal, being usually humiliating and uncomfortable for the victim, with favourites incorporating such elements as raw sewage, paint, tar and feathers, slippery oil and nets. A favourite trick is to lead corrupt watchmen on a chase through several such traps that culminate in a public place. As any Goodfella will tell you, the humorous aspect helps lift the spirits of the oppressed. Breaking into official buildings to steal incriminating documents, plant false orders or plans and lay traps are also a mainstay.
+	Due to their stand against violence and corruption they have on occasion come into 	conflict with local crime lords, assassins and thugs whose violent activities gives rogues a bad name, and the silent wars that ensue usually go unnoticed by the local populace.
+
+Outsiders Opinions - 
+
+'I'd have got away with it, if it weren't for them meddling rogues!'
+ - Rudolf Hummel (Corrupt official being taken for trial).
+
+	Very few people outside of the cult of Ranald or without informed ties to the Underworld are aware that this Order exists, so reactions are generally normal. However, those that are aware of them have varying reactions, from the 	wholehearted support of the downtrodden to the hatred of the oppressor.
+
+Typical Attitude - 
+
+'Hey, you big, ugly, puss-bag! Do you recognise this sword?
+	Yeah! It's yours! Come and get it you wallowing mud pig!'
+ - Gottfried der Kat (Goodfella, provoking a chase).
+
+	The Goodfella is generally a passionate, intelligent and gregarious individual, full 	of empathy for the underdog and a strong sense of humour. Their humour is 	sometimes a mask used to hide the feelings of sorrow they feel for the oppressed.
+
+Requirements - In addition to the usual requirements, candidates must also fulfil the following:
+	 - The candidate must hail from the lower classes.
+	 - The candidate must never have committed cold blooded murder.
+	 - The candidate must have completed the general thief career.
+	 - Ranald demands no Oath, knowing that rules exist to be broken.
+
+Symbols, Colours and Dress - 
+
+	The Goodfellas dress completely nondescript, the better to evade capture and avoid notice. Their symbol is cunningly interwoven and hidden, and they only carry a dagger as a weapon, with it usually being worn at the belt, as with many normal citizens.
+Advance Scheme - 
+Goodfella of Ranald
+M  WS  BS  S  T   W    I   A  Dex  Ld  Int  Cl  WP  Fel
++1 +20 +20 +1 +1 +4 +30 +1 +40 +10 +20 +20 +10 +20
+
+Skills				Trappings
+Acrobatics*			Nondescript clothing
+Acting				Lockpicks
+Cult Doctrine - Ranald		Several disguises
+Disarm				Dagger (weighted to enable throwing)
+Disguise			d6 GC
+Dodge Blow
+Flee!
+Pick Lock
+Read/Write
+Scale Sheer Surface
+Set Trap
+Shadowing
+Spec Weapon - Thrown
+Spot Trap
+Strike to Stun
+
+* Acrobatics - For increased jumping, leaping and breakfall only.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Guardians of the Dove (Shallya)
+
+Background - The Guardians of the Dove act as orderlies, and guards to hospices and 	travelling clerics. They often enter areas rife with disease or war, but must still 	adhere to the cults prohibition against killing. Due to these constraints they have 	become experts of subdual combat, and only ever fight with intention to harm or kill 	when they come into conflict with the followers of Nurgle. In these rare cases they 	give their aggression full vent, and their wrath is terrible to behold...
+	They avoid the use of ranged weapons (save for the net) because they can all to 	easily harm an innocent bystander. In their role as 'passive warriors' they are 	allowed the use of the shield.
+
+Outsiders Opinions - 
+
+'Brave but weak'
+ - Olaf (Templar of the White Wolf).
+
+	The Guardians of the Dove have an almost perfect reputation, for all at one time or 	another require healing. Everyone holds them in at least fair regard, and only the 	followers of Nurgle really hate them.
+
+Typical Attitude - 
+
+'Please leave the area for it would pain me to have to hurt you'
+ - Bianka (Guardian of the Dove).
+
+	The typical Guardian of the Dove is a peaceful, caring and deeply empathic 	individual, combining bravery and strong will in an insurmountable package.
+
+Requirements - 
+	 - All candidates must have been initiates.
+	 - All must swear the following Oath:
+
+Shallya, sweet Lady of Mercy, Peace and Healing, I (name) your devoted follower, 
+swear upon my heart with passion to serve your merciful and loving strictures fully:
+
+*   to never take an intelligent life, save for the followers of Nurgle, even in self defence 
+or the defence of others;
+*   to never refuse aid or healing to one in genuine need or who comes as a supplicant;
+*   to protect the weak, sick and innocent;
+*  to protect the cult, its followers and holdings with my life.
+
+Symbols, Colours and Dress - 
+
+	The Guardians favour plain, unornamented white tabards and cowls. Upon initiation 	they receive a silver medallion with inlayed white enamel dove and an inlayed red 	enamel 	blood droplet. Their shield features a larger version of the image as a crest.
+
+
+
+
+
+
+
+
+
+Advance Scheme - 
+Guardians of the Dove
+ WS BS  S   T  W    I    A Dex  Ld  Int   Cl  WP Fel
++20 +20 +1 +3 +6 +20 +2 +20 +20 +20 +30 +20 +20
+
+Skills				Trappings
+Cult Doctrine - Shallya		White cowl and tabard
+Disarm				Stave
+Dodge Blow			Shield
+Heal Wounds			Net
+Immunity to Disease		Symbol
+Read/Write			d4+1 manacles
+Ride - Horse			Horse, saddle and harness
+Spec Weapon - Net		Slingbag with herbs, bandages, and needle and thread.
+Spec Weapon - Stave		d6 GC
+Strike to Stun
+Wrestling
+
+
+
+
+
+Order of the Flaming Scimitar (Ormazd)
+
+Background - The arabian Order of the Flaming Scimitars was founded during the Crusades 	against the failing Constantinian Empire during 1060 I.C. and have been at the forefront of every war against cult enemies since that time. 
+
+Base of Operations - Mendai, Araby
+
+Outsiders Opinions - 
+
+'True fanatics'
+ - Olaf (Templar of the White Wolf).
+
+	The Flaming Scimitars are beloved by the populace of Araby for they embody the virtues of bravery, vigour and strength of faith that they all aspire to. To outsiders they are little more than fanatics and the Knights of the Cleansing Flame hate them with a vengeance.
+
+Typical Attitude - 
+
+'Death to the Infidel!!'
+ - Akim al Rashmir (Flaming Scimitar).
+
+	The typical Flaming Scimitar is devout and fanatical in the extreme, and take their 	duties with a seriousness bordering on painful.
+
+Requirements - 
+	 - this Order is only open to men.
+	 - the candidate must swear the following Oath:
+
+Ormazd! Lord of All! I (name) your most humble servant swear before the sun and 
+sands to serve and uphold your holy laws! No infidel or temptation will sway me, and 
+should I fail, may the wind-driven sand sear my flesh, may sweet water never reach my 
+lips, and may my blood stain the sand.
+
+Symbols, Colours and Dress - 
+
+	The Flaming Scimitars wear light chain mail with black cloth trappings. Their 	shields feature the flaming scimitar and they all wear gold sun medallions inset 	with a yellow, red or orange gemstone.
+
+Notes - 
+	The Flaming Scimitars are not knights, nor do they adhere to knightly principles, and none of them hail from the nobility.
+
+Advance Scheme - 
+Flaming Scimitar
+WS  BS  S   T  W    I    A Dex  Ld  Int   Cl  WP
++30 +30 +2 +2 +6 +20 +2 +20 +20 +10 +30 +30
+
+Skills				Trappings
+Cult Doctrine - Ormazd		Sleeved Mail Shirt
+Disarm				Shield
+Dodge Blow			Open-Face Helmet
+Frenzied Attack			Scimitar
+Marksmanship			Dagger
+Ride - Horse			Symbol (value 40GC)
+Strike Mighty Blow		Shortbow, quiver and arrows
+Strike to Injure			Light Warhorse, saddle and harness
+Strike to Stun			d6 GC
+Trick Riding
+
+Talons of the Wild (Taal)
+
+Background - 
+	The Talons are a devout Order of warriors dedicated to Taal and would today be regarded as eco-warriors. They exist in the wilds, living off the land and working in cooperation with the Society of the Bear to defend the wilds from the excess destruction of the intelligent races.
+
+Outsiders Opinions - 
+
+'Damn them! They stop me making a living!'
+ - Hugo (woodsman caught cutting down too many trees).
+
+	The Talons have made themselves many enemies as they constantly conflict with greedy farmers, woodsmen and goblinoids. They maintain cordial relations with the druids of the Old Faith and a few communities of Wood Elves.
+
+Typical Attitude - 
+
+'You cut the limbs from an ancient and sacred tree when there is dead wood 
+aplenty. Payment in kind I believe'
+ - Ursula (Talon of the Wild proceeding to cut the limbs from a defiler).
+
+	The Talons are concerned and good people, secure in the knowledge that nature provides all, and needn't be raped. However, they are vengeful and vicious in the extreme when facing defilers.
+
+Requirements - 
+	 - The candidate must be a devoted initiate of Taal.
+	 - The candidate must swear the following Oath:
+
+Taal, Lord of the Green, and Master of Beasts, I (name) swear before you, standing in 
+the sacred realm of plenty, to serve as a defender of your realm, a Talon of the Wild.
+To adhere to the strictures you impose:
+
+*   to protect nature from the excesses of man and all intelligent species;
+*   to take only what is required to live;
+*   to defend your sacred ground and followers.
+
+Symbols, Colours and Dress - 
+
+	The Talons wear functional outdoors clothing in natural browns and greens. They 	wear full leather armour branded with the symbols of Taal. They favour bows, hand axes, clubs and spears. The tanning process they use is non-toxic using animals brains, and vegetable oil, with the residue being edible. the resulting leather is quite as smooth but is serviceable. (Such a process is used by the Australian Aborigines).
+	They also favour camouflage war-paints in the style of animal markings to make them look more fierce. 
+
+
+Advance Scheme - 
+Talon of the Wild
+ WS BS  S   T  W    I    A Dex  Ld  Int   Cl  WP Fel
++20 +20 +2 +3 +6 +20 +2 +20 +10 +20 +30 +20 +10
+
+Skills				Trappings
+Animal Care			Full branded leather armour
+Concealment Rural		Wooden shield
+Cult Doctrine - Taal		Hand axe, spear, club
+Disarm				Bow and ammunition
+Dodge Blow			Horse, blanket and harness
+Follow Trail
+Identify Plant
+Orientation
+Ride - Horse
+Secret Language - Ranger
+Secret Signs - Woodsman
+Silent Move Rural
+Strike Mighty Blow
+Strike to Injure
+Strike to Stun
+
+Order of the Thundering Tempest (Manann)
+
+Background - 
+	While the priests of Manann represent His differing aspects, the Tempests are concerned purely with his wrath. They have a notorious reputation and few are a match for them on land, and woe to those who face them at sea.
+
+Base of Operations - 
+	Their largest base can be found in Marienburg, but they can be found in many coastal 	settlements.
+
+Outsiders Opinions - 
+
+'Nasty and vicious types they are'
+ - Johannes Bootmann (Citizen of Marienburg).
+
+	The Order has an infamous reputation for fearlessness, arrogance, temper and thirst for vengeance, causing them to be avoided by most sane people. Despite their 	reputation few would see them leave, as they are stalwart defenders of many coastal communities, and enemies of the Dark Elves (who they often encounter on the high seas) and pirates.
+
+Typical Attitude - 
+
+'Turn the Seas Red!!'
+ - Leopold (Thundering Tempest shouting their famous battle cry).
+
+	The Tempests are mostly honourable individuals who grieve the poor reputation they have. What many do not realise is they are required to uphold certain ideals which may be unpopular (vindictive anger and quick temper), as that is the way of the sea. They can be quite jovial, but are passionate and quick to change. The majority hail from the lower classes (specifically those with maritime experience), and out of a sense of payment (or punishment) take up the life of a templar. The stories vary from individual to individual - some have had a close call with drowning and feel they 	were spared, others hear the calling of the sea and understand it too well not to join. Whatever the reason, they dedicate their lives to Manann, following his strictures fanatically.
+
+Requirements - 
+	 - The candidate must have completed a sea-going career.
+	 - The candidate must swear the following Oath:
+
+Manann! Lord of the Raging Sea! I (name) swear, upon my blood and honour 
+to serve you unfailingly in this worthy Order of the Thundering Tempest, 
+observing your sacred laws:
+
+*   to uphold the ideals of the raging sea!
+*   to protect the Deep from the depredations of those without respect!
+*   to protect your holdings and devoted followers!
+*   to uphold your strictures with my life!
+
+Hear me Manann, for this is my Oath!
+
+
+
+
+
+
+
+Symbols, Colours and Dress - 
+
+	Their symbol, normally worn on a tunic, is that of a whirlpool in the air with bolts of 	forked lightning coming from it, on a dark blue-green background. Other symbols include a sea serpent entwined on a sword, a shark with an open maw, and a wave in the shape of a fist.
+
+Advance Scheme - 
+Order of the Thundering Tempests
+ WS BS   S  T  W    I    A Dex  Ld  Int  Cl   WP Fel
++30 +30 +2 +2 +6 +20 +2 +20 +10 +20 +30 +20 +10
+
+Skills 				Trappings
+Cult Doctrine - Manann		Full leather armour
+Disarm				Sleeved mail coat*
+Dodge Blow			Hand weapon (usually a trident)
+Navigation			Wooden shield
+Row				Symbol	
+Sailing				2d6 GC
+Scale Sheer Surface
+Sea Lore
+Secret Language - Battle
+Spec Weapon - Thrown*
+Strike Mighty Blow
+Strike to Injure
+Strike to Stun
+Swim
+
+* Spec Weapon - Thrown. Used for grappling hooks (boarding) and the trident.
+* Sleeved Mail Coat. Normally only worn on land.
+
+- Knightly Weapons - 
+
+
+The arsenal of the knight was fairly varied, but most of their weapons were subtle variations of more common varieties. The knight would commonly be armed with a lance, an edged hand weapon (such as a sword or axe), a blunt hand weapon (such as a mace or flail) and a stilletto to perform the coup de grace.
+	Maces showed a great variety of head shapes including spiked, studded, smooth, flanged, and shaped (like a fist or head for example).
+	While trained in their use, not all knights carried 2 handed weapons, but when they did they favoured the 2 handed sword above all others. They would rarely carry a 2 handed flail for such weapons were associated with the peasantry.
+	A popular Bretonnian variation of the 2 handed sword is the Flamberge, which is slightly shorter and features a wavy blade.
+
+New Weapons - 
+Weapon		Cost	Enc	Avail	Rules
+Knights Stiletto		6GC+	10	Scarce	As dagger
+Flamberge		45GC	225	Scarce	As 2 Handed
+Horseman's Hammer	10GC	75	Rare	As hand weapon
+
+The Lance (revised) - 
+Weapon		Init	To Hit	Dam	Parry
+Lance			+20	 +10/ - 	  */ - 	-20/+10
+To Hit - +10 in a joust, standard otherwise.
+Damage - S + (half the mount's M, round up) in a charge. Standard otherwise.
+Parry - -20% in vs a charging lance. +10% vs a stationary lance.
+
+Mounted Charging Attacks - 
+	A character attacking a foe while passing on a charging steed adds half the mount's M (round up) to his damage roll. Only one such attack can be made on a single foe in a single pass. The attacker suffers a -10WS penalty to hit due to the speed.
+
+
+ - New Skill - 
+
+Sense Deception (created by Mr Whippy) - 
+	The ability to detect lies by inflection of the voice and other physical signs is highly valued by the Justicars and other members of Verena's cult. The cultist confronts the subject and asks them numerous 'test' questions. This is to gauge the normal reactions of the 'liar'.
+	The cultist then proceeds to discuss the matter being investigated. Falsehoods can be detected as the cultist enters an almost trance-like state and analyses the words of the test subject. Tests are done against the characters force of will, thus WP is used. The whole process can take upto an hour.
+
+Tests are as follows:
++10 if the subject is afraid of the cultist (i.e. where Intimidation is used)
++10 if the subject is known to have completed any Rogue career
+-5 if the subject is an initiate of Verena
+-10 if the subject is a Cleric or Justicar of Verena
+-5 (cumulative) if the subject uses acting, charm or wit
++5 if the subject uses Blather (because it's a sure sign of hiding something)
+-5/+5 if the subject attempts to seduce the cultist (depending on the cultist in question)
+
+

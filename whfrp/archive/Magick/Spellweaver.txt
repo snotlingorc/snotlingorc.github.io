@@ -1,0 +1,1004 @@
+ A new magic system based on Robert Jordans' "Wheel of Time" series, 
+by Ian Ward.  Version 3b.  (C) Ian Ward, 1996.
+
+ This is a LONG (~50-60K) document and the tables are intended to be 
+viewed in a font with constant character width (such as 'Courier New' 
+in Windows).  Comments are contained in [[double square brackets]].
+
+>INTRODUCTION
+
+ I have long considered that the magic system that WFRP uses was 
+lacking something, the ability to do almost ANYTHING, on the spot, 
+that a standard list of spells curtails.  Reading the "Wheel of Time" 
+series by Robert Jordan gave me some ideas for an alternative system.  
+[[Brief version history at end]]
+
+ I considered carefully before going ahead and writing up a set of 
+rules and background for a new magic sub-system in WFRP.  For one 
+thing, the present system is so tied in with chaos that I would have 
+to find a way to tie any rules I wrote into the same system to make 
+it a working part of the WFRP magic landscape.  Also, I doubt any new 
+system could ever hope to replace the existing system, only 
+supplement it to offer new magical options to Warhammer PCs and NPCs.
+
+ Relatively freeform magic systems such as the type I am suggesting 
+here are much more difficult to GM than the existing spell-based 
+type, but I believe that the rules I present here are logical and 
+workable.
+
+>SPELLWEAVERS
+
+ Conventional sorcerous magic, as used by wizards, uses the magical 
+energy that seeps into all corners of the Warhammer world from the 
+polar warp gates, while clerics rely on their god for magical 
+abilities.  There also exists a class of magicians who manipulate the 
+warp energies directly.  These are the Spellweavers.
+
+ Spellweavers' minds touch the warp directly, much like the psykers 
+of WH40K.  Because very few mortals have the mental strength to 
+perceive the warp as it truly is and stay sane, spellweavers are 
+taught to perceive it as a huge tangle of threads, each thread being 
+one of the elements earth, air, fire, water or spirit.  Their 
+manipulation of the warp temporarily untangles these threads and 
+weaves them into meaningful patterns that produce magical effects on 
+the material plane.  Spellweavers call this process 'weaving' or more 
+usually 'channelling' - a contraction of 'channelling the will'  
+("She channelled the lamp lit" sounds better than "She weaved the 
+lamp lit" or "She spellweaved the lamp lit", IMHO).  Trained 
+spellweavers have their mind tuned to the warp and can sense these 
+ordered weaves when in the vicinity, with the disordered tangle of 
+chaos a constant background 'noise'.
+
+ Not surprisingly, spellweavers are the most knowledgeable of the 
+magical professions on matters concerning warpspace and have gathered 
+a great deal of information on the warp and its assorted inhabitants, 
+especially those who would seek to enter the material world through 
+an unguarded spellweavers' mind.  Having to deal with the warp on so 
+close a level, spellweavers' sanities are understandably weakened, 
+such that all cool tests to resist insanity are taken with a -10 
+modifier.  They do however, get a +10 on Cl and WP based tests when 
+dealing with warp creatures (usually demons and their kin).
+
+ The magical effects produced by a weave vary with the exact pattern 
+of the weave and the types of thread present.  Each type of thread 
+embodies the qualities and/or physical properties of that particular 
+element.  Spirit, the least intuitive of these, embodies the mind and 
+all associated with it, as well as guiding or linking the effects of 
+other elements to specific individuals or groups via their thought 
+patterns.
+
+ For example, air could be used both to manipulate the air around us 
+or give something the property of being light.  Water could cause a 
+river to become animated, induce tears in someone or represent 
+emotions such as love or forgiveness.  Fire could represent part of 
+the destructive nature of a weave, produce heat or light, or 
+represent the emotions of hatred, fear, etc.  Earth could typically 
+serve to carve stone, make something heavy or represent steadfastness 
+and solidity in some way.
+
+>CREATING A WEAVE
+
+ To successfully create a weave for a given purpose, you must:
+
+ (1) Have the will to manipulate the threads properly (WP)
+ (2) Weave the threads into the right pattern (Int), and
+ (3) Have the magical strength to do it (MPs).
+
+ Occasionally, the spellweaver loses control of the threads, which 
+tangle tightly around the spellweavers link to the warp.  This cuts 
+the spellweavers link and she loses all spellweaving powers.  Never 
+again can she become a spellweaver.  This is known as cutoff (burnout 
+in Jordans' books) and has the further effect of a mental shock.  The 
+character gaining 1D3 insanity points on a failed cool test.
+
+ Spellweavers use MPs to produce their magical effects.  More on 
+gaining MPs later.  They lose MPs as they manipulate the warp and 
+regain them by meditation and with the passage of time.
+
+ To create a weave, a player must first know what she wants to do, 
+what elements she intends to use to do it and HOW those elements will 
+do it.  The GM should accept any plausible combination of elements 
+and how they interact, and decide on a suitable difficulty modifier 
+and MP cost (a suggested system of modifiers and related MPs is in 
+the sample weaves section later on).
+
+ Next, the PC has to roll against her WP to control the threads.  
+This is modified by the difficulty modifier and by any other 
+modifiers the GM deems appropriate.  If failed, the weave is flawed 
+and has no effect other than causing the PC to lose the weaves' MPs.  
+The flawed weave is quickly unpicked by the tides of the warp.  If 
+the roll is failed and is a double (11, 22 ... 99, 00), the effect is 
+more pronounced: the threads tangle and the spellweaver is cutoff as 
+above.
+
+ If the WP test is passed, the PC must satisfy condition (2).  She 
+rolls on her Int, modified by the difficulty modifier and any others 
+the GM thinks appropriate.  If passed, the weave does what it was 
+intended to do.  If failed, the weave produces an effect, but not the 
+intended one.  The GM should decide what happens according to the 
+degree of failure, type of threads present, the players' original 
+intent, etc.  Whether the Int test is passed or not, the PC loses the 
+number of MPs decided by the GM.  If the failed Int roll is a double, 
+things have VERY badly wrong and the GM can have a bit of fun making 
+the PC REALLY suffer...  An optional rule for possible daemonic 
+possession on a fumbled Int roll will be covered later.
+
+ Spellweavous effects require a variable amount of time to create, 
+specified by the GM according to the difficulty of the task.  For 
+examples of things that can be done by a weave, their (suggested) MP 
+cost, difficulty modifiers and time taken to make the weaves, please 
+see the end of this document.
+
+ The time any magical effect lasts for is up to the GM.  The player 
+should specify an approximate time period for the effect when the 
+weave is created and the GM give an appropriate modifier to the Int 
+roll, as part of the difficulty modifier.  This represents the 
+character weaving the pattern tightly enough so as not to untangle 
+(and hence stop the magical effect) for the time stated.  The MP cost 
+of the weave should be similarly modified.
+
+ >>POOLING
+
+ Pooling is the joining of several spellweavers' wills into one task.  
+Those pooling must concentrate their minds upon lending magical aid 
+to one spellweaver in the pooling with the Pool Power skill, and who 
+channels the pooled power.  This person is called the Pooler.  Each 
+spellweaver contributing to the pool must be within 5 yards of the 
+Pooler.  The effective will power of the Pooler (Pooled Will Power, 
+or PWP) becomes the average of those in the pool, plus 10 per member.  
+This is used in the test to control the threads, and is modified as 
+before.  The Poolers' effective magic point total (Pooled Magic 
+Points, or PMP) becomes the average of those in the pool, plus 10 per 
+member.  A failed PWP roll in the case of a pooled weave indicates 
+automatic cutoff for the Pooler, while the MPs of the other members 
+drop to zero.  With all the members willing an effect to happen, it 
+WILL happen, good or bad!
+
+ If the PWP roll is successful, roll on the Poolers Int as before, 
+again modifying for the difficulty of the task.  If failed, have the 
+magical effect misfire as before, but on a larger scale.  If passed, 
+the effect is as wanted.  Either way, the MP cost of the task is 
+shared equally between those in the pool.
+
+ For example, four spellweavers with WPs of 40, 43, 49 and 62 are 
+pooling their wills.  The Pooler has 39 MPs and the others have 6, 17 
+and 28 respectively.  The PWP of the group is 49+40=89 while the 
+groups PMP total is 23+40=63.  If the cost of the weave is 20 MP, the 
+final MP totals of each member are 1, 12, 23 and 34.
+
+ >>SPELLWEAVERS AND ARMOUR
+
+ Spellweavers suffer the same limitations regarding armour as do 
+Wizards and Clerics.  They expend 2 MP extra when channelling, for 
+every point of armour worn, including shields.
+
+ >>INTERRUPTED CHANNELLING
+
+ Channelling demands close attention to where each thread fits into 
+the weave, and hence concentration.  Spellweavers can move no faster 
+than the cautious rate while channelling and cannot use any damage 
+reducing skills or attack, although they may parry once per round, at 
+most.
+
+ If a spellweaver is interrupted while channelling (eg. someone hits 
+her) and she fails a WP test with the same modifiers as the weave 
+control test, she loses concentration and the weave has no effect.  
+She loses all the weaves' MPs.
+
+ Characters who are pooling must also keep their concentration.  For 
+every pool member who is interrupted, roll on unmodified WP.  For 
+each failed test, there is a cumulative 5% chance that the weave will 
+fail as if through a failed PWP test.  If the Pooler is interrupted, 
+test as though he were a lone spellweaver.
+
+ For example, the same four pooling spellweavers as above are 
+attacked by a party of Orcs while working on a weave with modifier 
++20.  All four are hit and each spellweaver in the pool must roll to 
+keep her concentration.  The Pooler (WP 62) rolls 67 and the others 
+(WP 40, 43 and 49) roll 54, 89 and 31 respectively.  Thus, the Pooler 
+passes (due to the +20 weave modifier) as does one of the other 
+members, but the other two fail.  Rolling 76 for the 10% chance, the 
+GM lets the weave be completed before telling the controlling player 
+one of the members lost concentration and the weave does nothing.
+
+ >>MAGIC POINTS AND LACK OF THEM
+
+ If a spellweaver passes the Int test in creating a weave, but finds 
+the MP cost higher than her current MPs, she has insufficient magical 
+energy to perform the task and the weave is incomplete.  Her MP total 
+drops to zero and the weave has no effect.
+
+ If pooling, the MP cost must not exceed the PMP total of the group.  
+If this occurs, all the pool members MPs fall to zero and the weave 
+has no effect.  If after, any pool members' MPs are too low for their 
+share of the MP cost, they are reduced to zero MP and the remaining 
+"unpaid" MPs are taken from the Pooler.  If this takes the Pooler 
+below zero, her total becomes negative and the shortfall must be 
+"repaid" before she can spellweave again.
+
+ Taking the example of the same four spellweavers as above, if the MP 
+cost is raised to 40, the first spellweaver has insufficient MPs and 
+the 4 MP shortfall is taken from the Poolers total to give 0, 7, 18 
+and 25 MP respectively.
+
+ >>REGAINING MAGIC POINTS
+
+ Spellweavers regain MPs in two ways:
+
+  (1) Gradually as a result of 'soaking up' magical energy from the 
+free energy of the warp.  The spellweaver regains 1 MP every 24 
+hours.
+  (2) By meditation.  See the description of the Meditation skill in 
+the WFRP rulebook.
+
+>SPELLWEAVER CAREERS
+
+ >>SPELLWEAVERS IN SOCIETY
+
+ Spellweavers' direct use of warp energies has not gone unnoticed by 
+some witchhunters, who distrust spellweavers even more than they do 
+the rest of the magical fraternity.  The ones who do not know of this 
+treat them as they do other magicians.  Spellweavers know 
+witchhunters' reactions to their abilities and so take care to 
+conceal their true profession to those outside their circle of trust.  
+They usually assume the disguise of a travelling herbalist, and learn 
+herbal skills as part of their training, being useful as well as a 
+good disguise.  Indeed, advanced spellweavers become quite proficient 
+in the arts of herbal medicine, more so than the simple herbalists 
+they pretend to be.
+
+ Spellweavers who announce their true profession are perceived by the 
+majority of society to be about the same as conventional magicians 
+and treated more or less the same - fear and/or distrust in rural 
+areas and more-or-less tolerated in urban areas.  Scholars who know 
+of the source of spellweavous magic are usually cautious when near a 
+known spellweaver.  Some GMs may like the idea of a spellweavers' 
+guild with branches in the larger towns and cities of the Empire and 
+Brettonia, based in Talabheim.
+
+ Spellweavers maintain cordial, if strained, relations with the other 
+magical professions, and are openly distrusted by clerics because of 
+their close relationship with the warp.  Followers of law, and to a 
+lesser extent good, are particularly distrustful.  Many wizards are 
+distrustful of them but at the same time respectful of their 
+mastership of the warp energies.  Relations are best with 
+elementalists.
+
+ >>SPELLWEAVER CAREERS AND ADVANCEMENT
+
+ All spellweavers begin their training as a Novice.  After this come 
+the four levels of the Spellweaver career.  Changing career up the 
+ladder gains the spellweaver MPs and requires an increasing number of 
+EPs.
+
+  +---------------+---------+----------+----------+--------+
+  | Advancing to  |   MPs   | Max. MPs | Ave. MPs |  EPs   |
+  +---------------+---------+----------+----------+--------+
+  | Novice        |  1D4+4  |     8    |     6    |  100   |
+  | Level I       |  2D4+4  |  to 20   |  -> 15   |  300   |
+  | Level II      |  2D4+4  |  to 32   |  -> 24   |  500   |
+  | Level III     |  2D4+4  |  to 46   |  -> 33   |  700   |
+  | Level IV      |  2D4+4  |  to 58   |  -> 42   |  900   |
+  +---------------+---------+----------+----------+--------+
+
+ No character who has been a wizard of any kind may enter the Novice 
+career.  The two types of magic are entirely different and use 
+incompatible approaches that cannot be known side-by-side.  
+Similarly, no PC who is or has been a spellweaver of any level 
+(including Novice) may enter a Wizards or Alchemists apprentice 
+career.  Gods may or may not allow their clerics/initiates to become 
+a Novice, or a Novice to become an initiate, depending on the 
+individual god.  If doubtful, the god is respectful of spellweavers' 
+abilities but disallows her followers from having them. 
+
+ >>CAREER DESCRIPTIONS
+
+ >>>NOVICE (Basic)
+
+ ADVANCE SCHEME
+  +---------+------------------------------+---------------------+
+  |         | M WS  BS  S  T  W  I   A Dex | Ld  Int Cl  WP  Fel |
+  +---------+------------------------------+---------------------+
+  |  Novice | - -   -   -  -  +2 -   - -   | -   +10 +10 +10  -  |
+  +---------+------------------------------+---------------------+
+
+ DESCRIPTION
+ The Novice career is the spellweaver equivalent of the wizards' 
+apprentice.  Novices spend their time mainly studying spellweavery 
+and tuning their minds to the warp energies, but must learn herbcraft 
+as well.  Most tire of the intense study while some, for one reason 
+or another, give up spellweaving.  Either way, few make it to the 
+next level of study.
+
+ SKILLS
+(N)=New skill
+  Heal Wound
+  Herb Lore
+  Read/Write
+  Secret Language - Classical
+  Sense Weave (+)
+
+ TRAPPINGS
+  Dried medicinal herbs
+  Pestle and mortar
+  Book on herbal healing
+  Book on basic spellweavery
+
+ CAREER ENTRIES
+  Druid
+  Herbalist
+
+ CAREER EXITS
+  Charlatan
+  Druid
+  Entertainer - Bunko artist
+  Herbalist
+  Scribe (those with R/W only)
+  Spellweaver level 1
+  Physicians' student (those with Heal Wounds only)
+
+ >>>SPELLWEAVER (Advanced)
+
+ ADVANCE SCHEMES
+  +---------+------------------------------+---------------------+
+  |         | M WS  BS  S  T  W  I   A Dex | Ld  Int Cl  WP  Fel |
+  +---------+------------------------------+---------------------+
+  |  Lvl 1  | - -   -   -  -  +2 +10 -  -  | +10 +10 +10 +10  -  |
+  |  Lvl 2  | - -   +10 -  +1 +3 +20 - +10 | +10 +20 +20 +20 +10 |
+  |  Lvl 3  | - +10 +10 +1 +1 +4 +20 - +10 | +20 +20 +20 +20 +10 |
+  |  Lvl 4  | - +10 +10 +1 +2 +4 +30 - +20 | +20 +30 +30 +30 +20 |
+  +---------+------------------------------+---------------------+
+ [[They get BS before WS as they sometimes have to 'manually' aim the 
+effects of a weave and so improve this first.  The Fel advances are 
+due to their practising the disguise of a herbalist]]
+
+ DESCRIPTION
+ This career represents the class of spellweavers that move on from 
+the status of novice to learn more.  Only those who have passed 
+through (and fully completed) the Novice career may enter this 
+career. Spellweavers learn more herbcraft too, enhancing their most 
+common 'public' career as well.  Each level of the spellweaver must 
+be fully completed (all advances, skills, etc.) before a PC can 
+advance to the next level.
+ 
+ SKILLS
+(N)=New skill
+(R)=Refer to notes on skill later
+  LEVEL ONE
+  Astronomy
+  Cure Disease
+  Meditation
+  Secret Language - Spellweaver (R)
+  Spellweave (N)
+
+  LEVEL TWO
+  Arcane Language - Druidic
+  Evaluate
+  Identify Plants
+  Prepare Poisons
+  Sense Power (N)
+
+  LEVEL THREE
+  Arcane Language - Spellweaver (N)
+  Demon Lore
+  Orientation (R)
+  Rune Lore
+
+  LEVEL FOUR
+  Dowsing (R)
+  Identify Undead (R)
+  Manufacture Drugs (Herbal)
+  Pool Power (N)
+
+ TRAPPINGS
+  LEVEL ONE
+  All-purpose dried herbs
+  D3 books on advanced spellweavery
+
+  LEVEL TWO
+  None
+
+  LEVEL THREE
+  25% chance of one arcane tome
+
+  LEVEL FOUR
+  75% chance of D2 arcane tomes
+
+ CAREER ENTRIES
+  Novice
+  Spellweaver of previous level
+
+ CAREER EXITS
+  Charlatan
+  Spellweaver of next level
+
+ >>NOTES ON NEW (N) OR SPECIAL (R) SKILLS
+
+ >>>ARCANE LANGUAGE - SPELLWEAVER (N)
+
+ This is the specialised magical language spellweavers have developed 
+to record the construction of particularly useful forms of weave.  
+Occasionally, a spellweaver devotes her life to recording the weaves 
+in use in her time to print, and such tomes are occasionally, but 
+rarely, found.  Most are in the libraries of highly advanced 
+spellweavers.  Such tomes are ALWAYS written in AL-Spellweaver.  A 
+spellweaver referring to an arcane tome when channelling receives a 
++20 modifier to the WP and Int tests (assuming the tome covers the 
+weave being used).
+
+ >>>DOWSING (R)
+
+ This ability develops through the mind becoming used to the 'feel' 
+of water.  The spellweaver becomes able to probe outwards with her 
+mind to locate the nearest source.  Some spellweavers carry dowsing 
+rods in order to try to mask the magical nature of this ability.
+
+ >>>IDENTIFY UNDEAD (R)
+
+ Like Dowsing, this skill comes from the spellweaver becoming used to 
+the 'feel' of an element, this time spirit.  The spellweaver can tell 
+if a creature seen is undead if she is actively 'looking' and will 
+tell when not actively 'looking' if she passes an I test.
+
+ >>>ORIENTATION (R)
+
+ Unlike the ability of rangers that develops through a well-travelled 
+life, the related ability of spellweavers comes more from a gradually 
+developing instinct that senses magnetic north, through the element 
+of earth that produces the planets' magnetic field.  This skill too 
+is based the 'feel' factor of an element (see Dowsing and Identify 
+Undead, above).
+
+ You could, if you wish, design other skills based on the 'feel' of 
+other elements along the lines of Dowsing and Identify Undead, eg. a 
+skill for sensing large underground spaces due to the large mass of 
+air there, or perhaps some sort of low-resolution ability to sense 
+heat based on sensing the fire element.
+
+ >>>POOL POWER (N)
+
+ When a group of spellweavers' pool their wills, at least one member 
+of the group must possess this skill, usually the spellweaver 
+controlling the pooled power (this person MUST have the skill).  
+Please refer to the section on Pooling (above) for more details of 
+the use of this skill.
+
+ >>>SECRET LANGUAGE - SPELLWEAVER (R)
+
+ In a society distrustful of magic and its users, and especially 
+among the witchhunted spellweavers, a secret language for the 
+initiated is almost inevitable.  Over the years this language has 
+developed to fill that gap.
+
+ >>>SENSE POWER (N)
+
+ This skill represents the ability to sense the presence of 
+spellweavous magic by touch: a spellweavers' version of Magic Sense.  
+Although Sense Weave overshadows this skill in detecting the presence 
+of spellweavous magics on objects/people (active magic), Sense Power 
+allows a spellweaver to recognise a fellow spellweaver as such 
+immediately on touch (passive or potential magic).
+
+ >>>SENSE WEAVE (N)
+
+ Spellweavers can tell when in the vicinity of weaved patterns in the 
+warp as the background 'noise' of the warp gives way locally to 
+regularly patterned weaves.  This skill gives the spellweaver the 
+ability to sense weaves within WP yards, on a successful Int test.
+
+ >>>SPELLWEAVE (N)
+
+ This is the skill allowing the manipulation of the threads.  It is 
+this skill that gives the ability right up to the top level of the 
+spellweaver, although she must gradually gain in power by rising 
+through the levels.
+
+>SPELLWEAVOUS TERMS FOR THE CHAOS REALM
+
+ Spellweavers use a number of terms for the realm from which they 
+draw their powers.  Older spellweavers tend to use 'aethyr' or the 
+newer spelling 'ether'.  Younger spellweavers are divided between the 
+ones who use 'void' and those who prefer the radical new term 'warp'.  
+Most tomes in common usage are extremely old and use the term 
+'aethyr' throughout.  The term 'chaos' is sometimes used, but has bad 
+associations with demons and the like(!), and usually avoided.  A 
+spellweavers' mental link with the warp is formally called the 
+'animus'.
+
+>SPELLWEAVERS AND CHAOS
+
+ >>THE WARPFIRE ELEMENT
+
+ Given spellweavers' close relationship with the warp, the chaos 
+powers take interest in giving spellweavous powers to some loyal 
+cultists.  Chaos spellweavers get an extended usage of the fire 
+element, the extended form of it known as warpfire.  Warpfire 
+represents the pure destructive power of chaos, and as such, is a 
+VERY powerful element, being necessary for things like creating chaos 
+wormholes, daemonic summonings, etc.
+
+ Warpfire is OFF LIMITS to spellweavers of any alignment other than 
+chaotic.  You could allow evil characters to employ warpfire, but the 
+first insanity they get as a result should be an alignment change to 
+chaos.  In the rest of this section the term 'chaos spellweaver' 
+applies equally to such characters.
+
+ It is, however, very dangerous in its use.  For one thing, the 
+spellweaver gains a magical disability (see WFRP rulebook) or chaotic 
+mutation (see Realm of Chaos: Slaves to Darkness) immediately upon 
+the first use of warpfire.  On that first use and on every use 
+thereafter, the spellweaver must roll against cool, with a penalty 
+equal to the MP cost of the weave, if the test is failed the 
+character gains 1D3 insanity points.  The risk of madness is 
+frequently only surpassed by the risk to life and limb if the weave 
+has an effect...
+
+ Chaos spellweavers become obsessed with learning the secrets of the 
+warp, and delve ever deeper into its workings.  They develop one 
+disability or D3 mutations on advancing to level one and on rising to 
+each level thereafter, as well as gaining D3 insanity points at such 
+times.
+
+ >>FUMBLED INT AND DAEMONIC POSSESSION
+
+ Spellweavers face the same risks of daemonic possession as do the 
+psykers of WH40K.  An optional rule you could use concerns fumbled 
+Int rolls: if the failed roll is a double (11, 22 ... 99, 00), a 
+daemon or other warp entity has noticed how effective a gate to the 
+material plane the spellweavers' mind could be, and has decided to 
+infiltrate it (the idea being that the Int roll also represents the 
+spellweaver taking care against such a possibility).
+
+ Roll on the spellweavers' WP, and if this is failed a daemon takes 
+over the spellweavers' body, according to the following tables:
+
+  +-----+-------------+  +-----+-------------+
+  | D10 | Daemon Type |  | D4  | Chaos Power |
+  +-----+-------------+  +-----+-------------+
+  | 1-5 |  Lesser  (*)|  |  1  |  Khorne     |
+  | 6-8 |  Greater (*)|  |  2  |  Slaanesh   |
+  |  9  |  Prince  (*)|  |  3  |  Nurgle     |
+  | 10  |  Prince (**)|  |  4  |  Tzeentch   |
+  +-----+-------------+  +-----+-------------+
+ [[Key: (*)=roll D4 for chaos power, (**)=independant daemon 
+prince.]]
+
+ For details of the daemons of the chaos powers see Realms of Chaos.  
+For more details of rules on possession see Realms of Chaosor the 
+WH40K rulebook, both of which go into possession in varying amounts 
+of detail.  Otherwise you can ignore possession or remove affected 
+characters from play (perhaps using them as nasty NPCs later: "The 
+hunched creature before you exudes the foulest smell imaginable and 
+watches you through the single eye set in its' forehead, with a grin 
+of spine chilling evil.  Apart from the single eye, the creatures' 
+face looks hauntingly familiar...").
+
+>SAMPLE SPELLWEAVOUS EFFECTS
+
+ This section covers some examples of the effects a spellweaver can 
+create, with suggested MP costs, difficulty modifiers, times taken to 
+weave and times of effect.  Feel free to modify these details as you 
+see fit.
+
+ In these example weaves, the weaves have modifiers ranging from +30 
+to -30, with MPs ranging from 1 to 35.  The difficulty associated 
+with each the different modifiers is as follows:
+
+  +----------+-------------+----------+
+  | Modifier | Description | MP Range |
+  +----------+-------------+----------+
+  |   +30    |  Trivial    |   1- 5   |
+  |   +20    |  Easy       |   5-10   |
+  |   +10    |  Average    |  10-15   |
+  |    +0    |  Hard       |  15-20   |
+  |   -10    |  Difficult  |  20-25   |
+  |   -20    |  Nasty      |  25-30   |
+  |   -30    |  Horrible   |  30-35   |
+  +----------+-------------+----------+
+
+ These values, of course, are not set in stone and you should feel 
+free to modify them as you wish.  I prefer the approach of 
+classifying a prospective weave according the these groups and 
+allocating the modifier and MPs accordingly to having a long list of 
+weaves with modifiers, MPs, times, etc. laid out like a list of 
+spells (the approach I wrote these rules as an alternative to).  The 
+time a weave takes to channel and the length of its' effects are 
+mainly a matter of common sense.  A summary table of these example 
+weaves at the end of this section.
+
+ Where a character is permitted a test against WP to resist a weaves' 
+effects, the two parties (effector and effected) may expend MPs to 
+modify the test: +/- 5 WP per MP spent.  These extra MPs must be 
+spent afresh each round of resistance/enhancing.
+
+ >>SHIELDING AND STILLING
+
+ These two are special spellweavous effects.  Shielding is the 
+temporary blocking of a spellweavers link to the warp by another 
+spellweaver.  This effectively prevents the affected spellweaver from 
+channelling.  The effector must spend MPs every turn to keep the 
+effect up.  The target is entitled a WP test at the start of every 
+turn to throw off the shielding.  Pooling is often necessary for 
+successful shielding.
+
+ Stilling is a more severe form of shielding, causing a tangle of 
+threads to tangle around the targets link to the warp, leading to the 
+same effects as for cutoff (above).  The target is allowed a WP test 
+to avoid the effects of the weave.  Pooling is frequently required to 
+successfully use this weave.  The traditional number of spellweavers 
+that pool to still a target is thirteen, although recent studies 
+suggest that this number may not be actually necessary (in actual 
+fact, only a maximum of ten are really needed, but the PCs shouldn't 
+know this).
+
+ Shielding and stilling are exceptions to the normal rules, in that 
+they both give a different modifier to WP than they do to Int.
+
+ SHIELDING  
+  Elements   : Earth, Spirit
+  WP Mod.    : Penalty equal to one half of targets' WP, rounding up
+  Int Mod.   : -20 
+  MPs        : One twentieth of targets WP per turn, rounding up
+  Weave Time : One round
+  Effect Time: 1+ turns
+
+ STILLING
+  Elements   : Fire, Earth, Spirit
+  WP Mod.    : Penalty equal to targets' WP
+  Int Mod.   : -30
+  MPs        : Targets' WP
+  Weave Time : One turn
+  Effect Time: Permanent
+
+ >>IMMOBILISATION
+
+ This is a common tactic of less aggressive spellweavers, stalling a 
+target by making her unable to move.  This is usually done by 
+"wrapping" the target in air: the air around her becomes viscous and 
+extremely difficult to move through.  The spellweaver must keep 
+spending MPs each round to ensure the continued effect.  The target 
+must roll against her strength or be immobilised in the round of the 
+test.  She must re-test each round.  Spellweavers (and other 
+characters the GM thinks appropriate) get a magical saving throw 
+against the effect, in which cases the target gets a WP test to 
+resist.
+
+  Elements   : Air
+  Mod./MPs   : +20("Easy"), 6 MPs per round
+  Weave Time : 1 rounds
+  Effect Time: 1+ rounds
+
+ >>FIREBALL
+
+ This produces a fireball as with the battle magic spell.  Damage 
+1D10 W's at S3, plus fire damage.  The spellweaver must throw the 
+fireball using her BS if the spirit element is not used.  The spirit 
+element serves to aim the fireball at a particular individual or 
+groups' thought patterns (thus any hits will be head hits).
+
+  Elements   : Fire, optionally Spirit
+  Mod./MPs   : Spirit used: +20("Easy"), 8 MPs
+               No spirit:   +30("Trivial"), 4 MPs
+  Weave Time : One round
+  Effect Time: Instantaneous
+
+ >>LIGHT SUBSTANCE
+
+ This weave is used to light or set fire to things.  A typical use 
+for it is to light a candle or set a camp-fire going.  There are two 
+forms of this weave: one that requires a flammable material to light 
+(eg. the candles' wick or the firewood) and one that doesn't (eg. if 
+all the firewood in the area is too wet).  If a combustible material 
+is available to set fire to, the weave simply applies the fire 
+element to the material to light it.  Otherwise, it uses earth to 
+create a tiny amount of combustible material where wanted and fire to 
+light it.  MPs must be spent every half hour to maintain the effects 
+in the latter case.
+
+  Elements   : Fire, optionally Earth
+  Mod./MPs   : Earth used: +20("Easy"), 7 MPs per half hour
+               No earth:   +30("Trivial"), 3 MPs
+  Weave Time : One round
+  Effect Time: Earth used: Instantaneous
+               No earth:   Half an hour +
+
+ >>MAGIC LIGHT
+
+ This causes the spellweavers hand to give forth light equivalent to 
+that of a lantern, as with the elemental spell Magic Light.  MPs  
+must be expended every ten turns to keep the light constant.  The 
+fire burns magically in the warp, casting its light onto the material 
+world.
+
+  Elements   : Fire, Spirit
+  Mod./MPs   : +20("Easy"), 7 MPs per ten turns
+  Weave Time : One round
+  Effect Time: Ten+ turns
+
+ >>FLAME SWORD
+
+ This causes the spellweavers' blade to burn with a fiery wrath, as 
+with the Hand of Fire spell.
+
+  Elements   : Fire, Spirit
+  Mod./MPs   : +10("Average"), 12 MPs per ten turns
+  Weave Time : One round
+  Effect Time: Ten+ turns
+
+ >>RESISTIVE BARRIER
+
+ The effect of this type of weave is similar to that of the battle 
+magic aura spells.  This example weave establishes an aura of 1 AP on 
+all body areas.  MPs must be expended every hour to maintain the 
+barrier. 
+
+  Elements   : Air, Spirit
+  Mod./MPs   : +20("Easy"), 8 MPs per hour
+  Weave Time : One round
+  Effect Time: 1+ hours
+
+ >>RESTRICTIVE BARRIER
+
+ This type of weave establishes one or more invisible walls with a 
+range equal to the spellweavers WP in yards.  The 'wall' has T4 and 
+for this sample weave has 25 damage points.  Additional MPs must be 
+spent every half hour to maintain the barrier.
+
+  Elements   : Air
+  Mod./MPs   : +0("Hard"), 16 MPs per half hour
+  Weave Time : One turn
+  Effect Time: Half an hour +
+
+ >>HEAL FLESH
+
+ Spellweavous healing magic uses earth and water to work on the flash 
+and blood.  The healing takes two rounds to fully work.  This example 
+heals 2D3 W's.
+
+  Elements   : Earth, Water
+  Mod./MPs   : +20("Easy"), 8 MPs
+  Weave Time : Two rounds
+  Effect Time: Until wounded again
+
+ >>NULLIFY POISON
+
+ This variant of the healing weave can be used to detoxify a target 
+of poisons, using fire to burn them away.  Each weave can only 
+nullify one type of poison (species specific toxins, deliriant or 
+venoms).  The detox takes two rounds.  The weave does not protect 
+against further poisoning.  This example weave nullifies 1 dose.
+
+  Elements   : Water, Fire
+  Mod./MPs   : +10("Average"), 14 MPs
+  Weave Time : Two rounds
+  Effect Time: Until poisoned again
+
+ >>CUT WEAVE
+
+ This type of weave is used to try to nullify a rival spellweavers' 
+weave.  It takes an 'axe of spirit' and attempts to cut the threads 
+of the opponents' weave, the fire giving the weave its destructive 
+quality.  The opponent has a WP test to resist, if passed the cutting 
+does no harm to the weave and its effects continue.  If failed the 
+opposing weave is disrupted and loses its effects.  The effects of 
+the weave prior to the cutting are NOT nullified.
+
+  Elements   : Spirit, Fire
+  Mod./MPs   : -10("Difficult"), 23 MPs
+  Weave Time : One turn
+  Effect Time: Instantaneous
+
+ >>PORTAL
+
+ This is an example of a special weave for chaos spellweavers 
+employing the warpfire element.  This weave opens a portal between 
+the warp and the material realm big enough for an average human to 
+step through.  The warpfire burns a hole in the fabric of the barrier 
+between warpspace and the material plane, large enough for the 
+spellweaver to enter or leave the warp through.  The earth is used to 
+seal up the portal when it closes.  The effects of a warp portal (eg. 
+a few daemons coming through, the spellweaver getting sucked through, 
+etc.) are up to the GM.
+
+  Elements   : Warpfire, Earth.
+  Mod./MPs   : -20("Nasty"), 30 MPs
+  Weave Time : Three rounds
+  Effect Time: Maximum two rounds.
+
+ >>WEAVE STATS SUMMARY TABLE
+
+ TWP denotes the WP of the weaves' target.  A, W, F, E, S and Wf 
+denote air, water, fire, earth, spirit and warpfire respectively.  
+Tr, Ea, Av, Ha, Di, Na and Ho denote trivial, easy, average, hard, 
+difficult, nasty and horrible respectively.
+
+  +----------------+----------+---------------+---------+-----------+
+  | Weave          | Modifier | Magic Points  | Weave   | Effect    |
+  |     (Elements) |          |               |    Time |     Time  |
+  +----------------+----------+---------------+---------+-----------+
+  | Shield (E,S)   | -TWP/2   | TWP/20 per tn | 1 rnd   | 1+ turns  |
+  | Stilling(F,E,S)|  -TWP    | TWP           | 1 tn    | perm.     |
+  | Immob. (A)     |  +20 (Ea)| 6 per rnd     | 1 rnd   | 1+ rnds   |
+  | Fireball -(F)  |  +30 (Tr)| 4             | 1 rnd   | instant   |
+  |          -(F,S)|  +20 (Ea)| 8             | 1 rnd   | instant   |
+  | Lgt subst.-(F) |  +30 (Tr)| 3             | 1 rnd   | instant   |
+  |          -(E,F)|  +20 (Ea)| 7 per half-hr | 1 rnd   | half-hr+  |
+  | Magic lgt (F,S)|  +20 (Ea)| 7 per 10 tns  | 1 rnd   | 10+ tns   |
+  | Flame swd (F,S)|  +10 (Av)| 12 per 10 tns | 1 rnd   | 10+ tns   |
+  | Resis.bar.(A,S)|  +20 (Ea)| 8 per hour    | 1 rnd   | 1+ hrs    |
+  | Restr.bar. (A) |  +0  (Ha)| 16 per half-hr| 1 tn    | half-hr+  |
+  | Heal flesh(E,W)|  +20 (Ea)| 8             | 2 rnds  | until W'd |
+  | Nul. psn. (W,F)|  +10 (Av)| 14            | 2 rnds  | until psnd|
+  | Cut weave (S,F)|  -10 (Di)| 23            | 1 tn    | instant   |
+  | Portal (Wf,E)  |  -20 (Na)| 30            | 3 rnds  | max.2 rnds|
+  +----------------+----------+---------------+---------+-----------+
+
+>EXAMPLES OF COMPLETE WEAVES
+
+ There follow some examples of fully worked through weaves in game 
+terms.  These use the example weaves above but could easily have used 
+improvised figures.
+
+ >>EXAMPLE WEAVE: NUMBER ONE - HEALING
+
+ Fred, a level one elven spellweaver, and companions have been 
+fighting some stunty slayurs and are in need of healing.  Sam is on 1 
+W and Pietr is on 3 W's.  Fred (unscathed, as he stayed back and let  
+his warrior mates deal with them) has WP 58, Int 61 and 18 MPs.
+
+ Fred weaves earth and water into a pattern to heal 2D3 W's, a weave 
+with modifier +20 and costing 8 MPs.  With the +20 modifier he gets a 
+WP of 78 and easily makes it with 06.  He rolls 44 on the Int roll, 
+less than 81, so the weave goes as expected.  Sam regains a total of 
+4 W's putting him at 5 W's and now counted as lightly wounded.
+
+ Repeating this for Pietr, Fred rolls 56 on his WP roll and 98 on the 
+Int roll.  Thus the weave is controlled but functions differently 
+than desired.  Failing the Int roll by 12 percentiles, the GM decides 
+that Pietr LOSES 1D2 W's, leaving him at 1 W.  Previously lightly 
+wounded, He is now heavily wounded.  In total, the two weaves cost 
+Fred 8+8=16 MPs, leaving him 2 MPs.
+
+ >>EXAMPLE WEAVE: NUMBER TWO - WAITING IN THE WARP
+
+ Wolfgang Schwarzkopf, a chaotic human spellweaver of level 3, is 
+fleeing from the witchhunters.  In an act of insane desperation, 
+Wolfgang (Int 44, WP 52) decides to hide in warpspace until the 
+witchhunters are gone, weaving warpfire and earth for a warp portal.  
+The -20 on WP gives him 32% for the test.  Rolling 27, the weave is 
+controlled.  He now has a 44-20 = 24% chance of the weave doing what 
+he intended: he passes with 08.
+
+ Thus the weave works and the portal through to the chaos realm is 
+opened (letting a couple of lesser demons through).  Wolfgang steps 
+through the portal into warpspace and seals it.  His luck just holds 
+out as he rolls 49 on his risk test of 50% to avoid a warpstorm.  The 
+GM is feeling generous and so decides all the warp creatures in the 
+vicinity are off watching Khorne have a temper tantrum (otherwise, 
+Wolfgang'd be gobbled up by the first disc that came along).
+
+ When Wolfgang thinks the witchhunters will have gone, he has to open 
+another portal back to the material realm.  Rolling 88 on the 32% WP 
+test, he has fumbled badly and been cutoff.  Now Wolfgang is trapped 
+in the chaos realm and it appears that Khornes' tantrum is over...  
+With quite a few of Tzeentchs' discs already sharpening their teeth 
+in the distance, Wolfgang is definitely in trouble...
+
+ >>EXAMPLE WEAVE: NUMBER THREE - THE LIGHT FANTASTIC
+
+ Seymour, an advanced level four human spellweaver (Int 67, WP 58) is 
+reading a spellweavous tome when his candle goes out.  He weaves some 
+threads of fire to relight it.  This simple weave will give Seymour a 
++30 to his WP and Int tests, giving the WP and Int test percentages 
+as 88% and 97% respectively.  Seymour passes his WP test with 24 and 
+his Int roll with 68.  The weave has gone as planned, the candle is 
+relit and Seymour can now carry on reading.  The weave takes 3 MPs 
+from his MP total.
+
+>AND FINALLY...
+
+ As you will have noticed, the freedom of effects that spellweavers 
+have makes the GMs' job much harder than with conventional magic.  
+This is necessary as no rigid system for deciding on modifiers and MP 
+costs could ever be exhaustive enough.  As such, I would recommend 
+these rules only for experienced GMs.
+
+ In my opinion, the increased power of the freedom to do anything is 
+countered by the lack of automatic success and the risks of cutoff 
+and possession.  Please don't complain that the magical effects are 
+too weak or powerful: you can tailor the modifiers and MPs however 
+you like and thus make the magic as powerful as you want it.  Whether 
+you want a magic-poor world or spellweavers with almost god-like 
+powers, it's up to you.  What's more, you can make the weave effects 
+as safe or dangerous, easy or difficult, as you want them to be.
+
+ I think that the modifiers given in the example weaves make it 
+difficult for inexperienced spellweavers to regularly use the ability 
+and not be quickly cutoff, although advanced weavers can justifiably 
+expect a reasonably high chance of success on at least simple weaves.  
+The following table gives the overall chances of success (WP and Int 
+test combined) and cutoff for weaves woven by an average spellweaver 
+of that race using weaves whose modifiers range from -30 to +30.
+
+  +-------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+  | N/L1  | -30 | -20 | -10 |  +0 | +10 | +20 | +30 |  -  |  -  |
+  | L2/L3 |  -  | -30 | -20 | -10 |  +0 | +10 | +20 | +30 |  -  |
+  | L4    |  -  |  -  | -30 | -20 | -10 |  +0 | +10 | +20 | +30 |
+  +-------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+  | Human | 1,10| 4,9 | 9,8 | 16,7| 25,6| 36,5| 49,4| 64,3| 81,2|
+  | Elf   | 6,9 | 12,8| 20,7| 30,6| 42,5| 56,4| 72,3| 90,2|100,0|
+  | Dwarf | 3,8 | 8,7 | 15,6| 24,5| 35,4| 48,3| 63,2| 80,0| 90,0|
+  | H'ling| 2,9 | 6,8 | 12,7| 20,6| 30,5| 42,4| 56,3| 72,2| 90,0|
+  +-------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+
+ To use the table to find, say, the chances of success and cutoff for 
+a level 2 human spellweaver using a +20 weave, follow the 'L2/L3' row 
+across until you find '+20', then move down that column until you are 
+in the row headed 'Human'.  In that cell will be two numbers 
+separated by a comma, the first is the percentage chance of success 
+and the second is the percentage chance of cutoff.  Therefore, the 
+figures wanted turn out to be 49% success and 4% cutoff.  As you will 
+notice, the high characteristic rolls of elves and dwarves give them 
+an advantage over human and halfling spellweavers.  Using the range 
+of modifiers from -30 to +30 makes all chances of success from 0 to 
+100% possible, while the chance of cutoff can never rise above 10%.
+
+  One thing I haven't gone into is the psychological effects on non 
+chaotic characters of dealing with the warp.  You could make 
+spellweavers take a cool test when ascending a level or gain D2 
+insanity points, this is entirely up to you.  You could say that 
+dealing with the warp on this level affects even the most guarded of 
+minds.  I recommend you consider this in particular for elves, whose 
+default alignment would mean a certain amount of psychological stress 
+when using warp energies directly on a regular basis.
+
+ A read of Jordans' books will help you understand the possible 
+effects of such a freeform system as this, and I recommend that you 
+do read the series.  Apart from giving a feel for the way you weave 
+magical effects, "The Wheel of Time" is a brilliant series anyway 
+(IMHO).  The books in the series are, in order, "The Eye of the 
+World", "The Great Hunt", "The Dragon Reborn", "The Shadow Rising", 
+"The Fires of Heaven" and "Lord of Chaos".  There's a seventh book 
+(hopefully) coming out soon, which will be called "Crown of Swords".  
+I've changed little of what Jordan wrote, the main differences being 
+that male spellweavers don't automatically go mad anymore and there 
+are no differences in thread manipulation between genders.  I'm sure 
+you'll be able to work out the other differences by yourself.
+
+ Finally, do let me know what you think of these rules.  Are they 
+exquisitely wonderful, atrociously awful, or somewhere in-between?  
+You can contact me (at the time of writing - Jan '95) by email on 
+Aca95IDW@Sheffield.ac.uk (personal mail address) or 
+wfrp@gojira.monsta.com (WFRP mailing list).
+
+[[Ideas for expansion:
+1) Some sort of critical table for fumbled WP and/or Int tests.
+2) Bonus modifiers for commonly used weaves, akin to learned spells 
+(possibly linked to the spellweavous tomes covered).
+3) Angreal (spellweavous magic items).  'Borrowing' the names Jordan 
+used, Sa'angreal and Ter'angreal:
+ - Sa'angreal: a type of spellweavous magic item that makes 
+channelling easier.  Something like a +10 or +20 modifier (depending 
+on the sa'angreals' strength) to WP and Int for all weaves when held, 
+and reducing the weaves' MP cost.
+ - Ter'angreal: more general magic items with more specialised 
+abilities (much like the standard WFRP magic items).
+4) Spellweavers specialising a bit.  Perhaps something along the 
+lines of the spellweaver being given 30 percentiles, to divide up as 
+bonuses on specific elements as she wants.  She could put use them 
+all to give her a +30 on weaves involving fire, or getting +15 on 
+fire, +5 on air and +10 on spirit.  Spellweavers specialising in this 
+way would have to pay 150(?) more EPs on advancing levels.]]
+
+[[Brief version history:
+  v. 1-  Dreadful.
+  v. 2-  Near total rewrite of v1.
+  v. 3-  Dropped racial mod's, cutoff rules revised,
+          Weave mod's extended to Int and revised.
+  v. 3b- This version: a 'Bug fix'.
+          (Well, I am a computer scientist! :}).
+          Inconsistancies from last update removed.]]
+
+  TTFN.
+  Ian Ward.
+

@@ -1,0 +1,104 @@
+From wfrp-owner@gojira.monsta.com Mon Jul 17 05:47:27 1995
+Received: from mercury.unt.edu (mercury.unt.edu [129.120.1.1]) by flipper.pvv.unit.no (8.6.12/8.6.12) with SMTP id FAA17649 for <toaster@datter.pvv.unit.no>; Mon, 17 Jul 1995 05:47:23 +0200
+Received: from gojira.monsta.com by mercury.unt.edu with SMTP id AA23239
+  (5.65c/IDA-1.4.4); Mon, 10 Jul 1995 01:21:54 -0500
+Received: by gojira.monsta.com (Smail3.1.28.1 #2)
+	id m0sVBXO-0006KZn; Mon, 10 Jul 95 00:37 CDT
+Received: from mail06.mail.aol.com by gojira.monsta.com with smtp
+	(Smail3.1.28.1 #2) id m0sVBXJ-0006KCC; Mon, 10 Jul 95 00:37 CDT
+Received: by mail06.mail.aol.com
+	(1.37.109.11/16.2) id AA004654674; Mon, 10 Jul 1995 01:37:54 -0400
+Date: Mon, 10 Jul 1995 01:37:54 -0400
+From: IrishSpy@aol.com
+Message-Id: <950710013753_111413396@aol.com>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: NPC submission
+Reply-To: wfrp@gojira.monsta.com (The wfrp mailing list)
+Errors-To: wfrp-owner@gojira.monsta.com
+Content-Return: Prohibited
+Precedence: junk
+X-Bmw: Black Marble Wombat Version 5.2.2
+X-Bmw-Mailing-List: wfrp
+Status: R
+
+Hi all,
+
+Here's a sample NPC, fre for use in your home campaigns.  He's meant to be a
+powerful, resourceful enemy or ally for the PC's, with a slightly
+non-traditional career-path.  HE' suitable for use in any part of the Empire.
+
+see ya,
+--Anthony
+  Snotling in Chief 
+  Armchair Polytheologian 
+  7/9/95 10:35:00 PM
+*******************BEGIN************************************************
+
+Ottokar Steinhaus
+
+Current Career:  Outlaw Chief
+Career History:  Hunter, Wizard's Apprentice, Wizard 1, Elementalist 1,
+Outlaw, Outlaw Chief
+
+Age:  41
+Alignment:  Neutral
+Species:  Human.  Sex:  male.
+Appearance:  5' 8", barrel-chested, curly salt-and-pepper hair and beard,
+hirsute.
+
+Personality:  Quick to laugh, quick to anger, slow to forgive, never forgets.
+ Loyal to friends, fearsome to enemies.  Dynamic, a dominant speaker.  Can be
+intimidating:  he knows it and uses it.  Loves peasant (folk) music.  A man
+of action, but too stubborn after a decision is made.  Holds grudges.  While
+not one for wanton cruelty, he is not above a brutal display to cow the
+oppositon.
+
+Notes:  Apprenticed to wizard late in life after years as a hunter.  Master
+framed by local magnate, hanged for crime he didn't commit.  Ottokar flees.
+ Life as fugitive embitters him.  Takes up life of outlaw out of desperation
+and desire for revenge, discovers he loves it.  Now he leads a small band in
+his home province.  Mixes magic and banditry well.  There is a reward of
+1,000 crowns for him, dead or alive.  Five hundred from the now-aging
+magnate, and 500 from the provincial wizard's guild.
+
+Stats:
+
+M 4; WS 57; BS 70 (80 w/marksmanship); S 4; T 6; W 7; I 49; A 3;
+DEX 43; LD 62; Int 58; CL 48; WP 40; Fel 50
+
+Skills:
+
+Luck, Scale Sheer Surface,Concealment Rural, Follow Trail, Game Hunting,
+Secret Language --
+Ranger, Classical, Battle Tongue; Secret Sign -- Woodsman, Silent Move Rural,
+Immunity to
+Poison -- Animal, Arcane Language --Magick, Elemental Magick, Cast Spells --
+Petty, Battle 1,
+Elemental 1; Read/Write, Scroll Lore, Identify Plants, Magic Sense, Rune
+Lore, Scroll Lore,
+Dousing, Herb Lore, Metallurgy, Disarm, Dodge Blow, Set Trap, Spot Trap,
+Strike Mighty Blow,
+Strike to Stun, Ride Horse, Animal Care, Marksmanship, Sing.
+
+Spells:
+
+Petty -- Curse, Gift of Tongues, Magic Alarm, Marsh Lights, Open, Produce
+Small Creature, Sleep.
+Level 1 Battle -- Aura of Resistance, Cure Light Injury, Hammerhand, Steal
+Mind.
+Level 1 Elemental -- Assault of Stones, Blinding Flash, Breathe Underwater,
+Hand of Fire.
+
+Trappings:
+
+Horse (only he can control it, nasty tempered horse), sleeveless chain coat,
+metal cap, shield,
+broadsword, crossbow, hunting bow, brace of pistols, ammunition, black
+powder, heavy leather
+travelling cloak.  4d10 crowns at any time.  All necessary spell components.
+ Anything else the GM deems fit. For his Merry Men, make up any suitable
+outlaws.  He travels with 2d3 as his personal escort.
+
+This letter composed with "You've Got Mail!" version 1.3 (Preview)
+
+

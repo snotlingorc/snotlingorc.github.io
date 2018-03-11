@@ -1,0 +1,357 @@
+Message inbox:18 -  Read
+From:               (The WFRP mailing list) <WFRP@cool.khis.com>
+Authorizing-Users: Stephen Rubin <rubin@wpi.edu>
+To:                <WFRP@cool.khis.com>
+Reply-To:           (The WFRP mailing list) <WFRP@cool.khis.com>
+Importance:        normal
+Subject:           Vortext ¦9 (finally)
+
+RFC-822-HEADERS:
+Errors-To: WFRP-owner@cool.khis.com
+X-Bmwmail: 4.1
+X-List: The WFRP mailing list
+
+==================
+
+Sorry this is late, I've been really busy lately!
+------------------------------------------------------------------------------
+>From Vortext #9:
+
+entered by Stephen Rubin (rubin@wpi.wpi.edu) as it appears in the
+ magazine, no corrections, no comments
+-------------------------------------------------------------------------------
+
+           Warhammer Plumbing
+
+          (Fixing a Few Leaks)
+
+            by Anthony Ragan
+
+
+        For a first edition game, Games Workshop's Warhammer Fantasy
+Roleplay is remarkably free of errors.  It plays cleanly and simply,
+and the basic rules/concepts are clear and easy to understand.  As
+with anything as complex as a role-playing game, however, there are
+always dumb rules, poorly explained rules, rules that just don't work,
+and even rules that don't exist, but should.  In other words, there
+are leaks in the system.
+        This article proposes to fix a few of those leaks, such as the
+ill-designed parrying rules or the pitiful weakness of firearms.  When
+needed, I suggest new rules to fill gaps in the system, such as a
+method for handling multiple attacks and a way to encourage players to
+take a broad range of skills.  Most of these changes represent simple
+quick fixes that have been tried and tested in my home campaign.
+
+Character Development and Skills
+
+        The system given in the rulebook for changing careers (WFRP,
+p. 92) specifies that the player spends 100 experience points (EPs)
+when taking a listed career exit, 100 points when taking a basic
+career in the same general class as the current career, and 200 points
+for choosing a basic career in another class.  This method is simple,
+but leaves several questions unanswered.
+        First, the point costs themselves are not well designed.  As
+written, it costs as much to take any basic career that is in one's
+general career class as it does to take a listed exit.  Yet it should
+be easier to take a listed exit, which can be considered a natural
+relative of the current career.  Moving to a career not specified as
+an exit, yet in the same general class, ought to be more difficult; we
+can reflect this difficulty in a moderate increase in the EPs required
+to switch.  With this in mind, I suggest the following revised point
+schedule:
+
+        Take a listed career exit               100 points
+
+        Take a basic career not listed
+        as an exit but in the same
+        general class                           150 points
+
+        Take a basic career not listed
+        as an exit and not in the same
+        general class                           200 points
+
+
+        There is also no mention of the general character classes into
+which the advanced careers fall.  When a player wishes to move from
+Forger to Grave Robber, for example, is the Forger considered to be a
+Rogue (because of his shady duties), or is he an Academic (because of
+the rather intellectual nature of his work and the many advances
+granted to intelligence)?  The following lists assign each of the
+advanced careers to a general character class.  In some cases, one
+career has been assigned to more than one class because of its
+multifaceted nature.
+
+        Academic:  Alchemist; Artisan; Cleric - Cults of Morr,
+                   Shallya, Sigmar, and Verena; Counterfeiter; Druidic
+                   Priest; Explorer; Forger; Lawyer; Merchant;
+                   Navigator; Physician; Scholar; Sea Captain; Wizard
+
+        Ranger:  Cleric - Cult of Taal/Rhya; Druidic Priest; Explorer;
+                 Outlaw Chief; Scout
+
+        Rogue:  Assassin; Charlatan; Cleric - Cult of Ranald;
+                Counterfeiter; Demagogue; Fence; Forger; Highwayman;
+                Spy
+
+        Warrior:  Artillerist; Assassin; Cleric - Cults of Khaine,
+                  Myrmidia, Sigmar, and Ulric; Duelist; Free Lance;
+                  Giant Slayer; Gunner; Highwayman; Judicial Champion;
+                  Mercenary Captain; Outlaw Chief; Racketeer; Sapper;
+                  Sea Captain; Slaver; Targeteer; Templar; Torturer;
+                  Witch Hunter
+
+        Using these lists, a GM can now assess the proper number of
+EPs when a player wishes to switch from an advanced career to a basic
+one that is not on his exit list.  To enter an advanced career
+requires that the character has the advanced career as a listed exit.
+        Using the rules above, a PC wishing to move from Artillerist
+to Seaman would have to spend 150 EPs, not 100, because Seaman is a
+Warrior career not listed as an exit for the Artillerist.  Finally, if
+a character wishes to re-enter a career previously followed, whether
+it is a listed exit or not, he need merely spend 100 EPs.
+        Skills are a nother problematic area for the player and the
+GM.  One of WFRP's strengths is the wealth of skills available.  The
+idea is to make it worthwhile for players to acquire a broad range of
+skills so that they have the tools necessary to deal handily with any
+situation.  The rulebook, though, gives few guidelines for handling
+characters who attempt tasks without having the necessary skills,
+except for those who use specialist weapons while unskilled.  To
+simply say that the character can't do it is too arbitrary:  If the
+logic of the situation calls for the player to attempt the task, he
+should be allowed to try.  He shouldn't have a good chance of success,
+though, lest the value of the skills themselves be cheapened.  To make
+it worthwhile to have lots of skills, and yet allow characters to
+attempt whatever they think necessary, let me recommend a new rule.
+        Whenever a character attempts a task for which he does not
+have the relevant skill, roll a d100 against 20% of the appropriate
+statistic, rounding all percentages down.  (Stats that are rated on a
+1-10 scale are first multiplied by 10 to arrive at a percentile
+number.)  For example, Curinir the Wood Elf Necromancer is desperately
+attempting to pick a lock.  As an Elf, he has a relatively high
+dexterity of 50.  Since he lacks the pick locks skill, though, he has
+only a 10% chance of opening the lock.  He has a small chance of
+success, but an even greater chance of failure.  If he wishes to open
+locks in the future, he has a strong incentive to learn the necessary
+skill.
+        The only exception to this is spellcasting.  Only a character
+that has been trained at some point may cast a spell.  A character
+without the skill has no chance to succeed, unless he ahs a magical
+item that itself casts the spell.
+
+New Skills
+
+        While WFRP contains a wealth of skills, there are some lacking
+that one would think belong in an RPG filled with action and intrigue.
+This section proposes a few needed additions.
+        Lightning Draw:  The rules on "Actions" (WFRP, p. 116) allow
+the GM the choice of either allowing "instant take-up", thus having
+weapons or other items ready at a moment's notice, or assessing each
+character a round's worth of action for drawing a weapon or getting an
+item.  I prefer the latter, since it increases the tension in
+dangerous situations and forces the adventurers to think about their
+preparations.
+        Still, routinely charging an action for drawing a weapon makes
+combat too mechanical.  A bit of the excitement is taken away from the
+start of the combat.  To allow for some variety at the start of a
+combat and to let the hero stand out more from the rabble, I suggest a
+compromise between the instant take-up and the charged-action-for-all
+options:  the Lightning Draw skill.
+        Upon learning this skill, the character may attempt to draw
+his weapon and strike in one fell swoop, while others must suffer
+through a take-up action.  The test is made against the character's
+Initiative score.  If the character is successful, he may draw and
+strike without being assessed a take-up.  This attack (or the first
+attack, if the character has an A score greater than one) occurs
+before any other attacks, outside of initiative order.  If the
+character has been surprised, he may attempt a lightning draw to draw
+his weapon and parry, but not to attack.
+        Failing his Initiative roll means that the character has drawn
+his weapon, but strikes in normal Initiative order, and he is assessed
+a take-up.  Should the character roll a fumble, or if he fails by 30
+points or more, then he has completely botched it and tossed his
+weapon d4 yards away in a direction determined by rolling a d12.  GMs
+should bear in mind that a character making a lightning draw may well
+catch his opponent by surprise, particularly if the opponent thinks he
+has the character at a disadvantage.
+        Shield-bashing:  This is a new specialist weapon skill,
+designed to allow the character to tuse his shield offensively,
+usually to plow his way past the opposition.  To be effective, the
+attacking character must run at least his M score in yards.  The
+attacker then tests against his Weapon Skill.  If he fails, he is face
+to face with his opponent and is locked in melee.
+        If he succeeds, however, a test is then made of the attacker's
+Strength against the defender's Toughness (convert both stats to
+percentages, as above).  If both succeed, the winner is he who
+succeeded by the greater percentage.  Should the attacker win he has
+knocked his opponent aside and may continue his movement.  Lastly, if
+the defender failed his Toughness test by 30 or more, he has been
+knocked flat on his back and is stunned and prone for the next round.
+If the defender wins, he has withstood the charge and the two are
+locked in melee.  If the attacker fails his Strength roll by 30 or
+more, then he has himself been knocked to the ground and is stunned
+and prone for the next round.
+        Only one shield bash is allowed each round; a character may
+not knock one opponent aside and immediately bash the next one in his
+path.  Finally, shield-bashing uses up all the character's attacks for
+that round.  He may not bash on opponent and then attack another.
+        Character Judge:  A character with this skill is able to
+accurately gauge nother's mood as fearful, trusting, deceitful, hidden
+anger, etc.  The GM makes a secret check against the Fellowship of the
+character using the skill.  Success means that the character has read
+the subject's mood.  The degree of success indicates the amount of
+information gleaned.  (This is not telepathy, however!)  Barely
+failing means the character gains no special insights, while failing
+by 30 or more means that the testing character has gotten it all
+wrong.  Magic or skills that mask emotions will apply negative
+modifiers to the testing character's roll.  For example, successful
+use of the Acting skill by someone trying to lie convincingly will
+subtract 10% from the character's Fellowship test.
+
+Combat Quirks
+
+        For all our love of memorable plots and vivid characters,
+great stories and intense role-play, it is combat that provides that
+rush of adrenaline and cathartic release that we all seek in an RPG.
+WFRP combat provides that.  It is simple yet dramatic, fillled with
+thrusts and parries, furious attacks and desperate defenses, gory
+critical hits and the ever-present threat of sudden doom on the roll
+of a natural six.
+        There are still gaps to fill, however.  There is no prescribed
+method for handling multiple attacks, the parrying rules are badly
+written, and firearms are too weak for their low rate of fire and the
+danger they pose to the user.  This section addresses these problems,
+and suggests some new rules.
+        Gunpowder Weapons:  These are too weak to be of real use in
+the game.  A pistol or a blunderbuss takes several rounds to reload
+and the user runs the risk of injuring himself on a misfire.  With a
+natural strength of three, firearms are distinctly inferior to bows
+and crossbows, which fire more often and pose no risk to the user.
+There is no reason in the game mechanics for a player to use a firearm
+or learn the "specialist weapon-firearms" skill.  This is sad, since
+the crude firearms are part of the charm of the game.
+        To fix this, I have increased the strength of firearms in mt
+campaign to four.  The user gains the benefit of additional strength
+to compensate for the lower rate of fire and the risk he faces.  I
+recommend adding one to the strength of the new guns in the Warhammer
+Companion also, to keep them in line with the pistol and the
+blunderbuss.
+        Multiple Attacks:  Multiple attacks have been a problem in
+combat, as witnessed by Games Workshop's attempt to regulate them by
+the "effective initiative" system in the Restless Dead.  This is a
+poor solution, since it involves multiple clumsy calculations that
+slow combat far too much.  Yet to use the rules as they are written
+oin the book literally is unacceptable, too.  If one character with
+four attacks has an Initiative just one point higher than his
+opponent, then he will make all his attacks before his opponent has a
+chance to retaliate.  This is potentially devastating and definitely
+not satisfying to the player whose character is cut down in such a
+fashion.
+        There is an easier way to fix this.  All PCs and NPCs take
+their first attacks in Initiative order.  Then all take their second
+attacks in Intiative order.  Third attacks are dealt with in the same
+fashion.  This process continues until all attacks have been made.
+Spells cast in melee take effect during the first attacks, at the
+point determined by the casting wizard's Initiative.  Combat can then
+proceed in an orderly manner, and all participants will usually get at
+least one strike.
+        Parrying:  The modifiers given for parrying in the table on p.
+120 contain an oddity.  The left-handed dagger, which is listed as a
+parrying weapon, is actually less effective against an opponent's
+attempt to parry it than a normal dagger or knife (-10% to the
+opponent's chance to parry as opposed to -20% for the dagger/knife).
+These should be reversed to reflect the parrying weapon's supposed
+advantage.
+        More importantly, the attempt in The Restless Dead supplement
+to give specialist parring weapons some sort of desirable advantage by
+allowing such weapons a free parry in addition to the normal attacks
+is poorly designed.  To offset the fact that a sword-breaker gains a
+free parry under the new rule, I resort to the ugly gimmick of ruling
+that the sword-breaker's special ability won't work on the free parry.
+        This ill-conceived rule should be dropped altogether.  The
+equivalent of a free attack, though it may only be used to parry, is
+too powerful.  Rather, simply allow the user of a specialist parrying
+weapon a +10% bonus to his weapon skill test when he attempts to to
+parry, assuming he has the necessary specialist weapon skill.
+        Withdrawal:  Surprisingly, the melee rules do not allow a
+combatant the option to withdraw without exposing his back and being
+subject to a free attack (WFRP, p. 119).  It seems that this should be
+possible, though.  As an addition to the combat rules, I suggest that
+a combatant be allowed to withdraw from melee by backpedalling up to
+his M score in yards directly backwards.  he would still face his
+opponent and would not be subject to a free attack.  His opponent,
+though, would have the option to follow up and continuethe fight.  The
+character who follows up is assumed to be winning the fight, and thus
+gains +10% to this Weapon Skill in the next round.
+        Surprise:  Players have mixed feelings about surprise:  They
+love to catch the bad guys unawares, but will argue incessantly that
+they themselves are always prepared, ready, armed, and armored, even
+when they're asleep!  Surprise grants a great, almost overwhelming,
+advantage to the side that achieves it.  That side has almost complete
+freedom of action, while the foe can do very little. Surprise is
+sharp, sudden, and dangerous.  It is one of the most dramatic moments
+in the game.
+        With that in mind, it's surprising (pun intended) that WFRP
+handles the subject in such a loose fashion.  Aside from some general
+guidelines on pp. 116-117, the only specific reference to surprse is
+found under the Hide test (p. 69), which says that a successful test
+makes surprise automatic.  Here are revised guideline to cover other
+situations in which surprise occurs, mention of the skills relevant in
+each case, and suggested changes to surprise results to make them more
+believable in context of a ten second combat round.
+        Surprise can occur anytime one side, or both, does not expect
+the other.  Whether rounding a corner in the Duke's dungeons or
+wandering through the Forest of Shadows, when one group blithely
+stumbles into the other, surprise can result.  In this case, each side
+tests against Initiative.  Success indicates that the character is not
+surprised.  Rolls should be made for each figure involved.  If there
+are too many characters involved for this to be convenient, test
+against the highest "I" in each group.  In any event, be sure to apply
+the same method to each party.  The GM should bear in mind relevant
+skills that will influence the die roll for each side.  These include
+Luck, Acute Hearing, and the silent move skills.
+        As stated in the rulebook, a successful Hide test guarantees
+automatic surprise.  Remember that the various concealment and silent
+move skills should be factored in.  The GM, in addition, should keep
+in mind Luck for both sides, while Sixth Sense, Acute Hearing, and,
+posiibly, Excellent Vision weign in the intended victim's favor.
+        There is a special case of ambush in which a Hide test is not
+appropriate.  When a scout tries to sneak up on an orc sentry, when an
+assassin tries to close with his target, or in any such circumstance,
+use Listen instead.  Failure on the part of the victim means automatic
+surprise.  In this case alone the attacker has one free round and his
+target is considered prone.
+        The rulebook states that surprised characters may "do
+absolutely nothing for one round, whilst their enemies have a 'free
+round' to act in" (WFRP, p. 116).  It is unbelievable that surprised
+characters would stand around for ten seconds without reacting at all.
+If, in addition, the attacker has multiple attacks, the victim has
+almost no chance whatsoever.
+        I suggest instead that, if the victim fails the "I" test by
+less than 30% or the ambusher passes his Hide test by less than 30%,
+the victim be allowed to only dodge or parry.  Characters with the
+Lightning Draw skill may attempt to draw a weapon to parry.  Should a
+victim fail or an ambusher succeed by 30% or more the victim may still
+dodge, parry. or attempt a Lightning Draw, but only at 50% of his
+normal skill.  In no case may the victim attack, fire missiles, or
+cast spells.
+        Continuing Attacks:  Finally, there is the question of the
+options available to a charcter who has multiple attacks but finishes
+off his opponent early:  the Judicial Champion with four attacks who
+slays the goblin with his first blow, for example.  It's frustrating
+for a player to stand there and do nothing because he has eleiminated
+his enemy quickly.
+        As an option, allow the character with leftover attacks to
+move up to his M score in yards to attack another opponent.  His
+attack is then made at a -10% penalty to his Weapon Skill.  If he has
+attacks remaining after slaying this new enemy, he may move up to his
+M score to fight another foe, this time at a -20% penalty.  He may
+move no further in this round, though, even if he has attcks remaining
+after slaying thethird vivtim.  this allows a mighty warrior to chop
+his way through his enemies, rather than just stand around pouting
+that he has no one to fight.
+
+
+        No game has ever been perfect in its first edition.  While
+WFRP is no exception, it is one of the cleanest first editions to come
+along in along time.  I hope that you find these suggestions useful.
+

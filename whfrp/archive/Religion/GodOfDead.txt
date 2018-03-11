@@ -1,0 +1,263 @@
+From warhammer Tue Feb  5 16:14:04 1991
+Date:     Tue, 05 Feb 91 18:31:33 +0000
+From: advent%ukc.ac.uk@pucc.PRINCETON.EDU
+To: wfrp <wfrp@supernet.haus.com>
+
+
+Below is a cult devised by one of the people here at Kent, commets etc
+are welcome on the mail-list, though please redirect private comments to
+the author, rather than the originator of this article - see  the
+signature at the end.
+
+Steve
+
+======================================================================
+God of the Dead.
+
+Description. The god of the dead, is ruler of a demi-plane which moves
+through warp space. It is normally depicted as a gaunt, almost skeletal
+figure almost 10' tall. His prime directive is to rob Morr, The God of
+Death, of the souls of the dead, and to curse them to a state of undeath,
+both on earth and within his realm. He is a cruel God, and as other evil
+Deities, is outlawed, more or less universally.
+
+Alignment. Evil.
+
+Symbol.A silver scythe. This design is usually worn as a pendant,
+on a black leather thong. Clerics, and other followers of this God
+often wear something black. The high cleric always wears garments
+of black, relieved only by silver edging.
+
+Area of Worship. At present, The Cult of the Dead only has one
+secret temple complex, somewhere in Altdorf. There are, however,
+rumours of another Cult being set up within The Empire.
+He is worshipped by those who wish eternal life, for whatever
+reason, and by those who seek power by The Art of Necromancy.
+
+Temples. Due to the illegal nature of The Cults activities, the
+temple in Altdorf is a maze of secret underground passages. It
+follows that any subsequent temples built would follow a similar
+pattern.
+	Most worshipers have a small, secret shrine dedicated to
+the God of the Dead, in their homes. This is usually a small statuette
+representing the deity.
+
+Friends and Enemies. The Cult of the Dead have few friends, although
+they get on reasonably well with Khaine, the God of Murder, and Khorne,
+The Blood God. All the other Chaos Gods treat the God of the Dead with
+antipathy at best. Of the deities fully described in the WHFRP rules,
+all hate the God of the Dead, but none more so than Morr. Any clerics
+of Morr, who encounter a cleric of The God of the Dead, or vica-versa,
+will immediately try to slay the other, in mortal combat, or more often
+send their personal retainer to fight for them.
+
+Holy Days. Four times a year, the temple must sacrifice two human lives
+to their God. Young virgins are preferred. The priests rape, and ritually
+abuse them and then spill their blood over the temples altar. Usually
+one male and one female is chosen, as the Cults priests are usually 50%
+male, 50% female. If a special favour is required by a priest, then again,
+a ritual sacrifice is required.
+
+Cult Requirements. At any one time, in any one temple, there can only
+be four priests at each rank ( 1-4 ), with an additional priest(ess)
+as the head of the order. Every year, on the Day of the Dead, all the
+priests vote on who will become the next High Priest, and who will be
+selected to be trained to advance to the next rank.
+
+There is only one High Priest, who runs the church. When his/her
+term of office has finished, they either step down, join the ranks
+of the 4th rank priests, and are given the chance to be re-elected
+next year, or, if after been chosen three times as High Priest, undertake
+a trial, which if successful will transform them into a lich. The trial
+is very tough however, and very few succeed. Those that don't are either
+taken to their Gods realm, or cast out into the Underworld, there to be
+punished by Morr, for their sinful lives. This is usually dependant on the
+whim of The God of the Dead, and how well the participant did in the trial.
+
+All Clerics of Death suffer the penalties as described under Necromancer
+just as if they were Wizards of the appropriate level. The exception to
+this is that for their period of office, the High Cleric is cured of all
+penalties, but they return, at midnight of the day af his/her deselection.
+
+Strictures. All initiates, and Clerics of the God of the Dead must abide
+by the following strictures:
+
+	They must oppose followers of Morr whenever and wherever they can.
+
+	They must oppose Druidical Priests whenever and wherever they can.
+
+Spell Use. Priests of Morr may use all Petty Magic, Battle Magic & Necromantic
+Spells, as requested from their Deity. In special circumstances, a Cleric may
+ask for the use of an Illusionist Spell, on a "one-off" basis, but only if its
+use is directly linked to furthering the cause of the God of the Dead.
+
+Skills. Initiates of Death gain Arcane Language - Necromancy in addition
+to those normally available at initiate level. Clerics of Death may choose
+two of the following skills at each level; Demon Lore, Manufacture Drugs,
+Identify Magic Artifact, Cryptology, Spot Trap, and Night Vision.
+	Instead of buying two of these skills, a Cleric of Death may spend
+100 Experience Points to gain a 10% modifier to all Illusion Magic, and any
+spell cast by a Cleric of Morr. Likewise, Clerics of Morr also have a 10%
+modifier against spells cast by Clerics of Death, when they take a similar
+option. Again, this may only be taken once.
+
+	At each level, clerics of Death may try to gain the ability to
+affect undead, as noted below.
+	By intoning an aincient ritual phrase, the cleric may either control,
+or disrupt the control of the undead. ( Clerics choice ). These are new
+skills only available to clerics of Death, and 100 experience points must
+be payed to learn each skill, as normal. However this skill is not bestowed
+upon the cleric automatically, and it is up to the GM to determine whether
+the cleric has been faithful, and thus deserving of the special skill. Only
+if the cleric has been exceptionally faithful will the skills be given
+outright, and it is usual for a trial, to undertaken before the skills
+are granted. Whether the skill is granted or not, the cleric must still
+spend the 100 points.
+
+Control undead. The cleric trying to affect the undead
+  	        must make a Willpower test, and so must the undead's
+		controller. If the undead are not controlled, then the
+		Willpower test is made against the undeads WP.
+
+		Should the Cleric make their WP test, and the undead
+		controller fail, then the cleric can control as many
+		undead, as they have Int/10 ( rounded down ).
+
+		Should both make the test, or both fail, then neither
+		side is affected, and the cleric may attempt to control
+		the undead again next turn.
+
+		However if the Cleric fails and the undead controller
+		makes their WP test, then the undead count as 'frenzied'
+		as long as they, and the cleric who tried to control
+		them are alive. This also breaks the control of the
+		undeads controller, and he must try to re-establish
+		control when, and only when, the undead in question
+		have disposed of the unfortunate cleric.
+
+		Note this does not work on Liches or Vampires. Their
+		magic and force of will is so strong, that a mortals
+		WP is just not strong enough to affect them.
+
+Disrupt undead. This again is a WP test, but this time made by
+		the cleric only. If successful, a number of
+		wounds caused on the undead is equal to the
+		Clerics (WP + Int.)/10. This may be distributed
+		over several victims if the cleric desires, as
+		long as the victims are in line of sight. These
+		wounds are actual damage, irrespective of the
+		targets toughness or armour, but magical protection
+		such as Auras or rings will reduce damage. The
+		wounds must all be made in the same round, but
+		the cleric may try again the following turn.
+
+		Should the cleric make a particularly good test,
+		( by 30 or more ) then the damaged caused is twice
+		that noted above.
+
+		Undead creatures may make a WP test to avoid the
+		affects of the damage caused, but may do nothing else
+		for the remainder of that turn.
+
+Trials. Trials set by The Death God typically further the ends of
+Necromancy, such as working as a Necromancers assistant for a fixed
+period of time, or until some task is completed, such as recovering
+the bones of some great hero, so that he/she may be reanimated to
+further the ends of Death.
+
+Blessings. Favoured skills include Identify Undead, Magical Awareness,
+and Night Vision. Favoured tests include Fear, Terror, and all poison,
+disease, and other tests made to counter the special attack forms of
+any undead creature. Harbingers of Death always visit their Cleric at
+midnight, in typically cowled form, carrying either scythe or sword.
+
+=======================================================================
+
+	BTW I'll send additional rules for Harbingers,
+and the revised rules for Clerics, as the new rules affect
+them, their spell learning, and their spell points.
+
+	< watch this space >
+
+	Regards
+
+******************************************************* Rockin' The Campus ***
+ Robert J. Walker | Life is a game played by people | U.K.C. Radio 999Khz AM
+The Captain Ebony |    who don't know the rules.    |   Friday 22:00-00:01
+******************************************************************************
+
+submitted to the mailing list by:-
+
+    Steve Bartlett, for UKC Adventure Gaming Society,
+
+          advent%ukc.ac.uk@nfsnet-relay.ac.uk
+
+
+From warhammer Tue Feb 19 12:21:07 1991
+From: advent%ukc.ac.uk@pucc.PRINCETON.EDU
+Subject:  Death Sequel : Harbingers
+
+
+What follows is the sequal to the  Death God article. This is posted for
+Rob Walker by the Adventure Gaming Soc (advent@ukc.ac.uk). Any replies
+etc will be forwarded. He does recieve this mail distribution.
+
+Steve
+
+=============================================================================
+
+Harbingers.
+
+	These are the messengers of the Gods. They are the spirit
+form of that particular gods' minor demons, and one is assigned to
+each Cleric, to ensure that he/she doesn't step out of line, and to
+generally keep in touch with each of the deities representitives on
+the world. It is through harbingers that the clerics learn their spells,
+and gain spell points on a day to day basis.
+
+	At a particular time every day, usually at dawn or midnight
+( depending upon the particular deity, it may be at any time ), the
+clerics Harbinger visits him/her. Depending on the behavior of the
+cleric during the past day, the harbinger bestows the clerics Magic
+Points for that day. In normal circumstances the cleric is allowed
+his/her normal allowance ( as rolled ), however if the cleric has
+been a little wayward, then some Magic Points may be withheld as
+a form of punishment.
+
+	In exceptional circumstances, when the cleric has done some
+great deed in the eyes of his/her harbinger, whether greatly benificial
+to, or greatly against the deities doctrine, the harbinger may be
+accompanied by a more senior member of the pantheon ( usually a major
+demon ). It is this demon who rewards the cleric or mets out the
+punishment that he/she deserves.
+
+	When asking for spells ( spending Experience Points ), the
+clerics harbinger appears, to grant them, or deny them, according to
+its instructions. However harbingers may only grant Petty Magic and
+First Level spells. For higher levels, the harbinger must again be
+accompanied by a major demonso that the major demon may bestow the
+spell. This reliance on major demons for higher level spells means
+that occationally a cleric, upon reaching Fourth Rank, has his/her
+harbinger replaced by a major demon.
+
+	At the appropriate level, all clerics gain the ability
+to cast a "Summon Demon" spell. However only the clerics harbinger
+will appear, and will ( usually ) be friendly, with no need to control.
+The MP cost, casting time, etc is all the same as listed under the
+appropriate spell heading.
+
+
+Hope this is of use to some of you...
+
+*****************************************************************************
+|     Robert J. Walker       |      Life is a game played by people         |
+|     The Captain Ebony      |         who don't know the rules.            |
+*****************************************************************************
+
+====
+Reposted by:-  UKC Adventure Gaming Soc. advent@ukc.ac.uk
+
+
+
+
+

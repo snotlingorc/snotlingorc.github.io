@@ -1,0 +1,62 @@
+From: Oliver Rosenkranz <rossi@cs.tu-berlin.de>
+Subject: New Basic Career for Warhammer RP
+To: c9221777@frey.newcastle.edu.au
+Date: Wed, 14 Jul 1993 13:07:27 +0200 (MET DST)
+
+Hi.
+
+I found a new basic career description in a German magazine called
+WunderWelten (#16). They say they got it from a French magazine called
+Casus Belli :
+
+Pirate
+
+Advanced Scheme
+---------------
+ M   WS   BS   S   T   W   I   A   DEX   LD   INT   CL   WP   FEL
+    +10  +10  +1  +1  +2  +10 +1                   +10
+
+Skills
+------
+Row
+Strike to Injure
+Strike Mighty Blow
+Disarm
+Consume Alcohol
+Swim
+Speak Additional Language
+Street Fighter
+Torture
+
+Trappings
+---------
+Leather Jerkin
+Sabre
+Bow & ammunition
+Shield
+Hook at the end of 10 yard rope
+
+Career Exits
+------------
+Sea Captain
+Slaver
+Assassin
+Judicial Champion
+Racketeer
+
+Career Entries
+--------------
+Protagonist
+Outlaw
+Bounty Hunter
+Smuggler
+Fisherman
+
+I guess, I don't have to tell you, who pirates are.
+
+SU
+Oliver Rosenkranz
+--==rossi==--
+rossi@cs.tu-berlin.de
+
+

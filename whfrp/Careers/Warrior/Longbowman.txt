@@ -1,0 +1,19 @@
+From: Psychedelic Goblin <PS4CC@merkland.rgu.ac.uk>
+Subject: WFRP: New careers
+
+LONGBOWMAN
+Longbowmen perform a decisive function in the armies of the Old 
+World. They are expected to be mobile, fast, and use their powerful 
+bows to 'soften-up' the enemy before the rank and file engage in 
+melee. Many however grow tired of the harsh and unrewarding military 
+life and turn to adventuring, a venture they hope will be more 
+profitable.
+M  WS  BS  S  T  W     I   A  Dex  Ld  Int  Cl  WP  Fel
+     +10 +20 +1     +2  +10
+Skills:                                           Trappings:
+Dodge Blow                                                Mail shirt
+Marksmanship                                            Longbow
+Secret Language - Battle Tongue                 Quiver &
+Spec. Wpn - Longbow                                 arrows
+Strike Mighty Blow
+Exits: Bounty Hunter, Mercenary Captain, Targeteer

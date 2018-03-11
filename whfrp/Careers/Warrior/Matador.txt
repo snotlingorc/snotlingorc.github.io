@@ -1,0 +1,34 @@
+Date: Tue, 23 Jul 1996 01:38:59 -0500 (CDT)
+From: Satyr <satyr@onramp.net>
+To: wfrp@buddha.intecom.com
+Subject: New Career Matador
+Message-ID: <199607230638.BAA04727@mailhost.onramp.net>
+
+New Careers/  Warrior class
+
+Matador
+M Ws  Bs  S  T  W  I  A  Dex  Ld  Int  Cl  Wp  Fel
+  +30	 +2 +2 +5 +40 +2 +20  +20      +40 +20	+30
+
+Skills:         	Trappings
+Etiquette 	             Fancy clothes Lots of sequins=20
+Seduction	              Gold Trimmed Red Cape
+Transfix*	              Several Dozen Red Roses
+Hypnotize =09
+Lightning Draw*=09
+Strike to Injure=09
+
+The Matador is a master in the ring. He is a first rate performer and
+welcome everywhere (ie; even court) He is very popular with the ladies. The
+matador has often gone beyond mere bulls to fight and graduated up to
+Griffins and occasionally Jaberwocks.=20
+*transfix is similar to the Wardancer skill.=20
+* Lightning Draw=85
+                       =20
+
+	Satyr
+		---I love to go down to the schoolyard and watch all the little
+         ---children jump up and down and run around yelling and
+        --- screaming...They don't know I'm only using blanks.
+
+

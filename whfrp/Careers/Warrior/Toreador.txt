@@ -1,0 +1,26 @@
+Date: Tue, 23 Jul 1996 01:38:59 -0500 (CDT)
+From: Satyr <satyr@onramp.net>
+To: wfrp@buddha.intecom.com
+Subject: New Career Matador
+Message-ID: <199607230638.BAA04727@mailhost.onramp.net>
+
+New Careers/  Warrior class
+
+Toreador
+M   Ws  Bs  S  T  W  I   A  Dex	 Ld  Int  Cl  Wp  Fel
+   +10        +1 +1 +10			 +10	 +10
+
+
+Skills:	                                Trappings
+Flee!	                                Garish outfit
+Dodge Blow	                        Rapier
+30% chance of Fleet Footed	        1 dozen roses
+20% chance of Scale Sheer Surface 	Large hat
+25 % chance of Lightning Reflexes
+20% chance of luck
+Animal Care
+Dance
+
+A Toreadors job is to distract the Bull and/or assist the bullfighter
+when needed. This often means running up and getting the bulls attention,
+then running like crazy to stay alive.

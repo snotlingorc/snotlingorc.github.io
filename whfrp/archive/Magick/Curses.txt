@@ -1,0 +1,169 @@
+Date: Tue, 17 Sep 96 17:36:21 +0200
+From: Michael Andersen <ia9501@knold.ballehs.dk>
+To: wfrp@buddha.incite.com
+Subject: Too much rulez about Curses!!!
+Message-ID: <9609171536.AA03857@knold.ballehs.dk>
+
+Hi all,
+
+Curses
+------
+(The wizard aprentice in my group was playing smart tricks with his newly
+aquired Curse spell. He shouldnt have done that....... Rather than have him
+burned  on the stake, I introduced a sinister Hedgewizard with even better
+curses to do "Smart tricks" with!! *Moan* When does it end!)
+
+These new spell is an addition to the petty magick spell Curse. Curses is now 
+split up in different mastery grades. Guidelines for the basic Petty Curse 
+spell follows below. The higher mastery level the caster has the more 
+devasting effect the curse has.
+Alternatively you can make it a rule that the wizard must know exactly how to 
+afflict a specific effect of a curse and that it requires additional specific 
+ingredients apart from the normal ingredients. It shouldn't cost extra EP 
+when learning new ways of afflicting curses (or perhaps curses should be a 
+new branch of spells - Witchcraft, I dunno!). When the curse spell is learnt, 
+the caster should learn of D6+1 effects. Additionally the  same rules could 
+go for the Remove Curse spell.
+Curses should be considered an evil, or at least - very unkind, thing to do 
+(at least it is something people get burnt for). The curse is essentially 
+used by Witches, followers of Ecate, Hedgewizards, or generally evil wizards. 
+The magicians of the more plotting Chaos Powers (like Tzeentch) might also 
+use curses.
+All the described curses may be used by a deity as the wrath of the god 
+effect.
+Note that a curse is instantly dispelled when the caster dies and his soul has 
+left the material world (WP minutes after death, see RoSM). 
+Curses should be a risky buisness, and a WP test should be passed by the 
+caster in order to bestow the curse. If this test is failed by +30 or 96-00 
+the caster is affected by the curse himself, and shouldn't be allowed to 
+neutralize it by reversing his spell (as desribed in RoSM).
+
+Guidelines for the Petty Curse spell and the casters mastery level.
+
+Basic						
+Growling Breath	The cursed person breathes very noisily and can't benefit from 
+		any hide test.
+Big Ears	The cursed persons ears grows to oversize. Only cosmetic,
+Hairy		The cursed person grows thick hair all over his body.
+Pink spots	The cursed person developes pink spots on his bode.
+Fleas		-
+Big nose	The cursed persons nose grows to oversize. Only cosmetic,
+Big feet	The cursed persons feet grows to oversize. Only cosmetic,
+Big teeth	The cursed persons teeth, especially front teeth, grows to 
+		oversize. He can't hardly close his mouth and has difficult 
+		speaking. Apply penalties to fel tests as appropriate.
+Stutter		The cursed person becomes subject to stuttering and gets a 
+		-10 modifier to communication tests.
+Warts		The cursed persons face is covered with warts
+Boils, piles	-
+Body odor	The cursed persons body emits a nasty odor, making it 
+		impossible to communicate with common folk and above.
+Baldness	The cursed person becomes subject to baldness.
+Severe Rash	-
+Flatulence	The cursed person find himself unable to loss weight. 
+		Modifiers for overweight are ?? (where's my copy of the 
+		character generation rules from the character pack!!! Hey 
+		James, are you going to publish that one? It was really a 
+		good extension which cleared up some of the character 
+		generation holes in WFRP)
+
+Level 1						
+Nausea		The cursed person becomes  subject to a constant nausea. 
+		He receives a -10 to -20 (according to situation)  to all 
+		tests where the nausea will have effect.
+Clumsy fingers	The cursed person find himself nearly unable to grab things 
+		and must make tests each time he is trying to hold on to 
+		anything.
+
+Level 2:						
+Magnetism	The cursed person acts as a powerful magnet, and any metal 
+		within 12 yards is drawn to him unless restrained. GM should 
+		add penalties (or even bonuses) as appropriate. Bear in mind 
+		the danger in walking into a kitchen with a whole rack of 
+		kitchen knives!!!
+Midas of rust	Every piece of metal the cursed person touches is instantly 
+		turned into a totally rusted piece of metal.
+Unlucky		The cursed person becomes very unlucky. This acts as a reverse 
+		luck skill. The person has D6 unlucky points a day. Each time 
+		the person make a test, the GM may add penalties by using his 
+		unlucky points. This usually happens when the character tries 
+		something real important. Essentially this curse will just 
+		neutralize the luck skill if the character has that skill.
+
+Major Curses
+Discipline level: 3rd ritual
+Preparation: 1d6+3 rounds
+Magick Points: 8
+Range: 12 Yards
+Area of effect: One target
+Duration: Until dispelled
+Resistance: WP
+Ingredients/reagents: Blood from the victim
+Major curses are more powerful versions of the petty curses. They can be 
+learned  when a caster has reaches the 3rd level of a appropriate spellcasting 
+career (Wizard, Which, Necromancer, Demonologist. Hedgewizards may also learn 
+them). Major Curses cannot be neutralized with the Remove Curse spell, but a 
+person knowing the same sort of curse will be able to dispel it (as described 
+in RoSM). Also there exist a powerful version of the remove curse spell for 
+removing major and petty curses as well.
+
+Blindness	The cursed person is struck blind.
+Disease		The cursed person is affected by a disease which must be a 
+		disease with no or minor chance of death.
+Silence		The cursed person find himself unable to speak.
+Forgotten Identity  The cursed person forgets all that has happened within 
+		the last two years.
+Animal Transmutation  The cursed person is transformed into a animal, like a 
+		toad or raven. He will still retain his intellect but suffers 
+		from the restrictions of the animal form (e.g. can't speak, 
+		carry items and so on)
+Curse of no Enter  The cursed person find himself unable to enter a specific 
+		place (town, or area of same size!)
+Strike Insanity	The afflicted person is struck by madness and gain a random 
+		insanity (or chosen by GM)
+Item curse	An item is cursed. If its a weapon, the cursed item will get 
+		a penalty of -2 to damage, and -20 to hit (even magickal 
+		weapons). Other items receives modifiers as the GM sees fit.
+
+The extremity (I couldn't help myself, sorry!)
+Divine Curses
+Discipline level: 4th ritual (Special)
+Preparation: at least 3 days
+Magic points: 45
+Range: ?????
+Area of effect: all subject within 4800 Yards
+Duration: Until dispelled
+Resistance: Varies usually none.
+Ingredients/reagents: Varies (but numerous)
+Divine curses are curses which do not afflict just one person, rather it 
+afflicts a whole area of 4800 square yards (sometimes even more). As the name 
+suggest these curses may normally only be used by divine patrons, but mortals 
+may be able to use them. Any mortal who has obtained 4th level in the wizard, 
+Necromancer, or Daemonologist career and at least two levels in any other 
+magick career may be able to comprehend the difficult ways to invoke these 
+curses. The ingredients required will be numerous and the ritual to invoke 
+the curse will take several days (perhaps involving the assistance of a 
+greater daemon at GM's discretion). Each effect of the Divine curses must be 
+learnt individually and paid for with EP. When using a Divine Curse the caster 
+must be sure to have the protection of his god (usually an evil one), 
+otherwise it may mean that other gods (good or law) may revenge the cursed 
+creatures and punish the caster. 
+
+Town of no entrance	From this day on, no-one will be able to enter the 
+			cursed town.
+Town of no escape	From this day on, no-one will be able to escape from 
+			the cursed town.
+Cursed Rain		For one day the area is subject to heavy rain and 
+			thunder from dark black clouds. At the following days, 
+			everyone who was touched by the rain receives a random 
+			or specific petty curse.
+Area of war hunger	All non related groups in the area, becomes subject to 
+			hatred against each other.
+Area of Males		From this day on only  males are born in the area. 
+Area of Females		From this day on only  females are born in the area.
+Famine			The area becomes subject to famine.
+Plague			The area becomes infected with a specific disease. At 
+			the day after the curse has been afflicted, about 1/10 
+			of all in the area becomes sick with the disease.
+Eternal sleep of the ages  Every species in the area, must pass a WP test or 
+			fall into eternal sleep.

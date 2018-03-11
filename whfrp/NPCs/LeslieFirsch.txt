@@ -1,0 +1,46 @@
+From cc697@cleveland.freenet.eduMon Aug 14 09:07:46 1995
+Date: Sun, 9 Jul 1995 02:47:59 -0400
+From: Eric Oppen <cc697@cleveland.freenet.edu>
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: NPCs, as promised
+
+As promised, here are some NPCs to use in your next game.  
+
+Leslie Fisch (Human female)
+Minstrel (ex: Student, Agitator, Demagogue, Troubadour)
+
+M 4 WS 50 BS 42 S 3 T 3 W 9 I 51 A 2 Dex 39 Ld 50 Int 45 Cl 58 WP 52 Fel 88
+
+Skills: Arcane language (Magick), Read/Write, Secret Language (Classical),
+History, ID plants, Speak Estalian, Public Speaking, Blather, musicianship
+(Lute), Sing, Charm, Ettiquette, Specialist Weapon (Pistol, bombs), Very
+Resilient.
+
+Description:  Tall, rawboned, dark-tanned skin, long, straight black hair.
+
+Leslie Fisch is a member of the New Millenialists, a revolutionary society
+dedicated to overthrowing the corrupt, Chaos-influenced rule of the
+nobility and establishing a society based on justice and reason.  It is
+severely opposed to the Forbidden Gods (Chaos and Khaine) but is forbidden
+itself, due to its subversive beliefs.
+
+As a singer working the taverns of the Freiburg district of Middenheim, she
+makes a point of slyly slipping anti-authority plugs into her songs, which
+are quite popular with the student radical crowd.
+
+Quote: "The Imperium is like a rotten oak...mighty to look at, but feeble
+and hollow inside."
+
+Weapons carried: Dagger, pocket pistol.
+
+(Note!  This NPC is directly based on the well-known filksinger and
+songwriter Leslie Fish.  Nothing I say about this NPC is intended to be a
+direct depiction of Leslie, although I don't think she'd be particularly
+displeased by the way I've placed her counterpart in the Warhammer world.)
+
+--
+ \|/  /\   \|/ |"Random action produces random political results...Why waste
+   \/    \/    | even a rock?"--Abbie Hoffman, in _Steal This Book_.
+  /        \   | <--Hobo symbol for "Man armed at this address..."
+/____________\ |       "Mentally undressing the Internet"

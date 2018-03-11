@@ -1,0 +1,139 @@
+Warthulhu?  Call of Hammer?
+(A call of Cthulhu to Warhammer system adaption by David Peterson)
+(c9221777@cc.newcastle.edu.au)
+
+
+This is a slight revision and a polish of a system that I worked out a few years 
+ago for converting Call of Cthulhu characters and monsters to Warhammer 
+Fantasy Roleplay.  It is far simpler than other such conversion systems that I 
+have worked out as both sets of rules use compatible game concepts.  Dungeons 
+and Dragons, for example, is not really compatible with anything.
+
+The conversion from Call Of Cthulhu to Warhammer is simple.
+
+Movement
+	Divide the Call of Cthulhu Move score by 2.
+
+Weapon Skill
+	Use the attack percentage of the most used hand-to-hand weapon or take 
+an average.
+
+Ballistic Skill
+	Use the attack percentage of the most used missile weapon or take an 
+average.
+
+Strength
+	Characters and Monsters work to a slightly different scale in 
+Warhammer Fantasy Roleplay.  Thus for characters, divide their strength score 
+by 3.5 and round down any fractions.  For monsters, take the square root of the 
+strength score and round any fractions up.
+
+Toughness
+	Take the Constitution statistic and apply the same method as given for 
+Strength.  
+
+Wounds
+	Take the Hit Point score and divide by 1.5.
+
+Initiative
+	The best thing to base this off would be Dexterity.  For scores within the 
+normal 3-18 range, multiply by 3.  Scores from 19-21 become 51 (which is 18x3) 
+plus 6 for each point over 18.  For even higher scores, add 1 point for every 
+extra point.  Thus a Dex of 25 on some foul cthulhoid beastie would come to an I 
+of 79 in Warhammer.
+
+Dexterity
+	Use the Dexterity statistic and apply the same method as given for 
+Initiative.
+
+Attacks
+	This is equal to the number of attacks that a creature possesses.  For a 
+character this should almost always be 1.
+
+Leadership
+	Take an average of the Intelligence, Cool, Will Power and Fellowship 
+scores as calculated below.
+
+Intelligence
+	Use the Intelligence statistic and apply the same method as given for 
+Initiative.
+
+Cool
+	Use the Investigator's remaining Sanity Points as his Cool score.  Insane 
+cultists and foul cthulhoid monsters don't spook too easily and should have a 
+Cool of 89.  Lesser servitor races and species such as Deep Ones and Sand 
+Dwellers should take their Power score and apply the same method as given for 
+Initiative to calculate the Cool score.
+
+Will Power
+	Use the Power statistic and apply the same method as given for Initiative.
+
+Fellowship
+	Social interaction tends to be governed by individual skills in Call of 
+Cthulhu.  The nearest thing would be to use the Appearance statistic and apply 
+the same method as given for Initiative.
+
+Skills
+	If a character has invested at least 20 points in a skill (or doubled the 
+default value, whichever is higher) then that may be counted as a skill learned 
+for Warhammer.  Some degree of GM judgement is required here.
+
+Weapons
+	Axes, swords, clubs etc will do the same amount of damage as their 
+Warhammer equivalents.  Unarmed combat will regard merely the creature's 
+strength, noting that damage penalties for fighting unarmed apply only to 
+Player Characters.
+
+Psychology
+	Characters from Call of Cthulhu are bound to have a few mental 
+disturbances that will translate quite nicely into the Warhammer world.
+
+I tend to use the system of a failed Fear test earning 1 Insanity Point and a failed 
+Terror test earning a d6.  In the following chart, the first column shows the San 
+loss caused by a Cthulhu monster; the second column shows the equivalent 
+Warhammer psychology; and the third shows the number of Insanity Points 
+gained if the test is passed / if the test is failed.
+
+d3-d10		Fear			0/1
+d10-d20	Fear 6"+1/Terror	0/d6
+d20-d100	Fear 6"+2/Terror	1/d6+2
+d100		Fear 12"+3/Terror+20	d3/2d6
+		
+
+Example #1
+
+An average Servitor of the Outer Gods is summoned by a Chaos Champion of 
+Cthulhu.  Looking at the average scores from the Call of Cthulhu book we get a:
+
+M: 4	WS: 45	BS:0	S: 4	T: 4	W: 12	I: 50	A: 2d3
+Dx: 49	Ld:	Int: 52	Cl: 89	WP: 57	Fel: -	Causes Fear 6"+1/Terror
+
+With the table at the beginning of the WFRP bestiary, such a creature could 
+then be converted to the Warhammer Battle System.  Note that as characters 
+tend to have unusually high S and T scores when compared to their Fantasy 
+Battle counterparts, I recommend using WFRP S3-4 := WFB S3; S5-6 := S4, S7+ := S5 
+for characters.  Magical and chaotic bonuses should remain constant.  This will 
+prevent the evntuality of Giant Slayers picking up giants and throwing them.
+
+
+Now What?
+ 
+So what is the use of this system?  Imagine your Warhammer players' surprise 
+and dismay when they come up against a Shoggoth.  How about Cthulhu as the 
+mysterious 6th Chaos Power?  How about Plaguebearers in the 1920s?  Loosely 
+run games might have characters moving between worlds with some sort of 
+planar travel device or spell.
+
+Another option would be to play a normal Call of Cthulhu game, but using the 
+Warhammer mechanics.  We did a similar thing with MERP - we liked the game 
+setting but hated the rules system so we used Middle Earth instead of the Old 
+World as a game setting.  (Note that I have no problem with the Call of Cthulhu 
+rules.)  Similar things could be done to produce a Warhammer Cyber, or a REAL 
+Warhammer 40K roleplaying game.  I haven't given much thought to the 
+career advances for a Call Of Cthulhu Archaeologist or a Cyberpunk Netrunner 
+or a 40K Inquisitor, but it shouldn't be too difficult for anyone willing to put in 
+the time.
+
+
+
+

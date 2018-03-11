@@ -1,0 +1,198 @@
+From: Michael Andersen <ia9501@knold.ballehs.dk>
+Subject: The inquisition comes to town
+
+Hi again, as I have received a lot of useful critique from my last postings,
+I will try out this little encounter. I have played it once with my current
+gaming group, as a complication to another scenario. As allways --- Feedback
+is happily accepted.
+
+Michael Andersen
+
+
+The Inquisition comes to the town
+---------------------------------
+
+Here is a little encounter to be used in your WFRP campaign. The encounter can 
+be used to complicate another scenario which should take place in a minor 
+village in the Ulric devoted lands and possibly involving the finding of a 
+secret Chaos cult or something like that.
+I have used it in my own campaign. One character was lost, but he was asking 
+for it. He wasnt actually killed by the inquisition but left Chained in the 
+mercy of the city as a true heretic, and the other players was responsible 
+for his killing - They had to in order to roleplay their characters, the man 
+preached the lore of Khaine!!.
+
+Ernst Heiligenschein - a Ulrician Inquisitor, has been appointed the task of 
+traveling to the village because of rumors about a heretic who have persuaded 
+some of the villagers into following his religion.
+
+The "heretic" is an evangelist speaking Sigmars words. He have traveled north 
+to tell the northern heretic about the true religion and save their souls.
+
+The Ulrician inquisition belongs to the Pro-Ulric fraction, and the Sigmarites 
+belong to the Pro-Sigmar fraction.
+
+How the adventures should be involved is entirely up to you. They might meet
+Johannes first as he preach for a group of people along the road. Later when
+they have arrived in the village and gotten shelter for the night, the 
+Inquisition could come to the village, and the period of pardon (see below),
+can be declared. Erich might suspect the adventurers and get them to a 
+inerview, where he will ask different question about their religion, what they
+are doing in the town etc. He might even believe that a PC Sigmar cleric is
+the evangelist he is looking for.
+The PCs should learn that Erich have comed for Johannes. What they do is
+entirely up to them. They might leave it alone, or Ulrician characters might
+whant to help Erich. Then again Sigmarite characters might want to help 
+Johannes. They might also try to make Erich realise that an even greater evil
+lurks in the village (e.g. the reason why the adventures are here).
+Whatever they do, they should be careful when dealing with Erich.
+
+The Ulrician Inquisition
+------------------------
+The Ulrician Inquisition has much power and authority in the lands of Ulric - 
+both in the churchs and on the upholders of the law. They are a traveling 
+court who's judging isn't questioned.
+When the inquisition comes to a village, the usual approach is to declare "The 
+period of pardon", which is a period of 3-7 days (stated by the 
+head-inquisitor), in which heretics can turn themselves in and get a mild, but 
+well deserved, punishment. No one is to leave the area while "the period of 
+Pardon" is in effect (This will effectively trap the players in a village with 
+a group of psychopathic fanatics).
+
+The punishments varies according to the offence and the circumstances.
+The following types of punishment is preefered:
+* Burned by the stake (The cleansing fires purify the soul, and Cult worship 
+  of the bones is prevented)
+* The mark of the Wolf (A image of sa wolfs head is burned into the forehead 
+  of the heretic, thus marking him as a heretic)
+* The mark of the Wolf II (A more human version of the above example, the 
+  heretic must wear a patch with a wolfs head for 5years to life, thus marking 
+  him as a heretic)
+* Whipped (The number of slashes depends on the offence, ranging from 5 to 
+  lethal numbers)
+* Appointed to venture as a pilgrim to the holy city of Middenheim (There 
+  praying for 3 days and 3 nights for his own soul) or some other place to do 
+  an appointed task.
+
+Different tests:
+----------------
+The test for witchcraft:
+This test is very popular under the name "The Water test". And is used to 
+determine wether a person is protected by evil forces or not. The person is 
+putted in a sack and throwned in the river. If he floads then surely some evil 
+forces is protecting his life (and he is found quilty). If not (And the test 
+must be tried for some time, because the evil forces can cheat you know! ;-)  ) 
+then he is found innocent.
+
+The test of Ulrics fire::
+This test is used to determine wether Ulric protect his child, or wether he 
+scorns the heretic. The persons hand is exposed to open fire. If no burn marks 
+appear, then surely Ulric have protected his child. If the person is burned 
+then there is no question about the heretics guilt.
+
+Profiles
+--------
+Erich Heiligenschein 
+Erich is 42 years old, and a very strict man. He swears to law and order, and
+scorns all non-Ulrician religion, especially the Whorship of Sigmar. He wont 
+even like the general idea that Sigmar is a saint in the Ulrician religion and
+his general opinion on this matter is that Sigmar hasnt even existed, and is
+made up in the heretics mind.
+He is a very respected man within the Ulrician cult, but the cult preefer to
+have him away from Middenheim and out in the lands of Ulric instead.
+
+Inquisitor  - cleric level 2, ex cleric level 1, ex initiate.
+M WS BS S T  W  I A Dex Ld Int Cl WP Fel
+4 46 42 4 4 10 56 2  52 78  55 75 67 42
+
+Motivations: Hunt down heretics in the Nordland. 
+Catchphrases: "CONFESS!", "Silent! I must keep my mind clear and my soul 
+	clean", "No Thank you! I do not drink wine and other subsistence that 
+	pollutes the soul and I would strongly advice you to do the same."
+Skills: Torture, Read/Write, Secret languages - Classical, Arcane languages - 
+	Magickal, Public Speaking, Law, Religious Authority, Invoke Prayer 
+	level 1+2, Meditate, Identify Undead, Sense Magick, Ceremony, Disarm, 
+	Dodge Blow, Cult Doctrine - Ulric.
+
+Trappings: Robes, Seal of Approval from Ar-Ulric, Deus ex Machina, Religious 
+	token of Ulric, Horse.
+
+Prayers: Fireball, Cure light injury, Lighting Bolt (Divine invoking of 
+	lightning).
+
+Markus and Berthold, 2 Witchhunters, ex. Ulric Clerics lvl. 1
+M WS BS S T  W  I A Dex Ld Int Cl WP Fel
+4 65 65 4 4 12 69 3  45 49  41 49 75  37
+
+Skills: Marksmanship, Public speaking, Silent move rural/urban, Sixth sense, 
+	specialist weapons - Net/Lasso/Throwing, Strike Mighty Blow, Dodge 
+	Blow, Read/Write, Scroll Lore, Secret Language - Classical.
+
+Trappings: Full plate armour (2 AP -10 dex -10 I -10 WS), Sword, 10 yards rope, 
+	2 Throwing knives, Religious Ulric symbol, Horse, Cult Doctrine - 
+	Ulric, Arcane language - Magick, Invoke Prayer level 1
+
+Harald and Anders, 2 Fangs of winter fanatics
+
+M WS BS S T  W  I A Dex Ld Int Cl WP Fel
+4 53 41 4 4 11 51 2  35 42  41 67 50  35
+Skills: Disarm, Dodge Blow, Frenzy, Secret Language - Battle tounge, Specialist 
+	weapon - 2 handed, Street fighting, Strike Mighty low, Strike to 
+	Injure, Strike to Stun.
+
+Trappings: Mail shirt, breast plate, Ragged robes, 2-handed axe
+
+The Opposition
+--------------
+
+Johannes Himmelmann, Sigmar Evangelist
+
+Johann is 33 years old, and appears as a blonde man with blue eyes. He has a 
+lot charisma and people are generally attracted to him.
+He is very naive and a strong believer, believing that no harm will befall him,
+and when it does, believing that it is the way of Sigmar, and that it has some
+deeper meaning (The world needs a martyr, etc.).
+
+M WS BS S T  W  I A Dex Ld Int Cl WP Fel
+4 32 31 3 3 10 52 1  33 77  43 63 57  78
+Motivations: To deliver the message of sigmar to the Ulrician heretics in the 
+	north.
+Catchphrases: "I know the key to eternal salvation, give up your heretic lifes 
+	and I promise you, that Sigmar will have mercy on your souls!", 
+	"... and Sigmar confronted me in my dreams and appointed me the task of 
+	cleaning the souls of the non-believers."
+Skills: Acting, Blather, Charm, Cult lore, Intimidiate, Public speaking, 
+	Seduction, Story telling, Read/Write, Scroll Lore, Secret language - 
+	Classical, Cult doctrine - Sigmar.
+
+Sigismund and Erhardt, 2 Sigmar fanatics (Flagleants)
+M WS BS S T  W  I A Dex Ld Int Cl WP Fel
+4 52 31 4 6 11 50 2  35 40  42 69 53  34
+Motivations: to protect the life of Sigmars chosen: Johannes Himmelmann, no 
+	matter what opposition they might meet.
+Catchphrases: ".......<silence>......"
+Skills: Disarm, Dodge Blow, Frenzy, Secret language - Battle, Specialist 
+	weapon - 2 handed, Street fighting, Strike to Injure, Strike to Stun.
+Trappings: Ragged robes, 2-handed warhammers.
+Special rules: If Johannes is attacked the 2 fanatics will enter frenzied 
+	state and additionally gain hatred against the attacker and any 
+	friends associated with him. In this state they can't be forced to 
+	leave combat.
+
+
+BTW, who wrote the seed of evil? I'm going to use the adventure in my gaming
+group (it seems good), and I would like to give some feedback.
+
+Thanks for the comments on the Ernst Himmelmann article. Perhaps I was too
+quick to post it, Noel Welsh's and Marco's ideas was really good, and I
+agree that the encounter might open adventure opportunities. Feel free to
+work on it ppl, I have some other WFRP projects to work on at the moment.
+The problem about the missing names was intentionally. I also make up names
+during play, typically some ironic names - the Character pack rules have a
+great table. BTW, Noel: I wrote the letters from Sylvania (Elizabeth Bathoy,
+etc.) too, and I would be glad to hear your comments!
+
+Mark Marvin: Some guy in Denmark, once wrote a con-scenario  involving
+Snotlings player characters. Everyone is talking about it (it is said to be
+a great and funny scenario). In october Im going to the Viking con, and I
+will try to find out who the author was.

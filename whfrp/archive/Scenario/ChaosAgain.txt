@@ -1,0 +1,608 @@
+Date: Tue, 23 Jul 1996 16:39:11 -0600 (CST)
+From: DAY@UHCL4.CL.UH.EDU
+To: wfrp@buddha.intecom.com
+Subject: proposed scenario continuing Enemy Within
+Message-ID: <01I7F3GCVS5U8X6SRY@UHCL4.CL.UH.EDU>
+
+WFRP Scenario--Chaos Again?  By D. Day
+
+Background
+
+What follows is the outline of a possible extension for the Enemy
+Within campaign, so if you haven't yet played in it or finished
+playing in it, read no further.
+
+The scenario grew out of an uncertainty what to do with my player
+characters after the end of the Enemy series; one quite possible
+answer would be "nothing," as the characters by that point are
+usually quite powerful.  You may find, though, that not all of your
+players are willing to part with their characters, and if you
+decide to let them continue to run them, they'll need a real
+challenge--which this scenario provides.  You may also find that
+the player characters at the end of the Enemy series occupy
+positions of considerable power within the Empire, making
+adventuring difficult, or possibly that one or more of the players
+may wish to "retire" their characters from active gaming.  This
+scenario makes it quite possible for such characters to "hire"
+middle level player characters (run by their player alter egos, of
+course) to undertake the various challenges presented to them.  The
+final character mix may thus include not only some of the very
+powerful characters that finished the Enemy series, but also some
+less powerful characters acting as agents for the older retired
+heroes.  This was the case with my group.
+
+How you fit the scenario into your campaign will depend largely on
+what your surviving players did with the rewards section at the end
+of the Empire in Flames book--of my three survivors, one (a
+rogue/assassin type, herein referred to as Rick) took the job of
+Chancellor of Nuln; incidentally, this was also the character
+mistaken for Kaspar Lieberung by the Purple Hand early in the Enemy
+series.  Another, a fighter/heroic type, herein referred to as
+Keith, took advantage of some romantic hints thrown his way during
+the Power Behind the Throne and married Katarina Todbringer, thus
+becoming the consort of the Gravine of Middenheim and the half-
+brother in law of Emperor Heinrich.  I formulated the scenario to
+take as much advantage as possible of these two powerful political
+connections; if your people did something different, you could
+still juggle the factual circumstances to get them involved.
+
+Basically, the scenario tries to take advantage of the several
+loose ends left from the Enemy campaign.  One of these I've already
+mentioned--the case of mistaken identity by the Nuln branch of the
+Purple Hand.  The other more important one is the disappearance of
+Karl Heinz Wasmeier at the end of the Power Behind the Throne--he's
+just too good of a villain to toss out, and his ambiguous departure
+allows you to bring back an old enemy of your players who should be
+able to challenge them.  Well, he's baaack, and looking to mix some
+sophisticated business with revenge; always, in his coolly
+calculating way of looking at things, a great combination.
+
+Wasmeier's Doings
+The scenario should be set several months after the events covered
+in the Empire in Flames; in our case, since we play very
+infrequently, I made it about a year after the end of that book and
+two years after the end of the Power Behind the Throne.
+
+Herr Wasmeier has been busy over the last several months. 
+Realizing that the Empire was too hot to hold him, he made his way
+to Marienburg and eventually to Araby, where he has been furthering
+his magical education by poking into all the ancient towers,
+magical caves and forbidden pyramids he can find--he has thus
+gained a fourth Wizard level and his first Elementalist level (who
+says the bad guys can't get better with time?).  He initially
+allowed his connection to the Middenheim Purple Hand to lapse
+somewhat, especially given its disarray following his defeat and
+the defeat of Chaos in the late Civil War. 
+
+For the first six months, he travelled to Araby and then spent his
+time in magical exploration and research; he eventually found his
+way to the Sultanate of Hijaz, a rocky, mountain bound desert land
+on the "point" of Araby, on the sea trade routes to the sultanates
+and principalities bordering on the Gulf of Tabouli and the New
+Coast settlements in the Southlands.  The capital and main port of
+Salapa is the main settlement of the Sultanate and a city of
+considerable size and sophistication.  It derives the bulk of its
+income from sea trade and has relatively little to do with the
+tributary bedouin tribes that live in the hot, dry interior.
+
+In the course of his wanderings and researches, Wasmeier was drawn
+to Hijaz by tales of ancient ruins of incredible antiquity lying in
+the mountains on the eastern borders of the sultanate.  He made his
+way there and discovered an Arabian elementalist, Al Kitab Al
+Quibir, who was already at the site and had been exploring it for
+several months.  Wasmeier managed to win Al Kitab's trust and was
+even taken under his wing as a pupil; after getting all of the
+information he could about the site and about Elementalism in
+general, Wasmeier murdered the hapless sorcerer and took over his
+researches.  He then established a base camp at the site and
+started to recruit flunkies and followers in Salapa, eventually
+establishing a nascent Purple Hand organization in Hijaz.  He then
+made contact with Purple Hand followers in the Empire, and a few of
+them have moved to Hijaz to help with the work.  Over the last year
+or so, his power and influence in the Sultanate has grown
+considerably; it met an initial check when he ran into the
+Slaaneshi cult of the Ocher Phallus which was already established
+at the court in Salapa, thanks to Zeriti, the witch concubine of
+the current Sultan, Al Firouk al Hijaz; she has thoroughly
+debouched the Sultan and made him her willing slave.  Initially,
+Zeriti and her followers were alarmed by Wasmeier and sought to
+remove him, but after a few unsuccessful attempts Wasmeier proposed
+an alliance of the two groups and it has held--so far.  Zeriti is
+interested in Wasmeier's researches into the ruins in the east, and
+anxious to share in any power he uncovers there.  To this end, she
+has established a Slaaneshi presence at the site in the form of the
+eunuch Ghulam Al-Tarafi, a particularly degenerate individual, and
+his two bodyguards.
+
+After continual digging at the site, Wasmeier is convinced that he
+has discovered the ruins of a citadel of the Old Slann, although he
+cannnot discover the exact nature of the site, being unable to
+decipher the various inscriptions and tablets he has found.  From
+what he has been able to gather from Al Kitab's researches, though,
+he believes that the citadel may have been the repository of a
+Slann device called the Sssiss-tk, a machine of great power.  Al
+Kitab believes it may have allowed an individual Slann to travel
+from one world to another through warpspace without the necessity
+of a warpship, making it a machine of inconceivable power. 
+Wasmeier has been unable to penetrate into the lower levels of the
+citadel, though, because he cannot unlock the doorways into them
+and cannot read the inscriptions and texts that might give him the
+clue to how to proceed.  He has therefore decided to travel back to
+the Empire to engage, willingly or no, the services of Diogenes
+Teufelsdrockh, the noted Slann researcher at Altdorf University, to
+translate the documents for him.
+
+On arriving at Marienburg, Wasmeier enlists with a sizeable bribe
+the aid of the reassembling Purple Hand organization, reforming
+outside Imperial jurisdiction after the debacle of Middenheim and
+Wolfenburg.  The Purple Hand organization in Marienburg is led by
+one Rufus Vitarna, nee Albrecht Feinstein, late of Nuln.  Feinstein
+and his cohorts are quite interested in assisting Wasmeier because
+of his power overseas and his willingness to share the wealth and
+influence he has acquired in Hijaz.  Wasmeier for his part is
+interested in events in the Empire, especially the news that the
+hated adventurers who undid his scheme in Middenheim are exactly
+the same ones who saved the Empire at Wolfenburg.  He is also
+fascinated to learn that one of them is none other than the Purple
+Hand renegade Kaspar Lieberung, that Lieberung has become
+chancellor of Nuln, that his old enemy Heinrich is now Emperor, and
+that another of the hated heroes has married Katarina Todbringer. 
+Wasmeier sees a chance to destroy his old enemies and also to
+humiliate Heinrich, all in one go.
+
+Wasmeier's Profile:  this is an expansion of the profile given for
+this man in the Power Behind the Throne.
+
+Karl Heinz Wasmeier
+M     5
+WS    45
+BS    42
+S     4
+T     5
+W     11
+I     74  +10
+A     1
+Dex   53  
+Ld    58
+Int   69  
+Cl    56  
+WP    57  
+Fel   38
+
+Arcane Language--Elemental Magic
+Arcane Language--Elvish
+Arcane Language--Dwarvish
+Arcane Language--Magic
+Demon Lore
+Evaluate
+Herb Lore
+Identify Magical Artifact
+Identify Plants
+Identify Undead
+Lightning Reflexes
+Magic Sense
+Magical Awareness
+Meditation
+Prepare Poison
+Read/Write
+Ride
+Rune Lore
+Secret Language--Classical
+Scroll Lore
+Sixth Sense
+Very Resilient
+
+Petty Magic:
+Curse
+Gift of Tongues
+Magic Alarm
+Magic Flame
+Magic Lock
+Marsh Lights
+Produce Small Creature
+Reinforce Door
+Remove Curse
+Sounds
+Zone of Cold
+Zone of Silence
+
+Battle Magic, Level 1:
+Aura of Resistance
+Cause Animosity
+Fireball
+Immunity from poison
+Steal Mind
+Wind Blast
+
+Battle Magic, Level 2:
+Cause Panic
+Mystic Mist
+Smash
+Zone of Steadfastness
+
+Battle Magic, Level 3:
+Animate Sword
+Arrow Invulnerability
+Magic Bridge
+
+Battle Magic, Level 4:
+Aura of Invulnerability
+Blast
+Change Allegiance
+
+Elemental Battle Magic, Level 1:
+Assault of Stones
+Blinding Flash
+
+Possessions:
+Magic Lamp--summons a strength 9 air elemental 3 times; the user
+must make an unmodified WP roll to control the elemental when it is
+summoned.
+4 Dragon's teeth
+2 Pints dragon blood
+8 Locks of Giant Hair
+1 piece dragon hide
+1 heart of a doppelganger
+Amulet of Coal with 3 Fireball Spells
+Spell Jewel with Flight Spell
+Magic Rope 10 feet long (30 wound points)
+Flying Carpet; fights as a 6 foot long section of magic rope, as
+well as flying
+2 Spell jewels with 7 magic points each, 1 energy ring with 9 magic
+points
+2 Invisibility potions
+2 doses each of manbane, oxleaf and snake-venom; 1 each of blade
+and another of ingestive
+Wand of Jet, on WP test, reduces magic point expenditure by 1D4
+1 Scroll of Summon Fire Elemental (level 6).
+
+The Wizard's Heinous Scheme
+
+The purpose of this section of the adventure is to humiliate and if
+possible terrify your players--to show them you're playing
+hardball.  It should also infuriate them and make them thirst for
+vengeance against Wasmeier, an important motivating factor.  It is
+quite possible that Wasmeier will succeed in "killing" the
+characters--they'll probably have to burn a fate point to survive. 
+
+First, Wasmeier travels secretly to Altdorf and secures the
+services of Teufelsdrockh, who agrees willingly to travel to Hijaz
+after seeing some of the artifacts Wasmeier has brought with him. 
+He abruptly takes an extended leave of absence from his duties at
+Altdorf, throwing his classes into disarray and incurring the ire
+of the university officials, who warn him that they cannot
+guarantee his position if he leaves, despite his reputation as an
+eminent classical scholar.  Characters travelling through Altdorf
+about three months after Wolfenburg may hear rumors of this
+occurrence.
+
+Wasmeier sends Teufelsdrockh back to Marienburg to await his
+coming, and then insinuates himself back into Middenheim through
+the offices of Gottfied Goebels, whom he has easily cowed and
+abashed into obeying him (note that in our Power Behind the Throne
+sessions, Goebels was never exposed or destroyed; if he's been
+offed in your campaign, any other generic slimeball will work). 
+Wasmeier's plan is to kidnap Katarina Todbringer, use her to lure
+the heroes to Marienburg, destroy them at a carefully preprepared
+site, and then carry Katarina off to Hizaj where he will thoroughly
+debauch and corrupt her with the assistance of the cult of the
+Ocher Phallus, and then reinsert her into the Empire at some later
+date, either as an agent or, failing that, a profound humiliation
+to Emperor Heinrich (the Emperor's half sister prancing around in
+black leather with a bullwhip will be a bit much for staid imperial
+matrons).  Zeriti will of course be only too happy to have the
+beautiful and innocent young Graven as an addition to her
+disgusting orgies.
+
+At a variable number of months from the ending of Empire in Flames,
+Wasmeier will return to Middenheim with the connivance of Gottfried
+Goebbels, who will sneak him into the city during Carnival
+disguised as a member of a foreign trade mission.  During the day,
+Wasmeier will stay entirely out of sight to avoid recognition by
+anyone in the city.
+
+Wasmeier plans to use his Air Elemental to kidnap Katarina, and so
+he needs to get close enough to the palace area to be able to
+exercise control over it for the duration of his operation.  The
+livery stable of the Harvest Goose is close enough, but it's
+important that he not be seen while he carries out his nefarious
+plan. For what follows, you'll need to refer closely to the map of
+Middenheim in City of Chaos.
+
+Very late (about 2 a.m.) on the final night of the Carnival,
+Wasmeier will travel to the Harvest Goose in a closed coach with
+Gottfried, the coachman, and two bodyguards.  Goebbels and one of
+the bodyguards will get out at the Harvest Goose, while the
+coachman and the other bodyguard will travel  back to the livery
+stable across the road from the restaurant, ostensibly to "watch
+the coach," while Wasmeier remains concealed inside with his
+magical paraphernalia.  At the stable, the bodyguard double and the
+coachman will ply the ostler and watchman with drink that, unknown
+to them, is laced with 1 dose of Oxleaf.  Wasmeier will then
+proceed to the far side of the livery stable and summon up his Air
+Elemental.  This will take a round, Wasmeier making his Will Power
+test, and then it will proceed to the southwest window of the
+palace, break it in, and then stun Katarina (remains stunned for 46
+minutes); this will happen so fast that Keith will be unable to
+react to it immediately; after it occurs, follow the schedule:
+
+Round 1--Elemental makes its instability roll; blow 1 seizes
+Katarina.  Keith makes initiative roll.  If he fails, he can do
+nothing at this point, and the Elemental escapes with Katarina.  If
+he succeeds, he can expend a blow to do whatever he wants.  The
+Elemental expends its second attack moving back to the window with
+Katarina.  Keith expends his second attack.  The Elemental then
+expends its third attack launching itself out of the window.  Keith
+expends his third attack watching it fly off.  About this time, one
+of the Knights Panther comes barging into the room.
+
+The guardsmen manning the fence area will be shocked to hear a
+hurricane wind roaring in from the southwest towards the palace;
+when they hear the sound of glass breaking in the Gravine's
+apartments they will immediately sound the alarm and begin rushing
+to the source of the noise.  They will then watch in surprise and
+alarm as about five seconds later they see the unconscious form of
+the Gravine being carried through the air by some unseen force
+towards the Gafsmund-Nordgarten district; two of them will see her
+form apparently dropping into the cluster of buildings close to the
+fence.  Once the Elemental gets back to the livery stable, it will
+drop Katarina off in front of Wasmeier.  He will have unrolled his
+flying carpet and will be waiting.  Hopping onto it, he will
+immediately fly to the southwest towards the Marienburg road.  A
+guardsman at the Gafsmund wall will see the dark form passing
+towards the southwest.
+
+With all the yelling and horn blowing, the party in the Gafsmund
+district will be rapidly disrupted and everyone will begin pouring
+into the street.  Goebbels will at once call for his coach (which
+may sound suspicious), and drive home rather erratically, given the
+state of his coachman.  Once the story of the Gravine's body
+dropping down into the Gafsmund area is related, they will
+immediately begin a house to house search of the area and begin
+questioning everyone in the area.  The Knight Panther who questions
+the ostler and watchman will find them unusually drunk and hard to
+arouse, becoming suspicious that they are drugged.  
+
+Allow the investigation to proceed as normal at this point. 
+Wasmeier actually plans for the characters to discover that it was
+him who took Katarina; all he is anxious to do is to gain several
+hours of time to get a headstart.  He's relatively sure they'll
+catch Goebbels and that he'll crack under torture or the threat of
+torture, telling them of Wasmeier's involvement in Katarina's
+abduction and of his whereabouts in Marienburg.  People seeing him
+flying in the direction of Marienburg will probably also confirm
+this suspicion.  At this point, the characters will undoubtedly
+organize some sort of rescue team to go after Katarina.  As I noted
+in the introduction, this may consist of some or all of the
+original Enemy Within crew, or some of their henchmen.  Leave it up
+to them.
+
+Meanwhile, Back in Nuln . . .
+
+At the same time that all this is going on in Middenheim, the
+Kaspar double has problems of his own that will arouse his
+suspicion that the Purple Hand is again stirring, although he'll be
+unable to pin the blame on Wasmeier.
+
+About three months after events in Empire in Flames, Rick will take
+up his position as Chancellor in Nuln.  Among the other things that
+will occupy him, he will have an appointment with Albrecht
+Feinstein, a prominent merchant in Nuln.  Rick should be expecting
+nothing unusual in this meeting, but as soon as Feinstein is alone
+with him, he will confront Rick with the following speech:
+
+"Goddamnit, Kaspar, what's the matter with you?  Acting as if you
+don't recognize me!  What the hell have you been playing at for the
+last few months?  First you make off with that inheritance, and
+then you help the Sigmarites and bring back that goddamned hammer
+and lose us the Civil War, one of the best chances we've had so far
+to bring the damn Empire down.  You've obviously gone renegade, but
+because you haven't used your knowledge yet to hurt us here (I wish
+I could say the same for events in Middenheim--what the hell was
+all that about, anyway?), we haven't given up on you completely. We
+want to know your price for cutting us in on a slice of the action
+here in Nuln.  If you're thinking of betraying us after all, you're
+too late--we're prepared for you."
+
+If Rick tries to have the guards seize Albrecht, he will at once
+take poison from a hollow in one of his rings and kill himself.  If
+Rick lets him go, he will demand that Rick place a written report
+of all his actions for the last four years on his desk within 24
+hours, explaining everything satisfactorily and begging for
+forgiveness, or they'll immediately vacate Nuln and put out a 5000
+gold crown contract on his head.
+
+Other encounters that may be of interest--Councillor Oldenhaller of
+four years ago is now the head of the Merchant's Guild in Nuln, and
+one of Rick's first appointments will be with him, after the one
+with Albrecht.  (Note that I first ran these characters in the
+Oldenhaller Contract before starting on the Enemy Within!) 
+Oldenhaller will not remember Rick.  Rick may want to use his
+knowledge of Oldenhaller's illicit dealings in chaos artifacts to
+gain advantage over him, or perhaps not.  One of the pieces of
+information that will surprise Rick in Oldenhaller's briefing will
+be that there is a general shortage of capital in the city that has
+been further heightening economic hardships brought on by the Civil
+War.  It seems the town's second most prominent merchant, Albrecht
+Feinstein, has completely liquidated his business holdings in Nuln
+and is preparing to leave the city.  Why this is no one can say--
+Feinstein has been very evasive on the subject, saying only that he
+feels it is time that he retired from business--surprising as he's
+only 38.
+
+If Rick inquires with the banks in Nuln, he will find that they are
+unsure where Herr Feinstein's money has gone--it has certainly not
+been deposited with them.  From this, they are inferring that it
+must have been transferred out of Nuln to some other repository. 
+If Rick uses his influence, he will eventually discover after about
+a month that it was transferred first to Altdorf and then about a
+week later to Marienburg.
+
+The remaining Purple Hand Inner Council member in Nuln is a
+prominent lawyer named Heinrich Schwermut.  He has sold his
+practice and moved out of the city.
+
+A final meeting of interest will be with Hans Delbruck, a sleazy
+lawyer who represents the Nuln thieve's guild in most of its
+outside dealings.  He will be anxious to strike up a good working
+relationship with Rick, and will be able to provide various useful
+tidbits of information to him.  If asked about the contract,
+Delbruck will, in return for certain concessions, be willing to
+ensure that no Nuln assassin will take it up; for really valuable
+assistance, he will offer the protection of the thieves guild to
+Rick.  He will also be able to discover the terms of the contract--
+proof of the job to be brought in person to the proprietor of the
+Rat's Den in Marienburg; payment forthcoming.  At this point, he'll
+probably either contact Keith or go to see him himself; all this
+information should further the impression that something dark and
+chaotic is brewing.  It should also still further point the way to
+Marienburg, and serve to bring the adventurers back together.
+
+Wasmeier's Fiendish Scheme
+
+After a period of about 12-24 hours, the players will probably have
+organized themselves and be ready to pursue Wasmeier.  With his
+commanding lead (not to mention his ability to fly much of the way)
+he should stay well ahead of the characters.  After several days
+travel, they'll arrive in Marienburg.
+
+Once they get there, there are a variety of ways they may seek to
+discover Wasmeier's whereabouts.  The powerful characters may well
+try to use their influential positions to force the authorities to
+help.  They'll run into some difficulty here, however:  one, the
+Marienburg burghers are touchy about their "independence" of the
+Empire, and a bunch of imperial officials throwing their weight
+around is likely to provoke resistance.  The other problem is that
+they're only newly established in their positions of authority and
+haven't done much networking yet, so the Marienburgers may not be
+all that happy to help them.
+
+If they're polite and not obnoxious though, or if they proceed
+through unofficial channels (Thieve's Guild, etc.), they'll
+relatively quickly discover a new merchant's compound that's been
+set up just a few months ago on one of the marshy islands out in
+the harbor.  The owner is one Rufus Vitarna (nee Albrecht
+Feinstein, late of Nuln), and he's a funny customer.  He sort of
+dropped into town one day and the next was running an enormously
+profitable import-export business with Araby; no one knows where he
+got his capital, where he comes from, who his contacts are.  He
+does, however, pay his merchant guild dues on time and keeps his
+lawn cut; any attempts by the powerful characters to get Marienburg
+officials to raid the compound will end in failure before the usual
+Marienburg "live and let make money" attitude.
+The characters will probably figure out fairly quickly that this is
+where Wasmeier is; drop a few subtle hints however you wish.  This
+will probably lead to a daring plan to raid the island and free
+Katarina; you may wish to impress on them the idea that time is
+wasting away by giving the information that a new voyage to Araby
+is planned by the sinister merchants "very soon."
+
+Handle the raid however you wish.  The guards will not be privy to
+Wasmeier's plan to trap the adventurers and so they'll be quite
+convincing if caught and questioned about doings in the merchant
+compound.  Wasmeier will let them "rescue" Katarina, but only to
+use her as part of his trap.
+
+Wasmeier will have already used the doppelganger heart to
+temporarily change Katarina's allegiance; he'll then use her to
+lure them into a specially constructed dungeon room 20 x 20', with
+four barred windows 10' off the ground.  He will first summon a
+fire elemental to attack the characters, then try to destroy them
+with spells as they are engaged with the monster.  He will probably
+be successful, but will leave as soon as the battle is over and let
+his henchmen degrade the bodies of his former foes by beheading
+them and sending their heads to Heinrich, while he boards ship for
+Araby along with Katarina and Teufelsdrockh.  In spite of his evil
+nature, he is a gentleman and doesn't revel in grisly carnage for
+its own sake.  The heroes--only apparently dead, but miraculously
+survived:  have them all burn some of those fate points accumulated
+in the Enemy Within campaign--will come to in the nick of time and
+kill or drive off the henchmen.  But they will be too late to stop
+the ship with Wasmeier from sailing.  They'll then spend a while
+buying, begging or borrowing a ship to sail them to Araby:  they
+should be so pissed at Wasmeier (and you) by this time that they'll
+do ANYTHING to get to him.  You can either handle the voyage as an
+Errol Flynn adventure on its own, or simply skip over it and say
+they arrive at Salapa without much incident.
+
+Something's Rotten in Salapa
+
+When they get to Salapa, the characters will find a city with a lot
+of problems.  They'll quickly learn from asking around (note that
+you may well wish to play up the language barrier here--finding a
+good, reliable interpreter can be an adventure in itself, not to
+mention all the amusing problems that can come from botched
+translation) that the current Sultan, Al Firouk al Hijaz, is a
+sotted fool who has come completely under the influence of one of
+his many concubines, Zeriti, a beautiful, savage woman from a
+country far to the south of Hijaz.  Rumor has it that she is a
+witch, and that she's used her evil powers to completely besot the
+Sultan.  He dismissed all of the wiser and more religiously devout
+members of his court, including his formerly beloved brother and
+adviser Farouk, and replaced them with creatures of Zeriti's.  It
+is widely reported that she holds disgusting orgies in the palace
+now that would shock the moral sensibilities of any good follower
+of the Prophet.  What is even worse, she has formed close relations
+with certain of the foreign infidel merchants, especially one Vas-
+Mar, making some sort of political alliance with them, for god only
+knows what evil and godless purpose.  The people of the city are
+for the most part unhappy about these events, but unwilling and
+unable at the moment to do much about them.
+
+It is fairly well known in the city that Vas-Mar has taken up
+residence somewhere in the interior, and that caravans depart from
+the city at least once a month to bring supplies to him at his
+stronghold in the mountains.  It is also well known that the
+Sultan's exiled brother Farouk has gained some sort of religious
+and political influence with the bedouin tribes of the interior,
+and that they've been raiding the caravans, or trying to.  The
+caravans are thus now heavily guarded.
+
+The characters should be able to discover relatively quickly that
+the Sultan has taken a new concubine into his harem--"she who has
+hair like the blazing sunset on the desert," and this will lead
+them first to the palace and a confrontation with Zeriti.  Play
+this up however you wish--Zeriti is small potatoes compared
+magically to Wasmeier, but she's got plenty of armed help with her
+and she should make a tough fight.  Play up the "perils of Pauline"
+angle with Katarina; have her rescued just as her virtue is tried
+in a terrible orgy, etc.  Get as blue as you're comfortable with.
+
+Once Katarina is rescued, most of the characters will still want to
+go after Wasmeier for revenge, as well as to stop whatever chaotic
+schemes he's hatching in the desert.  My people linked up with the
+Farouk's Mujahedin bedouins in the desert and coordinated their
+attack on Wasmeier's compound with them.  The bedouins gave a
+diversion while they sneaked in to confront Wasmeier.  
+
+The final confrontation should be staged just as Wasmeier and
+Teufelsdrock turn on the Sssiss-tk.  I borrowed my description of
+the Sssiss-tk from the final episode of the Elric books, modeling
+it after the multifaceted glowing machine that transports Elric to
+Tanelorn.  Basically, once it's turned on, you see the various
+dimension's it's tuned to shifting over the facets of the machine;
+you travel to one by touching your open palm to the facet as the
+dimension perspective shifts by.  I also had it making all sorts of
+weird noises--a humming mixed with thousands of whispering voices
+that seem to be inside your head, not outside of it--such that
+anyone seeing it had to make a cool test or gain an insanity point.
+
+Wasmeier should make a _very_ tough fight of it:  remember that
+he's smart, and play him as you would if he were your own player
+character.  In the final confrontation as I ran it, he was finally
+driven to summon up the Air Elemental again, but he lost control of
+it and it attacked and killed Teufelsdrock (intellectual justice,
+if not poetic).  In the terrible battle that followed Wasmeier
+actually managed to get away by using the Sssiss-tk to escape to
+another dimension just as the hero character aimed a killing blow
+at him.  I thought of another angle I could have played if I'd
+thought of it at the time:  have the character warp with Wasmeier
+into a dimension where the Slann are still dominant, then have them
+force the two to fight out a duel a la some old Star Trek or
+Blake's Seven episode.
+
+Anyhow, at the end of the day, justice will of course prevail and
+the characters, having disposed of Zeriti and Wasmeier, will be
+gratefully returned home by Farouk and his bedouins, thankful for
+their assistance in driving out the foreign devils.  But if
+Wasmeier is still out there, he may come back again  . . 

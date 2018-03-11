@@ -1,0 +1,59 @@
+From: Manfred Lilge <lilge@berlin.snafu.de>
+Subject: Cleric of Ranald
+
+Hi, List!
+
+One of my players is an Initiate of Ranald and is going to become Cleric
+I. After studying the description of Ranald he found a few gaps in the
+rules.There is written, that "Clerics of Ranald may use the following Petty
+Magic Spells:"..."Zone of Invisibility"...
+
+Now the problems:
+a) When shall the character learn the PettyMagic-Skill?. This is neither
+possible as Initiate nor as Cleric!
+b) There is no spell description for "Zone Of Invisibility"!
+
+I propose the following solution:
+a) Although Clerics get their magical powers granted by their deity, it
+seems to me absolut neccessary to learn the appropriated skills since
+they need a certain mental attitude to use the magic. Therefore I tend
+to give Initiates access to the PettyMagic-Skill, similar to the
+Wizards' Apprentice. But this decision rises further problems: Should
+the Initiate also get MPs? And is he allowed to get spells?=20
+Why does a character get MPs when he changes his career to Wizards'
+Apprentice but does not when he becomes Initiate? In my point of view
+every inhabitant of the Old World owns an individual magical potential
+expressed in an unknown amount of MPs, but most of them are not aware of
+it. By studying the magical powers by learning Casting-Skills they
+realize this potential and get more and more access to it. Therefore the
+power level and the amount of MPs does not depend from the current =
+career but from the level of the learned Casting-Skill!
+
+E.g. a player who's charater has become Cleric II, but has not learned
+"Cast Spells - Clerical II"  does neither increase his power level nor
+the amount of his MPs.
+
+If this is true, I would grant 1D8 MPs to Initiates after having learned
+"Cast Spells - Petty Magic". And what about the number of spells, which
+have to be learned ( or granted ) at least to complete the career as
+Initiate? I think one PettyMagic-Spell is enough since they have limited
+access to this kind of magic and do not have the full choice.
+
+b) Since the spell-description is missing I propose the following one,
+adapted from "Zone of Silence":
+
+ZONE OF INVISIBILITY
+Spell Level:	P
+Magic Points: 	1
+Range:		Personal
+Duration:	1 hour
+Ingredients:	A piece of coal
+
+This spell creates a 12 yard diameter Zone centered on the caster. The 
+Zone last for an hour, until it is destroyed, or until the caster moves. 
+
+All friendly characters inside the Zone and all equipment worn at the 
+body become invisible.
+A character maintaining a Zone, may not cast any or use meditation skill 
+to recover magic points. Two or more Zones may not overlap. If they do 
+so, the both Zones are instantly destroyed.

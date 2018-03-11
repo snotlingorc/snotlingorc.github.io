@@ -1,0 +1,148 @@
+From WFRP-owner@cool.khis.com Sat Dec 18 13:38:27 1993
+Received: from cool.khis.com by sol.newcastle.edu.au with SMTP id AA06195
+  (5.65c/IDA-1.4.4 for peterson); Sat, 18 Dec 1993 13:38:09 +1100
+Received: by cool.khis.com id AA18139
+  (5.65c/IDA-1.4.4 for wfrp-list); Fri, 17 Dec 1993 19:02:22 -0600
+Date: Fri, 17 Dec 1993 19:02:22 -0600
+Message-Id: <199312180102.AA18139@cool.khis.com>
+To: WFRP@cool.khis.com
+From: <kenrolston@aol.com>
+Reply-To: WFRP@cool.khis.com (The WFRP mailing list)
+Sender: WFRP@cool.khis.com (The WFRP mailing list)
+Errors-To: WFRP-owner@cool.khis.com
+Subject: Color Magick for Realms of Sorcery
+X-Bmwmail: 4.0a
+X-List: The WFRP mailing list
+Status: RO
+
+Ken Rolston here:
+
+I've begun work on a draft for publication of Realm of Sorcery. Apart from
+ruthless editing and some presentation flourishes, it's pretty complete...
+except I'd like to add some touch of color magick to the system so I can use
+the neat graphic elements proposed in WD113 and WD114. System-wise, the
+inclusion would be purely chrome, so I need to keep the design additions to
+the absolute minimum.
+
+Here are rough notes on my current notions. Comments and other bad ideas are
+encouraged, as are questions like: "What the dickens ARE you talking about?"
+Folks who have seen the pirate version of Realms of Sorcery will best
+understand what's being said. And by the way, those pirate versions must
+disappear pretty soon. When publication of Realms of Sorcery is formalized
+and scheduled, I'm going to start pestering folk to pull those files out of
+circulation. They were originally intended only for my playtesting group, and
+folks who respect the god Copyright will swiftly and honorably trash the
+files and go out and buy the Official and Elegant Edition.
+
+
+COLOR MAGICK AND WFRP SORCERY
+
+Magick is wrought by drawing pure magickal energy ("raw magick" or "flux")
+from Chaos through a sorceror's aethyrial organ (known variously as "Spirit,"
+"Mind," or "Psyche") and shaping it through the discipline of lingua
+praestantia (the "Greatest Language," or "The Speech of the Gods"). 
+
+Raw magick is perceived by the sorceror's aethyrial organ as a mixture of
+eight basic natures called "colors." These natures are perceived by the
+sorceror as visual colors (i.e., red, orange, yellow); furthermore, these
+colors are sensed by the sorceror as having specific associated emotions and
+moods -- that is, each "color" is felt to have its own distinctive
+personality.
+
+Many sorcerors specialize in magicks associated with a single flux color.
+Such specialization enhances the facility of casting spells associated with
+that color; this advantage is counterweighed by the disadvantage that spells
+associated with other colors are difficult to learn and cast. These are the
+sorcerors of the Eight Colleges of Color.
+
+Some sorcerors choose not to specialize, but practice castings of all colors.
+They lack the facility of specialists, but have a broader range of spells
+available. These sorcerors are of the Rainbow College.
+
+All magickal flux bears both a positive and negative charge. Spells which
+utilize primarily positive energies are called Enlightened. Spells which
+utilize primarily negative energies are called Dark. 
+
+The eight Color Colleges and the Rainbow College are said to practice
+Enlightened Sorcery, since these colleges emphasize the practice of spells
+dependent on Enlightened energies. Enlightened Sorcerors are permitted to
+learn and cast spells dependent on Dark energies, but only with restraint and
+close supervision by the Guilds.
+
+Sorcerors who specialize in the practice of Dark magicks are called Dark
+Wizards. Such practice is against Guild charter and State law; Dark Wizards
+are outlawed in all civilized countries of the Old World.
+
+Scholars have privately noted that spells dependent on Dark energies are
+generally easier and more dangerous to learn and cast than Enlightened
+spells. This is because Enlightened spells must be more carefully shaped and
+controlled by Will and Intellect than Dark spells; Dark spells depend more on
+Passion than Intellect, and are more effective when unfettered by the
+inhibitions of Will. 
+
+COLOR DISCIPLINES AND THE SORCEROR CHARACTER
+
+In game terms, sorceror characters are defined as belonging to one of ten
+Color Disciplines: either one of the eight Color colleges (Light, Golden,
+Jade, Celestial, Grey, Amethyst, Bright, or Amber), the Rainbow College, or
+Dark Wizardry.
+
+All sorcerous spells are listed as belonging to one of the eight color
+colleges. In addition, all spells are classified as either Enlightened or
+Dark. 
+
+When creating a sorceror, the player must choose one of the ten Color
+Disciplines of Sorcery. This choice reflects the character's natural
+tendencies, and remains the same throughout the life of the character, with
+one exception: a sorceror belonging to one of the Color Colleges or the
+Rainbow College may become a Dark Wizard as a result of unfavorable results
+on Disability and Casting Injury Tables.
+
+LEARNING SPELLS:
+Color College wizards are specialists. Color Wizards learn spells of their
+own color colleges for 50ep, and may learn any Enlightened spell at 200 ep.
+They may not learn Dark spells except those taught in their own color
+college. Use of Dark spells, except where sanctioned by the State and Guild,
+is forbidden, and grounds for expulsion from the Guild and outlawry by the
+State.
+
+Rainbow College wizards are generalists. Rainbow Wizards learn any spell,
+Enlightened or Dark, at 150 ep. Rainbow Wizards are associated with
+hedgewizardry, and they tend to advance slowly, are poorly represented in the
+power elites of the Guilds, and are generally regarded as socially and
+intellectually inferior. Use of Dark spells, except where sanctioned by the
+State and Guild, is forbidden, and grounds for expulsion from the Guild and
+outlawry by the State.
+
+Dark wizards have a special affinity for spells driven by the power of Chaos.
+Dark Wizards may learn any Dark spell at 50ep, and may learn any Rainbow
+spell at 200ep. Dark Wizards are forbidden membership in the Guild, are
+forbidden tutelage or library use in the academies, and are outlawed by most
+states in the Old World. The Guild and State accurately judge Dark Wizards to
+be morally depraved; as such, Dark Wizards are normally suitable only as
+villains.
+
+
+CASTING SPELLS:
+Spells in Your Color College are more reliable in casting.
+
+The GM rolls 1d10 at beginning of each round to determine the current ambient
+strength of the magical flux. When the flux is weak, more personal magickal
+energy must be expended to cast a spell; specialists, however, cast spells
+from their own color discipline normally. When the flux is strong,
+specialists find cast
+ing spells of their own color college especially efficient.
+
+1d10   Strength of Magickal Flu
+x During This Round
+0         Flux is weak. Double MP cost except in own color college.
+1-8     Flux is normal. All MP costs normal.
+9         Flux is powerful. Castings in own color college are at half cost in
+MP (rounded up). All other MP costs normal.
+
+
+[[So. What spells are categorized as what? A fair question, and one I'll
+answer... as soon as I've whipped up a list.]]
+
+Ken
+

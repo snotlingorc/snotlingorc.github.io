@@ -1,0 +1,54 @@
+From: Oliver Rosenkranz <rossi@cs.tu-berlin.de>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: Goblinoid career
+
+Goblinoid Basic Career:
+=======================
+
+Wall-Drummer
+------------
+
+Description: Many Orcish and Goblin tribes live in large underground caves or
+  in deserted dwarven tunnel systems. The need of communicate over long
+  distances brought up some (for goblinoid measures) innovative ideas. While
+  goblin and snotling runners proofed too unreliable, Orcish runners were
+  too massive to run even through the narrowest tunnels. Therefore a special
+  - still primitive - communication technique has been developed by some
+  tribes - the wall drumming. Wall Drummers are valuable and well respected
+  members of their tribes as they transport important messages in times of
+  danger. Of course, Wall Drumming has also weak points as most tribes have
+  different drumming codes which sometimes causes fatal misunderstandings.
+  Also, in huge tunnel complexes the drumming can be heard over a very long
+  distance by applying an ear to the tunnel wall, but its source is often
+  much less easy located.
+  In some tribes each patrol 'gang' contains a Wall-Drummer.
+
+Advance Scheme:
+
+WS +10; S +1; W +2; I +10; Int +10; WP +10
+
+Note: This career is open only to Goblinoid characters. The character must
+  be a member of the tribe he wishes to drum for.
+
+Skills:
+  Acute Hearing
+  Orientation (underground only)
+  Secret Signs/Language - Tribe Drumming Code
+  50% chance of Primitive Mineralogy
+  35% chance of Musicianship - Drum
+
+Primitive Mineralogy (new Skill):  [bad name - maybe you can come up with
+                                    some better name]
+
+Characters with this skill are able to 'feel/hear' the quality and/or quantity
+of a mineral/stone by hitting it. By passing an Int test, the character may be
+able to estimate the diameter of a wall or to estimate the distance of the
+sound of a distant hit against a tunnel wall.
+
+
+Career Entries:
+  Guard
+
+Career Exits:
+  ???
+

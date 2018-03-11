@@ -1,0 +1,52 @@
+Date: Sat, 23 Oct 1993 15:08:18 -0500
+From: irishspy@aol.com
+Subject: New Ulrician prayer
+To: C9221777@cc.newcastle.edu.au
+X-List: The WFRP mailing list
+
+Fellow Snotlings,
+
+     Attached below is a spell I devised for the Ulrician priest in my old
+WFRP campaign.  While the material below should be regarded as [copyright
+1993--Anthony Ragan], please feel free to use it in your home games.  I'd
+also be grateful for any comments and critiques y'all might have.  The spell
+is in the format of Ken's Sorcerous/Divine Magic rules.  BMP= "base magic
+points," which refers to the number of MP's a character has when fully rested
+and ready.
+
+--Anthony
+    Snotling in Chief
+    IrishSpy@aol.com
+
+***************cut here***************************
+
+CLEAR THE FOG OF BATTLE
+
+Level 1 Prayer
+
+Restrictions:  Priests of Ulric only
+
+Range:  BMP yards radius, centred on the invoking priest
+
+Cost:  2MP to invoke, +1MP per round after the first
+
+Duration:  Variable
+
+Save:  None
+
+Explanation:   Once invoked, the priest can see clearly out to BMP radius
+through anything that obscures his vision, other than solid objects.  In
+other words, the priest may see through fog, mist, rain, darkness, smoke,
+coloured vapours, falling snow, and like circumstances.  However, everything
+beyond the radius of the prayer is completely obscured.
+
+Note:   This does not enable a priest to see through solid matter (e.g.,
+boulders, armour, wooden walls, etc.).  This is not a prayer of Transparent
+Vision.  However, if the invoker is completely immersed in a liquid, he may
+use this prayer to see out to BMP radius.
+
+Variations:     A 3rd-level variation, at double the MP cost, allows the priest
+to see even if he has lost sight in his eyes or had his eyes destroyed or
+removed.
+
+

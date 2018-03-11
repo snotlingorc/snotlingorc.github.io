@@ -1,0 +1,133 @@
+From: Frederic Barnabe <Frederic.Barnabe@scinfo.u-nancy.fr>
+Date: Wed, 7 Feb 1996 11:28:21 +0100 (MET)
+
+SKRILK THE SKAVEN WHO PRAY TAAL
+
+by F.BARNABE
+Translated from french to english by P.LEONARD
+
+NAME : SKRILK
+
+RACE : SKAVEN ( CLAN ESHIN )
+SEX : MALE
+CARREERS : Sewer runner / ASSASSIN
+
+                    M  WS  BS  S  T  W   I  A  Dex  Ld  Int  Cl  WP  Fel MP
+
+Starting Profile    5  33  25  3  3  7  40  1   24  24   24  18  29   14  5 
+
+Advance scheme     +30 +30 +1    +4 +30 +3  +30 +20  +20 +20 +20        
+
+Actual Profile     2*  53  35  4  3  9  60  2  24*  34   34  28  39   14  5
+
+
+Skills :
+        Rural concealment
+        Urban     "      
+        Disguise
+        Move silently Rural
+                "     Urban
+        Scale Sheer surface
+        Follow trail
+        Specialist weapons - Shurikan
+        dodge blow
+        Night Vision (30 m)
+        Martial Art from the Eshin Clan
+                (same as Street fighting)
+
+
+Trappings :
+        Grapnel, Rope 10 m
+        Hooded Gray Capen
+        False Beard
+        Boot ( -3 M)
+        Gloves (-20 Dex) 
+        2 oozing Blades  ( +10 I, -1 D, -10 Prd , Cut through
+armours, poisoned)        
+        6 poisonned shurikens
+        Leather shirt ( 0/1 Tronc)
+
+
+SKRILK story told by SKRILK (for the player):
+
+        " I'm SKRILK. I am about 1m50 high, i wear a gray hooded cloak which
+permantly hide my face. A long white beard just ticks out of it. My boots
+hurt. My feet are not made to wear them. My hands are hidden by black leather
+gloves. I am not skilfull wearing them
+        I slagger along the streets hearing laughs and mockeries of young
+children. they take for an old humped dwarf and jeer of my stench One of
+them, for sure one of the bravest pick a stone and throw it at me. If they
+knew... If they knew how i really look like,... If they knew what's hidden
+underneath the cloak and the false beard, they would flee, running away to
+their father which would cut me in pieces with their axes.
+        I am a skaven, A awfull ratman, a degenrated child of the Horned Rat,
+A  coarse parody of a man. One day, someone will notice and bring me death.
+Nevermind, my life is not worth a lot. It has only been suffering from birth.
+        Eleven years ago, a female of the Eshin Clan gave me birth among
+thirtenn other rats. My first feeling was blind teeth bites from one of my
+brother. The struggle began. Only six of us survived, the weakest eaten by
+the strongest
+        The Eshin Clan Headquarter was settled in a country human calls
+Cathay. It was there the Clan expatriated, centuries ago going away from the
+council of the Thirteen and from other Clans. Cathay's men told us the art of
+killing. They regretted it soon after when the first skaven blades cut
+throuogh their bodies.
+        All Eshin's skavens learn these skills: Art of Concealment; Art
+Acrobacy And the countless way to kill. The novices are called the sewer
+runner. If they survive long enough through testings and through the blades
+of their own brother they they may become one day Assassin.
+        I survived by murders during 11 years. Skaven Lifetime is about 20
+but few dies from being aged. Each blade I stuck hurt me deep inside. I can't
+bear anymore the hunger i feel after each fight, This insane hunger that
+pushes any skaven to throw himself on his victim and devour it.
+        Skaven religion teach us the Horned rat our God our Father created us
+from an old city he took back from the Human and the Dwarves. That city now
+called SkavenBlight is the capital of the ratkind ruled by the Council of the
+Thirteen made of 12 Lords of the Ruins, The Horned rat being being The
+symbolic 13th one.
+        Skaven politic is only but plots and corruptions to overthrow one's
+clan or another or to become a Lord. When coming to SkavenBlight, I
+understood my clan was not different of the others. They evolve selling
+themselves to the most offering one, Killing in the silence of the  night
+their opponents.
+        The most important thing ratkind has ever searched is Warpstone. Each
+and every weapon, object we produce is filled with. The Gray seers search the
+world to find it. Each clan use it then in his own way. The Moulder clan set
+out powerfull monsters they train, this from exposing living creature to
+warpstone. The techno-mages of the Skyre clan use it for their inventions.
+The Plague Monks of the Pestilens clan use it to spread plagues. And we from
+the Eshin clan, use it to produce our weapons, our oozing blades. One scratch
+and the poison spread at full in the victim's body bringing awful pains.
+Warpstone bring awfull mutations, only the Gray seers seems to be immune.
+        I know now the religion is wrong. Skaven is not an evolution from the
+rat but a human degenaration due the Warpstone. I behaved as a rat during 11
+years. I killed man and skavens for the Glory of SkavenBlight and for the
+plots of the Lords of The Ruins.
+        One day i refused. The weight of the life i took and the hearts i
+brake became too heavy. My ordeal was expeditious : Traitor and heretic, I
+deserve death. My Assassin'skills allowed me to avoid the blades thrown at
+me. I fled. The horde of Assassins of the council of the Thirteen were just
+amateurs. My dagger touch them first.
+        I wrote this note for the one who will kill me hoping he can
+translate it and understand that the one he judged and killed for the crimes
+of his race, respects and thanks him to have brought an end at his life full
+of pains.
+        Now I'm here on the road, hidding my identity, traced by my fellows
+and  rejected by all in the name of my race. I am in the
+search of something I never had the chance nor the right to have, Friends,
+and for what's have been taken from me centuries ago, my humanity. "
+
+
+FOR THE GM :
+
+	It seems like Skavens are most an evolution of rats than degeneration of
+men. But the player should trust this true. Well, in my campaign, the player
+travel to Kislev to encounter Sulring Durgul, the master of the others (since
+we play, Something Rotten in Kislev). With the fire of Zuvassin, he want to
+erase Chaos of him and wannt to become again a human.
+	But at least, it's just a little burnt rat who escape the fire.
+
+	If you want to play more with him, Durgul can transfer him to a new
+body. Let others players bring back a living one.
+
+

@@ -1,0 +1,137 @@
+From: "Leif Eriksson, the One and Only" <d95lee@csd.uu.se>
+Subject: WFRP: Official Errata from WD #92 part 1 (Long)
+
+Ok, as promised, here is the errata from WD #92 (not #93 as I thought 
+earlier). It's a bit longish, but if I can type it, you can read it ;-)
+I'll skip the intro bit and go straight to the bone:
+
+p15	Dwarfs: Add under Psychology:
+	Subject to animosity against elves.
+
+p19	Outrider Advace Scheme: Add +1 S
+
+p24	Druid: add at end of text:
+	Only Humans may become Druids.
+
+p28	Herbalist: add `Physician's Student' under Career Exits 
+	(also on p346)
+
+p29	Initiate: delete +10 Int, add +10 Fel
+
+p32	Outlaw: add following as first line of text:
+	Outlaws are people who are
+
+p43	Wizard's Apprentice:
+	Change Magic Points to 2D4 and 1D4. Add +10 Int and +10 WP to advance
+	scheme.	
+
+p45	Skill List: 105 should read Sense Magical Alarm, renumber the rest
+	accordingly.
+
+p51	Fleet footed: delete last sentence, add: 'They add 1 to their M 
+	score.'
+ 
+p53	Manufacture Drugs: change Cure Illness to Cure Disease.
+
+p56	Insert between Seduction and Set Trap:
+
+Sense Magical Alarm. Characters with this skill are able to sense when an 
+object or area is protected by the Petty Magic Spell Magic Alarm. A 
+successful Int test is necessary to sense the alarm, and the character 
+must be within 2 yards of protected area to detect the spell. Note that 
+this skill does not permit characters to disarm the Magic Alarm.
+
+p59	Clem's charcater sheet: running rate should be 64 yards.
+
+p75	Parties & Groups: delere  the numbers at the end.
+
+p75	Armour & Encumbrance: change `Toughness x 10' to 
+	`(Strength + Toughness) x 100'.
+
+p81	Manufacturing Poisons: replace the paragraph `Find Materials' as 
+	follows:
+
+Find Materials: - Ingredients for poisons are generally rare and 
+difficult to find, and you may decide that characters may only obtain 
+them at certain places (for example, where it is stated in a published 
+adventure that ingredients for poisons are available). Alternatively, 
+they might be purchased from a suitable source, such as a NPC Pharmacist 
+or Alchemist - in this event, most poisons will require D4+1 ingredients, 
+which are all Rare, each costin 3D10 shilling per dose. Note that openly 
+buying ingredients for poisons is likely to arouse suspicion.
+
+p83	Gaining Insanity Points:
+
+	Critical Hits: change `is forced to roll on the Critical Hits Table'
+	to `takes a Critical Hit'.
+
+	Terror: change `D6' to `1'.
+
+p97	Druidic Priest: add at end `Only Humans may become Druidic Priests'.
+
+p98	Free Lance: change +2 I to +20 I
+
+p106	Torturer: replace `Specialist Wepaon - Whip' with
+	`Specialist Wepaon - Flail Weapons'.
+
+p118	COmbat Procedure: swap stages 2 and 3.
+
+p118	Parrying: amend paragraph 3 to read:
+
+Weapons suitable for parrying are:
+
+One- and two-handed swords, maces and axes, shields, spears, staves, 
+flails (with handle).
+
+All parrying-wepaons - bucklers, sword-breakers, left-handdaggers, etc.
+
+p120	Wepaons: add aftr Fist Weapon:
+
+Whip: The whip is a dangerous weapon in the hands of a skilled 
+character, and arguably even more dangerous in the hands of an unskilled 
+character. While it does not cause a great amount of danage, it can 
+entangle a target on a successful hit. Only a single creature may be hit, 
+and the target must make a successful Initiative test or become 
+entangled. Entangled creatures counts as prone targets fr further hits, 
+and may not attack, although they may attempt a dexterity test each round 
+in order to free themselves. Range is 5 yards.
+
+p120	Weapon Modifiers: amend the table to read:
+
+Weapon		Initiative	To Hit	Damage	Parry
+
+Hand Weapon	   -		  -	  -	  -
+Knife/Dagger	  +10		  -	  -2	 -20
+Spear*		+10/+20		 +10**	  -	  -
+Improvised W.	  -10	   	  -	  -2	 +10
+Bastard Sword	  -10		  -	  +1	  -
+2-Handed Wepaon	  -10		  -	  +2	  -
+Halberd*	+10/-20		-10/0**	  +2	  -
+Quarter-Staff	   -		  -	  -1	  -
+Flail		   -		 -10	  +1	 -10
+2-Handed Flail	  -20		 -20	  +3	 -10
+Rapier		  +20		  -	  -1	  -
+Buckler		   -		  -	  -2	 +20
+Left-Hand Dagger   -		  -	  -2	 -10
+Sword-Breaker	   -		  -	  -2	 -10
+Lance***	  +20		 +10	  +2	 -20
+Net		   -		 -10	  -	 -10
+Fist Weapon	   -		 -10	  -1	  -
+Whip		   -		 -10	  -2	 -20
+
+p121	Body Areas & Armour:
+
+	Insert at end of paragraph 3: `At the GM's option, a character may
+	suffer a -10 penalty to I when doing so.'
+
+	Add after paragraph 5: `A character can wear plate arm bracers over
+	a sleeved mail shirt or coat, or over mail arm bracers - which gives 
+	two armour points on the legs. At the GM's option, a character may 
+	suffer a -10 penalty to I when doing so.'
+
+*** Note: there is a misprint in the Errata: plate arm bracers should 
+naturally confer 2 points of armour on the arms, not the legs. ***
+
+
+
+

@@ -1,0 +1,65 @@
+From: "G.G.Lepper" <ZZA95GGL@sheffield.ac.uk>
+Subject: WFRP: New Rules for Giants
+
+New Rules for Giants
+
+  In the WFRP combat system physical stats, weapons skill, unique 
+skills, weapons, speed, are all taken into account.  One thing not 
+taken into account is size...
+  This may toughen large NPC's which is really needed in the game.  
+The following are a way to deal with the sheer size of Daemons, 
+Giants, Ogres, Treeman etc.
+ 
+  First, because of their size, the toughness of their muscles, the 
+density of their bones, blows from creatures half their size and less 
+don't have a proportional force.  Therefore, all damage by creatures 
+less than half the giant sized creatures size is reduced by one.  
+This is not an increase in Toughness, or an extra AP, so therefore, 
+rules affecting those two points should not be taken into account 
+when reducing damage for size...
+  Second, because they are larger, and their blows do more damage 
+with all that mass bearing down,  weapon attacks by giants on non 
+giants do an extra point of damage.  This is only for giants 
+attacking creatures under 10'.  If the GM feels like doing so, this 
+damage bonus could be increased to two.
+  A few optional rules.
+  PCs or creatures fighting Giants may have a special bonus.  If a 
+giant's opponent is half the size or less, the GM may rule that 
+ either:
+  1)  Because the difference is size is large, that the giants 
+opponent is considered a "small" target, giving the giant -10 to WS.  
+This could easily be the death of a Giant, so would be a bad idea, 
+but against some Daemons, could help halflings out against...say a 
+Bloodthirster?
+  2)  Because the reaction speeds are different, that an opponent 
+half the size gets a faster reaction time against the giant.  The non 
+giant then gets a +10 bonus to Initiative.  This could very well give 
+the character a first strike, or a good chance to Dodge Blow.  I 
+prefer this of the two.
+  Optional Rule
+  Here's another optional rule concerning Weapons.
+  Weapons crafted for creatures over 10' tall could possible give 
+bonus due to the sheer mass of the weapon.  Therefore, all giant 
+sized weapons have an additional damage bonus of +1, but an 
+Initiative penalty of -10.  
+  Improvised Weapons are possible to for giants.   Treat them as 
+Improvised, but raise the damage done by +1, and lower the Initiative 
+by ten.
+  I don't suggest that all these rules be used at once, or even used 
+at all.  However, one or more of these rules could be applied to 
+specific races.  I often find that Giants, and Ogres get hacked to 
+death in no time.  I use these as extra rules to add the dimension of 
+abnomal mass and strength in combat.
+  Comments?
+  Note, that some of the rules could be used for the Ogre PC.  I 
+would suggest the +1 to damage given, the -1 to damage received, the 
+the oversized weapons rule to make up for the crippling disadvantages 
+the Ogres have...
+
+  Cheers!
+
+         Rev. Garett Lepper
+         zza95ggl@sheffield.ac.uk
+
+"Before bed, I prefer to bludgeon myself to sleep."
+  -DM, Bob 3:16

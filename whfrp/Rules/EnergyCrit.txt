@@ -1,0 +1,72 @@
+From: lcarroll@unity.ncsu.edu (Lloyd Carroll)
+Subject: [WFRP:1158] Energy Criticals
+
+My gaming group and I wanted a little more pizazz when our PCs died or
+killed others with Energy spells (most likely fireball or lightning bolt
+spells).  To that end, we came up with a set of crit tables similar to those
+for the body locations.  However, since the energy spells don't hit just one
+location, there is no need to worry about that.  Use this table just like
+you would the others : roll on the percentage table for the seriousness of
+the critical, read the resulting effect off of this table.  We usually just
+use it as a guide for how serious the damage is, it gets rather boring to
+read the same thing over and over.
+
+As far as the design of the table is concerned, we tried to construct it
+similarly to the others - 1-3 are not too serious, 14-16 are death, the
+others vary in severity.
+
+Anyway, hope you all like it, and can use it.
+
+Energy Criticals
+1 - His breath taken away by the intense enegies involved in the spell, the
+victim may only parry next round.
+2 - Acrid, thick smoke rising from clothing and the surroundings chokes the
+victim, no further actions this round or the next.
+3 - The intense heat scorches hands. Metal objects are dropped and become
+cherry red, non-magical wooden objects are charred, magical wood saves at
+1-4 on d6, otherwise it is also destroyed. Opponent may make no actions for
+the remainder of this and the following round.
+4 - The victims hair is briskly aflame; they may take no other actions for
+following rounds, until hair is extinguished.  Helmetted/hairless opponents
+are incapacitated for one round only.
+5 - The force of the spell blasts the victim back 2d6 yards, and they are
+stunned and may do nothing at all for the next d4 rounds.
+6 - The victim's clothing/fur bursts into flames (whoof!!); they will d4
+W/rd., and are prone while trying to put it out.
+7 - Searing energy courses across the victim's skin, burning it severely.
+Victim is stunned for d4 rounds, and M and I are halved until victim
+receives medical attention.
+8 - The burns on the victim's body are extremely serious (as 7, above). They
+will be stunned for 2d4 rounds, M & I are halved, and they will lose 1 W/rd.
+until medical attention is received.
+9 - The energy of the spell has seared away tissue over most of the victim's
+body. They are stunned for 2d4 rounds, M & I are halved, and they lose 1
+W/rd.  In addition, scarring reduces Fel by half, permanently.
+10 - The victim is concussed and burned, and is in shock; they are prone,
+unconscious, and must pass a T test or lose d4 W/rd.
+11 - The victim is in shock from the concussion and burns (as 10, above). In
+addition, they must pass another T test every round until medical attention
+is received, or permanently lose 10%/1 from each characteristic.
+12 - The force of the spell has burned away 90% of the victim's skin,
+exposing vital organs. The roasted victim is prone, unconscious, loses 10%/1
+from each characteristic, and will die in d10 rounds unless medical
+attention is received.
+13 - The victim is so horribly burned that, upon unlikely recovery, scarring
+reduces all characteristics by half; until medical attention is received,
+victim is prone and receives d6 W/rd.
+14 - Victim and all that is worn erupt in a ball of flame. The victim runs
+randomly from the combat, and continues burning until death in d4 rounds.
+15 - Victim explodes in a brilliant pyrotechnical display - OOOHHH!!
+AAAHHH!!!!
+16 - Victim bursts into flames, and burns instantly and intensely, leaving
+only bits of teeth and bone in a pile of ash.
+
+
+L8r -- Lloyd
+Chemistry                        |Lloyd Carroll
+Rocks and Minerals               |NCSU
+Warhammer Fantasy RolePlaying    |Raleigh, NC           
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^|lcarroll@unity.ncsu.edu
+I'm Probably doing one of these  |
+right this very minute!!
+

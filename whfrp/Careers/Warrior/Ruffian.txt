@@ -1,0 +1,50 @@
+From: *Your Personal Savior* <ZZA95GGL@sheffield.ac.uk>
+Subject: [WFRP:883] Another "New" Career...
+
+Ruffian-Basic Warrior Career
+  The cities and towns of the Old World are littered with people 
+who scrape by without real means of employment.  Some of these 
+people, known as Ruffians, rely on small petty crime or odd jobs 
+for a means of finding money to drink.  Ruffians spend most of 
+their time in taverns or at local sports events drinking and fighting.  
+Many form into gangs of disenchanted youths, and terrorize local 
+communities.  A few turn to more serious criminal pursuits or 
+adventuring, but many simply die in drunken brawls or gang fights, 
+or caught for a minor crime and  imprisoned.
+
+M   WS   BS   S   T   W    I   A   Dex   Ld   Int   Cl   WP   Fel  
+-      +10     -   +1  -    +2    -   -       -        -      -       -      -       -
+
+  Skills
+Consume Alcohol
+Specialist Weapon Fist
+Street Fighting
+Strike Mighty Blow
+25% chance of Very Resilient
+25% chance of Very Strong
+
+  Trappings
+Club
+Dagger
+Knuckledusters
+
+  Career Entries
+Beggar
+Labourer
+Seaman
+
+  Career Exits
+Bawd
+Protagonist
+Racketeer
+Thief (General)
+
+
+    Cheers!
+
+       Rev. Garett Lepper
+       zza95ggl@sheffield.ac.uk
+
+"Eternal Salvation or Triple Your Money Back!"
+      -J.R. "Bob" Dobbs
+

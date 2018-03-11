@@ -1,0 +1,315 @@
+
+           ORCISH MAGIC - BY ECHO
+          -======================-
+    Adapted for WFRP by Hal 'ECHO' Eccles
+   -=====================================- 
+ Special Rules!
+-==============-
+   Orc and Goblins shamens obtain their magic from slightly different 
+sources to normal spellcasters. Their power comes from the raw Orcish 
+magic which is generated when the Gobinoids around them get excited. 
+The More orcs around the shamen the easier it is to cast spells. However 
+should the shamen take on so much of this raw energy their can be serious 
+side effects. NB only Orcs, Savage Orcs, Snotling fatheads and Goblins 
+may be shamen the others are either too stupid or simply not interested.
+
+ The Waaagh test;
+-================-
+   Instead of having magic points the Shamen gathers his energy instantly 
+from the Orcs surrounding him. Thus the most magic points a shamen can 
+hold is a percentage in relation to his INT and his Level. Thus:
+
+Level 1   30% of Int is the max Magic points he can hold
+Level 2   40% of Int is the max Magic points he can hold
+Level 3   50% of Int is the max Magic points he can hold
+
+1. Each TURN the Orc shamen must count up the number or Orcs and 
+Goblins within 25 yards. For each Orc he gets 1 MP, for every 2 goblins 
+he gets 1 MP (goblins are only half as big!). Magic points gained each 
+turn are cumulative. Always round down to nearest whole number.
+
+2. Each Orc in hand to hand combat add a further +1 MP, goblins again 
+are half so two are required. 
+
+3. At the end of each turn the shamen can choose to drain all extra MPs 
+away from his body by simply touching the ground with a larger copper 
+staff (which nearly all sensible shamens carry). The only other way to get 
+rid of it is to cast spells.
+
+4. If at any point the shamen moves more then 25 yards away from all 
+Orcs and Goblins then no more magic is gained. BUT any magic he has 
+stored already in his bubbling mind, remains.
+
+5. If at any point the shamen exceeds the number of magic points allow 
+for his level then he must take a 'Eadbangerz' test which is described 
+below.
+
+ 'EadBangerz' Test
+-=================-
+   If at any point the shamen exceeds the number of magic points that his 
+brain can hold (unlikely because of spellcasting and his trusty copper 
+staff) then a 'Eadbanger test is necessary. To take an 'Eadbanger test the 
+following procedure is required:
+
+   - Take the current number of Magic points (MP) and turn it into a 
+percentage i.e. 24 magic points equals 24%. If the shamen is an Orc 
+(rather than a goblin) then add deduct 5% per level.
+   - The shamen must then roll a D100 (percentile dice). If he rolls below 
+the percentile total of magic points/level then he has failed and must roll a 
+D6 on the 'Eadbanger chart. If he passes then he is safe for the time being.
+
+ 
+ 'Eadbanger chart 
+-================-
+
+5-6     The shamen froths a bit and loses all magic points and he cannot 
+cast for d3 turns.
+
+3-4     The shamen is knocked prone for d3 rounds by the huge amount of 
+power flowing through him. He cannot cast spells for d6 turns.
+
+ 2      The shamen vomits out an explosive burst of waaargh energy 
+causing the heads if any Orcs and Goblins in 10ft to explode unless they 
+pass a WP test.
+
+ 1      The shamen's own head explodes in spectacular fashion - killing him 
+instantly.  
+
+
+ Special rules for different Orky Races
+-======================================-
+NIGHT GOBLINS carry around magic mushrooms with them which they 
+consume adding D6 extra magic points to their total at any time.
+SAVAGE ORCS add +1 to the protective power of savage Orcs tattoos 
+within 25 feet increasing their save from 6+ to 5+.
+FOREST GOBLINS have small venomous spiders swarming all over 
+them & constantly biting them, making them somewhat resistant to 
+'Eadbangs. They add +1 to their dice roll when rolling on the 'Eadbanger 
+chart so they can never blow up. But every time they fail a 'Eadbangerz' 
+test they are slightly overcome by the poison and stagger drunkenly for D3 
+rounds unable to do anything (unless 'Eadbanger result is worse than this 
+i.e. knocked prone)
+FATHEAD SHAMENS have delicately large heads and thus they deduct -
+1 from rolls on the 'Eadbanger chart making them more liable to explode. 
+
+ Level ONE:
+-==========-
+
+'Eadbutt
+Spell Level: ORC 1
+Magic Points: 3
+Range: 36 yards
+Duration: instantaneous
+Ingredients: 
+
+The shamen smashes the head of an single enemy with a bolt of Orky 
+magic. Anyone struck by this attack must make a percentile Toughness 
+test. If the Victim fails this test then he suffers he suffers D4 wounds and 
+is knock prone for D3 rounds.
+
+Mork save us!
+Spell Level: ORC 1
+Magic Points: 4
+Range: 12 yard radius
+Duration: One hour/level of caster OR until caster moves
+Ingredients: 
+
+This spell creates an zone of magical protection around the caster and an 
+Goblinoids within a 12-yard radius.The zone lasts for one hour per level 
+of the caster or until the caster moves. All Goblinoids within the zone may 
+not be affected in any way through magic. Also magic weapons/items 
+don't work within the zone and the zone may not be entered by any 
+creature with magical origin i.e. undead.
+
+Mork wants ya
+Spell Level: ORC 1
+Magic Points: 4 per turn
+Range: 24 yards
+Duration:Until caster stops or until victim escapes
+Ingredients:
+
+A Giant magical hand descends from the sky and lifts a single enemy 
+within 24 yards into the air. The victim can do nothing but try to escape 
+every round. To escape the victim must pass a percentile Strength test. 
+Even when the victim is freed they still suffer falling damage. Use 
+common sense when deciding height that victim is carried, i.e. they could 
+be pinned to the roof of a cavern for example.
+
+Die Yer Git 
+Spell Level: ORC 1
+Magic Points: 1 per Fire ball
+Range: 48 yards
+Duration: Instant
+Ingredients: Ball of Sulphur
+
+The Shamen can hurl balls of flaming death (read fire) at his opponents. 
+One ball may be thrown per level of the caster. Fire balls hit 
+automatically, has a strength 3 and causes D10 wounds. Flammable 
+targets suffer an extra D8 wounds. If fired into a group it will hit 1D3 
+creatures.
+
+I'm well 'ard
+Spell Level: ORC 1
+Magic Points: 2
+Range: Personal
+Duration: D6x10 turns
+Ingredients:
+
+This spell endows the caster with increased hand to hand fighting 
+potential. The shamen can choose which of his characteristics he wishes to 
+improve, either WS and BS +10 or twice as many attacks or wounds by 
++D6.
+
+Eat Dis
+Spell Level: ORC 1
+Magic Points: 1 per ball
+Range: 48 yards
+Duration:Instant
+Ingredients:
+ 
+Like a fireball instead a gunk ball made up of various unsavoury and 
+typically Orky rubbish. One ball may be cast per level of the caster. Each 
+ball causes D3 hits S2 each causing D4 wound. If it hits a group it hits D3 
+Creatures
+
+You yella bugger
+Spell Level: ORC 1
+Magic Points: 4
+Range: 48 yards
+Duration:2D6 rounds
+Ingredients:
+
+This spell induces a fear reaction in any individual or single group in 
+range. Unless the victim/s make a successful WP test then they will be 
+forced to flee combat.
+
+ Level TWO:
+-==========-
+
+BOOOMM!!
+Spell Level: ORC 2
+Magic Points: 3 
+Range: 48 yards
+Duration:Instant
+Ingredients:
+
+An ear shattering blast of sound envelopes the target creature/group if a 
+WP test is failed target is stunned for D6 rounds
+
+BURP!!! curry breath
+Spell Level: ORC 2
+Magic Points: 3
+Range: Hand-to-Hand combat only
+Duration: Instant
+Ingredients: A Large Squig curry which is hastily eaten
+
+The Caster belches a sickly cloud of green vapour which causes a stinging 
+sensation in the eyes which affects the character by dropping all percentile 
+characteristics by -5% and if a WP test is failed then the target may be 
+forced to vomit making them prone for D3 rounds.
+
+Brain Bursta
+Spell Level: ORC 2
+Magic Points: 2
+Range: 48 yards
+Duration: Instant
+Ingredients:
+
+This spell causes a bolt of Orky power to speed away from the shamen for 
+up to 48 yards. If fired into a group it will hit D3 creatures Each target hit 
+causes 1D10 wounds at Strength 4 irrespective of armour.
+
+'Ere we go
+Spell Level: ORC 2
+Magic Points: 5
+Range: 60 yards
+Duration: 1 turn
+Ingredients:
+
+This spell may be cast on any single group of Goblinoids within 60 yards. 
+For the next turn the Goblinoids gain +1 toughness and always hits first in 
+combat even if they are charged.
+
+Fists of Gork
+Spell Level: ORC 2
+Magic Points: 5
+Range: Hand-to-Hand
+Duration: Instant
+Ingredients:
+
+In hand to hand combat the shamen can inflict D6 Strength 6 hits hits 
+amongst his close combat opponents. Critical Hits may not be caused.
+
+Gaze of Mork
+Spell Level: ORC 2
+Magic Points: 4
+Range: 100 yards
+Duration: Instant
+Ingredients:
+
+The shamen's head begins to swell, his eyes widen and grow larger. 
+Suddenly a blast of pure Waaagh! magic erupts from the shamens eyes in 
+a searing gaze of destruction. The gaze is aimed a single opponent and 
+inflicts D3 S5 hits unless the opponent can dodge out of the way using 
+their I.
+
+The hand of Gork
+Spell Level: ORC 2
+Magic Points: 4
+Range: 20 yards (moves 200 yards)
+Duration: Instant (moves at M5 running)
+Ingredients:
+
+From the sky descends a large hand which picks up friendly models 
+(including the shamen) or friendly groups and moves them 200 yards in 
+any direction (vertical or Horizontal). 
+
+ Level THREE:
+-============-
+Da Krunch
+Spell Level: ORC 3
+Magic Points: 6
+Range: 35 yards
+Duration: Instant
+Ingredients:
+
+From the sky descends a large Orc foot some 10 ft long and 4 foot wide. It 
+aims for a single model or group and attempts to stamp on them. The 
+targets can attempt to dive out of the way using their I. Any opponents (or 
+friends!) caught underneath the foot take damage from a Strength 4 attack 
+and there is the risk that items such as backpacks my be destroyed (GM's 
+decision).
+
+WAAAAAGH!
+Spell Level: ORC 3
+Magic Points: all
+Range: 100 yards
+Duration: 1 turn
+Ingredients:
+
+The shamen summons up all the Orky power he can muster and lets it all 
+go in one terrific burst of energy. All non-goblinoid spellcasters within 
+100 yards are knocked flat by this burst and lose half remaining magic 
+points from the shock unless they pass an INT test. Also All Orcs/Goblins 
+within 100 yards can add +1 to their WS and can re-roll percentile based 
+mental tests (Cl, INT, WP, LD, FEL) for the next turn.
+
+Dizpel
+Spell Level: ORC 3
+Magic Points: 3
+Range: Personal
+Duration: Instant
+Ingredients:
+
+The shamen can use this spell instantly when a spell is cast either directly 
+at him or at a group he is with. If the shamen passes a WP test then all 
+effects of the spell are nullified. NB; the only exception to this rule is if a 
+magic missile i.e. a fireball was cast at a group containing  
+ Notes
+-=====-
+   This is a first draft adapted largely from rules presented in Warhammer 
+fantasy battle, with a few of my own bits thrown in for spice. No 
+ingredients have been added largely because I didn't know what to put. 
+Generally mud, squigs, beer, mushrooms, hair, toenails and other 
+disgusting stuff would be used.
+

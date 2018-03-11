@@ -1,0 +1,34 @@
+SKIRMISHER----------Version 0.1
+Basic Warrior Career
+
+Skirmishers form a small part of any army, they harass an enemies flanks and
+serve as a disturbance, and a diversion to hurt and confuse the opposing army.
+ They do not form up as normal soldiers into ranks instead fighting in a chaotic guerilla
+style.  They are also used for raids, suprise attacks, night operations, and do especially
+well in difficult terrain.  Skirmishers have always been regarded as second class soldiers,
+their ranks filled with the men who were untrainable or disobedient, but as of late are becoming
+en vogue with the Nobles, every general having to make sure he has "Der Kommandos" in
+his army.
+
+WS:+10  BS:+10  T:+1  W:+2  I:+10  CL:+10
+
+Dodge Blow				Trappings:
+Strike Mighty Blow				Leather Jack
+Secret Language-Battle Tongue		Bow or Crossbow and Ammo
+25% Secret Language-Ranger			Hand weapon
+25% Secret Language-Woodsman
+Orientation
+Concealment Rural
+Fleet Footed
+25% Ride
+Silent Move Rural
+10% Specialist Weapon Firearm
+10% Specialist Weapon Thrown Weapon	
+
+Career Exits:
+		Assassin
+		Outrider
+Career Entries:	
+		Soldier
+		Mercenary
+

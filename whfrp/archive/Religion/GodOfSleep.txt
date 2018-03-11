@@ -1,0 +1,124 @@
+From: Gregory Jay Scott <scott3@america.net>
+Subject: [WFRP:1028] Re: Mages
+
+Morr, God of Sleep
+==================
+
+It says in the basic rule book that no religions are known to worship 
+Morr in his aspect as the god of sleep. I have begun to create such an 
+order of clerics and am perfectly willing to team up with anyone who has 
+be working in this direction.
+My idea with their inception is that Morr wanted a nonlethal branch of 
+clerics that could still kick choatic butt. Also he desided that terror 
+should not be a weapon denied the forces of law.
+
+The concept so far is this:
+	-They do not NEED as much sleep as others (-.5 hour per careers in 
+the order including the current one) but at the entry level they gain the
+ ablitity to fall asleep at will and for them sleep is considered an act 
+of worship. They must gain this skill before taking and attribute bonuses 
+for the entry level cleric career and must have it to advance to level 
+one cleric. If they do not sleep for a number of hours equal to the 
+current cleric career (again include Initiate) longer than a normal 
+member of their race does they are considered to have broken a minor stricture.
+This would be excused off hand by Morr if they were skipping sleep to 
+further his cause significantly in a matter that required that their
+attention to it not be spread over several days. Note that they are NOT 
+required to actively seek out undead to kill (although they should pass 
+on any info ASAP to the main branch of the priests of Morr
+
+Spells Use: Steal mind, all petty magic , Cause stupidity , demonic 
+binding protection and dispelling magic 2 careers back from their current 
+career, all first level illusion magic , all second level illusion magic 
+except buildings and woods, all third level magic except Vanish, Destroy 
+illusions (4th level ), Illusion of darkness.all fourth level illusion 
+spells except army and teleport.
+
+Several special spells:
+
+Releave exhaustion
+------------------
+Spell Level: 1
+Magic Points: 1 per hour of sleep relived from target
+Range: touch
+Duration: instant
+ingredients: small cushion 
+Saving throw: N/A
+
+Effect is like one hour of sleep by target for each magic point spent. 
+This mostly relives mental fatigue and will not relive any physical 
+effect that would be helped merely by resting in a physically relaxing 
+way while maintaining a moderate level of mental activity( like holding a 
+conversation).
+In addition the caster now needs the amount of hours of sleep substituted
+divided by his level the next time he sleeps. Treat this sleep like it 
+was missed the last time the caster slept as far as its effects on the 
+cleric go.
+
+Modify sleep
+------------
+Spell level: 1
+Magic points: 1 for every 2 targets
+Range touch ( but the targets need not be touched at the same time. 
+merely within 1 minute of each other.
+Duration: until target wakes-up
+Ingredients: An egg shell of any bird or reptile to lighten a feather to 
+deepen
+saving throw: the target(s) must be willing to allow the caster to cast a 
+spell on them.
+
+This can be cast in two modes. Either one will cause the in five minutes
+target to go into a natural sleep and sleep as long as the person needs 
+to unless awoken. In the deepen mode the target is considered to be in a 
+very deep sleep bordering on coma for purposes of what will wake them up.
+In lighten mode any touch greater than the weight of the egg used to cast 
+the spell, or any sound louder than would be heard from the explosion of 
+an equal volume of gunpowder to the egg used heard at a range of 3 yards 
+will wake the target.
+
+
+Wander dreams
+-------------
+Spell level: 2
+Magic points: 1 per fifteen minutes of use.( # must be declared at casting?)
+Range: .5 mile for each level of the caster. times 50 if seeking a 
+previously targeted ally.
+Duration: as long as both parties are asleep and spell points invested 
+remain.
+Ingredients: A small pillow and a pound of sand
+Saving throw: A target that does not trust the caster may take a will 
+power test. if successful the target wakes up and the caster goes into a 
+coma for 2 twice the duration of the spell minus the time of the spell 
+that was used up. This effect occurs any time the target wakes up whether 
+friendly or unfriendly to the caster
+
+the caster immediately goes to sleep. This will allow the caster to cause 
+dreams in and then enter the dreams of any sleeping person within range. 
+They can specifically chose the dreams of any person within 4 yards of 
+their body or anyone whose dreams they have entered before. They can also 
+choose to wait any amount of time in a sort of limbo ( the clock on the 
+spell IS still ticking) or they can target the spell at a random target 
+within range ( they can declare themselves to by using a lower level of 
+proficiency than they possess if they with for range purposes). Once in a 
+persons dreams they can speak to the person if the person knows and 
+trusts them, any thing either party says will be remembered by both parties 
+perfectly for 10 minutes after the person in question wakes up.
+The caster may change targets, this takes 1 turn.
+
+In the dreams of someone who is not trusting of the caster The caster may 
+merely observe the dreams. He may turn the dreams to any subject he likes 
+by making a number of will power rolls to determine the number look on 
+page 67 of the rule book. the number of successful rolls in a row 
+required is equal number of cost levels  the importance of the imformation 
+the dream conserns expressed as a bribe attempt.  This subject will be 
+dreamed about for 5 minutes. A failure causes the coma desribed earlier. 
+Note Bene: these comas have no lasting effects. When discribing the dream 
+to the player keep in mind the surrealistic nature of dreams, and the 
+fact that their contents may not be truthful in the usual sense although 
+they will almost always express the mood of the dreamer to the subject. 
+However these induced dreams are d100-3+(d6 per casters level) percent 
+truthful. Treat any result above 100 as a 100.
+
+Their is more, basically they can boost the WP of an army while it sleeps 
+and can attempt to cause major and multible insanities in opponents.
+This long enough for the moment however.

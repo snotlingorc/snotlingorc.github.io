@@ -1,0 +1,120 @@
+The Horned Rat - Skaven deity
+
+The Horned Rat - Skaven deity
+
+Description:
+The Horned Rat is the feared deity of the Skaven. The mighty
+Chaos god gnaws at the fabric of the universe. The Horned Rat stands for
+spreading diseases and his followers are also known for looking for new
+ways to intrigue and and lying. He is often portrayed as very tall Ratman
+or oversized rat.
+
+Alignment:
+Chaotic.
+
+Symbol:
+The symbol of the Horned One is a triangle with one edge pointing
+down and every two of its side lines overlapping each other. This symbol
+is often painted upon shields and armour of Grey Seers and Skaven Warriors.
+The Horned Rat's associated number is thirteen.
+
+Area of Worship:
+The Horned Rat is worshipped by all Skaven, although his
+worship is not restricted solely to the Ratmen - many Humans also offer it
+prayers and sacrifice. These Human followers can be found throughout the
+Empire's cities, where they serve as spies for the Skaven and also as
+suppliers of sacrificial victims. Many of these worshippers hope to be spared
+the doom that will befall their fellows. The organisation of these cults
+varies greatly. Some are headed by Skaven who lead bizarre rituals in
+catacombs deep beneath the towns and cities, while others are led by Humans
+who meet occasionally with the Skaven to receive instructions on how they
+can best serve the Horned One. Cultists in prominent positions do their
+utmost to hinder the improvement of urban areas and attempt to close down
+or reduce any operations involved with the maintainance of sewers or other
+public works.
+
+Temples:
+The chief temple to the Horned Rat is in the Skaven city of
+Skavenblight. This ancient temple has been build on foot of a cloud-breaking
+tower, which had onve been built by Dwarfs and Humans. At the moment, there
+does no other temple of this Chaos god exist, but there are several shrines
+dedicated to him in various Skaven strongholds, lairs and even hidden in the
+sewer systems below some of the Empire's cities.
+
+Friends and Enemies:
+All civilised races like Humans, Dwarfs or Elves are
+natural enemies in the eyes of the Horned Rat's followers. Of course, the
+Spreader of Decay seeks to let Skaven gain control over other races and for
+this reason, he allows his followers to arrange temporary pacts with traitors
+or other fools of these races. Alliances entered into just to spread
+disinformation, distrust and corruption.
+Even towards other Chaos gods the cult of the Horned Rat is hostile, but
+there are indications about a certain sympathy towards followers of Nurgle
+who aren't in the way.
+
+Holy Days:
+There is only one holy day for the cult of the Horned Rat, the day
+of the Horned One's Incarnation during Vermintide.
+
+Cult Requirements:
+Non-Skaven followers must have finished at least one
+military or sorcerous career to be accepted by other cult members (and not to
+end up as sacrificial giving to the Spreader of Decay immediately).
+
+Strictures:
+Initiates and Clerics of the Horned Rat must abid by the following
+strictures:
+
+-Sympathize under all circumstances with the aims of the Skaven,
+-Never refuse to obeye an order from the Skaven Council of Thirteen,
+-Do anything possible to harm civilisation,
+-Never doubt the superiority of the Skaven race,
+-Never reveal any information about the cult's true purposes to people who
+are not a cult member.
+
+Spell Use:
+Followers of the Horned Rat who are not blessed with the ability
+to transform warpstone to magical energy do not regenerate Magic Points,
+even if they followed spellcaster careers before.
+
+Clerics of the Horned Rat as well as the Grey Seers are able to use all Battle
+Magic spells.
+There is one spell only available for Clerics of the Horned Rat:
+
+Summon Pox Bearers
+Spell Level: 3
+Magic Points: 4 + number of pox bearers (minimum of 10)
+Range: 100 yards per level
+Duration: 1 hour per level
+Ingredients: The heart of a Rat Catcher
+Spell Effects: This spell must be cast at least 6 feet beneath ground (like
+in a sewer system or Skaven tunnel) or fail automatically. The Cleric
+summons 2D10 creatures which carry the Red Pox disease. The creatures
+usually will be rats of any size, but the GM may choose any species he
+sees fit. The creatures appear within a number (Level of caster D100) of
+yards away from the caster out of nothing. The creatures move and attack
+as a Swarm. The caster is allowed to direct the swarm initially into one
+direction. The swarm then attacks the first living creature in sight and
+range or otherwise do nothing (except waiting for someone to be seen in
+this direction) until unsummoned or otherwise disappearing.
+Living creatures whose S or T is reduced to zero or below because of an
+infection caused by those carriers collapses and dies.
+
+Skills:
+In addition to the skills normally available to Initiates and Clerics,
+priests of the Horned Rat gain Seduction at Level 1. They have to pay for
+this skill the normal amount of 100 EP.
+
+Trials:
+Trials set to followers of te Horned Rat normally include finding a
+specific piece of warpstone, killing a certain enemy, betraying  an ally or
+infiltrating a civilised society. In rare cases, trials may include building
+a new tunnel leading to a certain place or examine and prepare some city's
+sewer system for an invasion or similar action.
+
+Blessings:
+A well known blessing for Skaven followers is gaining the ability
+to transform warpstone into magical energy (Magic Points). Other blessings may
+be a bonus to a specific Bluff test. Favoured skills for followers of the
+Spreader of Decay are Orientation (underground only), Immunity to Disease and
+Silent Move Urban.

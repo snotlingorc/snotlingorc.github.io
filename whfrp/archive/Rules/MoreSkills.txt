@@ -1,0 +1,54 @@
+Agriculture				/Careers/Farmer.txt
+Art					/Careers/Artisan.txt
+Art					/Careers/Artist.txt
+Artistic Expertise			/Careers/Artist.txt
+Art Mastery				/Careers/Artist.txt
+Astrology				/Careers/Astrologer.txt
+Authority				/Careers/Inquisitor.txt
+Bind Wound				/Religion/RoDMSample.txt
+Body Control				/Magick/MagickAlternatice.txt
+Ceremony				/Religion/RoDMSample.txt
+Character Judge				/Rules/Vortext9.txt
+Ch'i strike				/Careers/MonksOfSulim.txt
+Create Master Rune			/Careers/Runesmith.txt
+Create New Rune				/Careers/Runesmith.txt
+Create Rune Classes			/Careers/Runesmith.txt
+Cult Doctrine				/Religion/RoDMSample.txt
+Diploamcy				/Careers/Diplomat.txt
+Dispel Magic				/Careers/Runesmith.txt
+Distract				/Careers/Wardancer.txt
+Diving					/Bestiary/SeaElves.txt
+Enforce Tattoos				/Careers/OrcShaman.txt
+Immunity to Fear			/Careers/DwarvenSlayers.txt
+Immunity to Terror			/Careers/DwarvenSlayers.txt
+Initiation				/Magick/MagickAlternative.txt
+Invoke Prayer				/Religion/RoDMSample.txt
+Lightning Draw				/Rules/Vortext9.txt
+Manufacture Inks			/Careers/OrcShaman.txt
+Meditation				/Careers/MonksOfSulim.txt
+Meditation				/Magick/MagickAlternative.txt
+Meditation				/Religion/RoDMSample.txt
+Mental Fortitude			/Careers/Oracle.txt
+Multi-Strike				/Careers/MonksOfSulim.txt
+Navigation				/Careers/Mariner.txt
+Neat Blow				/Rules/Talizman.txt
+Norse mythology (lore)			/Campaign/Norsca.zip
+Parry Strike				/Careers/MonksOfSulim.txt
+Philosophy				/Careers/Philosopher.txt
+Political Doctrine			/Careers/Academic/PoliticalActivist.txt
+Prophesy				/Careers/Oracle.txt
+Read/write Futhark			/Campaign/Norsca.zip
+Resistance to Illsuion Magic		/Careers/WitchHunter.txt
+Resist Magick				/Religion/RoDMSample.txt
+Retreat					/Religion/RoDMSample.txt
+Sea Lore				/Careers/Mariner.txt
+SenseMagick				/Religion/RoDMSample.txt
+Shield Bashing				/Rules/Vortext9.txt
+Skald lore				/Campaign/Norsca.zip
+Tactics					/Careers/Templars.txt
+Transfix				/Careers/Wardancer.txt
+True Sight				/Religion/RoDMSample.txt
+War Chant				/Careers/OrcShamans.txt
+Warchant				/Careers/Wardancer.txt
+Whirling Death				/Careers/Wardancer.txt
+Wineculture				/Careers/Winecrafter.txt

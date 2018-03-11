@@ -1,0 +1,191 @@
+From: John Blankenship <dmt@u.washington.edu>
+Subject: My alignment system.
+
+Alignment Points:
+	an alternate system for alignment determination and maintenance
+
+Version 1.0
+
+Introduction
+------------
+Ever since my earliest days playing AD&D, I always felt that the alignment
+concept -- like the 'class' concept -- seemed horribly stiff and
+inflexible, and relatively unable to adapt to changes in a character's
+personal life as well as events around him. (I won't even go into the
+concept of alignment 'languages'. ^_^)
+
+The first game I saw that had something that kinda seemed 'right' was
+Chaosium's _Stormbringer_, that had points you acquired between serving
+Law and Chaos (gross oversimplification of the game, mind you); the more
+you acquired in one direction, the more chaotic (or lawful) you had
+behaved, and indeed, were likely to behave.
+
+When I first found WFRP, I found a really nice, well reasoned system for
+replacing classes with occupations and careers. However, alignments
+still seemed to be stuck in the same paradigm. This then is my attempt to
+do something similar with alignments.
+
+Concept
+-------
+
+We know from Warhammer that Good does not necessarily equal Lawful, nor
+Evil Chaotic, so why is it that they are commonly portrayed as a linear
+progression like so:
+
+ Lawful <--> Good <--> Neutral <--> Evil <--> Chaotic   ?
+
+To me , a much more sensible relationship (given that Lawful people can
+exhibit both Evil and Good behavior in the pursuit of stasis, just as
+Chaotic people can exhibit both Good and Evil behavior in the pursuit of
+change) would be as follows: (please forgive the horrible ASCII drawing)
+
+			Lawful
+		      /   |   \
+             / -------    |    ----------\
+	    /             |               \
+	Good------------Neutral-----------Evil
+	   \              |		   /
+            \---------\   |     /---------/
+         	       \  |    /
+			Chaotic
+
+As such, it seems that (A) any character should be able to move from
+Neutral to any of the 4, or from one of the 4 to any other 3 without straining
+credibility as a character.  Likewise, it seems to me (and this is not a
+homage to TSR!) that (B) a character could combine two of the outer 'ring'
+alignments, as long as they were not in opposition (ie Lawful and Evil for
+a head of a Thieves Guild, or somesuch). The system I use works best if
+you use both (A) and (B), but it will work with modifications with just
+(A).
+
+Mechanics
+---------
+
+Most characters, and all humanoid races available to PC's (including
+Elves; I don't buy the Elves-as-intrinsically-good angle one bit) start
+out at Neutral unless they have a really, really good reason to be
+otherwise (being an Initiate of a various diety, for example, would be an
+excellent reason, but simply being raised in a culture of Good or Evil
+isn't enough to lock that character into that alignment; a Dark Elf
+adventuring in the Old World isn't likely to share the views of his
+relatives, or he wouldn't be there, ne?). As such, characters start out
+with +0 Lawful, Good, Evil and Chaotic Alignment points. Alignment points
+are awarded to characters in response to actions, in roleplaying or in
+combat, that are clearly something a person of a given aligment would do.
+
+I'll rank the assigning of Alignment Points (ALP for short hereafter, for
+brevity) in three degrees:
+
+1. A minor action that typically wouldn't cause much, or minor discomfort
+to the character in question, but is either out of the characters way, or
+not fitting with what the character should be doing. +1 ALP.
+
+Example: a character accepting a contract to kill a man (for no particular
+reason, just money) would gain +1 ALP in Evil; a character who decided to
+donate his adventure's earnings to the local church orphanage would gain
++1 ALP in Good (assuming there were no ulterior motives).
+
+2. A major action that would cause major discomfort to the character in
+question (quite possibly risking their life, estate, or reputation) is
+worth +2 ALP.
+
+Example: a character throwing themselves in front of a beggar to protect
+them from a stray fireball at no thought to their own safety would be +2
+to Good (if they are wearing powerful magical armor, or have resistance to
+fire, it would fit under 1), above); a character who starts a revolution
+against a town/state/religious leader would gain +2 ALP in Chaotic.
+
+3. A massive action that would not only possibly cause major discomfort
+for them, but for their friends, neighbors, innocents, etc on the basis of
+principle is worth +3 ALP. Such events are _very_ far and few between.
+
+Example: a duke walking into the Imperial Court announces that the Emperor
+is in fact a cleverly disguised Chaos Spawn would gain +3 ALP (in Lawful
+or Good, or maybe both) irregardless of how prepared they were to prove
+the fact. A daemonlogist who comes upon the soul-crystal of a chaos
+Godling realizes that he could use it to either call forth the godling and
+have it be his slave (+3 ALP in Chaotic) or use it to destroy the godling
+for good (+3 ALP in Lawful).
+
+Accounting of ALP goes as follows: The alignments are arranged in a
+diamond, as mentioned earlier. Any _opposing_ points counteract each
+other. Law points counter Chaos points, and Good points counter Evil
+points such that if a character receives +2 ALP(Evil), +1 ALP(Lawful), and
++1 ALP(Good), his net change to his ALP profile would be +1 Evil, +1
+Lawful from the adventure.
+
+A character changes his alignment from Neutral once he receives +10 ALP in
+any field; the character may have up to two alignments at any time,
+assuming that one of them isn't Neutral. This gives us 9 possible
+alignments; Lawful/Good, Lawful, Lawful/Evil, Good, Neutral,
+Evil, Chaotic/Good, Chaotic, Chaotic/Evil. (Yes, I _know_ the similarities
+this has to _that_ game..)
+
+A character starting out in one non-Neutral alignment automatically
+receives +10 ALP's in that direction. I'd recommend only starting
+characters with single alignments; see below for why.
+
+Characters can become Neutral if they have zero ALP's in every field.
+
+Once a character is in a alignment, he stays that alignment until he
+changes again. A Neutral character that gains +9 Evil ALP will still be
+Neutral; a Lawful character that drops down to +1 Lawful ALP will still be
+Lawful.
+
+Generally, I don't let people know the exact # of ALP they have; I will
+let them know if they are definitely acting a certain way, and I do notify
+them when they change alignments.
+
+Experience
+----------
+
+Generally, in my campaign, Neutral players aren't penalized for ALP gains
+until they switch alignments; then, any ALP gains in opposite directions
+(evil for a good character) penalize experience gains; any ALP gains in
+purpendicular directions (evil for a lawful character) don't effect
+experience, and any ALP gains in positive directions (chaotic for a
+chaotic character) should add to experience for playing the character
+correctly.
+
+Optional/Suggested modifications
+--------------------------------
+So far, I've only tested this system in one campaign, and what you see
+here is the result of that. I'm getting ready to run another, and I'll
+probably revise them again afterwards. Simple modifications that could be
+made, for example:
+
+1) Let PC's accumulate more than +10 ALP's in any given axis.
+2) Dispense with double alignments, and introduce a fractional deduction
+(say 1/3 or 1/4 of a ALP) for ALP gains at right angles to the character
+alignment.
+3) Penalize any ALP gains outside of the character's alignment.
+
+I'm sure others can think of other mods..
+
+Problems/Benefits of this System vs the Default
+----------------------------------------------
+
+Problems:
+1) It introduces another number and variable for a beleagured GM to keep
+track of, in addition to requiring a large # of judgement calls on the
+GM's part while assigning ALP's.
+2) If you subscribe to the nature over nuture view of morality (esp. for
+races), it doesn't make much sense.
+3) If players have no problem defining their character's morality at the
+onset of the game, and consistently play it, then it is downright
+unnecessary. (Mind you, I don't think WFRP is about playing moral
+absolutes..)
+
+Benefits:
+1) Alignment is dynamic, and adjusts how the character really plays, which
+gives everyone involved both an idea of how well they are playing their
+character as well as a measure of sorts..
+2) If you subscribe to either the nuture over nature, or relativist views
+of morality, it makes a little more sense.
+3) People can 'grow' into their characters, and they aren't forced to
+necessarily act a certain way on the onset.
+
+Opinions/comments?
+
+john blankenship
+may 30, 1996

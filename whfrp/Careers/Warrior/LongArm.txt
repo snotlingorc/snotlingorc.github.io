@@ -1,0 +1,80 @@
+From: Psychedelic Goblin <PS4CC@merkland.rgu.ac.uk>
+Subject: WFRP: The Long Arm...
+
+THE LONG ARM OF THE LAW
+
+It seems that many careers exist for the criminal classes, so it's 
+time to even the score. Presented below are law enforcement careers, 
+including the basic Watchman and Roadwarden careers. These careers 
+have been revised because the were just pathetic before.
+The Watch of larger cities (such as Middenheim, Altdorf, Nuln etc) would 
+be significantly different than that of towns or villages, so I have presented 
+variations for both.
+Some of this information is based on notes from the Middenheim supplement.
+Generally, the Watch of towns and villages are much more 'rough and 
+tumble' than their city counterparts.
+Roadwardens face greater danger, and are therefore more militant.
+Watch Captains tend to spend the greater part of their time behind a 
+desk or interrogating felons, hence they do not increase their 
+physical statistics so much.
+Roadwarden Sergeants are answerable to the captain of the nearest 
+Watch, so there are no Roadwarden captains.
+
+>Basic Roadwarden
+Adv - WS+10 BS+10 S+1 W+2 I+10 Ld+10 Cl+10
+Skills - Dodge Blow, Ride Horse, Sec Lang. Battle Tongue 
+Strike Mighty Blow, 50% Disarm, 50% Strike to Stun
+Trappings - Bow/X Bow + ammo, Horse, Saddle + Harness, Mail Shirt,
+10yds Rope, Shield
+
+>Basic Watchman (City)
+Adv - WS+10 BS+10 S+1 W+2 I+10 A+1
+Skills - SW Fencing Sword, Strike Mighty Blow, 75% Disarm
+50% Dodge Blow, 50% Strike to Stun, 10% Fleet Footed
+Trappings - Mail Coat, Rapier, Shield, 25% Bow/X Bow + ammo,
+lantern + pole.
+
+>Basic Watchman (Town, Village)
+Adv - WS+10 BS+10 S+1 W+2 I+10 A+1
+Skills - Street Fighter, Strike Mighty Blow, Strike to Stun,
+75% Disarm, 50% Dodge Blow, 10% Fleet Footed
+Trappings - Club, Lantern + pole, 25% Mail Shirt, leather jack (only 
+if the character doesn't have the Mail Shirt)
+
+>Roadwarden Sergeant
+Adv - WS+20 BS+20 S+2 T+2 W+4 I+20 A+1 Ld+20 Cl+20
+Skills - Disarm, Dodge Blow, Interrogate, Ride Horse, 
+Sec Lang. Battle Tongue,  Strike Mighty Blow, Strike to Injure, Strike to Stun  
+Trappings - Bow/X Bow + ammo, Horse, Saddle + Harness, Shield,
+10yds Rope, Sleeved Mail Shirt
+
+>Watch Sergeant (City)
+Adv - WS+20 BS+20 S+2 T+1 W+3 I+20 A+1 Ld+20 Int+10 Cl+10 Fel+10
+Skills - Concealment Urban, Disarm, Dodge Blow, Drive Cart, 
+Interrogate, SW Fencing Sword, Strike Mighty Blow, Strike to Stun
+Trappings - Sleeved Mail Coat, Helmet, Shield, Rapier, Mail Coif, 
+Dagger
+
+>Watch Sergeant (Town, Village)
+Adv - WS+20 BS+20 S+2 T+1 W+3 I+20 A+1 Ld+20 Int+10 Cl+10 Fel+10
+Skills - Concealment Urban, Disarm, Dodge Blow, Drive Cart, Interrogate,
+Street Fighter, Strike Mighty Blow, Strike to Stun
+Trappings - Mail Shirt, Shield, Helmet, Dagger, Club, Sword
+
+>Watch Captain (City)
+Adv - WS+20 BS+20 S+2 T+1 W+4 I+20 A+1 Ld+30 Int+20 Cl+10
+WP+10 Fel+10
+Skills - Disarm, Dodge Blow, Law, Read/Write, SW Fencing Sword,
+Strike Mighty Blow
+Trappings - Sleeved Mail Coat, Breast Plate, Mail Coif, Helmet, 
+Shield, Rapier, Dagger
+
+>Watch Captain (Town, Village)
+Adv - WS+20 BS+20 S+2 T+2 W+5 I+20 A+1 Ld+30 Int+10 Cl+20
+WP+10 Fel+10
+Skills - Disarm, Dodge Blow, Interrogate, Law, Read/Write, Street Fighter, 
+Strike Mighty Blow, Strike to Stun
+Trappings - Sleeved Mail Coat, Shield, Helmet, Dagger, Sword 
+
+
+ 

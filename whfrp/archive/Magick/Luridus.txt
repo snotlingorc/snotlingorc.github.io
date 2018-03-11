@@ -1,0 +1,135 @@
+From: Chris Clements <chris@atmnet.net>
+Subject: [WFRP:1319] "Luridus"
+
+'Luridus, Blade of Endings'
+
+--
+"Let us hope there are no more wraiths... I doubt we would survive one
+more meeting with their dark kind.  Here, Erik, what have you got there"?
+
+"A dark blade, master wizard. Come and examine it, for even one untrained
+in the arcane such as I can feel the... the power flowing through it.  And
+it would seem it has runes...".
+
+"Runes?  Are you sure?  Here, bring it in to better light.  Ah, what an
+interesting prize we have found.  I have never seen a blade such as thi..
+Look!  LOOK!  The hand of a god has touched this weapon!  See the center
+rune... here?  'Tis a rune of death...".
+
+"I have heard tales of such weapons... is not the rune specified to slay
+the creature named at the creation of it"?
+
+"Yes Erik, you are correct.  However, this center rune names no one race...
+yet it is one of the runes of death!  This weapon will destroy the
+mightiest daemon, or the largest giant, or... any of those who shed blood
+upon its blade.  Do you not understand?  This one rune embodies the most
+potent and primal forces of destruction... legends of old whisper the name
+of it to me... 'the unbinder', 'unraveller', 'ender', 'twilight' and 'Morr's
+rune'... some say the last calling is false.  Some instead say 'Khaine's
+rune'".
+
+"Khaine?  This weapon is of Khaine"?
+
+"Erik, wait, you understand not... wa.. my hand.  The blade has cut my hand!
+No... no..."
+
+"Sigmar help us, I'm sorry Malegor! I... I... why is everything growing
+so dark?  Sigm...".
+
+--
+
+Description:
+
+Luridus (pronounced 'Lur-e-duce') is a sword with a shining silver mithril
+hilt and ebony blade.  The blade itself has many engraved intertwined runes,
+yet all these smaller symbols of power lead to the center of the blade, to
+a large and highly intricate master rune.  A greater death rune...
+
+The smaller intricate runes name every living creature in existence, as
+well as the immortal powers that be (only undead are not so marked upon
+the sword).  When activated, the runes glow with a dim red light.
+
+History:
+
+Very few know of the existence of such a blade, and fewer still know its
+true story.  Some of those who have heard of the blade claim that the
+dark lord of assassins, Khaine, created it to slay in his vile name. Others
+who have studied this weapon vehemently deny Khaine had anything to do
+with its creation, saying instead that it was made by the hands
+of Shallya, whose purpose in making it was to teach the futility of battle.
+Yet, there are a few who say that this sword had even darker smiths than
+Khaine...
+
+Such tales are false, fanciful theories only.  The weapon was created by
+skilled dwarven hands, but its maker is lost to the shadows of the past
+(the few dwarves who know of this sword claim its forger was none other than
+Rukh, their god of smithing).  It was Morr, however, who inscribed the names
+of all mortal creatures onto the dark metal and linked them to the master
+rune of death.  Morr also enchanted it with other properties not so easily
+discernable.  Why the god of death and dreams enspelled the sword so, none
+but the higher powers can say honestly(even the mighty daemon-lords refuse
+to speak of the blade; naming it to them causes them pain).
+
+Luridus was then sent beyond the sea of souls, cast into the living lands
+by Morr's hand.  Many a tale of woe and bravery involve it before Sigmar's
+birthing, yet never is the sword of power mentioned by its true name.
+
+
+Powers:
+
+- It is an enchanted sword (obviously), and can wound (and then slay) any
+  creatures harmed only by magical weapons (* - except undead; see below).
+
+- If a mortal creature receives as much as a single wound from Luridus,
+  then it dies (GMs: you may or may not allow the use of fate points for
+  a pc injured by the weapon).  The one who spills blood with the sword
+  also perishes (no fate points may be spent to save the character).  Luridus
+  will also slay immortal creatures as well, be they daemons or elementals,
+  save those who have already died the false death (i.e. undead).
+
+- If the bearer is slain by a mortal creature (whether Luridus is drawn or
+  not) the attacker dies.  Luridus need only be on the person, it is not
+  required for it to be unsheathed.
+
+- The bearer may choose to wound himself with the blade.  In this case, the
+  mortal will transform into an undead creature (vampire, wraith, ghost, or
+  possibly a lich).  One such transformed will never know death a second
+  time, for it is impossible to truly destroy one who has been changed in
+  such a matter (although it is possible to banish them for a time).
+
+- Luridus can not be handled by undead, it simply is intagible to them.
+  The sword also passes through such creatures without damaging them
+  in the slightest if used in an attack.
+
+- If the bearer sleeps close to Luridus (within arms reach) he or she
+  will sometimes dream of places or people long ago.  At other times
+  the dreams will show the bearer the present, but the sword will always
+  be in the hand of its current owner in the dreamlands.  All the senses
+  through the dream are muted and darkness always lies just beyond the
+  dreamer's posistion.  Should the sword be dropped in the dream, it
+  vanishes from the waking world as well (it is cast upon the sea of
+  souls to reappear in the living world were and when Morr wills it).
+  This ability (dreaming) is very difficult to control with any accuracy
+  (1/4 WP test each turn).
+
+- Luridus draws ravens to its owner's location like flies are drawn to
+  rotting meat.  At first, one will arrive, then a few more.  Within
+  a days time (provided the bearer doesn't move from his/her present
+  location) a flock of hundreds will gather.  They never pester the
+  sword-wielder or his/her companions, but they are a constant presence
+  that can prove to be somewhat unnerving.
+
+- The rune-sword wears heavily upon its master.  For a mortal, it is
+  a heavy burden that grows with time.  In game turns, the sword
+  subtracts d4 willpower points a day.  These points will only return
+  when Luridus is more than ten miles away.  If the bearer is ever
+  reduced to 0 willpower, then the sword is lost to the sea of souls
+  and the bearer begins to 'heal'.
+
+--
+
+Chris Clements
+chris@atmnet.com
+
+"Vale, mi amice."
+

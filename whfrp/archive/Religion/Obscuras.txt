@@ -1,0 +1,173 @@
+From: Ian Ward <ACA95IDW@sheffield.ac.uk>
+Subject: Updates to archive files
+
+*OBSCURAS - Master of Darkness, Lord of the Shadows
+
+>Description:
+ Obscuras is the half-brother of Alluminas.  Originally allied to 
+law, he became jealous of Alluminas' wondrous light and claimed the 
+realm of darkness for himself.
+ When dedicated Obscuras cultists die, their shadow becomes fixed as 
+it was at the moment of death, leaves their body and heads straight 
+for Obscuras' shadow realm - a place of total blackness, but where 
+those blessed to come can 'see' perfectly.
+
+>Symbol:
+ Obscuras appears as a tall, dark haired man clad in black, who 
+somehow seems to "radiate" darkness, and also takes the form of a 
+bat.  His followers wear black in rituals and his symbol is an 
+eclipsed Morrslieb.
+
+>Alignment:
+ Chaotic, but will tolerate Evil.
+
+>Area of Worship:
+ Obscuras has secret cults throughout the old world, and rituals 
+always take place in near or total darkness.  He is followed by those 
+necromancers who do not follow Khaine, and with others who work 
+mainly in the shadows (eg. footpads).  Dedicated cultists are 
+admitted to the "brotherhood of the shadow" which shelters and works 
+with fellow cultists travelling from other areas.
+
+>Temples:
+ Being outlawed, Obscuras has no formal temples.  His worshippers 
+operate temporary shrines that can be quickly dismantled in an
+emergency.
+
+>Friends and Enemies:
+ Obscuras severely dislikes the gods of law, but reserves the 
+majority of his hatred for Alluminas.  He maintains friendly 
+relations with the Horned Rat and tends to ignore all other gods 
+(including the other chaos gods) unless some scheme of theirs piques 
+his interest.
+
+>Holy days:
+ Holy days of Obscuras are generally when Morrslieb is new, as well 
+as any and all times when an eclipse of the sun or either moon 
+occurs.  Another day held sacred is the winter solstice, when the Old 
+World day is at its' shortest.
+
+>Cult Requirements:
+ Obscuras welcomes all who wish to turn to the shadow.
+
+>Strictures:
+ - Hunt down and destroy all followers of law, and especially of 
+Alluminas.
+ - Never kill a creature of darkness (eg. a bat) unless in self 
+defence.
+ - Sympathise with the Skaven and their aims.
+ - Extinguish the lights that burn in the temples of Ulric whenever 
+possible.
+ - Extinguish all lights unless this would make the cultist unable to 
+see.
+
+>Spell Use:
+ Obscuras grants all petty, illusion and battle spells (except those 
+that produce light), as well as allowing Necromancers who turn to him 
+to keep and expand on their necromantic abilities.  In particular, 
+the level 4 spell "Illusion of Darkness" may be learned and used from 
+level one onwards and the following special spells are available:
+
+  >Night Sight
+  Petty, 2 MP, personal range, effects last until next sunrise
+  This spell grants to the character the ability to see in the dark 
+without light, as for Night Vision, for the period of effect.
+
+  >Extinguish Light
+  Level 1, 3 MP, 12 yds. range, effects last until light is relit
+  This spell will extinguish a single light source within 12 yds. of 
+the caster, which will flicker a moment before being put out.  Non-
+magical lights are extinguished automatically, but magical lights 
+require a WP test to be made.  Note that magical lights do NOT 
+include normal lights started by magical means.
+
+  >Manipulate Shadow (based on a spell written by Paul Keenan)
+  Level 1, 2 MP, range: touch (or self), lasts until the next sunrise
+  This has the effect of changing the shadow of the victim (who gets 
+a WP save only if they notice being touched - an I test) into that of 
+another humanoid creature of similar size (caster's whim). This may 
+not seem particulary devastating, but to a suspiscious person / 
+persons, it could have the effect of making them think the person is 
+something else in disguise! (eg, a human with an ork shadow or a 
+Chaos Warrior's shadow or a Daemonette's shadow!). The caster may 
+even wish to make the victim have no shadow at all!
+  To work, the spell requires something from the victim's body (hair, 
+etc) and something from the body of the creature whose shadow the 
+caster will imitate.
+
+  >Cloak of Darkness
+  Level 2, 8 MP, personal range, 1D6x10 turns duration
+  This spell will work only during the hours of darkness (in the 
+open) or in darkened areas, and cloaks the caster in an obscuring 
+gloom.  The caster sees normally out of the cloak, but viewers have 
+difficulty looking into it.  If confers a + or - 20 modifier to all 
+hide, etc. tests in favour of the caster.
+
+  >ShadowBolt
+  Level 2, 6 MP, 48 yds range, instantaneous
+  This spell is Obscuras' answer to the fireball and Alluminas' 
+LightBall.  It allows the caster to throw the ShadowBolt, a razor-
+sharp bolt of dark energy, at a target within 48 yds.  The ShadowBolt 
+always hits and counts as a magical missile, causing D10 damage at a 
+strength of 6.  Non-magical armour is ignored.
+
+  >Summon Shadow
+  Level 3, 14 MP, personal range, 1+ hours duration
+  This spell summons a shadow from Obscuras' shadow realm to appear 
+within 6 yds. of the caster, who must control the shadow (WP test, 
+additional MPs may be spent to aid the test) if it is not to 
+disappear again immediately.  If controlled, it will obey the caster 
+for the spells duration befre returning to the shadow realm.  The 
+shadow is subject to instablility and has the same abilities and 
+restrictions as a ghost with regard to physical objects.  As such, 
+they are usually used for scouting duties and such, reporting their 
+findings back to the caster.
+
+>Skills:
+ One of the Night Vision and Astronomy skills may be bought at each 
+level.
+
+>Trials:
+ Protect a group of creatures of darkness (eg. prevent a rural 
+community from harming or moving some bats in a temple roof), destroy 
+a local cult of Alluminas, extinguish the light in the temple of the 
+White Wolf in Middenheim, etc.
+
+>Blessings:
+ Night Vision and Astronomy are favoured skills and favoured tests 
+include all hide, shadow, etc. tests in darkness or semi-darkness.  
+Obscuras may also confer the magical disability Nocturnal Lifestyle, 
+and a one-shot use of the "Illusion of Darkness" spell is also 
+relatively common.
+
+*SHADOWPHYTES
+
+ M WS BS S T W  I  A Dex Ld Int Cl WP Fel
+ 6 90 -  6 7 50 80 6  -  80 80  80 80  -
+
+ Also known as 'shadow demons', that name is quite accurate.  
+Shadowphytes are demons of Obscuras with most of the normal demonic 
+abilities, and the most dedicated of Obscuras' cultists hope to join 
+the ranks of the Shadowphytes upon their deaths.  Shadowphytes appear 
+as black shadowy humanoids whose features are only barely visible 
+through the inner darkness they radiate.  They cannot fly but possess 
+the ability to melt into the shadows in one place and reappear in the 
+shadows somewhere else within their line of sight.
+
+ They cannot be harmed by non-magical weapons, but suffer a loss of 
+half their characteristics when not shrouded in full or semi-
+darkness.  They are utterly destroyed if hit by Alluminas' pure light 
+and Alluminas' LightBall and Hand of Light spells cause double damage 
+to a ShadowPhyte.  They can cause no physical wounding, but cause 
+damage through their touch, which has the same strength robbing 
+property as that of a wraith, and Shadowphytes can throw up to one 
+ShadowBolt per round without need to formally cast the spell.  Any 
+character slain by a Shadowphyte is condemned to eternal torment in 
+Obscuras' shadow realm, where his shadow will leave his body for 
+immediately.
+
+ Shadowphytes are immune to all psycholgy except that caused by a 
+god, but are subject to instability when not shrouded in full or 
+semi-darkness.  Shadowphytes cause terror in creatures in creatures 
+under 10 feet tall.
+

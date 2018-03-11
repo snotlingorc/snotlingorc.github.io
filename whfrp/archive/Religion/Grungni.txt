@@ -1,0 +1,298 @@
+     GRUNGNI Dwarven God of Mining
+
+     Description: Grungni is the principal deity of the Dwarven
+pantheon. In Dwarven legend, he led the Dwarfs away from the
+increasing perils of the upper world into the safety of the
+earth, and became deified as the god of mining and underground
+places. He is generally protrayed as a male Dwarf clad all in
+chainmail, with a forked iron-grey beard reaching almost to his
+feet. It is said that he can merge himself magically with any
+object made of stone or metal.
+
+     Alignement: Neutral.
+
+     Organisation: The highest dignatary of the cult is the High
+Priest of the Cult of Grungni, who always must live in the
+fortress city of Karaz-a-Karak. All the eclesiastic structure is
+under his authority. The High Priest is chosen from one of the
+four highest leaders of the four main orders: the Order of the
+Mountain (which highest leader is the Kraz of the Everlasting
+Mountain), the order of the Stone (which highest leader is the
+Kraz of the Stone), the Order of the Pick of Grungni (which
+highest leader is the Kraz of the Mithril Pick) and the Order of
+the Blackroot (which highest leader is the Kraz Goblinbane). At
+the decease of the High Priest, the four highest leaders choose
+among them one to be the successor, and the vacant of these four
+is chosen by the new High Priest among the most outstanding
+members of his order.
+
+     The Order of the Mountain takes charge of managing all
+matters concerning Dwarven mining and construction. They are the
+priests in charge of choosing the places to be dug out or where
+a fortress must be built, even as the highest leaders may not be
+the responsibles to build them. The Order is divided in two
+aspects: construction and mining. Under the authority of the Kraz
+of the Everlasting Mountain are the Masters of the Mountain (or
+of the Everlasting), who manage all matters about construction
+in their respective areas, like the construction of a new temple
+or some new catacombs. Under their authority are the Masters of
+Security, that are responsible of constructing the structures
+once approved, mainly as overseers. Under the authority of these
+are the Bearers of the Pick of Grungni, who take care of other
+lesser aspects of constructing, mainly to oversee the work as
+well as maintenance. In the other side are under the authority
+of the Kraz of the Everlasting Mountain the Masters of Gold, who
+deal with the opening of new mines, or closing them if they are
+no longer productive, as well as to oversee the work in them.
+Under their authority are the Masters of Silver (of Gromril in
+Zhufbar), who oversee directly the funcioning of the mines,
+mainly as the highest dirigents. Under their authority are the
+Bearers of the Pick of Grungni, too, who oversee the security of
+the tunnels and who find the veins. The members of the Order of
+the Mountain are the highest responsibles of the security of
+their constructions and their maintenance.
+
+     The Order of the Stone takes care mainly of the affairs
+related to divine magic and elementalism. It is the responsible
+of the manufacturing of divine artifacts and the instruction of
+the priests in the ways of the magic. Under the authority of the
+Kraz of the Stone are the Krazs of the Earth. They take care of
+the matters of the order in their own areas, deciding teachers
+and the rest of dirigents. They take care of the preservation of
+the libraries and the search of lost knowledge. Under their
+authority are the Masters of the Runes and the Keepers of
+Secrets. The Masters of the Runes are the main responsibles to
+preserve the knowledge of the Runes, and to elect the more
+related candidates. Not always the Masters of the Runes are able
+to manufacture them, because they may not be one of those chosen
+who are very special in themselves, but they always choose the
+new apprentices. The Keepers of Secrets take care of the
+libraries and maintain them, as well as keeping the forbidden
+tomes from anyone. Even as their use is forbidden, those books
+about Chaos, necromancy or daemonology are kept as always have
+valuable information if the need arises to fight against such
+enemies. Due to the delicate situation of the priest, it is only
+attainable with the reliance of the Krazs of the Earth, the Kraz
+of the Stone and the High Priest (but many times only with the
+Kraz of Stone). Under the authority of the Krazs of the Earth are
+directly the Sons of the Stone, who take care of the chores
+assigned by each Kraz of the Earth. They also instruct the novice
+in the divine magic.
+
+     The Order of the Pick of Grungni is in charge of the
+administration matters of the order, and it is the most general
+and broad branch of the cult (usually each member has belonged
+to one of the other orders before). Their members act as public
+relations officers and represent a little of every order. The
+Kraz of Mithril is in charge of all temples, and under his
+authority are the Masters of the Pick of Gold, that are in charge
+of the management of their own temple or of those in his area.
+Under their authority are the First-born of the Pick of Grungni,
+who form the base of the order and are in charge of different
+tasks, as the administration of lesser temples or shrines or to
+serve Grungni in any way.
+
+     The Order of the Blackroot is in charge of the destruction
+of the Goblins and of the retreive of lost strongholds. It takes
+care of the planning of military campaigns, even as they are not
+usually the leaders of them. All its members are also formidable
+warriors who have shown their courage finghting against Goblins.
+Goblinbane is in charge of leading, coordinating and aproving the
+more important actions, while the Causers of the Terror of the
+Goblins are in charge of the matters in his area, trusting lesser
+tasks to the Causers of the Fear of the Goblins, who are in
+charge of defensive tasks or to lead and prepare troops. Under
+their authority are the Avenging Sons, who are in charge of
+taking vengeance on the enemies of Grungni with their divine
+powers and deadly blows (in battle). Under the authority of
+Goblinbane is the Order of Honor, which highest dignatary is Kraz
+Chaosbane, who is in charge of exterminating those dishonourable
+Dwarfs who have dedicated to the Chaos worship. Under his
+authority are the Sons of the Blood of Grungni, who are in charge
+of their own areas, helped by the Sons of the Fury, who execute
+the orders of their superiors and participate actively in battle.
+
+     Under the authority of all the orders are the Sons of
+Grungni. They are servants of the Mining God that begin to be
+gifted with the favour of the God and who start to dedicate their
+lifes to Him. They carry out an enormous number of tasks, at the
+will of the orders, and they start their advanced studies.
+
+     The lowest layer, and the most numerous, are the Acolytes
+of the Silver Pick, the initiates of the cult, who have not been
+gifted with the favour of Grungni yet, but who offer their
+dedication with the hope and will to serve Him.
+
+     Symbol: The main symbol of Grungni is the pick, representing
+the magical implement with which he opened up the underground
+world to Dwarfkind. A stylised depiction of a helmeted face with
+a long, forked beard is also sometimes used. The Sons of Grungni
+and the Acolytes of the Silver Pick dress in light grey. Members
+of the Order of the Blackroot and the Order of Honor dress in
+black, as symbol of the death of their enemies. The rest of
+orders dress in dark grey. The Order of the Blackroot and the
+Order of Honor have as symbol the head with a helmet in silver.
+The Order of the Pick of Grungni has a silver pick. The Order of
+the Stone has a black pick, and the Order of the Mountain has a
+silver pick with a wooden handle. To distinguish ranks a border
+of different color is used. It is gold for the highest leader of
+the order. For the Krazs of the Earth, Masters of the Pick of
+Grungni, Causers of the Terror of the Goblins and Sons of the
+Blood of Grungni are gold on the left side y black in the right
+(grey if the tunic is black). For the Masters of the Mountain is
+gold on the right side and silver on the left, and for the
+Masters of Gold is of gold in the left and silver on the right.
+For the Masters of Security, Masters of Silver, Masters of the
+Runes, Keepers of Secrets, First-born of the Pick of Grungni and
+Causers of the Fear of the Goblins it is silver. For the Bearers
+of the Pick of Grungni, the Sons of the Stone, the Avenging Sons
+and the Sons of the Fury it is bronze. The Sons of Grungni have
+embroidered a black pick without border, and the Acolytes of the
+Silver Pick bear a silver pick without any adornment. Members of
+the Order of Honor have an aditional border of red color. The
+High Priest has embroidered a pick of gold without any adornment.
+
+     Area of worship: Grungni is worshiped by Dwarfs throughout
+the Old World.
+
+     Temples: Every Dwarfhold in the Old World has a temple to
+Grungni; in most cases it takes the form of a large shrine or
+statue in the main hall of the hold, where the entire population
+gathers to worship.
+
+     Friends and enemies: The cult of Grungni is on frendly terms
+with the rest of the Dwarven pantheon. It has little to do with
+those of other races, but is hostile to the natural enemies of
+the Dwarven race (like goblinoid Gods).
+
+     Holy days: Lesser festivals to Grungni are held every ten
+days, with a major festival every hundred years. Festivals are
+also held at the end of each of the four annual periods, on
+Ghermanzhan 33rd.
+
+     Cult requirements: The cult of Grungni is open to any adult
+dwarf.
+
+     Strictures: All initiates and clerics of Grungni must abide
+by the following strictures:
+
+     Never allow a tunnel or chamber to become structurally
+     unsafe.
+
+     Never surrender to the Goblins and their kin.
+
+     Followers of Grungni beleive it is their sword duty to
+regain control of all Goblin-held Dwarfholds wherever possible.
+
+     In some areas, specially in the north-eastern parts of the
+Empire, the Order of Honor of the cult of Grungni has dedicated
+to the destruction of those Dwarfs who have sided with Chaos.
+They swear an oath never to leave a Chaos Dwarf alive, even if
+this means that they must give up their own lives.
+
+     Spell use: Clerics of Grungni may use all Battle Magic as
+well as Elemental Magic (mainly related to Earth).
+
+     Skills: Followers of Grungni do not have access to any
+skills other than those listed under the revelant career entries,
+although clerics may gain Mining twice, doubling the effect. They
+may do this at any stage in their career, but they must pay for
+the skill with Experience Points as usual.
+
+     Trials: A trial set by Grungni will often involve clearing
+a nest of Goblinoids out of a lost dwarfhold, or extending an
+existing one to discover new deposits of ore or a new source of
+underground water, or to create a new shrine chamber.
+
+     Blessings: Skills favoured by Grungni are Dowsing, Engineer,
+Mining and Stoneworking. Favoured tests are Construct, Observe
+and Search.
+
+     Notes: This structure was greatly spread over the year 2500
+of Dwarf reckoning (3000 years ago) and has remained with little
+change since then. Since the number of priests since the Goblin
+Wars started have been very little, many times priests have been
+obligued to have more than one title and even to belong to
+several orders in order to cover all needs. So it is not unsual
+for a Master of the Pick of Gold to be also a Master of the
+Mountain and a Master of Gold.
+
+     Besides, several lesser orders appear and disappear,
+covering some new aspects as need arises, and some gods of the
+Dwarf pantheon cover the services of one order in some
+strongholds, so the cult is not so uniform throughout the Old
+World.
+
+     The meaning of Kraz is 'more than Master', which is the
+highest title an artisan, priest or engineer can achieve.
+
+     Here is a summary of the Hierarchy of the Cult:
+
+             High Priest of the Cult of Grungni
+                            |
+      -------------------------------------------
+     |              |              |             |
+Kraz of the    Kraz of the    Kraz of the       Kraz
+Everlasting       Stone         Pick of      Goblinbane
+ Mountain                       Grungni          |
+                                                 |
+                                               Kraz
+                                             Chaosbane
+
+
+Kraz of the Everlasting Mountain
+               |
+      -------------------
+     |                   |
+ Masters of           Masters of
+the Mountain            Gold
+     |                   |
+ Masters of           Masters of
+  Security          Gromril/Silver
+     |                   |
+      -------------------
+               |
+  Bearers of the Pick of Grungni
+
+
+        Kraz of the Stone
+               |
+        Kraz of the Earth
+               |
+      -------------------
+     |         |         |
+ Masters of    |     Keepers of
+ the Runes     |      Secrets
+               |
+        Sons of the Stone
+
+
+   Kraz of the Pick of Mithril
+               |
+   Masters of the Pick of Gold
+               |
+First-born of the Pick of Grungni
+
+
+          Kraz Goblinbane
+                 |
+ Causers of the Terror of the Goblins
+                 |
+  Causers of the Fear of the Goblins
+                 |
+           Avanging Sons
+
+
+      Kraz Chaosbane
+            |
+Sons of the Blood of Grungni
+            |
+     Sons of the Fury
+
+
+          All orders
+             |
+       Sons of Grungni
+             |
+Acolytes of the Pick of Silver
+

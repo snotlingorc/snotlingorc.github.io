@@ -1,0 +1,50 @@
+From:  Carsten Schwartz[SMTP:csn@dhi.dk]
+Sent:  16. desember 1996 17:21
+To:  'WFRP Archive'
+Subject:  New rules for pulling uot arrows or bolts
+
+
+PULLING OUT ARROWS OR BOLTS
+Suggested rules for pulling out arrows or bolts by C Schwartz (1996
+
+Ever so often it happens that unfortunate adventurers are hit by arrows 
+or crossbow bolts during campaigns. In most cases the arrow gets stuck 
+and has to be pulled out. Pulling out an arrow has some risk of damaging 
+or disabling the victim for a period of time. If the worst happens - a 
+broken arrow gets stuck in the wound, the unlucky PC has to get medical 
+attention to get the arrow out. By introducing effects like these, arrows 
+will be more harmful than they normally are in WFRP.
+
+Once a PC is hit by an arrow or crossbow bolt make a test to pull the 
+arrow out. The test will be based on (S*10+Dex+Cl)/3 this number reflects 
+the ability to pull the arrow out of a wounded character. The PC or NPC 
+pulling the arrow out must be nimble fingered, stay calm and have the 
+strength needed to pull the arrow out. This score can be modified in the 
+following ways:
+
+1. +10 if the wounded character has received damage that is equal to T + 
+total APs
+ 
+2. +20 if the wounded character has received damage that is less than to 
+T + total APs
+ 
+3. +10 if the missile is a crossbow bolt since these are harder to break.
+
+These modifiers shows how deep the arrow sits in the wound.
+
+If the test fails the arrow or bolt breaks and the victim must have it 
+removed by a physician or other special surgeon. There is also a 10% 
+chance that the character pulling the arrow out has damaged the victim. 
+If this test is failed the victim has to pass a Cl test or be unconscious 
+for D3 hours. This is to illustrate the situation where the wounded 
+character in a very unheroic manner faints from pains, when the arrow is 
+yanked from his body.
+
+Example: The Pitfighter Obert Oberfranz is hit by a goblin arrow in the 
+leg during an ambush. He and his fellow PCs beats of the goblins. After 
+the ambush Obert asks the Cleric of Shallaya Brunhilde Herbfinder to pull 
+out the arrow. Brunhilde has a S of 3, a Dex of 34 and a Cl of  46. This 
+gives her a basic test value of  36 rounding down. Since Obert received a 
+damage of 5 and his T is 5 and  AP total on the leg is 1. The modifier is 
++20 which leaves Brunhilde with a test score of 56. Brunhilde rolls a 
+D100 and the score is 47 - success - she pulls out the arrow.

@@ -1,0 +1,354 @@
+He's insane, he's mysterious, he's Joe the Mysterious man.
+Joe is a GM [according to him THE GM] and he seems to come up with lots of
+rules, so I thought I'd see what you thought. He is strange but he does
+believe in protecting the poor innocent harmless snow trolls. Any comments
+about these careers or requests for information about the MSPST (Mysterious
+Society for the Protection of Snow Trolls) will be forwarded to Joe by me.
+Post to miskin@argonet.co.uk  [include [JOE] at the start of the subject
+
+By Joe the Mysterious man
+I reserve rights to all the material below, that may be used in scenarios and
+as GM aids,
+except for specific material that belongs to the GW company or to R.Miskin.
+This material may be distributed freely on the condition that the above
+copyright remains attached.
+The material below is derived from individual opinion, feel free to amend
+and/or comment on it.
+It is likely that some material will overlap or rewrite existing material,
+this is unintentional .
+
+Joe the Mysterious man and Miskin the Maurader present...
+
+CAREERS COMPENDIUM
+
+Basic Careers
+
+Thunderer,(Dwarves only)
+        M    WS    BS    S    T    W    I    A    Dex   Ld    Int    Cl    WP    Fel
+             +10   +10             +2 +10         +10               +10
+Skills: Dodge blow, Marksmanship, Secret language-Battle, Specialist weapon-Hand gun,
+        Strike mighty blow.
+Trappings: Mail shirt or Leather Jerkin, Helmet, Hand weapon, Hand gun, 10 shots of 
+           gunpowder, Powder horn.
+Entries: Alchemist's apprentice, Soldier.
+Exits: Apprentice, Engineer, Mercenary, Soldier.
+
+>The thunderer career was devised, after the printing of the WFB Dwarf supplement and as an
+extension to the limited Dwarf career options.
+>Class as Warrior.
+
+Miner.
+        M    WS   BS    S    T    W    I    A    Dex    Ld    Int    Cl    WP    Fel
+             +10       +1        +2  +10                            +10   +10
+Skills: Dodge blow, Metallurgy, Mining, Orientation(underground only),Scale Sheer Surface,
+        Silent move-urban, Specialist Weapon-two handed, Spot trap, Strike mighty blow.
+Trappings: Helmet, Sleeved mail coat, two handed Pick, Spade, Hatchet, Flask, Lantern.
+Entries: Random career entry.
+Exits: Engineer, Prospector, Soldier, Tunnel fighter.
+
+>As with the thunderer, but as possibly the most popular Dwarvish proffession it seemed
+necessary to include it.
+>Class as Warrior.
+
+Apprentice,(Dwarves only).
+        M    WS    BS    S    T    W    I    A    Dex    Ld    Int    CL    WP    Fel
+                                  +1   +10        +10          +10          +10
+Skills: Metallurgy, Read/write, Rune lore, Secret language-Classical, Guilder, Smithing.
+Trappings: Hand weapon, Leather jerkin, Tools.
+Entries: Engineer, Soldier, Thunderer, Guildmaster, Runesmith, Veteran.
+Exits: Alchemist's apprentice, Engineer, Soldier, Artisan, Runesmith.
+
+>This career is one that must be undertaken before a Dwarf can proceed into the Guildmaster
+or Runesmith careers described below. There are 2 different types of apprentice, Guild
+apprentices and Rune smith apprentices, and the pc must specify which upon entering the career. 
+The S. lang-Guilder skill therefore changes according to the chosen area of apprenticeship.
+If a Runesmith character wishes to follow a Guildmaster career then s/he must go through the
+career, although skills do not have to be taken twice.
+>Class as Academic.
+
+Cultist.
+        M   WS    BS    S    T    W    I    A    Dex    Ld    Int    CL    WP    Fel
+            +10                  +2  +10         +10          +10   +10
+Skills: Disguise, Dodge blow, Read/write, Secret language-Guilder(of particular cult),
+        Shadowing, Silent move-urban.
+Trappings: Hand weapon, Knife, Hooded cloak, Symbol of the cult.
+Entries: Any Career.
+Exits: Wizard's apprentice, Charlatan, Spy.
+
+>The increasing nature of cult activity, calls for such a career (undoubtedly this covers
+previous material but this version may be appropriate). Cultists may be of any cult but
+bear in mind that many do not resort to such activities.
+>Class as Rouge.
+
+
+
+Barman/Landlord.
+        M    WS    BS    S    T    W    I    A    Dex    Ld    Int    Cl    WP    Fel
+             +10                  +1              +10                             +10
+Skills: Blather, Brewing, Secret language-Thieves or Ranger, Strike to Stun, Storytelling,
+        Wit, 50%of Consume Alcohol.
+Trappings: Club, 20% chance of Blunderbuss, Leather jerkin, 3D6 Gold crowns.
+Entries: Bawd, Labourer, Servant.
+Exits: Gambler, Outlaw, Trader.
+
+>Perhaps the brewing skill is unecessary here, but remains due to the idea that many rural
+Inns do their own brewing and this might be aided by the resident Landlord. The S.lang
+skill changes as is appropriate to the area.
+>Class as Rouge.
+
+Watchman,(Renewed).
+        M    WS    BS    S    T    W    I    A    Dex    Ld    Int    Cl    WP    Fel
+             +10  +10   +1         +2  +10
+Skills: Disarm, Specialist weapon-two handed, Strike mighty blow, Strike to stun.
+Trappings: Hand weapon, Mail shirt or Leather Jack, Pole or Halberd or Crossbow, Lantern.
+Entries: Random entry only.
+Exits: Bodyguard, Outlaw, Roadwarden, Toll keeper, Watchman Sergeant.
+
+>The original watchman career appears to me to be too weak. Disarming potential criminals
+is a skill that watchmen would quickly aquire, and as they all seem to carry halberds these
+days S.wpn-2handed is a necessity.
+
+Shadow warrior,(High Elves only).
+        M    WS    BS    S    T    W    I    A    Dex    Ld    Int    Cl    WP    Fel
+            +10   +10             +2   +10  +1                        +10  +10
+Skills: Dodge blow, Follow trail, Orientation, Silent move-rural, urban, Streetfighter,
+        Strike mighty blow.
+Trappings: Helmet, Shield, Bow and arrows, Breastplate or Leather jerkin.
+Entries: Hunter.
+Exits: Soldier,
+
+>Not sure if this is worth doing considering the rarity of High Elf pcs, but there are many
+that have been transfered in this section from the High Elf WFP supplement.
+>Ranger?, Warrior? I don't know , don't really care either.
+
+Kinbad,(Wood Elves only).
+        M    WS    BS    S    T    W    I    A    Dex    Ld    Int    CL    WP    Fel
+            +10   +10             +2   +10  +1           +10          +10
+Skills: Animal care, Disarm, Dodge blow, Secret language-Ranger, Silent move-rural,
+        Streetfighter, Strike mighty blow, 50% chance of Ride.
+Trappings: Leather jack, Spear, Hand weapon.
+Entries: Hunter, Woodsman.
+Exits: Beastfriend, Knight.
+
+>Very similar to the Soldier career, except for Animal care which is now fully avialiable on
+the account of Woodies being nice to them etc.
+>Warrior.
+
+Yokel.
+        M    WS    BS    S    T    W    I    A    Dex    Ld    Int    CL    WP    Fel
+            +05   +05              +1 +05
+Skills: Animal care, Drive cart, Silent move-rural, 75%chance of Secret language Ranger,
+        25%chance of Animal training, Charm animal and Ride.
+Trappings: Mule, Saddle and harness, D4 Saddle bags.
+Entries: Random entry only.
+Exits: Druid, Fisherman, Herdsman, Hunter, Outlaw, Rustler, Trapper, Woodsman.
+
+>Worthwhile? maybe not but farmers and rural types are very common. I saw a similar career
+where the adv scheme read +1 to S and T as well as +10 to WS and BS, this is better than
+most warrior basic careers and somewhat unrealistic, for the average population
+is not as tough as the pcs or everybody would be out chopping gobbos and stealing treasure.
+>Ranger.
+Misk's note [use 50 EPs for +05]
+
+Advanced Careers
+
+Watch Sergeant.
+        M    WS    BS    S    T    W    I    A    Dex    Ld    Int    CL    WP    Fel
+            +20   +20   +1   +1   +4   +20  +1    +10   +20    +10   +10   +10    +10
+Skills: Disarm, Dodge blow, Read/write, Secret language-Thieves or Ranger, Silent move-urban,
+        Specialist weapon-two handed, parrying, Strike mighty blow, Strike to stun, Wit,             25% chance of Law.
+Trappings: Helmet, Mail shirt or Leather jack, Leather leggins, Halberd, Lantern.
+Entries: Watchman, Bounty hunter, Body guard.
+Exits: Scribe, Soldier, Mercenary Captain.
+
+>Recently observed extensions to this dividing watch into rural and urban and adding Captain
+to career lists - good idea, still mine's quite nice.
+
+Knight.
+        M    WS    BS    S    T    W    I    A    Dex    Ld    Int    CL    WP    Fel
+            +30   +30   +2   +2   +7   +30  +2    +20   +30    +20   +20   +20    +10
+Skills: Disarm, Dodge blow, Ettiquette, Heraldry, Ride-Horse, Specialist weapon-two handed,
+        parrying weapons, lance, fencing sword, Strike mighty blow, Strike to injure,
+        Strike to stun.
+Trappings: Helmet, Shield, Plate or Chain armour, Lance, Hand weapon,
+           Horse and riding equipment.
+Entries: Squire, Kinbad, Huscarl.
+Exits: Noble, Judicial champion, Templar
+
+>Careers such as Freelance, Merc Captain and Templar fail to properly define the knight
+for any Breton campaigns this career would be very useful. Knights can apply to any race
+such as the Elf cavalry or Kislevite horsemen thus making it more open than the human based
+adv warrior careers
+
+Veteran(Dwarves only).
+        M    WS    BS    S    T    W    I    A    Dex    Ld    Int    CL    WP    Fel
+            +30   +20   +1   +1   +6   +30  +2    +10   +30    +20   +20   +20
+Skills: Disarm, Dodge blow, Heraldry, Secret language-Battle, Specialist weapon-two handed,
+        parrying weapons, Fist, Streetfighter, Strike mighty blow, Strike to injure,
+        Strike to stun.
+Trappings: Helmet, Shield, Breastplate, Sleeved mail coat, Double handed weapon, hand weapon.
+Entries: Soldier, Mercenary, Tunnel fighter, Guildmaster, Runesmith.
+Exits: Apprentice, Engineer.
+
+> Dwarf career, because not every Dwarf warrior wants to be come a Giant slayer, and
+because the other adv. warriors are mainly cavalry based, plus the adv scheme is more
+Dwarflike or maybe I'm just a raving lunatic.
+
+Guildmaster(Dwarves only).
+        M    WS    BS    S    T    W    I    A    Dex    Ld    Int    CL    WP    Fel
+            +10   +10        +1   +4   +20        +30   +20    +30   +10   +20
+Skills: Carpentry, Chemistry, Engineer, Identify magical artefact, Mechanics, Read/write,
+        Rune lore, Scroll lore, Secret language-Guilder , Secret signs-Artisans, Guild,
+        Specialist weapon-Gunpowder weapons.
+Trappings: Magnifying glass, Engineering tools.
+Entries: Alchemist, Engineer, Sapper.
+Exits: Apprentice(Runesmith),Artisan, Soldier, Sapper, Veteran.
+
+>Inspired by whatisname with the mechanical arm, Burlok something [Warhammer Armies Dwarves].
+Mechanics is a new skill and will feature in forthcoming material, feel free however to
+create a personal version.
+Guildmasters are those at the head of the guild in charge of the big projects that will
+hopefully conclude with a cunning new invention. The gyrocopter,flame cannon and steam ships
+are all inventions from some of the most famous guildmasters, many often sit back idly and
+let apprentices do the work and then grab the profit that traditionally goes to the guild
+from the sucess of the best inventions. No one diputes the power that the guildmasters hold.
+
+
+
+Runesmith,(Dwarves only).
+        M    WS    BS    S    T    W    I    A    Dex    Ld    Int    CL    WP    Fel
+             +20        +1   +2   +4   +20  +1    +20   +20    +20   +20   +20
+Skills: Arcane language-Magick, Chemistry, Evaluate, Identify magical artefact, Magic sense,
+        Metallurgy, Read/write-Khazzalid, Rune lore, Rune Mastery, Scholarship, Scroll lore,
+        Specialist weapon-two handed.
+Trappings: Hammer, Metal working tools.
+Entries: Apprentice.
+Exits: Apprentice(Guild), Soldier, Alchemist, Artisan, Runelord, Veteran.
+
+>First part of two Rune smith careers, inspired again by the publication of 'the Dwarf book'
+Scholarship is in companion for those who have forgotten or those who have spent the last 10
+years in the ice caves of the north molesting Snow trolls, by the way I think you people are
+disgusting and sick and should be put away for more than the average
+centence of  18 months.
+>Rune mastery should be in Runelord? well to be a runesmith you have to be able to inscribe
+something, Rune lords have manufacture M.Items as a higher ability to produce their own
+stuff.
+
+Runelord,(Dwarves only).
+        M    WS    BS    S    T    W    I    A    Dex    Ld    Int    CL    WP    Fel
+            +30         +2   +2   +10  +20  +2    +30   +30    +30   +30   +30
+Skills: Arcane language-Arcane Dwarf, Astronomy, Demon lore, Gem cutting, History,
+        Manufacture magic items, Strike mighty blow, Theology.
+Trappings: As acquired.
+Entries: Runesmith.
+Exits: None.
+
+>I KNOW. +10 wounds is alot but in WFB Dwarves book, Runelords have, in translation to wfrp,
+a collosal wound score, their endurance is due to their age and work at the forge, such
+individuals are rare and tend to stay in the holds, so no-one gets to fight them much anyway.
+In younger years they undoubtedly fought alot for their race before becoming too valuable to
+be risked in batlle and so the combat benefits on the scheme are related to this fact.
+
+Huscarl,(Norse only).
+        M    WS    BS    S    T    W    I    A    Dex    Ld    Int    CL    WP    Fel
+            +30   +20    +1  +1   +6  +30   +2    +10   +30    +10   +30   +20
+Skills: Consume Alcohol, Disarm, Dodge blow, Orientation, Ride, Secret language-Battle,
+        Shieldsmanship, Speak additional language-chose one, Specialist weapon-two handed,
+        parrying weapons, Fist, Streetfighter, Strike mighty blow, Strike to injure,
+        Strike to stun, Wrestling.
+Trappings: Mail coat, Helmet, two handed weapon, Round shield, Horse saddle and harness.
+Entries: Marine, Mercenary, Soldier.
+Exits: Knight, Sea captain.
+
+>Transformed from the Citadel Journal 6, norse army lists, these unique warriors need a
+mention. Sheildsmanship is another skill to be described later and deals with the warriors
+ability with sheids of large size and how to use them.
+
+Swordmaster,(High Elves only).
+        M    WS    BS    S    T    W    I    A    Dex    Ld    Int    CL    WP    Fel
+            +30   +10   +1   +1   +4   +30  +1    +20   +10   +20    +20   +20
+Skills: Ambidextrous, Disarm, History, Law, Read/write, Scroll lore,
+        Secret language-Classical Eltharin, Specialist weapon-two handed(x2),
+        Strike to injure, Strike to stun.
+Trappings: Helmet, Breastplate, Mail coat, Arm bracers, two handed sword.
+Entries: Scholar, Soldier, Phoenix Guardsman.
+Exits: Scholar, Phoenix Guardsman.
+
+>This useful Elvish career combines the scholar and warrior as decribed in WFB Elf book
+concerning the swordmasters of Hoeth. The S.wpn skill could be amended to detail the
+unique weapons the Elves use.  No Dodge blow because you cannot dodge too well with such a
+sword and the I bonus would turn them into supermen.
+
+White lion,(High Elves only).
+        M    WS    BS    S    T    W    I    A    Dex    Ld    Int    CL    WP    Fel
+            +20   +20   +2   +1   +6   +20  +1    +10   +20    +10   +20   +20
+Skills: Dodge blow, Game hunting, Set Trap, Silent move-rural, Specialist weapon-two handed,
+        Strike mighty blow, Strike to stun.
+Trappings: Helmet, Shield, Mail coat, two handed axe, Lion's fur cloak.
+Entries: Hunter, Soldier, Woodsman.
+Exits: Bodyguard, Soldier, Phoenix guardsman.
+
+>More Elfy careers, the pro could be changed if you think they are harder than this or if you
+think they need more ranger type skills. No Concealment rural because Elves with bloody great
+axes and wearing Lions coats tend to stand out.
+
+Phoenix Guardsman,(High elves only).
+        M    WS    BS    S    T    W    I    A    Dex    Ld    Int    CL    WP    Fel
+            +30   +20   +1   +1   +5   +30  +1    +20   +20    +20   +20   +20
+Skills: Disarm, Mime, Read/write, Scroll lore, Secret language-Classical Eltharin,
+        Specialist weapon-two handed, parrying weapons, Strike mighty blow, Strike to injure,
+        Strike to stun, Theology.
+Trappings: Helmet, Shield, Mail coat, Gauntlets, Halberd, Long dagger, Clerical cloak.
+Entries: Initiate, Swordmaster, White lion,
+Exits: Cleric, Scholar, Swordmaster.
+
+>These guys had to be included along with the others to beef out the demi-human career
+options
+Mime is because, apparently they don't talk and it would be useful. S.wpn-parrying wpns
+comes from a picture I saw drawn by the holy Gibbon, in it, their alternative weapon to the
+halberd was a long knife so I presumed that they train to use this weapon.
+
+Wardancer,(Wood Elves only).
+        M    WS    BS    S    T    W    I    A    Dex    Ld    Int    CL    WP    Fel
+            +30   +30   +1   +1   +6   +30  +2    +30   +20    +20   +20   +20
+Skills: Acrobatics, Ambidextrous, Dance, Dodge blow, Disarm, Silent move-rural,
+        Specialist weapon-two handed weapons, Polearm, parrying weapons, Fist,
+        throwing weapons, Streetfighter, Strike mighty blow, Strike to injure, Strike to stun
+Trappings: Shield, Leather jack, two handed weapon, Bow and arrows, Mail fist, Swordbreaker.
+Entries: Beastfriend, Assassin, Targeteer.
+Exits: None.
+
+>No don't tell me this one's been done before?. This has probably been contrived many a time
+so don't get upset if it's not the same version. The adv scheme may seem ungenerous for such
+a skilled warrior but remember that these''Skilled warriors'' are more skilled in comparison
+to humans than they are to elves and a Elf pc who starts with a WS of (usually) 40+ will
+still be up to a high level as well as the combat skills on offer to him or her. Wardancers
+are only warriors I avoided the temptation to give them every skill remotely associated
+with their role or devise new ones to reflect their unique abilities.
+> Can anyone tell me how these wardancers avoid having spears or worse items being viciously
+shoved up their backsides when jumping over enemy troops?
+Answers along the lines''They just Do, allright?'' and ''Cunning devices than they have that
+they fit by shoving up.....'' , are unwelcome.
+
+
+Other possible carrers to add; Norse shamen lvl.1-4;
+                                    Councillor,Gypsy,Falconer,Iron breaker.
+
+>Iron breakers were very tempting but I realised that if you become a Tunnel fighter and
+then a Veteran (see above) then you practically have all the skills associated with Iron
+breakers. When I discovered this I was very upset and I am now having counselling.
+
+Reasons why no-one can be as Mysterious as Joe the Mysterious man.
+1-Its impossible.
+2-Because I've heard that some of you, Yes you know who you are, have been convicted of
+  molestering Snow trolls and any attempt to be more mysterious would only harm your defence.
+3-Because my mate Miskin seeks out those who try to be more mysterious than is advisable
+and then he sits on them-I thought that would scare you.
+
+
+The 'holy Gibbon' in the GW artist Mark Gibbons, his piccies are ace - Misk
+PS - There should be more coming soon with details of any skills from here and maybe
+     some NPCs if you ask politely
+PPS - Donations to MSPST to be made in used five pound notes in brown paper envelopes
+
+                                                                                        

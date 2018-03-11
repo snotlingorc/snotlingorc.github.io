@@ -1,0 +1,23 @@
+Helmet of Khorne
+-------------------------
+Unlike most significant items of magic, this is not a unique item.  Khorne 
+crafts these helms in some number, but not too many.  They are still VERY
+rare.  Great warriors, who are having troubling times have been known to be
+visited by Khorne in their dreams.  These dreams are always of that persons
+personal conquest over vast and difficult foes, and they often wake up from
+these dreams to find the helmut beside their beds, as a reminder that all
+blood spilling, and battle lust bring them one step closer to the domain of
+Khorne.  The helmet is jet black all over, and has a blood red full face 
+visor.
+The symbol of a horned skull adorns each side where the ear-hole is, the 
+eyes, nose and mouth left open, so that hearing is possible.  Wearing the 
+helm does not make the person Chaotic, but they do admit that Khorne
+bears some influence on their lives.
+	-- Cause Frenzy (self) automatically when the first wound is inflicted
+on or by the wearer in combat.
+	-- Effects of frenzy doubled (+2 dmg done; -2 dmg taken) for 2d4 rounds twice 
+a day.
+	-- May double own attacks at the cost of one wound per extra attack
+to be taken.  (ie. person with 2 attacks, spends 2 wounds and gets 4 attacks)
+	-- +20% magic tests.
+	-- Detects Lawful people/creatures and spell casters within 10 yds.

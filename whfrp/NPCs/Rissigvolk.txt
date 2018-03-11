@@ -1,0 +1,484 @@
+From: Chris Clements <chris@atmnet.net>
+Subject: Der Rissigvolk
+
+--Der Rissigvolk--
+
+Der Rissigvolk is a group of madmen who managed to escape
+from the Shallyian asylum, the Great Hospice, and decided
+to band together for mutual protection.  They go from
+town to town, avoiding the authorities, spreading chaos
+and confusion in their wake.
+
+
+Baron Karl-Maximillian van der Maacht (?)
+Demagouge, ex-agitator.
+(Aligment: Good)
+
+"Marienburg is in need of a true ruler.  Thankfully, I've
+returned..."
+
+"Of course I'm telling the truth.  Why in the Emperor's name would
+I lie about something like that?"
+
+"My companions and I do not wish to cause any problems officer.
+We will be on our way."
+
+Karl-Maximillian van der Maacht is a man who claims to be the rightful
+heir to the noble line of rulers of Marienburg.  Of course, he is not
+alone in his claims.  Hundreds, if not thousands, have at one time
+or another tried to prove themselves of the noble van der Maacht blood
+in the hopes of a quick road to power and wealth.  What sets Karl-
+Maximillian apart from the others is he actually believes that
+he is the ruler of Marienburg currently, plain and simple.  The
+man "...is a few tunnels short of a mine" as the dwarves say.
+
+Besides the obvious quirk in his personality, Karl-Maximillian can
+and actually does pass for an everyday charming sane individual.
+Only when the topics of Marienburg, politics, or nobility come up
+does he off-handily mention that he rules the famous coastal city.
+Any claims to the contrary will be taken as some sort of silly
+joke, which he will laugh good naturedly at.  No one knows what
+his real name is, perhaps in some quirk of fate he really is
+of the van der Maacht line.  Not likely, but within the realm of
+possiblility.
+
+Karl-Maximillian is the de facto ruler of Der Rissigvolk.  He
+can pass as sane better than any of his companions, and his
+intelligence coupled with his natural leadership abilities make
+him the most obvious choice.  That and the fact that he already
+rules the Wasteland...
+
+Personality:
+The 'Baron', as he is called by the rest of Der Rissigvolk, is
+a down-to-earth fellow who shows a keen wit and disarming smile.
+He is pleasant company, and shows compassion for those who are
+down on their luck.  All in all, a real gentleman.  Karl-Maximillian
+has a good heart and he's willing to put himself in danger to lend
+a helping hand.  His only real flaw is... well, he's nuts!
+
+Physical Description: 
+A handsome fellow, Karl-Maximillian is only a few years shy of
+thirty.  He has well-groomed red hair and sports a neatly trimmed
+mustache.  Most of the time the Baron is constantly smiling.  He
+always is dressed immaculately.
+
+M:4  WS:43  BS:41  S:3  T:5  W:9  I:57  A:2  Dex:27  Ld:54  Int:47
+Cl:53  Wp:36  Fel:55
+
+Skills: blather, dodge blow, flee!, heraldry, history, public speaking,
+read/write, street fighting.
+
+Trappings: old decorated sword, 'authentic' birth certificate, tarnished
+gold medallion; (as listed under career trappings); (as listed under
+career trappings).
+
+Insanities: Personal delusion (?) - believes he is heir to the van der
+Maacht line and the current rightful ruler of Marienburg.
+
+
+Dalruk the Clanless (Bindel Merryfellow)
+Halfling Giant Slayer(!), ex-troll slayer(!), ex-tunnel fighter, ex-
+rat catcher.
+
+"You want to keep breath'n?  Then step aside before ya taste my
+axe!"
+
+"Slayer, KILL!"
+
+"You're calling me a liar?  You're braver than I thought!"
+
+Life was once normal for the jolly halfling Bindel Merryfellow.
+He had a wonderful family and received six square meals a day.
+His job as a rat catcher may not have been the most glamorous, but
+it paid the bills well enough.  Things got bad though when he
+decided to try his hand at adventuring with a few of his dwarven
+friends.  The trip itself was fraught with danger and he lost
+his dwarf companions, but that was not the worst of it.  He received
+a powerful blow to the head by a goblin as he fled, and the
+little warrior has yet to fully recover his senses from the wound.
+When he finally returned home, half alive, Bindel found his small
+home burnt to the ground.  His wife and children did not survive
+the accidental fire.  The halfling snapped.
+
+Bindel Merryfellow disappeared that night, lost in his own mind.
+Dalruk the Clanless was born.  The halfling had long admired the
+dwarven folk for their stoic bravery in the face of adversity, in
+some ways he longed for some small part of that courage himself.
+All the horrible events Bindel had experienced caused his mind
+to latch onto the idea and warp his admiration for dwarves into
+something altogether different; he became a dwarf.  Not just
+any dwarf though; because he failed to protect his family, his
+shame drove him to seek death as a troll slayer.
+
+Amazingly, Dalruk was able to survive the chance encounters
+he happened upon.  His greatest triumph was in slaying a giant
+spider with a lucky blow, he still carries around the fangs
+on a necklace proudly.  As it was, he was subdued by an alert
+bounty hunter (hired by a rich family friend) after Dalruk had
+too much to drink.  The Great Hospice accepted him immediately
+upon learning of his condition.  He has stayed there for more
+than four years, brooding about yet another dishonor when
+he escaped with the other Rissigvolk.
+
+Personality: 
+Bindel is a deeply troubled individual.  He often swings from
+emotional extremes, but always with a quiet melancholy right
+below the surface.  The halfling (er, dwarf) has no time for
+fools, and will NOT back down from any challenge.  Not that
+he goes out of his way looking for problems from other people...
+
+Physical Description: 
+A muscular tall (for his race) halfling, Bindel can sometimes
+be mistaken for a dwarf.  He sports a large (5") bright blue
+mowhawk and his body is covered with dark grey swirl-patterned
+tattos.  Bindel also wears a long fake beard which is dyed a
+lighter shade of blue than his mowhawk.
+
+M:3  WS:55  BS:34  S:4  T:5  W:11  I:67  A:2  Dex:44  Ld:21  Int:26
+Cl:47  Wp:52  Fel:35
+
+Skills: animal trainer dog, concealment urban, cook, disarm,
+dodge blow, immunity to disease, immunity to poison, orientation
+(underground only), scale sheer surface, secret language battle
+tounge, set trap, silent move urban, specialist weapon flail,
+specialist weapon sling, specialist weapon two-handed, spot trap,
+strike mighty blow, strike to injure, strike to stun, very
+resilient (already added into profile).
+
+Trappings: two handed axe (D+2, I-10), sling (24s/36l/150e; ES 3),
+three daggers (D-2, I+10), purse with 13 guilders 12/8, fake
+light-blue beard.
+
+Insanities: Personal delusional - thinks he is a dishonored dwarf;
+heroic idiocy, phobia - fire.
+
+
+Slayer
+Vicious Little Dog
+
+"Ruff!  Ruff!"
+
+"...<hic>...<hic>....<hic>....ruff...<hic>..."
+
+Dalruk's tiny mutt from his rat catching days, the halfling 
+decided that his dishonor would extend to his animal to.  Hence,
+he has shaved Slayer of all its his fur except for a mowhawk running
+down the dog's back, which is dyed bright orange.  The loyal
+canine is a bewildering sight, one which most people either
+laugh at or run away in fright from.  Slayer looks more bizarre
+than his master, which is quite a feat considering the halfling's
+appearance.
+
+As a side note, Slayer drinks more than water.  The finest wines to
+the most horrible rotgut, this little dog will gulp it all down with
+enthusiasm.  How he acquired this unique taste is a mystery even
+to Dalruk.  The off-balanced halfling seems to think it fitting
+however, and often buys Slayer a bowl or two of alcohol when he
+gets the chance.
+
+M:6  WS:41  BS:0  S:2  T:2  W:3  I:30  A:1  Dex:-  Ld:43  Int:14
+Cl:43  Wp:43  Fel:-
+
+Special Rules: Alcoholism (test to see if drunk - on a roll of 1
+on a 1d6 this pooch is plastered; i.e. intoxicated).
+
+
+Walter van Houten (?)
+Charlatan, ex-hypnotist.
+
+"You can no longer just walk, you MUST skip.  Otherwise, we all
+will be doomed by the curse of the evil cheeses!"
+
+"See my pretty amulet... nice, eh?"
+
+"Are you sure?  Take a closer look... now do you see that he's
+a dwarf and not a halfling?"
+
+"You are a chicken!"
+
+A troubled child, Walter was having problems dealing with the real
+world even at that young age.  It grew worse as he grew older;
+he would make up fantastic stories and entertain himself in front
+of the mirror, watching himself speak.  His parents decided enough
+was enough, and dropped him off into the care of an older physician
+when Walter was only twelve.  The physician was a hypnotist of
+some skill, and was interested in the effects it might have on
+someone with the boy's problems.  Unfortunately, his long treatments
+did nothing for Walter.  The physician, being a kind man, raised the
+youth and helped him best he could.  Walter learned his trade from
+his guardian, and at the age of seventeen he left to see the world.
+Not that his problems went away...
+
+Walter, as a hypnotist, had a tendency to use his skill to convince
+people of his fantastic lies.  This caused some major mishaps which
+put him in trouble with the law.  Luckily a priestess of Shallya
+got to Walter first and had him committed to the Great Hospice for
+his own protection.  He was only there for a few months when he
+managed to hypnotize an orderly into helping him and his recently
+acquired friends ('Der Rissigvolk') escape.
+
+Personality: 
+Walter can be described as 'intense'.  It's not that he isn't
+friendly, but the man is constantly talking (even when alone and
+asleep) and people tend to be put off by his constant eye
+contact.  Some people actually suffer severe migraines
+in his presence.  He is always making outrageous claims, and
+seems to thrive on tall tales.  One thing is for sure, life
+is never dull around Walter...
+
+Physical Description: 
+A rather average looking lad, Walter looks far younger than his
+twenty-six years would indicate.  He has short blonde hair and
+a mouth that never stops moving.  His deep blue eyes never seem
+to blink.  He would be unrememberable save the constant level of
+noise around him.  Walter's clothing changes with his current
+story.
+
+M:4  WS:26  BS:34  S:3  T:3  W:8  I:55  A:1  Dex: 57  Ld:37  Int:53
+Cl:34  Wp:57  Fel:42
+
+Skills: blather, charm, disguise, evaluate, hypnotize, magical
+awareness, mimic, palm object, public speaking, ride, super
+numerate, wit.
+
+Trappings: shiny silver medallion; (as listed under career trappings).
+
+Insanities: Moderate delusion - believes own lies, pathalogical lying,
+narcissism, talks to self, minor disorder - talks in sleep.
+
+
+Pondrue the Gifted (Sigmund Uber)
+Protagonist, ex-seer.
+
+"......"
+
+"The bones... they say you are about to loose a few teeth."
+
+"YOU DOUBT MY WORD?!"
+
+"Whenwillyoulearnandwhydoyounotlistenthebonestellthefuture!"
+
+An older man, Pondrue can easily be identified as insane just from
+the mad look in his eyes.  He has seen the future, and it is not
+kind.  As a younger lad, he began to exhibit the power of precognition.
+Sadly, it was also during this time that his actions grew more and more
+unusual.  Sigmund (Pondrue's given name) would either be found in
+a highly excitable state or lethargically sitting in the corner
+for hours on end.  His worst problem, however, was without a doubt
+the seer's inability to accept criticism in any form in regards
+to the vailidity of his divinations.  If anyone expressed the slightest
+reservations about his portents, Sigmund would fly into a mad rage in
+which he would attack said unwise individual.
+
+His career took a turn for the worse when he assaulted a noble
+whom had mocked his prophecy about the man being savagely beaten
+by a lunatic.  Needless to say, the noble lost a few teeth and
+Sigmund was found criminally insane by a merciful magistrate.
+The seer was committed to the Great Hospice.  He has been there for
+over fifteen years, day in and day out reading the future with rat
+bones.  That is, he was there until he escaped with the other
+members of Der Rissigvolk.
+
+Personality: 
+Depending on whether he is manic or depressive, Pondrue can fade
+into the background or be as loud as a dragon.  Whatever the
+case, he knows he is always right.  He isn't afraid to let other
+people know it either.  As long as no one contradicts him, they
+should be all right.  When he is agitated Pondrue tends to yell
+and speak very quickly.
+
+Physical Description: 
+An wrinkled balding man who appears to be in his late sixties,
+Pondrue is always dressed in filthy robes.  His physical encounters
+have left little in the way of teeth for him, and his piercing
+gaze leaves no doubt as to his mental well being.  He's a lot
+stronger and tougher than he looks (the strength of the mad)...
+
+M:4  WS:44  BS:28  S:4  T:4  W:8  I:47  A:2  Dex:29  Ld:44  Int:41
+Cl:48  Wp:37  Fel:37
+
+Skills: arcane language magick, blather, charm animal, disarm,
+divination - bones, dodge blow, luck, magical sense, public
+speaking, ride, street fighting, strike mighty blow, strike to
+injure, strike to stun.
+
+Trappings: bag of small chunks of various bones, bone knuckledusters;
+(as listed under career trappings).
+
+Insanities: Animosity vs. those who dismiss his divinations,
+manic depressive, meglomaniac.
+
+
+Oskar the Blacksword, Captain Blacksword
+Sea Captain, ex-marine.
+
+"Avast ye scurvy eel, where be the nearest house of ale?"
+
+"Be quiet Pappy!  I be doing the speaking for us!"
+
+"Ye be a fine woman.  Care to share a cot with the
+deadliest man ever to sail the perilous seas?"
+
+"Arrrh, matey!"
+
+A reknowned pirate, Captain Blacksword and his crew were a feared
+sight off the waters of Marienburg.  The Captain himself was
+well-known for his impressive combat skills.  Blacksword, his
+ship, and his crew died over five years ago in a deadly encounter
+with the Marienburg Navy; at least, that is what everyone thinks.
+Blacksword survived, abliet quite a changed man.  He literally
+washed ashore half-mad with thirst, hunger, and fear.
+
+His brush with death was unpleasant to say the least, and Oskar
+still believes in the vivid terrible hallucinations he suffered
+while drifting in the sea.  The sea... it was alive; a creature
+of Manaan's vengance, and it wanted him.  The water still calls
+to him to this very day...
+
+Luckily for the pirate, 'Pappy', his parrot, managed to encourage
+him to fight for life when he was ready to give up hope.  It
+promised to lead him to land if only Blacksword would give
+the bird one of his eyes, to which he accepted.  Remarkably,
+Blacksword did manage to beat the odds.  Pappy the parrot,
+however, was dead as a doornail; Blacksword hasn't seemed to
+notice.
+
+Personality:
+Blacksword speaks his mind, and his speech is never anything but
+coarse.  He tends to say "Arrrh, matey!" a lot; people seem to
+expect it, so he has decided to comply.  He is (obviously) deathly
+afraid of any large bodies of water, and becomes pale if anyone
+talks about Manaan.  Other than that, he can be quite amicable,
+if somewhat annoying.  He tends to speak to and talk about
+his parrot, Pappy, quite a lot.  After all, he owes Pappy his
+life.
+
+Physical Description:
+The stereotypical pirate, Blacksword is a well-built man in his
+late thirties with a large black beard dominating his features.
+He also has a black eyepatch over his left eye and wears a
+peg leg on his left leg (an old battle wound).  His skin is
+well tanned from his many days on the sea, with an almost
+leather-like appearance.
+
+M:2  WS:63  BS:20*  S:5  T:4  W:11  I:48  A:3  Dex:47  Ld:49  Int:37
+Cl:35  Wp:43  Fel:35
+
+* his BS goes up to 41 if he somehow overcomes his delusion about
+his eye.
+
+Skills: animal trainer parrot, boat building, consume alcohol, disarm,
+dodge blow, numismatics, row, sailing, specialist weapon fencing sword,
+sixth sense, story telling, street fighting, strike mighty blow, strike
+to stun, swim, very strong (already added into profile).
+
+Trappings: Peg leg (left leg), stuffed parrot 'Pappy', eye patch
+(over left eye), rapier (D-1, I+20), *enchanted sword (+1 damage,
+berserk), tri-coned hat with skull & crossbone symbols on it;
+(as listed under career trappings).
+
+Insanities: Hydrophobia (fear of water), trivial delusion - believes
+stuffed animals are still alive, trivial delusion - thinks he can not
+see out of his left eye (it works fine, if he would remove the
+eyepatch that is), moderate delusion - believes the sea and rivers
+want him to drown and are angry at him because he escaped his fate,
+trivial delusion - believes his parrot is as intelligent as a human.
+
+
+Herpin Schwindel
+Counterfeiter, ex-forger, ex-scribe.
+
+"Milord, it truly is a great pleasure to meet your grace."
+
+"How may I serve, oh Baron of Marienburg?"
+
+"I must warn you of a great danger, your highness, that threatens
+the very world."
+
+"Our foes are the crafty cheeses which stock our pantry!  We must
+destroy them and soon or face the consequences, Duchess."
+
+"Here is a coin worthy of your inspiring visage, my king."
+
+Herpin was a crafty criminal who made (literally) enough
+money to ensure his financial security for the rest of his
+life.  Unforunately, just after his early retirement, the
+counterfeiter ate a stale piece of cheese which had a highly toxic
+fungus growing in it.  The bad cheese induced a high fever from which
+he barely survived and only partially recovered from.  He was never
+the same after that, and Herpin believed that his fever-induced dreams
+were, in fact, reality.
+
+In his dreams everyone he met was at the very least a powerful
+noble.  These nobles spoke kindly to him, hiring him to mint
+their coinage and warning him of the dangers chaos cheese
+infiltrating the land.  He took their message to heart, and
+began his crusade to mint a coin for all the nobles in the
+world (i.e. everyone) and destroy the daemon-cheeses to save
+the Empire from their terrible foe.
+
+Let's just say it didn't take to long for the sisters of the
+hospice to catch this one...
+
+Personality:
+Herpin is one of the most well-mannered individuals within the
+Old World (thanks to his delusions).  Everyone he meets is treated
+with a great reverance in which Herpin does a lot of bowing and
+flattering.  He is dead serious in the matter of the dangers of 
+daemonic cheese bent on destroying the world, which he will speak
+for hours on (being polite, mind you).
+
+Physical Description:
+Slightly overweight, Herpin usually wears large baggy clothing
+to conceal his extra pounds.  He has light brown hair which
+he is constantly combing with his fingers.  His voice has
+a slight nasal quality to it.  Despite his extra bulk, Herpin
+manages to achieve a slight graceful bounce to his step when
+he ambles to and fro.
+
+M:4  WS:43  BS:45  S:4  T:4  W:9  I:54  A:2  Dex:78  Ld:37  Int:65
+Cl:54  Wp:50  Fel:46
+
+Skills: ambidextrous, arcane language magick, art - carve wooden
+seals, coin dies, handwriting; etiquette, heraldry, metallurgy,
+numismatics, read/write, secret language classical, speak
+additional language - Breton, super numerate.
+
+Trappings: various coins (over 200 crowns) with numerous people
+featured (including the Rissigvolk), cheese cutter (knife ->
+I+10, D-2, P-20); (as listed under career trappings).
+
+Insanities: Trivial delusion - the money he mints is 'real', serious
+delusion - believes everyone he meets is a member of the nobility
+(and he treats them accordingly), serious delusion - cheeses are
+actually daemons of Chaos attempting to destroy the world.
+
+
+Adventure Ideas:
+The motley 'Rissigvolk' group provide plenty of ideas for adventures
+in which the characters can become entangled in.  Here are a few
+suggestions:
+
+"Catch the Madmen"
+The PCs are hired by the Great Hospice to retrieve the escaped
+lunatics.  They must follow Der Rissigvolk's path of weirdness
+in order to catch them.  Once found, you can bet that they don't
+want to go back.
+
+
+"A Coin or Two"
+To the PCs misfortune, they happen to meet Herpin Schwindel
+(and possibly other members of Der Rissigvolk).  Herpin is
+later 'convinced' by Walter that it is vitally important to mint
+as many coins as possible of the characters and to spread them
+around town.  This leads to the PCs being hunted by the watch.
+The group must evade the law and track down Der Rissigvolk to
+clear their names.
+
+
+"Chance Meetings"
+Der Rissigvolk just happen to stumble into the PCs latest adventure,
+helping to add a sense of chaotic mayhem.  Imagine Der Rissigvolk
+running around Middenheim during the events of "Power Behind the
+Throne"...
+

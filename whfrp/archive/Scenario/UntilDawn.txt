@@ -1,0 +1,324 @@
+From: Chris Clements <chris@atmnet.net>
+Subject: [WFRP:1426] "Until Dawn"
+
+"Until Dawn"
+
+GM Notes:
+
+This is a short solo adventure (the gm and a pc) designed for a warrior
+or ranger who has completed at least two careers.  It was originally set
+deep in the middle of the Reikwald Forest, but can be placed at any
+forest location that is more than three days travel to the next settlement.
+With a few modifications, it could be dropped into any larger campaign.
+
+Optimal career(s) for pc: gamekeeper/poacher, outlaw, woodsman, (advanced):
+assassin, outlaw chief and scout.   Garett's career 'Trophy Hunter' would
+also fit perfectly for this outing, and would prove to be quite ironic as
+well.
+
+Alternately, this adventure could be changed for a group just starting out
+or for a pair (or more) of rogues sold by the warden of a jail to
+Faustmann.
+
+Adventure History:
+
+Faustmann Beckner, son of a unimportant minor noble, grew up with a vague
+disinterest of life in general.  As a child, Faustmann proved to be quite
+a daredevil, doing dangerous stunts for seemingly no apparent reason.  A
+lot of his time as a youth was spent healing from his wounds.  Pain never
+seemed to deter him in the slightest, and he was always willing to try
+something exciting.  Yet with each success he grew disappointed, and normal
+daily life was hellishly boring for the young man.  Only when he was in
+danger did he ever truly feel pleasure.  Simply put, he was addicted to any
+type of hazardous activity.  Then, one day, his father introduced him to
+hunting.  
+
+It was like nothing he had ever experienced before, matching his
+wits with the instinct of the beast.  With his first kill, Faustmann had
+found his true passion and began to pursue it earnestly.  Years passed and
+his skill increased greatly.  Often he would travel alone and hunt for
+weeks and weeks at a time.  Few indeed were those that could match his
+formidable talents in the chase.
+
+The hunt never grew tiring, but Faustmann craved more variety to his sport.
+Returning back late one night from a successful chase a pair of bandits
+attempted to rob him.  Faustmann killed one and made chase after the other
+who fled.  The outlaw proved an exhilarating quarry, more so than any
+common animal.  After hours of pursuit he found and fought the man,
+killing him.  His wish for more variety came true.
+
+Faustmann had found intelligent prey to his liking.  A few days later, he
+stalked and slew a poacher on his family's land.  His next victim was a
+wandering pedlar. A trapper soon followed.  He was always discrete and
+cunning, none suspected him of any of the vile acts that he had preformed.
+It went like this for over two months before the scrutiny became too
+intense over the 'disappearances'.  With regret, Faustmann stopped pursuing
+his favorite hobby in order to relax the constant vigilance of the law.
+
+During this time he came to acquire a book that detailed the doctrine of
+Khaine, which he read with great fervor.  The dark grimoire inspired
+Faustmann to convert to the ways of the lord of assassins.  It did not take
+him long to become familiar with the evil religion and pursue the rituals
+outlined in the book.  Faustmann became a full member (in his twisted mind,
+anyway) of the cult when he butchered his father.
+
+With his act of patricide Faustmann gained his father's fortune and
+helped to strengthen his growing devotion to Khaine.  Realizing
+that he could hardly continue with his hobby at his present location
+without drawing unwanted attention, Faustmann decided to build a lodge
+in an area far from civilization in which he would hire others to 'stock'
+the game.  In a year, his dream and monument to Khaine was complete.
+
+Thus, many an aspiring wanderer has been kidnapped and whisked away to
+"Khaine's Lodge".  None who have made the journey under such conditions
+have returned...
+
+Set-up:
+
+Here is a few ways that the pc can become involved with the adventure.
+
+1) The warrior/ranger pc manages somehow to become 'lost' within a forest,
+with few or no supplies.  Travelling for a ways, the pc stumbles upon a
+large walled estate.  With little choice, the adventurer will likely
+seek shelter...
+
+{I developed this adventure when a warrior became separated from the
+group in the course of a battle in which he was knocked unconscious
+and mistaken for dead by his fleeing companions {the pc expended a
+fate point}.  Hours passed, and when he finally awoke he found all his
+possessions had been plundered by bandits and his companions long gone.}
+
+2) The pc is kidnapped from a city, drugged, and awakes in Faustmann's
+estate.  The kidnappers are footpads hired by the hunter regularly to
+bring him fresh prey.
+
+3) Through various means, Faustmann contacts the pc with an invitation
+to visit his estate, along with an escort provided by him.  This invitation
+does not include any of the pcs other friends.
+
+Hunter and Prey:
+
+Whatever the circumstances of how the pc arrives at the lodge, Faustmann
+will prove to be an amicable and polite host.  He'll wine and dine
+his new victim (even if the person must be handcuffed to a chair
+while they eat).  Faustmann will have had his prey's food drugged if
+they are unaware of his dangerous intentions.  When the character is
+secured (possibly with the help of Vorster's club), the host of the lodge
+will happily inform his guest(s) of their current situation.
+
+"You have been chosen, by whatever fate, to have the honor of being
+the prey of Khaine's greatest mortal hunter... myself, of course.  The
+rules of the game are quite simple; you will be released at morning
+tomorrow with a dagger and a hour later I shall begin my hunt.  You
+have only to evade me, until the next dawn, to be free.  I do hope that
+you prove an interesting quarry, and not as boring as the last little
+chap with the orange mowhawk I bagged last week..."
+
+The pc will then be escorted to a cell by Vorster and Wylix (see NPCs)
+for the night.  Everything that Faustmann has said is true, and the pc
+is released with a dagger in the morning.  The hunt begins...
+
+
+The Chase:
+
+The are a lot of options to a pc after he is released, too many to go into
+detail here.  The hunt itself will require the GM to improvise constantly.
+There are a few basic specifics that do occur:
+
+1) Faustmann will hunt alone.  Vorster, Wylix, and the warhounds will be
+   used to try and flush the prey out of hiding.  Vorster and Wylix
+   try to not kill the character (as this would make Faustmann angry),
+   but they will not hesitate to severely wound or knock out the prey.
+
+2) Faustmann is insanely clever, and should be played in such a manner
+   as to scare the hell out of the pc.  Sniping from trees with his bow,
+   laying an assortment of traps in the characters way (which he will
+   inform his servants of such traps, but a tricky pc can still manage
+   to use them to his/her advantage if aware of them), and Faustmann
+   may even herd a wild animal or two in the pc's direction (a bear or
+   boar would fit the bill nicely).  A great option presents itself to
+   the gm; have another player/gm play Faustmann... (muhahaha)
+
+3)  A quick chase is a disappointment to the depraved hunter, so he may
+    attempt to lengthen the lead occasionally if he feels he has the
+    upper hand.
+
+Possible PC Actions:
+
+1) Get better weapons - there are a few ways for a pc to improve armaments;
+   one is to pick up any number of items in the forest.  Here is a list
+   of some of nature's weapons: dead tree branch (WS -10, I -5, D -1),
+   small rock (8 short, 16 long, 32 extreme ES C/3 - round up +), large rock
+   (WS -20, I -20, D +1; requires use of both hands *), improvised spear
+   {from dagger, tree branch, and a strip of cloth} (D -1; 15% each strike
+   of the spear breaking).  A better course is to take one of the weapons
+   a hunter is armed with.
+
++ - requires the skill street fighting.
+* - requires the skill specialist weapon - two handed.
+
+2) Sneaking back into the lodge: this is possible but quite dangerous.  The
+   lodge is unlocked, but not unguarded.  Slaughterhouse, a ferocious
+   canine, lurks within the building and all weapons are locked behind a
+   secure metal door (lock rating of 55%).  Still, it could prove a worthwhile
+   venture if the pc utilizes some of the objects around the house as weapons
+   and/or traps.
+
+3) Frontal assault - it's possible that a suicidal pc may elect to take on
+   Faustmann, Vorster, Wylix, the group of hounds, and possibly
+   Slaughterhouse as soon as they are released (with a dagger, no less).  If
+   you're feeling kind, give the pc an Int test to show that this isn't one
+   of their brighter plans...
+
+
+Winning:
+
+I'll let the individual gm decide on the amount of experience awarded for
+this adventure, as well as any possible rewards if the pc manages to
+search the house in peace.
+
+
+NPCs:
+
+Faustmann Beckner (Evil)
+
+M  WS  BS  S  T  W   I   A  Dex  Ld  Int  Cl  Wp  Fel
+5  65  66  5  5  13  63  3  57   53  61   74  61  47
+
+Skills:
+Acute hearing, animal care, animal training - dogs, concealment rural,
+concealment urban, cult doctrine - Khaine, disarm, dodge blow, etiquette,
+follow trail (*), game hunting (*), identify plant, lightning reflexes
+(already added into profile), mimic (animal sounds), musicianship -
+harpsichord, night vision - 12 yards, orientation, prepare poisons,
+read/write, ride, scale sheer surface, secret signs - ranger, set trap,
+shadowing, specialist weapon - fencing sword, parrying, lasso, longbow,
+throwing knife, blowpipe, firearms; silent move rural, silent move urban,
+spot trap, street fighter, strike mighty blow, strike to injure, strike to
+stun, wit.
+
+* - these skills have been taken three times each by Faustmann, giving him a
+    net bonus of +30 when he uses either one of them.  Normal use of these
+    skills are tested under the following formula:
+    (Initiative + Intelligence)/2
+
+Trappings:
+Bandoleer of 8 throwing knives
+sword
+hand-axe
+longbow and quiver w/ 24 arrows
+suit of fine clothing
+suit of outdoors/hunting clothes
+leather shoes
+4 pairs of manacles
+face-paint kit - gives a bonus of +5% to all hide/concealment tests in
+                 a rural environment.
+
+
+Vorster (Evil)
+
+M  WS  BS  S  T  W   I   A  Dex  Ld  Int  Cl  Wp  Fel
+4  49  24  6  4  14  36  2  39   33  27   52  37  24
+
+Skills:
+Concealment rural, dodge blow, ride, silent move rural, specialist
+weapon - fist; street fighter, strike mighty blow, strike to injure,
+strike to stun, very strong (already added into profile), wrestling.
+
+Trappings:
+Club
+Spear
+metal wire (garrote)
+outdoor clothing / leather boots
+
+
+Wylix (Half-orc) {Evil}
+
+M  WS  BS  S  T  W  I   A  Dex  Ld  Int  Cl  Wp  Fel
+4  44  24  3  3  8  34  2  45   47* 36   31  27  17
+
+* Wylix's Leadership should be treated as 67 when controlling his
+  hounds.
+
+Skills:
+Animal care, animal training - dogs, concealment rural, cook, dodge
+blow, ride, scale sheer surface, silent move rural, spot trap, strike
+to stun.
+
+Trappings:
+Hand axe
+club
+dagger
+leather leashes
+dog whistle
+leather trousers dyed green
+dark green vest
+(no shoes or boots; Wylix prefers to be barefoot)
+
+
+Warhounds [gm should customize the # of dogs; 2 standard]
+
+M  WS  BS  S  T  W  I   A  Dex  Ld  Int  Cl  Wp  Fel
+6  41  0   3  3  7  30  1  -    43  14   43  43  -
+
+Special Rules:
+(see WFRP bestiary; Dog, War)
+
+Skills:
+Follow Trail (base chance of 65%)
+
+
+Slaughterhouse (warhound/wolf mix)
+
+M  WS  BS  S  T  W  I   A  Dex  Ld  Int  Cl  Wp  Fel
+6  61  0   4  4  10 41  2  -    61  18   29  43  -
+
+Special Rules:
+Slaughterhouse is subject to Frenzy.
+
+Skills:
+Open doors (yep, this dog has been trained by Wylix to open any of the
+doors in the lodge by gripping the handle in its mouth).
+
+
+Optional NPC:
+
+If you feel the pc might need a little help, include Ollareon in the
+adventure as another victim to be hunted along with the character.
+Faustmann is aware of Ollareon's cloven hoofs and wings mutations,
+but does not know of his elastic limbs or his status as a chaos
+champion of Tzeentch.  The pc should not be privy to any of this
+information at the beginning of the hunt.  At the end of the adventure
+the pc could be 'rescued' by Ollareon's warband.  Ollareon will
+choose to spare the pc's life if they have survived the hunt
+(chaos is anything but predictable!), but Ollareon will mention
+off-handedly "We will meet again, my friend.  Tzeentch will see to
+that... we will meet again".
+
+Ollareon / Adelbert Kilburger; Chaos Champion of Tzeentch (Chaos)
+
+M  WS  BS  S  T  W   I   A  Dex  Ld  Int  Cl  Wp  Fel
+4  61  46  4  5  11  57  2  44   53  39   67  62  43/14
+
+Skills:
+Demon lore, disarm, dodge blow, read/write, specialist weapon - two handed
+weapons, flail, fist; street fighter, strike mighty blow.
+
+Mutations:
+Cloven Hoofs (no affect on profile), elastic limbs (can make attack up
+to 11 yards away;  opponents may only strike back after making a successful
+Initiative check), small wings (cosmetic, hidden by cloak).
+
+Trappings:
+Dirty purple cloak (hides wings)
+brown trousers & modified leather boots (hides cloven hoofs mutation)
+torn white shirt
+dagger (when released)
+
+--
+
+Chris Clements
+chris@atmnet.com
+
+"Vale, mi amice."
+

@@ -1,0 +1,95 @@
+This directory is for executable files for WFRP and WFB that will
+run on Unix, MSDOS, Windows or Macintosh platforms.
+
+Pendragon.zip
+	Zip-archive containing files for generating characters and
+	conducting combat for Pendragon RPG. Included as a preview
+	to <equin@alpha2.curtin.edu.au>'s Warhammer version of the
+	application.
+
+Warcfix.zip
+	Archive containing the corrected files for Warcgen.zip.
+
+Warcgen.zip
+	Archive containing th files for a character generation program for
+	Windows 3.x environment. There are some files in this archive that
+	should be changed. Do therefore unzip the corrections of the
+	Warcfix.zip archive in the same directory before trying to install
+	the program.
+
+csht_run.zip
+	Archive containing the executable code for Ian Ward's
+	<ACA95IDW@sheffield.ac.uk> character sheet program.
+
+code.zip
+	Archive containing the source code for Ian Ward's 
+	<ACA95IDW@sheffield.ac.uk> character sheet program.
+
+dname11.Z
+	Program that creates random deamon names according to the rules
+	presented in Realms of Chaos 1. The program is for UNIX-systems.
+
+dname11.zip
+	The same program as dname11.Z for MS-DOS.
+
+
+germans.zip
+	A program for generating random German names. (Win95)
+	Written by Carsten Schwartz <csn@dhi.dk>
+
+mutation.zip
+	A program for generating random Chaos mutations. (Win95)
+	Written by Carsten Schwartz <csn@dhi.dk>
+
+players.zip
+	A program for generating random Player Characters. (Win95)	
+	Written by Carsten Schwartz <csn@dhi.dk>
+
+pkunzip.exe
+	Archive extractor for .zip files
+
+gwp1bw95.zip
+	Zip-Archive containing the Windows 95 application written by
+	Jean-Philippe Theberge <yesod@CAM.ORG>. This is in pre-release status
+	and can also be accessed at http://www.cam.org/~yesod/Warhammer/.
+
+spawn11.Z
+	Program for creation of random chaos spawn according to the rules
+	presented in Realms of Chaos 1. The program is for UNIX-systems.
+
+spawn11.zip
+	The same program as spawn11.Z for MS-DOS.
+
+traits.zip
+	A program for generating personal traits. (Win95)
+	Written by Carsten Schwartz <csn@dhi.dk>
+
+treasure.zip
+	A program for generating random treasure lists. (Win95)
+	Written by Carsten Schwartz <csn@dhi.dk>
+
+UseName.zip
+	A little program (DOS) for generating demon use names
+	as the ones from the Chaos Book about Khorne and Slaneesh
+	by Carsten Schwartz <csn@dhi.dk>
+
+WarhammerPics.zip
+        Pictures from the Win95 Warhammer Fantasy computer game
+        Pictures submitted by Morten Krog <mortenk@ifi.uio.no>
+
+wcbv200a.zip
+	Warhammer Character Builder version 1.01
+	by Frank Lubbers <frankl@stack.urc.tue.nl>
+	A DOS-based character generator
+
+wfrpchar.zip
+	NPC and Character generator for Windows 95 written by
+	Marco Van De Wiel <MARCO.VANDEWIEL@student.kuleuven.ac.be>
+	(not tested yet).
+
+wfrpcrea.zip
+	Creature Database for Win95. More creatures may be added. Written
+        by Serge Beaulieu <sergeb@fundy.net>
+
+wfrpstacks.sea.hqx
+	Character generation program for Macintosh.

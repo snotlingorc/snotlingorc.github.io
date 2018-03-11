@@ -1,0 +1,141 @@
+Alphonse Nitpicker's Obscura and Miscellanea Vol 1.1
+
+Rules collection
+Alphonse Nitpicker's Obscura and Miscellanea
+Volume 1.1
+
+written by Clay Luther
+
+As a service to the WFRP list readers, I have contacted Alphonse Nitpicker,
+formerly of Altdorf and a graduate of H.R. Pumpelgroover's School of Law at
+Talabheim, to come up with a definitive list of obscure but important rules,
+hints, and "list" rules for distribution to the mailing list.
+
+Herr Nitpicker has accepted this task for a nominal fee, being somewhat aged
+now and without other employment, but I feel that he brings a great deal of 
+experience and discretion to the task.
+
+Herr Nitpicker has asked that his word not be taken for granted and that if
+you should notice any holes or errors in his interpretations of the WFRP to
+please take them up with him.
+
+Below is Herr Nitpicker's first go...
+
+
+
+Obscura and Miscellanea
+
+0 ABBREVIATIONS
+
+WFRP - WFRP Rulebook
+RD - Restless Dead Supplement
+OTB - On the Boil Articles
+
+1 CHARACTERS
+1.1 Changing Careers
+
+Just because a career exit exists does not necessarily mean that it is
+available to the character.  The character must have opportunity, an instructor
+(usually), and a reasonable expectation of executing his duties in the future
+career as expected.  One cannot, for example, become a Judicial Champion just
+because it is listed in the Career Exits for your current career; first, a
+position as a Judicial Champion must be opened or vacated; second, you must
+prove your worth the noble who would hire you; three, once installed as the
+noble's champion, it is very likely that your previously "adventuring"
+activities will change to suit the whims of your employer (RD, p81).
+
+Note, you must have the trappings of a career on hand before entering a career.
+Some careers (like Mercenary Captain) have implicit trappings (such as a band
+of actual mercenaries to captain!).
+
+1.2 The Innate Skills
+
+Innate skills represent natural abilities rather than learned ones.
+
+
+The Innate Skills are:
+Acute Hearing, Excellent Vision, Fleet Footed,
+Immunity to Disease, Immunity to Poison, Lightning Reflexes, Linguistics,
+Luck, Night Vision, Sixth Sense, Strongman, Very Resilient, Very Strong.
+
+
+(RD84)
+
+1.3 Gaining "Percentage" Skills
+
+Many basic careers have skills list with a percentage next to them.  This is
+the chance that a newly created character in the career will gain those 
+particular skills.  However, innate percentage skills are only available to
+beginning characters entering their first career and cannot be purchased by
+characters entering the career later during the game. (RD83)
+
+1.4 Gaining Innate Skills
+
+You may gain innate skills three ways:
+
+
+- As one of your background skill rolls
+- As one of your percentage skills in your first career
+- As a non-percentage skill in a subsequent career.
+
+
+You may not learn innate skills
+
+
+- That have a percentage next to them (after character creation)
+- By making an Int roll to learn a non-career skill.
+
+
+(RD83-84)
+
+2 COMBAT
+2.1 Initiative Order - List Rule
+
+The following rule was popular in past initiative discussions on the list:
+
+Characters attack in I-order, as stated on WFRP page 118.  However, each character
+may only make one attack on his I-rank.  Once all characters have made one
+attack, then characters with second attacks may attack in I-order again.  Once
+all characters with two attacks have attacked, then all characters with three
+attacks may attack in I-order, ad infinitum.
+
+This rule is more "realistic" than the one given on WFRP page 118 and less 
+cumbersome than the Initiative system given in RD.
+
+2.2 Criticals Make You Crazy
+
+Whenever a character takes a critical wound, he gains 1 insanity point which
+remains even after the wound is healed. (WFRP page 83).  See also Miscellanea.
+
+3 MAGIC
+3.1 Petty Magic Miscellanea
+
+Petty magic spells are simpler and less dangerous than their more potent
+cousins.  First, your chance of learning a petty magic spell is twice your
+Int (fail 96-100) (WFRP page 137).  Second, petty magic spells are exempt from spell
+failure rolls for low magic points (OTB).
+
+3.2 Spell Failure Rolls
+
+Do Spell Failure Rolls (WFRP page 135) use 2D6 or 1D12?
+
+
+-WFRP page 135 : 2D6
+-OTB : 1D12
+
+
+Herr Nitpicker prefers 1D12.
+
+4 MISCELLANEA
+4.1 Gaining Insanity
+
+You can gain insanity the following ways:
+
+
+- Take a critical hit (1 insanity point)
+- Fail a Terror Test (not a Fear Test) (1 insanity point)
+- Consume a delerient (varies)
+- GM discretion (varies)
+
+
+(WFRP83)

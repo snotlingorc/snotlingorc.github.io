@@ -1,0 +1,377 @@
+From: cc697@cleveland.Freenet.Edu (Eric Oppen)
+Subject: WFRP: From Drachenfels' Library: Forbidden Books in WFRP
+Date: Wed May 10 00:29:31 CDT 1995
+
+In the Old World, there are many forbidden cults, and all of them have holy
+books.  Simetimes it seems like a person can't really call himself the High
+Priest of a Proscribed Cult without writing a big thick book all about it. 
+Herewith a few sample books that PCs may stumble across.
+
+Claws of Darkness Khaine Cult:
+
+_De Tenebris Mysteriis_ (On the Secrets of Darkness)
+
+This tome was originally written several centuries ago.  It was first seen
+in the _Classical_ language, but can be found in translated versions.  A
+small print-run of 300 in Reikspiel was confiscated in Altdorf some years
+ago, allowing the priesthood of Sigmar an unparalleled opportunity to study
+this work.  Most Sigmarite temples have copies from this run in their
+restricted libraries.  It is roughly 250 pages long, and most copies found
+have been hand-copied.  A standard penance for low-ranking clerics of
+Khaine is to copy out, by hand, a certain number of pages from this book. 
+This provides a useful penance, as well as new copies to spread the word
+with.
+
+It is divided into several sections.  One of the sections is an account of
+the history of the gods, written from a Khainite point of view.  Khaine is
+sen as an unjustly-persecuted hero, and the other licit gods as usurpers of
+his prerogatives.
+
+Then comes a section on poisons.  Reading this and making an Int roll and
+spending 100 xp will give a person _Prepare Poisons_ skill, and rereading
+it, making another Int roll and spending another 100 xp will give a
+character information on how to acquire the _Immunity to Poisons_ skill.
+
+The next section is on the undead.  It gives a basic introduction to the
+_Necromantic_ arcane language, and provides enough information for a
+character reading it, with a successful Int roll and expenditure of 100 xp,
+to acquire the _Identify Undead_ skill.  There are also theoretical
+discussions of Necromancy, and practical hints for the aspiring
+Necromancer, including ways and means to disguise the ravages of his
+terrible researches.  There are several cures for Tomb Rot at the end of
+this section.
+
+The final part is poetry, written in honour of Khaine by one of his
+greatest High Priests before entering the vampire state, as described in my
+earlier post on the _Dunkelklaue_.  Reading and understanding this poetry
+will give any character not of chaotic or evil alignment 1 Insanity point
+if a save vs. Cool is not made.  Whether the save is made or not, having
+read this poetry and expended 100 xp will give a character the _Theology_
+skill, at least as relates to the worship of Khaine.  This poetry is so
+blasphemous and evil that any priest or devout worshipper of Morr will have
+to make a Cool test to avoid an overwhelming urge to burn the book.
+
+Possession of this book will attract a great deal of unwanted attention to
+PCs unless they have a _very_ good excuse.  If the authorities find that
+they have it, they may well be considered to be guilty ipso facto of
+membership in the Claws of Darkness.  Meanwhile, the Claws themselves feel
+that the secrets in this book are NOT for the uninitiated.
+
+
+Tzeentch Cult of the Purple Hand:
+_Geheime Lehren den Purpuren Hand_ (Secret Doctrines of the Purple Hand)
+
+First written by a Magister Magistrorum (Highest Priest) of the Purple Hand
+in Kislev, this book is currently only known in its Reikspiel version.  The
+Kislevite version is long-lost, having burned in an anti-Chaos purge by the
+former Tsar Iossif Vissarionivich Dzhugashvili.  When Tsar Iossif was
+overthrown, the book appeared in the Empire.
+
+The book is about 100 pages long, written in a convoluted, affected style,
+not unlike this post.  Even those literate in Reikspiel require an Int roll
+to fully understand it.  The book, when found, has always been bound in
+leather made from the skin of one of the friendly races: gnomish, dwarven,
+halfling, human or elvish.  Part of the ritual of consecrating this volume
+requires that the consecrating copyist to sacrifice his or her dearest
+friend outside the Purple Hand cult and bind the book in that friend's
+tanned skin, having done the skinning and tanning while the friend still
+lived and knew what had been done to him or her.  All known copies are
+handwritten; part of the initiation of a Magister of this cult is to write
+out, in a prescribed time, his or her own copy.  While this is going on,
+distractions of various natures are introduced just to keep things
+interesting.  Failure in this task has penalties unknown outside the cult
+itself, but one can assume that they are indescribably foul and hideous.  
+
+Much of the book is Purple Hand theology.  Reading and understanding it
+will, upon payment of 100 xps, give a character the _Theology_ skill, as
+relates to the Purple Hand, and a 75% chance of understanding theologies of
+other Tzeentch-worshipping cults, such as the Writhers in Darkness.
+Although this book is mainly associated with the Purple Hand, other
+Tzeentch-worshippers have used it.
+
+There is another section on the nature, summoning and control of Daemons. 
+The ingredients for all first- and second-level Daemonologist spells are
+listed, along with directions that are clearly comprehensible to any
+Wizard, Wizard's Apprentice, Alchemist or specialist Wizard, on how to
+summon Daemons.  There is a list of Daemons' names, by which they may be
+controlled.  Any Daemon encountered while in possession of this book may be
+mollified by handing it oveer; no Daemon likes to think of itself in
+thraldom to mere mortals, and returning to its own plane with the means to
+do so confiscated from mortals will gain the Daemon status with its
+fellows.
+
+The rest of the book is a collection of the sagas of the great incursion of
+Chaos, the one that took the city of Praag.  Reading and understanding this
+part may give a military-background character insight into the methods of
+warfare used by the armies of Chaos.  Any character reading this section
+and failing a WP test will gain one insanity point.  Templars, in
+particular, may find theinformation on the nature, thought (?) and methods
+of Chaos Warriors worth the undeniable risks of perusing this foul, unclean
+tome.
+
+As with the other books on this list, unauthorized possession of this book
+is forbidden, and considered to be proof of membership in a proscribed
+cult.
+
+
+Slaanesh Cults (Various)
+_Grimoire of Pleasure_
+
+This book is better known as the _Proscribed Grimoire of Slaanesh_
+(mentioned in "Red Thirst," in the anthology of the same name) and its
+possession is formally forbidden everywhere in the civilized parts of the
+Old World, outside of the city of Moussillon.  Even there, it is quite rare
+to find anybody who will openly admit ownership of a copy.
+
+As far as is known, this book was originally written by a High Priestess of
+Slaanesh in Bretonnia (surprise, surprise!)  about 1890 IE.  There exist
+translations into many languages, but the most common version is in
+Bretonnian, running to about 75 pages.  Many versions are illustrated; the
+version illustrated by the perverse woodcuts of the insanely-talented Khuff
+is considered a masterpiece of the printer's art, even by those who would
+burn the book immediately.
+
+The book itself is surprisingly well-written and carefully thought out. 
+The worshippers of Slaanesh are not normally known for their intellectual
+prowess, but when dealing with their main interest, they are capable of
+incredible feats of intellect.
+
+Much of the book is taken up with precise detailed instructions on
+seduction.  A character reading this part, making an INt roll and spending
+100 points may gain the _Seduction_ skill; if the character already has the
+skill, chances of success in a given attempt will double.  The instructions
+include a great deal of information on the psychology and thought-processes
+of all intelligent races; this makes the book valuable even to those not in
+search of good chat-up lines.  Reading this section with the idea of
+learning more about psychology, along with the expenditure of 100 xp, will
+effectively increase a character's chances by 10% in all negotiation or
+other situations where people are being dealt with by the character.
+
+Another part of the book gives clear instructions on avoiding
+contraception.  The cults of Taal and Rhya regard this information with
+horror, calling it blasphemy against their deities.  The other faiths of
+the Old World are at worst, neutral towards it.
+
+"Cleaned up" versions of this book, with all traces of Slaaneshi theology
+censored out, enjoy a brisk sale among the more decadent students, nobility
+and nobs of the Old World.  Copies sell for 150 gp on up, depending on the
+language, quality of printing, and quality of illustrations, if any.  This
+trade is forbidden, not because of the erotic content of the book as such,
+but because it offers a perfect opening for clandestine Slaaneshi
+missionaries to work.  Offering someone a "better" copy of the _Grimoire of
+Pleassure_ is an excellent way to inviegle themselves with their
+prospective converts.  Most Courtesans' Guilds own copies of the "cleaned
+up" version, and require that their members study the book and pass
+examinations in it, before promoting them within the guild.  The original
+book itself is severely proscribed; being found in possession without a
+_really_ good story will win the owners a free trip to the nearest gallows,
+and a prominent high position.
+
+
+Khorne Cults:
+_Der Blutbuch_ (the Book of Blood)
+
+Unlike some of the other Chaos cults, the followers of Khorne are rather
+rare within the Impire.  Their single-minded devotion to slaughter for its
+own sweet sake, along with their utter disdain for the subtlety favoured by
+Khaine's worshippers, make them easy to track down.  For this reason, the
+only known copy of this book came from Castle Drachenfels, after Prince
+Oswald von Tassenick and his heroic companions overcame the Great Enchanter
+(cf. _Drachenfels_ by Jack Yeovil).
+
+Written in rather archaic Reikspiel, the book is bound in brown leather
+dyed the exact colour of dried blood.  On the cover, the symbol of Khorne
+is worked into the leather in gold.  The individual pages are heavily
+water-marked with endlessly-repeated symbols of Khorne, and the spine has
+the same symbol tooled into the leather over and over again.  There is no
+name given to the book; the name used for it comes from the cover and the
+subject matter.
+
+The book is a long paean to Khorne, and to the joy of slaughter,
+destruction and bloodshed.  Those who have had the privilege of studying
+the original, which is kept under heavy lock and key at the temple of
+Sigmar in Altdorf, say that the poetic descriptions of the Chaos Wastes and
+the endless battles between the Chaos Powers' servants have great power,
+but were obviously written by someone far gone into Chaos, if indeed they
+were even written by someone who had ever been one of the friendly races.
+
+The story describes the rise of a humble servant of Khorne to the full
+status of a Champion of Chaos.  The descriptions of the Servant's first
+kill, where he stands in the blood of the teacher who had abused and
+mistreated him, screaming out his dedication of this kill to the Blood God,
+are written with incredible intensity.  Taking to the woods, the Servant
+(he is given no other name; even as a Chaos Champion, he prefers only to be
+called a simple servant of Khorne) gathers a retinue of Beastmen and
+mutants, by killing the strongest of them in combat and dedicating their
+souls to the Blood God.  Once the gifts of Khorne, including the Chaos
+Armour, are given, the Servant is able to kill for Khorne in earnest. 
+After endless slaughter all across the Old World, and deep into the Chaos
+Wastes, the Servant is finally given the ultimate gift, and becomes a
+Bloodletter of Khorne.
+
+One school of commentary identifies the Servant with a Halfling, of all
+people.  Since the Servant is described as being as enthusiastic about good
+food and regular mealtimes as he is about killing, and given the known
+existence of at least one Halfling-born Champion of Khorne (born Tubbi
+Haarfuus in Marienburg) the identification is not implausible.
+
+Reading this book and making an Int roll, along with the expenditure of 100
+xp, will give a character the _Theology_ skill as relates to
+Khorne-worshippers.  Possession of this book will make a character a hunted
+man, targeted by both Khorne-worshippers and the authorities.
+
+
+Horned Rat cults:
+_Der Kauer auf der Weltwurzelen_ (The Gnawer at the Roots of the World)
+
+This book was allegedly translated from Queekish into the _Classical_
+secret language by Constant Drachenfels himself.The Skaven contacted the
+Great Enchanter, and got his agreement to do this by agreeing to provide
+him with their assistance in one of their horrid schemes.  They themselves
+are not skilled enough in human languages and ways of thinking to
+translate well from their own tongue into ours.  Despite these stories, the
+only known copies of this book are all in modern languages.  A copy, in
+estalian, is in the library of the cult of Myrmidia in Magritta.  After the
+overthrow of the evil, vampiric Tsarina Kattrin of Kislev, a copy in
+Kislevite was found among her effects.  Several copies in Tilean are known
+to be in the hands of variouis orders of Templars in Mirigliano and
+neighbouring regions; given its location, Mirigliano is more plagued by
+Horned Rat cultists than other cities.  Copies in Reikspiel are to be found
+in the libraries of the temples of Sigmar in Altdorf and Ulric in
+Middenheim.
+
+The book is invariably covered with tanned human skin, with the symbol of
+the Horned Rat tattooed into it.  It is several hundred pages long, and
+written in a strange, repititive style reminiscent of the way the Skaven
+speak-speak.  This characteristic style persists in all known versions, and
+may well be characteristic of Skaven thought processes and inescapable in
+Skaven writings.
+
+The original author purports to be one of the Thirteen Lords of Decay.  It
+describes the Skaven entry into the Known World, and their taking of the
+city that became Skavenblight.  This book is the only known account of that
+city's infestation and loss to the Skaven.
+
+Much of the book is Skaven mythology and eschatoogy, with a description of
+what the Skaven believe to be their origins, their creation by the Horned
+Rat, who consecrated them as his own chosen race to rule all time and
+space.  The great heroes of the Skaven race, the original Lords of Decay,
+led their people through the tunnels of the Dwarves and Gnomes, driving out
+the "abominations in the sight of the Horned One" to make the tunnels
+useful to the ultimate plans of the Horned Rat.  The passages describing
+the fall of the city that became Skavenblight give unparalleled  insight
+into Skaven thought-processes, so-called.  Failing a Cool roll upon reading
+this will gain a character 1d6 Insanity Points.
+
+Other things found in this book are precise directions for the creation of
+Rat-Ogres from Skaven stock, poems in praise of the Horned Rat, recipes for
+poisons, and short biographies of all the Lords of Decay.  There are also a
+great many facts about warpstone that would definitely interest any wizard
+or sage working with the horrid stuff; including data on the precise rate
+of mutation-acquisition by prisoners exposed to its awful radiation.
+
+Horned Rat cultists will pay almost any price for a copy of this book; the
+authorities will pay large rewards for the denunciation of any person with
+it who lacks a _good_ explanation.
+
+
+Nurgle Cults:
+_Pestbuch_ (The Book of Plague)
+
+This book, of over a thousand pages, is considered extremely valuable by
+the Physicians' Guilds, who are always lobbying to be allowed to study the
+few copies known to be in existence.  It gives extremely precise, correct
+information on how to bring about plagues and pestilences, by that same
+token, it gives many hints on how plague and sickness may be prevented. 
+For obvious reasons, the Hurgle cultists are not pleased by the interest
+shown in this holy book by the Physicians; any Physician known to have
+studied a copy is marked for death by a special sect of Nurgle-worshipping
+assassins, known as the _Todschlager der Pesteherr_ (Deathblows of the
+Plague Lord) whose sole duty is to prevent nonbelievers from learning how
+diseases are caused and especially how they may be prevented.
+
+This book is very carefully organized, with a comprehensive index.  Written
+in Reikspiel, it gives the precise origins and causes of every disease
+known in the Empire, with directions as to how to bring it to full hideous
+flower against selected targets.  There is very little Nurgle theology in
+this book; this is a handbook for biological warfare in a low-technology
+society, not a hymnbook or book of poetry in praise of the Lord of Plague.
+
+The book also contains explicit descriptions and directions for dealing
+with Beasts of Nurgle (cf. _The Oldenhaller Contract_, WFRP main rulebook)
+and all the better-known Daemons of Nurgle.  There are even biographies of
+the greatest Champions of Nurgle.  Reading this will give a character with
+background in Daemonology, such as a former Daemonologist or cleric whose
+religion allows the use of Daemonological spells, great insight into the
+nature of Daemons of Nurgle, and warrior characters will find themselves
+better able to understand the behavior to be expected of Champions of
+Nurgle.  
+
+Two copies of this book were taken from Drachenfels' castle after the
+defeat of the Great Enchanter by von Tassenick.  The annotations, in the
+hand of Constant Drachenfels himself, have so far defied translation; they
+are in Cathayan or Nipponese, and there are very few Scholars, or even
+dwarven Loremasters, with sufficient erudition to know for sure whether an
+annotation is in one language or the other, and the translation would vary
+according to which language is used.  Other copies are known to exist in
+the libraries of large temples of Shallya; the followers of the goddess of
+healing and mercy are naturally quite interested in how diseases may be
+prevented.
+
+Characters possessing this book will find Guilds of Physicians bidding for
+it; however, this will reach the ears of Nurgle's followers, and the
+assassins will be on the trail.  The authorities will not necessarily take
+possession of this book as proof of Nurgle-worhip, but the book will be
+confiscated and "taken for study," meaning locked up forever.
+
+
+Malal Cults:
+
+The Doomed Ones, as the followers of Malal are called, live entirely to
+destroy other Chaos cultists.  Theyfeel that the blod of other gods'
+followers, daemons and priests makes the perfect sacrifice to  Malal. 
+Hence, their authorship of the following work:
+
+_Handbuch der Verbotene Kulten den Alten Welt_ (Handbook of Forbidden Cults
+in the Old World)
+
+Written originally in Estalian, this book is first attested to in the time
+of Magnus the Pious.  At that time, a copy was captured from some
+malal-cultists in Estalia by allies of Magnus who were on their way to the
+city of Zaragoz for a diplomatic mission.  Infomation taken from this book
+greatly aided Magnus in rooting out the Chaos cultists from the Empire. 
+There are rumours that the followers of Malal deliberately let the book
+fall into the hands of Magnus; after all, though they feel that the blood
+of other Chaos gods' followers pleases their god, it doesn't follow that
+_they_ necessarily have to shed it!  That's dangerous!  This copy is
+carefully preserved in Altdorf, and copies of it have been placed in the
+restricted-access stacks of temple libraries all across the Known World.
+
+The book also exists in a Norscan translation, rather corrupted, and in
+Reikspiel and Kislevite. Any unknown editions, particularly those
+incorporating new information, would be of interest to any temple, order of
+Templars, or Witch-Hunters.
+
+The Estalian edition is handwritten, and runs to about two hundred pages. 
+It gives extremely objective descriptions of the activities of the
+worshippers of all the Proscribed Gods save Malal, as well as explanations
+of the theological differences and rivalries between, say, the Purple Hand
+and Writhers in Darkness cults of Tzeentch, or the Jade Sceptre and other
+Slaaneshi cults.  Any character reading this will gain 10% on his or her
+chance to spot Chaos cultists, and a critical success will not only give
+the reader the knowledge of the cultist's beliefs, but which particular
+cult he or she belongs to.
+
+As may be imagined, Templars and Witch-Hunters find this work utterly
+fascinating.  Chaos cultists, when they find that a copy is in the
+possession of anybody against whom they feel they have a chance, will sink
+their differences and rivalries to launch an all-out attack against its
+possessors.  The mere existence of this book is a threat to the existence
+of every harmless, necessary :}  Chaos cultist alive!
+
+The known copies of this book are all heavily guarded; PCs will normally
+NOT be allowed access!  After all, they COULD be cultists themselves, or
+dupes of cultists!  Chaos is cunning, m'lud!
+
+This book is one of Chaos' most insidious triumphs; merely by existing, it
+promotes Chaos by spreading it among the very foes of Chaos.

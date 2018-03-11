@@ -1,0 +1,65 @@
+From blanchard@nmsnp1.nmsu.eduSun Oct  8 09:32:57 1995
+Date: Sat, 7 Oct 1995 08:57:31 -0600
+From: blanchard@nmsnp1.nmsu.edu
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: Weaponmaster Career
+
+Weapon Master Career
+	The Weapon Master replaces the old WFRP Assassin career.
+The Weapon Master studies and teaches the martial arts.  They 
+excell in combat and strive constantly to improve their skills.
+The Weapon Master can be found throughout the old world teaching
+the arts of combat.  They are usually only specialized in one
+particuliar weapon or group of weapons.  
+Adv. Schem
+WS:+40 S:+2 W:+8 I:+30 A:+3 DEX:+10 LD:+20 CL:+20 WP:+30 
+Skills:
+	Ambidexterous,Disarm,Dodge Blow,Spec Weapons - Fencing 
+	Weapons,Spec Weapons - Flail,Spec Weapons - Parrying 
+	Weapons,Spec Weapons - Polearm,Spec Weapons - Two-Handed 
+	Weapon,Strike Mighty Blow,Strike to Injure,Strike to Stun
+	Weapon Mastery- 100 XP for lvl 1, 200 XP for lvl 2,
+			+10WS per lvl when using the weapon 
+			of mastery
+Trappings:
+	Mastered Weapon(s),Weaponry School
+Entries:
+	Duellist, Mercenary Captain(not sergeant),
+	Judicial Champion, Wardancer, Giant Slayer
+Exit:  same as Entries, Assassin, Protagonist
+Note:   Entry career must be completed before becoming a Weaponmaster.
+        Upon entering the Weaponmaster career the character
+	must choose a weapon of mastery.  This is a particuliar
+	weapon such as broadsword or mace, not a group such as 
+	hand weapons.  He must have a lvl 2 mastery of this 
+	weapon before studying another weapon.  Any weapons besides
+	the first weapon of mastery may only be mastered to lvl 1.
+
+Re-write
+Assassin:
+	Assassins are the scourge of the old world.  Many noble
+and merchant houses use them for political expediency.  Assassins
+rely on stealth to eliminate their targets.  They are experts at
+poisons and setting traps.  They are not great warriors (different
+from original WFRP) but kill their targets when they least expect
+it.
+Adv. Sch.
+WS:+20 BS:+20 S:+1 W:+2 I:+30 A:+1 DEX:+30 INT:+10 CL:+20 WP:+20 FEL:+20
+Skills:
+	Concealment Rural,Concealment Urban,Disguise,Flee!,Prepare
+	Poisons,Scale Sheer Surface,Shadowing,Silent Move - Rural,
+	Silent Move - Urban,Spec Weapon - Blowpipe,Spec Weapon 
+	- Fist Weapons,Spec Weapon - Throwing Knife
+Trappings:
+	Blowpipe,Disguise Kit,Garrote,Grappling hook and 10 yards rope
+	Hand Weapon,Vials of Poison,4 Throwing Knives
+Entries: Bounty Hunter, Duellist, Judicial Champion, Mercenary,
+	Targeteer, Spy, Thief
+Exits:	Mercenary, Outlaw Chief, Racketeer, Spy, Thief, Witch Hunter
+
+_______________________________________________________
+Sean (blanchard@nmsnp1.nmsu.edu)
+"Neglect of an effective birth control policy is a never-failing
+source of poverty which, in turn, is the parent of revolution
+and crime."			-Aristotle, "Politics" c.350BC

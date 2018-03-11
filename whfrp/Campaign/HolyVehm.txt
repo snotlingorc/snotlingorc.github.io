@@ -1,0 +1,185 @@
+From IrishSpy@aol.comMon Aug 14 08:22:18 1995
+Date: Mon, 23 Jan 1995 23:31:49 -0500
+From: IrishSpy@aol.com
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: wfrp@gojira.monsta.com
+Subject: WFRP & Secret Societies (long)
+
+Hi all,
+
+One of the mailing lists I receive is the Chaosium Digest, a semi-regular
+source of information and discussion regarding that company's games.  In the
+latest issue was an interesting article about a medieval German secret
+society and its use in the Nephilim game.  The article includes a reference
+to a book that details 39 secret societies. (One wonders just how secret they
+really were, though......:) )  Anyway, here's the portion of the article most
+relevant to WFRP players.  I've placed a hold on the book here at the UCLA
+library, and I'll give a review after I have a  look at it.
+
+*************BEGIN INCLUSION*****************************
+Subject: Secret Societies: The Holy Vehm
+
+Recently, I had the good fortune to discover, in the library of a
+friend's father, "Famous Secret Societies" by John Heron Lepper,
+author of "Problems of the Fama" and "The Testaments of Master
+Francois Villon" amongst others.  The book was published by Sampson
+Low, Marston & Co.  Ltd.  of London and regrettably gives no clue as to
+when it was published although it appears that it may have been
+sometime in the fifties.
+
+The book devotes 339 pages to the coverage of 39 "Famous Secret
+Societies", several of which are detailed briefly in the Nephilim
+gamebook.
+
+As time allows, I shall present summary details and assertions about
+these and others of the societies covered in this fascinating source.
+GMs may choose to use, adapt or reject these ideas in their own
+Nephilim campaigns.
+
+I would add that it is quite conceivable that the planned Secret
+Societies sourcebook for Nephilim may well clash with my own findings
+on several issues.  That's life, but at least GMs will have the luxury
+of choice.  Either that, or some of this may find its way into that
+supplement.
+
+My own observations are [bracketed].
+
+I start with one of my favourites, the Holy Vehm:
+
+THE VEHMGERICHT
+
+History
+
+In the middle of the thirteenth century, the Emperor lacked the
+ability to effectively control Westphalia.  The area was at the mercy
+of robber barons, thieves and bandits.  The Vehmgericht was the name
+given to the organisation that came into being amongst the harried
+masses in order to protect themselves against the lawless.  Some of
+its supporters claim that the organisation was originally founded by
+Charlemagne in the eight century.  [Perhaps the tribunals were a
+reincarnation of a more ancient body and named after such]
+
+Name
+
+Fehm or Vehm probably derives from Fama as the law founded on common
+fame.  However, Fehm also meant something set apart [Ideal link to the
+Nephilim: The Court of the Outsiders?].  The first written account of
+the Vehm is in a Latin document from 1251 which, in dealing with the
+town of Brilon mentions the 'secret court vulgarly called Vehm or
+Freiding.'
+
+Organisation
+
+Tribunals were normally held in the morning in the open at well known
+locations [hence cross-roads].  In Nordkirchen, they were held in the
+churchyard, whilst in Dortmund, they took place in the Marktplatz.
+
+The courts had many names: Fehmding, Assembly of the Vehm; Freistuhl,
+Free Chair; Heimliches Gericht, Secret Court; Heimliches Acht, Secret
+Tribunal; Heimliches Beschlossenes Acht, Secret Closed Court and
+Verbotene Acht, Forbidden Tribunal.
+
+All free men might serve in the court and took an oath upon joining.
+These adherents, known as Die Wissenden, or Knowing, Ones were said to
+have numbered at least 100,000 and were organised into several ranks.
+At the bottom of the heap were the Frohnboten, the officers of the
+tribunal.  Above the were placed the deputy judges, or Freischoeffen.
+These two groups were said to act as jurors, constables, inquisitors,
+detectives and executioners.  The top men were the judges, Die
+Stuhlherren, of whom there were very few.
+
+The oath taken by Die Wissenden has been translated as follows:
+
+       "I swear by my sacred honour that I will hold and conceal the 
+		secrets of the Holy Vehm,
+	From sun and from moon, 
+	From man and from woman,
+	From wife and from child,
+	From village and from field,
+	From grass and from beast,
+	From great and from small,
+	Except from the man
+	Who the Holy Vehm serve can,
+	And that I'll leave nothing undone
+	For love of for fear,
+	For garment or gift,
+	For silver or gold,
+	Nor for any wife's scold."
+		
+The Vehmgericht purportedly had its own secret written code, the
+preserved writings of which often refer to the initials SSSGG.  The
+initials are thought to refer to Stock, Stein, Strick, Gras, Grein
+(Stick, Stone, Halter, Grass, Quarrel) [The tools of the HV?].  A
+secret means of recognition was that, when sitting at a meal table,
+members of the HV would turn their knives through 180 degrees so that
+the point was directed towards themselves.
+
+Some tribunals were open to the public, those at Nordkirchen and
+Dortmund presumably being obvious examples and such were know as
+Offenbare Dinge.  Heimliches Acht, however, were for Die Wissenden
+only and intruders, if caught, were hanged on the spot.  Hanging, in
+fact, was the only sentence that the Vehmgericht passed, this being
+from the nearest tree.  [This explains the rulebook stating that
+killings took place at cross-roads and the bodies hung from a tree].
+
+Probably the powers and focus of the Vehmgericht changed and shifted
+over many years and there is no clear idea as to quite what crimes
+they sought to punish, although the fact that they only administered
+hangings gives us some clue as to the severity of the crimes they
+sought the perpetrators of.  It has variously been claimed that they
+sought out those who had broken one of the biblical Ten Commandments
+and that children, women, Jews, heathens and the higher nobility were
+exempted.  There is no definitive answer [interpretation of the Vehmic
+law is at the discretion of the Stuhlherr?].
+
+Procedure
+
+A Freischoeffe would make an accusation in one of the courts and a
+summons would be issued.  Three such summonses would be issued, each
+45 days apart, giving the accused ample opportunity to make a defence.
+If the accused was not one of Die Wissenden then they would be
+summoned to appear before an Offenbare Dinge, otherwise it would be a
+secret court.  Quite simply, an oath breaker was by definition a
+traitor and evidence of such could only rightly be present before
+those who were also initiates.  If the accuser could present seven
+witnesses to swear to his own good reputation and the accused did not
+appear before the court then he would be condemned in absentia.  The
+upshot of this is that the accused became an outlaw and any three
+supporters of the Vehm were within their rights to hang him.  The
+accusing Freischoeffe was given a sealed document that they could show
+when claiming assistance from other members of the Vehmgericht.
+Anyone who aided or abetted the condemned in evading the Vehm was
+liable to an instant hanging.
+
+Should the accused decide to answer a summons, they were to produce
+thirty witnesses to attest to their good character whilst the accuser
+had the right to do likewise.  Each was able to have his lawyer
+represent him.  If convicted, the condemned had the right of appeal
+from a Heimliches Acht held in Dortmund.
+
+During a trial, a sword and a halter lay on a table in front of the
+judge symbolising the judge's powers of administering justice and the
+penalty entailed by transgression.  When a convicted man had been
+hung, a knife was stuck into the tree from which he hung to
+demonstrate by whose authority he had been convicted [Hence the
+cruciform dagger].
+	
+Points of interest
+
+In 1371, Emperor Karl IV recognised the legitimacy of the Vehm in
+Westphalia and the punishment of evil persons was handed over to them.
+
+In 1470, three Stuhlherren summoned the Emperor Frederick III and his
+Chancellor.  Funnily enough they didn't show.
+
+The last free court in Munster was abolished in 1811 by order of the
+French invaders [we can assume for game purposes that the organisation
+went underground at this time].
+***************************END*******************************
+
+see ya!
+--Anthony
+  Snotling in Chief 
+  Not a Net Punk 
+  1/23/95 8:12:35 PM
+

@@ -1,0 +1,113 @@
+From: "Mr. Whippy" <SC3NG@app_science.rgu.ac.uk>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: Templars! &experience
+
+New stuff (a little help from Rev. Lepper - cheers)
+
+ Modified Templars
+ -----------------
+ 
+ I have found the advance scheme for Templars to be a little 
+ innapropriate, after all the assumption is that Tempalrs in the rules
+ are all of a similar type.  This is a little hard to swallow, 
+ therefore I have taken the Templar profile and modified it for the three 
+ most appropriate cults - Myrmidia, Sigmar and Ulric.
+
+ I felt that the cults of  Manann, Morr, Taal and Verena had 
+ little need for a Templar that was different from the profile in the 
+ rules (This is basically that Templars are a Cult's sword 
+ whereas the Clerics are it's shield)
+   (NB:  As Rev L. said: 'I think a templar of Verena would be more like 
+   an Inquisitor/Bailiff type)  This I wholeheartedly agree with...
+ Furthermore, the following Cults I considered it nearly ludicrous 
+ that they would have Templars (NOT IMPOSSIBLE) but merely 
+ innapropriate - Hadrich, Shallya and Ranald.
+
+ MYRMIDIAN TEMPLARS
+ 
+ Myrmidia, as the rules indicate is perhaps the "thinking warrior's" 
+ Goddess.  To this end I considered that tactics and less bravado would
+  be important.
+ 
+ Thus the advance scheme for a Myrmidian Templar would be as follows:
+ 
+ M   Ws   Bs   S     T  W    I    A  Dex   Ld  Int    Cl    Wp   Fel
+   -  +30  +30  +1 +2 +6 +30 +2 +20  +30  +30  +20  +20  +20
+                    --              ++   ++
+ 
+ Skills: Disarm, Dodge, Read/Write, Ride, S.Language-Battle.T, 
+ S.Signs-Templar, StrikeMB, StrikeTS, Specialist Weapon-Lance,
+ Tactics(new skill!).
+
+ SIGMARITE TEMPLARS
+ 
+ Sigmar, the Patron of the Empire, as the tales tell was once a simple 
+ warrior who grew to become the unifier of the tribes, the profile and
+  skills of a Sigmarite Templar reflect this.
+ 
+ M Ws   Bs    S    T  W      I  A  Dex   Ld   Int     Cl    Wp   Fel
+ -   +30  +30  +1 +2 +8 +30 +2 +20  +30  +20  +30  +20  +20
+                                    ++        ++
+ 
+ Skills: Disarm, Dodge, Heraldry, Read/Write, Ride, 
+ S.Language-Battle.T, S.Signs-Templar, StrikeMB, StrikeTS.
+
+(Rev.L commented: '  Maybe Specialist Weapon Two Handed, so
+ they can carry War  hammers? )  This would seem anecessity but 
+remember folks, 1-handed warhammers do exist and presumably act just 
+like a ' normal' hand weapon does( cf. sigmarite special ability in 
+TEW)
+
+ ULRICAN TEMPLARS
+ 
+ Ulric, the God of Wolves, Winter and Battle...  It is in this respect 
+ that His templars model themselves.  Physical prowess and to be the
+ first to strike is what counts!
+
+ M   Ws   Bs   S    T    W   I      A  Dex   Ld  Int   Cl   Wp  Fel
+    -  +40  +20  +2 +2 +8  +30 +2 +20  +20  +20  +30  +20  +20
+     ++   --  ++                              ++
+ 
+ Skills: Charm animal:wolf, Disarm, Dodge, Ride, S.Language-Battle.T, 
+ S.Signs-Templar, StrikeMB, StrikeTI, StrikeTS. 
+
+(if you note Read/Write had been dropped in favour of Charm animal, 
+after all, an Ulrican warrior has less need of the written word - 
+reading does not bring glory (oooh, very Klingon <g>  )
+
+ [In all cases I've tried to keep the number of advances and extra 
+ skills balanced]
+
+TACTICS - New Skill.
+ 
+ In difficult situations, where cannon smoke and the sound of clashing 
+ swords fill the air - it is not always possible to tell what is occuring in
+ all parts of the battlefield at once.  Characters (or NPCs) with Tactics
+ have an almost uncanny feel for the situation - whether a border skirmish
+ or an outright pitched battle.  With an Int test a PC can gauge the
+  situation and attempt to remedy the fight.  (this in effect acts a little
+  like Divining but is less  cryptic,(though, considerably more 
+ specialised in so far as information comes unbidden to the PC)
+
+A roll on the situation should be modified by the following chart...
+
+ +20 Battle is in PC's 'home' territory.
+ +10 PC is in a place of Vantage (rooftop or similar).
+ -10 Battle is in unfamilair surroundings.
+ -10 PC in on the periphery of the fighting and can see only part of 
+ the fight.
+ -20 Battle is at night.
+ -20 Battle is in woods or dense shrub - view of battle restricted.
+ -20 PC is in the thick of the fighting and can barely move from the 
+ front.
+
+ As can be seen the skill is not really designed for the average fight 
+ but in cases of Ambush a successeful result can give a round or two
+ of 'free actions' ie getting into cover, sallying forth etc.
+Furthermore the results could be cumulative (in so far as to make the 
+roll difficult but not impossible)  Perhaps a minimum roll of 5% 
+could be kept and perhaps +5% for each warrior career the PC has 
+done.  I dunno - modify at your whim.
+
+
+

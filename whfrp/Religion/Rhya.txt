@@ -1,0 +1,128 @@
+Rhya - Goddess of Nature, Fertility, Childbirth, and Family
+
+Description:
+Rhya is the wife of Taal, mother of Manann and Verena.  Those
+who worship her view Rhya as the goddess of nature, fertility, childbirth and
+the family.  Others, outside the cult, view Rhya as either a lesser aspect of
+the Mother-Goddess or a deity who is much diminished so that her worship is
+incorporated with and overshadowed by Taal.  Depicted as a loving mother
+(and, at times, a pregnant one), Rhya represents the fertility and bounty of
+the earth and mothers everywhere.
+
+To scholars of theological studies, Rhya represents a deity in decline.
+As such, her exact role in the scheme of divine matters is the subject of
+much debate.  Is she a deity in her own right?  Or, a lesser aspect of the
+Mother dealing with the bearing of children and sowing a crop in the fertile
+earth?  Maybe, she is only the wife of Taal and therefore should be
+incorporated into his worship.  Naturally, the cult is inclined to frown upon
+those diminishing their deity.
+
+Alignment:
+Neutral.
+
+Symbol:
+Rhya's symbols are an acorn, a sheath of wheat, a babe in a mother's
+arms, or a hearth.  Her Initiates and Clerics wear simple, green woolen robes
+with one or more of these symbols sewn into the hems, carved into their
+staffs, or on the straps of their satchels containing healing herbs.
+
+Area of Worship:
+Rhya is chiefly worshipped in the small farming villages
+that are located on the outskirts of cities and large towns throughout the
+Old World (to those involved with animal husbandry, Rhya is known as Dyrath,
+the Fertility Goddess).  Also popular with pregnant women and young mothers.
+
+Temples:
+The cult is widespread with individual temples (few as they are)
+and shrines autonomous in all matters.  Only during the summer solstice
+(Sonnstill) do a number of priest gather in a place chosen by Rhya.  There is
+no seat for the cult as most of the priests are itinerants, traveling from
+village to village, shrine to shrine.  Most farming villages are unable to
+support a temple dedicated to Rhya.  Instead, a small, simple shrine is
+usually built and maintained between the village and the fields.  In homes,
+especially isolated homesteads, the hearth would be set aside to honor Rhya.
+
+Cairns are also built in the fields so that Rhya may bless their labor.
+
+Friends and Enemies:
+The cult of Rhya is friendly with most major religions
+of the Old World, especiallt those of Taal, Manaan, and the Old Faith.  The
+cult also has reciprocal respect towards the Elder Races (Dwarven, Halfling,
+and Elven) cults.  Additionally, they are tolerant but critical of Ranald
+cult.
+
+Holy Days:
+Rhya's main festive days are the Spring and Autumn Equinoxes as
+they are associated with the planting and harvesting of crops.  Minor days
+include 2 Jahrdrung (Day of Pruning), 9 Sommerzeit (Harvest of Spring
+Fruits), and family birthdays.
+
+Cult Requirements:
+There are no explicit requirements for acceptance into
+the cult; the cult is theoretically open to all petitioners, including the
+Elder Races (especially Halflings).
+
+Strictures:
+Followers of Rhya must abide by the following strictures:
+
+-Reverence for the bounty of the earth, the miracle of life, and the honor
+of motherhood.
+-Respect and honor for family and kin.
+-Defend family and the bounty of the earth from any who would destroy,
+defile, and corrupt them.
+-Aid any kin less fortunate, especially the elderly.
+
+Spell Use:
+Clerics of Rhya may use all Petty Magic, Battle Magic, and
+Elemental Magic spells which are protective or defensive in nature (e.g.,
+Aura of Resistance, Protection from Rain).  They are prohibited from using
+any offensive or harm causing spells.
+In addition, the following spells may be used by Clerics of Rhya:
+
+Ease Pain
+Spell Level: Petty
+Magic Points: 2
+Range: Touch
+Duration: Instantaneous
+Ingredients: Soft cloth or feather
+This spell allows the caster the ability to ease the pain experienced by
+an individual.  Usually it's used to ease the pain of childbirth and other
+minor injuries which does not normally result in a loss of Wounds.  However,
+this spell can be used to lessen the effects of any first level spells which
+cause injury (such as fireball).  If cast on the victim within 10 rounds of
+injury, the wounds inflicted are reduced by 1, even if the character is
+seriously wounded.
+
+Ward Vegetation
+Spell Level: 2
+Magic Points: 5 per 125 Cubic Yards
+Range: Touch
+Duration: 1d3 days
+Ingredients: None
+The cleric is granted the power to protect a large area of vegetation (and
+the soil within which they are rooted) from blight and other infestations.
+In addition, this spell can slow any seepage of contamination from Chaos
+substances such as Warpstone and Warpdust.
+
+The volume to be warded must be marked off by holy symbols inscribed onto
+the barks of trees and stems of smaller plants.  Once invoked, the inscribed
+symbols disappear from normal view and can only be perceived by those with
+the Magical Sense skill.
+
+Skills:
+In addition to skills normally available to them, Clerics of Rhya
+may choose one extra skill at each level, from the following list: Animal
+Care, Cure Disease, Heal Wounds, Herb Lore, Identify Plant, Immunity to
+Disease, and Manufacture Drugs (herbal base only).  As always, skills gained
+must be paid for with Experience Points.
+
+Trials:
+Trials set by Rhya typically involve delivering produce to blight
+ravaged areas and successfully working those fields to recover its fertility
+or protecting isolated homesteads in bandit (or other foul being) infested
+areas.
+
+Blessings:
+Skills favored by Rhya include all curative skills (such as Cure
+Disease, Heal Wounds, or Herb Lore) and some medicinal (Manufacture Drugs
+with herbal bases).

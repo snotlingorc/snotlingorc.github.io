@@ -1,0 +1,170 @@
+  New Rules For Wounds And Combat To WFRP
+Made By Kenneth Madsen & Carsten Schwartz (c) 1992.
+
+As to make combat and damage in such, and perhaps invoke greater respect
+for the effects that are present, when one engage in melee, I have put
+together some new optional rules.
+
+The "Wound Pool" on the Character Sheet, has to be distributed to the
+various parts of the body, i.e. head, legs, etc. The effects of combat
+will become more detailed and will, perhaps, allow greater damage to be
+done to one or more body parts, so that the adventurer could still be
+alive, at least if medical, or magical , treatment is available.
+
+The distibution of Wounds to the various locations will take place by
+calculating it in percent. It will be as follows:
+
+Head   Arms    Body   Legs
+75%  100% each 150% 110% each 
+
+Each player will, of course, have to make five boxes, a humanoid
+shilouette or whatever, in order to keep the score up.
+
+Shock Damage: A Character who takes a great deal of damage all at once,
+runs the risk of being knocked out, or (in a very unheroic manner) faint.
+
+If a Character takes half his current Wound score or more in a single blow,
+he will have to take a Toughness test in order to remain conscious. If the
+test is not successful he will become unconscious and then the Monster will
+very probably tear him apart. The test has to be repeated every time a
+character is hit for half, or more, of his current Woundscore.
+
+Healing Time: With the distribution of Wounds on the different locations,
+it is only natural that the healing time changes along. For example, if a
+Wizard or a Cleric cast Cure Light Wounds on a wounded character, he is
+only healed in one location, and not in all the damaged locations. I feel
+that this makes things a little more interesting, especially if a character
+is severely wounded and there is no one who is capable of casting the
+appropriate spell, giving the required medical treatment or giving a
+Healing Potion. How will the character be saved? How far is it to the
+nearest Physician, and will the wounds become infected and thereby
+requiring an amputation?
+
+As characters sleep, they still receive a Wound, although this is on every
+location. The same goes for Healing Potions, being an extremely potent
+magical brew, it will heal a character 2D6 Wounds up on every location and
+the GameMaster should therefore be very carefull with his distribution of 
+such potions. A physician also attends one location at a time, but if it
+is prolonged treatment, the character will still be healed for 7 + T Wounds
+points. For this to work, the character has to rest completely and any sort
+of physical efforts, could very possible destroy the bodys healing work.
+
+Optional Rule: As an optional rule, the GM can rule that the character
+also looses attacks whenever Shock damage occurs. As a basic rule, it can
+be said that the character, who makes a successful T test, will loose the
+half of his attacks in that round. If the character makes a T test, and
+succeeds with 20+, he will only loose 1 attack. But if it the other way
+around and the character only makes a marginal save, he will loose +1
+Attack. This can continue indefinately and the character will be able
+to loose Attacks for the folllowing rounds.
+
+We believe that the optional rule illustrates what happens when one recieve
+such a chrushing blow. You begin to stagger, the fighting abilities decreases
+in effectiveness and so on. Also if one has been damaged in one body part
+for half of its total Wound score, or more, he will also receive penalties
+to certain actions. Penalties that any GM will be able to determine in each
+case.
+
+
+Wound Score
+Head Arms Body Legs
+01   01   01   02   01
+02   01   02   03   02
+03   02   03   05   03
+04   03   04   06   04
+05   04   05   08   05
+06   04   06   09   07
+07   05   07   11   08
+08   06   08   12   09
+09   07   09   14   10
+10   07   10   15   11
+11   08   11   17   12
+12   09   12   18   13
+13   10   13   20   14
+14   10   14   21   15
+15   11   15   23   16
+16   12   16   24   18
+17   13   17   26   19
+18   13   18   27   20
+19   14   19   29   21
+20   15   20   30   22
+21   16   21   32   23
+22   16   22   33   24
+23   17   23   35   25
+24   18   24   36   26
+25   19   25   38   27
+26   19   26   39   29
+27   20   27   41   30
+28   21   28   42   31
+29   22   29   44   32
+30   22   30   45   33
+31   23   31   47   34
+32   24   32   48   35
+33   25   33   50   36
+34   25   34   51   37
+35   26   35   53   38
+36   27   36   54   40
+37   28   37   56   41
+38   28   38   57   42
+39   29   39   59   43
+40   30   40   60   44
+41   31   41   62   45
+42   31   42   63   46
+43   32   43   65   47
+44   33   44   66   48
+45   34   45   68   50
+46   34   46   69   51
+47   35   47   71   52
+48   36   48   72   53
+49   37   49   74   54
+50   37   50   75   55
+51   38   51   77   56
+52   39   52   78   57
+53   40   53   80   58
+54   40   54   81   59
+55   41   55   83   61
+56   42   56   84   63
+57   43   57   86   63
+58   43   58   87   64
+59   44   59   89   65
+60   45   60   90   66
+61   46   61   92   67
+62   47   62   93   68
+63   47   63   95   69
+64   48   64   96   70
+65   49   65   98   72
+66   50   66   99   73
+67   50   67  101   74
+68   51   68  102   75
+69   52   69  104   76
+70   53   70  105   77
+71   53   71  107   78
+72   54   72  108   79
+73   55   73  110   80
+74   56   74  111   81
+75   56   75  113   83
+76   57   76  114   84
+77   58   77  116   85
+78   59   78  117   86
+79   59   79  119   87
+80   60   80  120   88
+81   61   81  122   89
+82   62   82  123   90
+83   62   83  125   91
+84   63   84  126   92
+85   64   85  128   94
+86   65   86  129   95
+87   65   87  131   96
+88   66   88  132   97
+89   67   89  134   98
+90   68   90  135   99
+91   68   91  137  100
+92   69   92  138  101
+93   70   93  140  102
+94   71   94  141  103
+95   71   95  143  105
+96   72   96  144  106
+97   73   97  146  107
+98   74   98  147  108
+99   74   99  149  109
+100  75  100  150  110

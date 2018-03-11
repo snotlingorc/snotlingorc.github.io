@@ -1,0 +1,38 @@
+M:0
+WS:20
+BS:0
+S:0
+T:1
+W:2
+I:10
+A:0
+Dex:10
+Ld:0
+Int:0
+Cl:10
+WP:0
+Fel:0
+Skills:10
+Disarm
+Dodge Blow
+Specialist Weapon - Fist Weapons
+Specialist Weapon - Flail Weapons
+Specialist Weapon - Parrying Weapons
+Specialist Weapon - Two-handed Weapons
+Strike Mighty Blow
+Strike to Injure
+50%Very Resilient
+50%Very Strong
+Trappings:5
+Shield
+Mail Shirt
+Knuckledusters
+flail
+20%Two-handed weapon
+Exits:6
+Bounty Hunter
+Footpad
+Giant-Slayer (Dwarfs only)
+Judicial Champion
+Outlaw Chief
+Tunnel Fighter

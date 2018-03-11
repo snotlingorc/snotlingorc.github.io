@@ -1,0 +1,121 @@
+Re:    WFB to WFRP... Night Goblin Fanatic 
+From:  Aldred the GM 
+
+Night Goblin Fanatic
+	
+	Night Goblin Fanatics as a player character?  Maybe, maybe not...but as a baddie,  these green 
+skinned maniacs can give even the most hardened adventurer bladder control problems.  Besides, they kick 
+so much tail in WFB, that it seemed only fair to give ‘em a whack at role playing...
+
+	Goblin Fanatics are drug crazed loonies:  nearly impervious to pain, super strong (as Goblins go), 
+and almost completely without fear.  They love to fight, maim, crush, destroy, kill, etc. almost to the 
+exclusion of all else.  Goblin Fanatics don’t need a reason...just an opportunity.
+	Fanatics wear long ankle length, dirty, black cloaks, and carry a monstrous ball and chain, which 
+drags behind them and slows their normal progress down to almost nil...(character Fanatics will have a 
+normal  M of 1or 2).  In fact, it is so heavy and cumbersome, that characters with S less than 5 cannot even 
+lift it, (a S of 7 would be required for a sane, sober player to swing it menacingly).  Fanatics can use these 
+weapons of mass destruction only because of the fungus beer that they constantly imbibe...(a concoction 
+made from the fermentation of a mushroom appropriately named Mad Cap.)  If a non-Goblin were to ingest 
+Fungus Brew, they need to make an immediate WP test or suffer the effects of the drug most lethal to their 
+species...(Night Goblins use 11 other toxins in the recipe).
+
+If you are crazy enough to let someone get a hold of one of these nuts....here’s some ideas...
+
+Fate Points        d3
+
+Age                     (irrelevant...they can’t possibly care!)
+
+Skills                   d4 (Use the Warrior chart.)
+
+Speak                  Ghazhakh, and 20% chance of broken Old Worlder or other suitable tongue
+
+Night Vision       10 yards (less whilst under the influence of Fungus Brew)
+
+Alignment           Evil (or whatever suits your campaign)
+
+Psychology          immune to all psychology  (start them with d10 afflictions)
+
+
+ Night Goblin Fanatic - Basic Stats
+M        d2*                                         A            d6*
+WS      2d10+15*                                     DEX         2d10+10
+BS      2d10+10                                      LD          2d10+10
+S         5                                          INT         2d10+10
+T        d3+1                                        CL            89*
+W        d3+4                                        WP          2d10+10
+I       2d10+10*                                     FEL         2d10+10
+
+Skills:  Frenzied Attack, Brew (Fungus Beer), 10% chance of Luck , 25% chance Lightning Reflexes 
+Trappings: Barrel of Fungus Brew, Ball and Chain, dagger, dirty, black robes
+
+ Night Goblin Fanatic - lvl 1                                                             Advance Scheme
+M      WS      BS      S      T      W      I      A      DEX      LD      INT      CL      WP      FEL
+-      -       -      +1    +1      +2    +10            +10       -        -       -      +10       -
+  
+Skills: Blather, Mimic, Disguise (usually as a really ugly hunchback halfling)
+Trappings: None  
+
+ Night Goblin Fanatic - lvl 2                                                            Advance Scheme
+M      WS      BS      S      T      W      I      A      DEX      LD      INT      CL      WP      FEL
+-     +10             +1     +2     +3    +20     +1      +20                               +20
+
+Skills: Disguise, Begging, Immunity to Poison
+Trappings: None
+ 
+ Night Goblin Fanatic - lvl 3                                                            Advance Scheme
+M      WS      BS      S      T      W      I      A      DEX      LD      INT      CL      WP      FEL
+-     +10             +2     +3     +4    +30     +2      +30                               +30
+
+Skills: Identify Fungus, Prepare Poisons
+Trappings: None
+
+SPECIAL RULES:   ( * )
+
+Movement - The Night Goblin Fanatic only moves 1 or 2 when not using the Ball and Chain in combat.  
+(This is due to the Ball and Chain’s immense weight)  When in combat, and using the Ball and Chain, the 
+Goblin rolls 2d6 at the beginning of the round and that sum is his M score for the duration of that combat 
+round...He must move the entire distance in a straight line in the direction of his choice.  During the 
+subsequent rounds of combat (after the first), the Goblin Fanatic rolls 2d6, and again moves that far.  Now 
+however, he is disoriented from the spinning of the Ball and Chain and his own drug induced euphoria, and 
+must make a successful DEX test to hurtle himself in the direction of his choice.  A failed test means that 
+the Fanatic spins out of control and heads in a totally random direction. (YIKES!)  Any character within M 
+range and along the path of the Fanatic is considered hit.  No WS test need be made when whirling the Ball 
+and Chain...Dodge Blow tests can still be made however...whew! 
+
+Combat and Damage - Fanatics can not be engaged in melee combat.  This is because the Ball and Chain 
+creates a sphere of death around the Fanatic, thus protecting him from all attacks except missle attacks.  
+(and of course magic.)  The only way to kill one then is to either shoot him, zap him, or wait until he 
+collapses from exhaustion and then hack him to bits.  The incredible A score of the Fanatic is only when he 
+is using the Ball and Chain...when using any other weapon, the Fanatic has only 1plus any gained by 
+advancement .  Further, this A score is how many potential combatants the Fanatic may encounter along his 
+wild flight path, and it changes from round to round, just like his M.  Each opponent he passes only takes 
+one A, and any attacks not used are simply lost.
+	The Ball and Chain does  S + 3d6 damage to each opponent per hit...and heavily armored 
+characters are just as vulnerable as everyone else...armor does not stop any damage inflicted by the Ball and 
+Chain...scary huh?  Each d6 worth of damage is assigned to a random hit location ( the S is added to the 
+first location only).
+
+More on Movement... If after the first movement roll, the 2d6 comes up doubles (i.e. 4 and 4, or 3 and 3), 
+the Fanatic has met with an unfortunate accident.  This means that the Goblin has either wrapped the chain 
+of his Ball and Chain around his neck or his heart gives out, or blood vessels in his brain explode under the 
+strain of hefting his monstrous weapon, etc. To reflect this the Fanatic takes  a full strength hit from his Ball 
+and Chain....as follows - 
+		the Fanatic take his S score in wounds to the body or head (50% chance either)
+                               each d6 of weapon damage is done to a random hit location
+Nothing worse than having a stroke in the middle of battling a troll slayer...
+ 
+Obstacles and Night Goblin Fanatics - If a Fanatic whirls out of control and hits a tree or a building, or 
+gods forbid another Fanatic, then he would take damage as though he rolled doubles for movement...
+
+
+	I wouldn’t recommend throwing these fellas into the fray too often...they are pure killing 
+machines...I’ve found that they work really well when PC’s are muttering “Oh...its just some Goblins. No 
+big deal!”  
+	Nigh Goblin Fanatics are also beautiful baddies to use on that particularly pesky Troll Slayer who 
+refuses to believe he has outlived his usefulness in your campaign (despite your best attempts to prove 
+otherwise), or the player who you discover wanted to be an Elf because of the big numbers involved and 
+not his love of woodland creatures...
+					Happy Hunting,
+				                 Aldred  the GM
+
+

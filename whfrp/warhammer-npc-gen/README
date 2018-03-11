@@ -1,0 +1,17 @@
+need to install 
+
+add the following to includes/javascript.php
+
+  echo "<script>";
+  echo "// (C) 2000 www.CodeLifter.com";
+  echo "// http://www.codelifter.com";
+  echo "// Free for all users, but leave in this  header";
+  echo "function printWindow(){";
+     echo "bV = parseInt(navigator.appVersion)";
+     echo "if (bV >= 4) window.print()";
+  echo "}";
+  echo "</script>";
+
+
+Change the $base_dir in generate.php to
+the disk location of the files.

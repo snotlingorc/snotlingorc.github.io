@@ -1,0 +1,156 @@
+From: Patrick van den Berg <s9408053@rullf2.MedFac.LeidenUniv.nl>
+Subject: [WFRP:1518] List of Dutch names (finally!)
+
+Netherlands (i.e Friesland and Zeeland). This text is divided into a 
+caption about first names, and one about last names.
+
+FIRST NAMES (MALES):
+
+The very short names are for "simple people". The longer ones are for 
+more important personnae. The very wealthy often had french first 
+names, and intellectual people had often Classical names like 
+Eustachius, Hortensius, Laurentius or other greek or latin names 
+ending on -ius or -eus.
+
+Adriaan, Alex(ander), Alfons, Andre(as), Andries, Anton(ius), Arnold, 
+Arnout, Arthur, Bart(holomeus), Ben(edictus), Bart, Bert(old), 
+Bonifatius, Boudewijn, Bram, Cees, Claes, Christiaan, Cornelis, 
+Crispijn, Dagobert, David, Diederick, Dick (We've also got Cock as a 
+first name,  AND as a last name;  imagine an NPC called Dick  Cock...), 
+Dobbe, Douwe, Egbert, Egmond, Engelbert, Erasmus, Erik, Ernst, Erwin, 
+Ferdinand, Frederik, Guido, Gustaaf, Gijsbert, Hendrick, Herman, 
+Hildebrand, Hugo, Huybrecht, Jaap, Jacob(us), Jan, Jelle, Jochem, 
+Jodocus, Johannes, Jolle, Jozef, Julius, Justus, Karel, Koen(raad), 
+Koos, Krijn, Leo, Lodewijck, Marc(ell)us, Marinus, Martin(us), 
+Matthias, Nicolaas, Norbert, Oldrik, Paul(us), Pepijn, Peter, Pim, 
+Radboud, Reier, Reinbert, Reinaut, Reinier, Rembrand, Rien, Rik(kert), 
+Robert, Roderick, Roel(and), Rolf, Rombout, Ronald, Ruben, (Ru)dolf, 
+Rhijnvis, Sam(uel),  Sander, Seth, Si(e)mon, Sjef, Stefan(us), Stijn,
+Rudolf, Theo(dorus), Tom(as), Tim(otheus), Titus, Tobias, Valentijn, 
+Vincent, Walewijn, Walter, Watze, Webbe, Wessel, Wilbert(us), Wilfred, 
+Willem (Wim for short), Willibrord, IJsbert, IJsbrand, Zacharias.
+
+
+FIRST NAMES (FEMALES):
+
+Ada, Agnes, Anna, Anneloes, Annemarie, Astrid, Beatrijs, Belinda, 
+Berta, Birgitte, Bregje, Catharina, Cora, Corine, Clara, Cornelia, 
+Debora, Diede, Eefje, Eleonora, Elisabeth, Ellen, Emma, Erica, Eveline,
+Femke, Geertruida, Helena, Helga, Ingrid, Jolanda, Juliana, Karen, 
+Karin, Kim, Leontine, Liesbeth, Linda, Lise, Loretta, Lydia, Maartje, 
+Margareta, Maria, Marianne, Marjolein(e), Martha, Mathilde, Miranda, 
+Mirjam, Monica, Nadia, Nadine, Nora, Olda, Olga, Pom, Rauke, Regina, 
+Ritske, Roos(je), Rosemarie, Rosa, Saar(tje), Sara, Saskia, Sien(tje), 
+Silvia, Suzan(ne), Tatjana, Tessa, Tina, Titia, Truus(je), Vera, 
+Wand(elin)a, Wendela, Wilma.
+
+
+LASTNAMES:
+
+Aaftink, Aalders, van Aalst, Aarden, Abrahamse, Adams, van Adrichem, 
+van der/den Akker, Akkerman, Alberts, Alblas, van Aldegonde, Aleman, 
+van Alphen, Altena, Andriessen, van Aperen, Arends, Arkenbout, 
+Assenberg, Atema, Baaima, Baas, Baatenburg, Baauw, Bakker, Baksteen 
+(=brick), Bakvis, van Balen, van Ballegooijen, Barendregt, Barends, 
+van Barneveld, Bartels, Batenburg, van Beek, Beek(man/huijsen), 
+Beenhakker, Beets, Bekkers, van de(r) Bent, van de(n/r) Berg, Bergen, 
+van Berkel, Berkhout, Beukelman, Bezemer, Blaak, Blaauw, Blo(e)m, de(n)
+Boer, den Bo(o)gaard, van Bommel, van den Boogert, Boone, Borsboom, 
+Bos(ch) ("van de" can be added), Bosman, Bot, Bouman, Bovenderg, den 
+Braasem, van Brandwijk, Bravenboer, Breedveld, Breeman, den Breems, 
+Brobbel, Broek (van den/der), Brouwer, Bruggeman, de Bruijn, Buis(man),
+Buitelaar, Bunschoten, van den Burg(h), van Buuren, Buijnink, Bijkerk, 
+Bijl, Clements, Coenen, Coster, Crans, Croes, van Daalen, van Dam, den 
+Dekker, Denkers, Derksen, Dikken, Doelman, Does, van Dongen, van Dorp, 
+van Driel, Driessen, van de Drift, Drop(pert), Dubbelman, Duijvestijn, 
+van Dijk, Dijkshoorn, Edelbroek, Elderen, Emmerig, van de Ende, van den
+Engel, Engelberts, Eijgenraam, van Eijk, van Eijmeren, Faassen, 
+Feringa, Foet, Fokkes, Fransen, van de(r) Gaag, van Geest, Gelderblom, 
+van Gelderen, Gerritse, de Gier, van de(r) Giessen, Goedbloed, de 
+Goede, Goedendorp, van Goor, Goudswaard, Gouma, de Graaf, Graveland, 
+van Grevenhof, de Groen, Groenewegen, Groenheide, de Groot, 
+Grottendieck, Haak, Haaring, Haas, van Haagen, Hakkeling, Hanemaaijer, 
+'t Hart, van Hees, van der Heijden, van Hemert, den Hertog, Heijblom, 
+den Heijer, den Hoek, van de Hoeven, Hofman, Holster, van Holte, de 
+Hooge, Hoogendijk, Hoogerbrugge, Hoonhoud, Hoornweg, Hoppener, van 
+Houten, Houtenbos, Huibers, Huisman, Jacobs, Jansen, de Jong(e), 
+Jordaan, Kalkman, van de Kalk, van de Kamp, Kapteijn, Kateman, Keijzer, 
+van Kempen, van Kester, Ketelaar, Klaasse, Klapwijk, Kleijwegt, Klooster, 
+Knuppel, Koenen, Kok, de Koning, van de Kooij, Koppelaar, Korpel, 
+Korpershoek, Krabbenbos, Kramer, Kroes, Kruijf, Kruijk, Kruijt, Kuijper, 
+Lagerwerf, de Lange, Lans, Lansbergeb, van Leeuwen, van de Lelij, Lems, 
+van de(r) Linde, Louter, Luijendijk, van de Maarel, van de(r) Mark, van 
+Marrewijk, van de(r) Meer, Meerman, ter Meulen, Meijer, van de(r) Meijs, 
+Middendorp, van Mierlo, van Mil, Moerman, Molendijk, Mostert, Mouwerik, 
+Mulders, Muijser, (van de) Nagel, Nanning, Nederhof, de Neef, Nieman, 
+Nieuwburg, Nieuwenhuizen, Nieuwkoop, Nieuwpoort, Noord(am), Noordermeer, 
+Noordhoek, Noordijk, Notenboom, Nijboer, Nijman, Nijs(sen), Odijk, van 
+Oeveren, Okker(se), Oldenhuijs, Olthof, Ooms, (van) Oort, Oostdijk, van 
+Oosten, Oosterlee, Oosthoek, Oprel, van Os, Osterman, Ottervanger, van 
+Oudenaarden, Oudendijk, Ouwenbroek, Ouwenhand, van Overbeek, Overwater, 
+Paalvast, Paardekooper, Pauw, Pakvis, de Pagter, Parre, Pasterkamp, 
+Patijn, Peek, Peerenboom, Peeters, Pellikaan, van Pelt, van de Peppel, 
+Peters(en), Piek(sma), Pieternel, Pieters(e), Plantinga, van de Plas, 
+Pleysier, (van de) Ploeg, Plug(ge), van de(r) Pol, Poldervaart, Pons, 
+Poot, Post, Pottinga, Prins(e), Pronk, Proost, Punt, van Putten, (van de) 
+Pijl, Quak, Quist, de Raaf, Raamsdonk, Raap, Ras, Ravensberg, Ravenzwaay, 
+van de Ree, van Reeven, Remeeus, Remmerswaal, Renzen, de Reus, van der 
+Reijden, van Rheenen, de Ridder, Rie(t)dijk, Rigters, Ringelberg, 
+Robbemond, Ro(o)denburg, Roelofs, Roest, Roggeveen, Rombout, Romein, de 
+Ronde, de Roo, Roodbol, de Roode, Rook, van R(h)oon, Roos, de Rooij, 
+Roozenboom, Ros, van Rosevelt, van Rosmalen, van Rossum, Ruigrok, 
+Ruiterburg, de Ruiter, Rutten, Ruysbroek, Rijke(r), van Rijn, Rijnberg, 
+Rijpsma, van de Sande, van Santen, Schaap, van de Schaar, Schalk, 
+Scheffers, Schellenboom, Schenk, Scherpenisse, van Schie, Schilder, 
+Schipper(s), Schoenmaker, Schokkenbroek, Scholte(n), Schonenberg, 
+Schout(en), Schriel, Schulte(n), Selhorst, Servaas, Diegers, Simons, 
+Slager, Slangen, Slooff, van de(r) Sloot, van der Sluis, Sluijter, 
+Smeele, Smit(s), Snel, Snoek, Snijders, Soest, Sonneveld, Spaendonk, 
+Spanjersberg, van de Spek, Speijk, Spoelstra, Sprong, Spruijt, van 
+Staalduinen, Stam, Starmans, van der Steen, Steenbergen, Stekelenburg, 
+van der Stelt, Sterrenburg, Stigter, Stolk, Stoof, Storm, van Straten,
+van der Struis, Struijk, van Strijen, van Stijn, Suurmond, Suijker, 
+Swaan, Swanenburg, Swierts, Tak, Tamboer, Tang, Tas, Teerling, Teffelen, 
+Terlaak, Terlouw, Teunisse, van Teijlingen, Theysen, Thijssen, 
+Timmermans, Toet, van Tol, Tollenaar, van Tongeren, van Toor, Tulp, 
+Uijtenbroek, van der Vaart, Valk, Valkenburg, Varekamp, van der Veen, 
+Veenstra, van der Veer, 't veld, van der Velde(n), van Veldhoven, 
+Vellekoop, van Velzen, Venema, Verbaan, Verboom, Verbrugge, Verburg, 
+Verduijn, Verhagen, Verheulen, Verhoef, Verkade, Vermaas, Vermeer, 
+Vermeulen, Versloot, Verweij, Verwoerd, Vink, Visser, Vliet, Vlugt, 
+Vogel, Vonk, Voogt, Voorberg, Voort, de Vos, Voskamp, Vreugdenhil, de 
+Vries, Vrolijk, Vroombout, van Vuuren, Vijfwinkel, de Waal, Wagenaar, 
+Wakker, van de(r) Wal, van Walsum, Wapemaar, Warnaar, van Wasbeek, 
+Wassenburg, Weber, van Weele, Wekker, Welter, Weltevreden, Wessel, 
+Westdijk, Westein, Westerhof, Westerwijk, Weijden, Weijgaert, Wiegers, 
+Wielaard, Wiersma, van Wilgen, Willemse(n), Wilmink, van de Windt, de 
+Winter, Winterswijk, Wisse(nburg), de Wit, Wittenberg, van Woerden, 
+Wolters, van de(r) Wouden, Wout, van Wijk, Wijmans, Wijnhorst, Zagers, 
+van Zaltbommel, van der Zande, van de(r) Zee, Zeegers, Zegwaard, Zoete, 
+Zomer, Zonneveld, Zuijderwijk, Zuijdgeest, Zwaard, van de(n/r) Zwan, 
+Zwanenburg, de Zwart, Zweers, van Zwieten, Zijdeveld, Zijlmans, Zijlstra.
+
+Instead of "ij", "y" can be used when it's NOT the last letter of the 
+word. "y" is older dutch then "ij". Also the first letter of "van 
+de/der/den" or "de" are nowadays written in lower case, but in the old 
+days it was "Van de/der/den" or "De". "ae" is old dutch and can be used 
+instead of "aa", also "ck" (old) can be used instead of "k", but only 
+when "k" is not the first letter of a word (name).
+
+Also, in the 17th century it was fairly common for men to get the 
+first name of their father, with "szoon" (zoon=son, and the "s" is of 
+the genitivus of the first name) added at the end as a (additional) 
+lastname. So, if someone called Pieter Van Leeuwen got a son, he could 
+have named him Jacob Pieterszoon (Van Leeuwen).
+
+-- 
+CU
+Patrick
+ 
+=========================================================================Patrick van den Berg           Medical Student, Leiden University
+Arnold Hoogvlietstraat 88      email: s9408053@rullf2.LeidenUniv.nl
+3134 CD Vlaardingen            ------------------------------------------
+Netherlands                    Electrical Engineering Student,
+	                       Delft University of Technology
+                               email: vdberg@elektron.et.tudelft.nl
+=========================================================================

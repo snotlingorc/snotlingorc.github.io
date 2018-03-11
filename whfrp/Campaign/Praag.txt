@@ -1,0 +1,249 @@
+From: Chris Clements <chris@atmnet.net>
+Subject: [WFRP:1017] Praag
+
+Well, with all this talk of Arianka, I thought I would throw in some background
+material from my campaign "Key to Arianka" that I ran a few years back.  I
+found Praag to be a great backdrop to the first adventure ("The Swooping Hawk"),
+and it definately added an odd twist to the story.
+
+The first adventure had part of it take place in Praag, so, to anyone who's
+interested, here's a short snippet (I've deleted parts of the writing to
+make it more functional in a stand-alone context):
+
+---Praag---
+<snip>
+
+-History-
+Praag, the city of the defeated, is enwrapped with huge moss covered
+stone walls resting on the flat wheatland of Kislev.  To the north, just
+a few hundred feet away from the city proper snakes the cold River Lynsk,
+which is frozen over for most of the winter months.  The city itself is
+pivotal in staving off the migration of chaos and many battles
+have been fought at its walls.  The last such major battle (over 200
+years ago) something horrible happened - the city was overswept in the
+tide of chaos after a long and bitter siege.  As it was overrun, chaos
+left an everlasting mark that would plague Praag for as long as it
+exists.  Those that perished within imprinted their horror and pain
+into the very buildings they died defending.  The stuff of chaos trapped
+part of their loathing and suffering, damning the city to be forever
+unclean.  The citizens who escaped returned when their town was liberated
+by Magnus the Pious and his Imperial army.  What they found was a twisted
+little hells where there houses once stood.  King Zoltan I ordered all
+the buildings to be purged by the cleansing flame and to be rebuilt
+afterwards.
+
+A few years later strange things started to happen.  At first they
+were ignored by everyone, in the vain hope that these were just
+isolated incidents.  They were not.  These 'incidents' continued
+to grow in frequency and danger as each winter came and went.  The
+citizens were facing another siege, one that could not be defeated
+by steel.  They turned to their King, pleading for him to stop the
+taint from growing within their city.  He heard his peoples appeal
+and attempted all that was in his power to stop the cancerous foulness
+to no avail.  For each building he had burned two more became
+'infected'.  Exorcisms only drove of the evil away for a little
+while and many clerics were perishing in these attempts.  All he
+did failed, and he began to think that Praag would indeed fall to chaos.
+He began to give up hope.
+
+Hope was given to him in those shadowed times.  An initiate of Ulric by
+the name of Grinvar came to King Zoltan with a solution.  Grinvar described
+a ceremony, using holy relics of all the churches, to ward off the
+growing chaos.  This ceremony would be led with the flames of Ulric himself,
+burning away and purging Praag of the defiled areas.  When asked how he
+came upon this solution, Grinvar explained Ulric had sent it to him
+in a dream.  Many court members scoffed at this, and an advisor to the
+king warned that Grinvar was probably mad.  Seeing this doubt, Grinvar
+raised his hand aloft and cried the name of Ulric.  Blue flame surrounded
+his mortal frame and danced around the court, burning everything and
+everyone, yet leaving no marks that could be divined afterwards.  All felt
+as if a great malignancy had been purged from their hearts, and the
+walls no longer moaned or reached for the living.  The King bowed to
+Griznar and proclaimed that the city was be saved.  King Zoltan also
+promised that those of Griznar's line would always be honored and have
+a place in the court.
+
+So began the Ceremony Depurgas and the position of Attendant of the
+Flame.  Since then, the ceremony has been done over eighteen times, on the
+anniversary of the Fall of Praag and Griznar's solution (which happened
+exactly a decade later).  This also coincides with Ulric's chief holy
+day, the Winter Solstice.  The Winter Solstice is when the defenders of
+Praag must face the enemy on the longest night of the year.  It is a test
+of faith in which the citizens must temporarily abandon their city while
+it is rumored the gods fight for Praag's soul.  Only those who ally
+themselves with the gods may attempt to help cleanse the city and
+challenge the horrors that arise when chaos is provoked by the enactment
+of this ceremony.
+<snip>
+
+There is much more than this, but I am unsure of how useful it would
+be out of context.  I can tell you that it was sure was fun having my pcs
+arrive into a mostly empty Praag ("...the whole city to ourselves!"), except
+for the groups of clerics and templars.  And of course, the tainted things
+the cleansing ceremony awoke...
+
+
+
+-Personality of the City-
+Praag, in day to day life, is not so much different from any other major city.
+Peasants do the physical labor.  Nobles gripe about the peasants and drink
+the day away.  Merchants haggle over the price of their latest ware with 
+whoever is interested.  Life, as it is in Praag, goes on at a regular pace.
+At first glance, it is hard to imagine that this place has the horrible 
+reputation that it does. It is altogether normal.
+
+It is only after a day or two are spent within the city does the poor
+traveler realize this normality is forced.  The people treat each other 
+civilized enough, but behind their smiles and greetings hide anxiety and fear.
+General conversations exclude anything that deals with mutants or chaos.  Woe 
+betide the wanderer who mentions a vile god's name (even if only in a curse) 
+within Praag's borders, for the citizens believe that god turns its attentions
+to their poor beleaguered city.  It is not unknown for a visiting merchant who
+speaks dark words to either be run out of Praag, have stones cast at him, or (
+in the extreme cases) be lynched by a mob.
+
+Witch-hunters operate here, more than anywhere else in the Old World, with
+terrifying freedom.  A mutant, to the population of Praag, is a painful 
+reminder of the polluted energies that build within their homes.  The 
+government feeds into this paranoia by sanctioning hunters to publicly execute
+any found mutants, cultists, and foul chaos spawn.  The cults that manage to 
+survive this intense scrutiny manage to do so by only through numerous safety 
+precautions and by being suspicious of everyone.  Official witch-hunters, 
+servants to the High Inquisitor, have even a broader range of powers, making 
+them a power to be feared in Praag.
+
++Attitudes+
+Praag's citizens are survivors.  They endure their lot in life with an outlook
+that borders on fatalism.  The here today, gone tomorrow attitude is prevalent
+through most of the populace.  This defeatist attitude is ingrained into their
+core personalities as they grow up and see the first hand effects of chaos
+close up.
+
+Fortunately for the rest of the Old World, Praag is to proud to surrender.
+It is pride that keeps the people moving.  To think one is defeated is 
+acceptable... to acknowledge such defeat is unthinkable.  This strange 
+dichotomy is very difficult for visitors to understand but to the people who 
+live there it makes perfect sense.  Praag has been called the 'Wounded' or 
+'Dying Wolf' who rips the throat out of its enemy with its last ounce of 
+strength.  The people realize the chaos within their city will eventually be 
+their downfall, but they'll do their damn best job of bloodying its nose 
+before their gone.
+
+Why don't the citizens leave to greener pastures?  Life in Kislev is rough, and
+those who find a niche generally try and stick with it.  What would happen if a
+laborer moved and couldn't find work elsewhere?  He would starve.  And would
+the merchant had to give up all his old contacts and start from scratch?  The
+merchant would have to be desperate indeed.  "It may be hell, but it's my hell"
+is a common saying amongst those who live in Praag.  Life is not all that
+bad there, as long as a person watches out what they say and pay lip-service 
+to the more kinder gods. 
+
+Add to this fact that most of the population are unable to leave if they 
+wished. Fearing the peasants would decide to go elsewhere, King Zoltan I had 
+made into effect a law that bound the people to their liege-lords (nobles or 
+powerful merchants whom the lower class are employed by).  This bill was 
+called the "Dark Prison" by its detractors.  To traverse outside city walls, 
+an individual must prove that they have the right to leave by showing the 
+proper documents.  These documents could only be obtained from the individual's
+liege-lord through a large fee, and then the transfer to the individual must 
+be approved by a ruling magistrate.
+
++Religion+
+The people of Kislev are not known for their piety, and most citizens of
+Praag fall into this category.  The public view the clergy and gods as 
+ineffectual, unable to stave off the raids from the Chaos Wastes. The 
+exception to this is Ulric, who the populace view as more capable due to his 
+help in protecting their city, but not by much.
+
+The three main gods of Kislev (and therefore Pragg) are Ulric (called
+Olric), Taal, and Rhya. Other gods, while represented, are often ignored.
+A good example of this is the Temple of Verena, established after the city was
+rebuilt (see history). It is normally empty, with the occasional scholar 
+stopping in to use the library. Fortunately for the temples, the less popular 
+cults are funded by the government, mostly due to tradition and for fear of 
+what the gods reaction would be if their temples disappeared.
+
++Laws+
+The laws of Praag are practical and harsh.  If an individual commits a crime
+and is caught that person faces swift punishment.  A magistrate reviews the
+evidence in the case and considers a brief oral statement given by the 
+defendent to the arresting officer (who has sole control over the reliability 
+of the declaration).  The watchman can usually be expected to recite the 
+defendant's speech word for word, and deliberate altering of the arrested's 
+message only happens infrequently.
+
+Trials are for the upper-classess exclusively (the Boyars, priests,
+upper-bureaucrats, and the aristocracy) who have more rights in defending 
+themselves.  The one exception for trials in this case is the large public 
+affairs held by the Servants of the Flame who judge those accused of bearing 
+the taint of chaos.  All who appear in that court are always found guilty, and
+it is run only to serve as a warning to those who would harbor impure 
+loyalties in their hearts.
+
++Resources of Praag+
+The land surrounding Praag has many sources of wealth.  Lumber, fur, and
+coal all rest within the city's reach. The staple crop produced from the 
+neighboring farmlands is sugar beets; bright red beets slightly smaller than 
+potatoes which have a sweet inner core after their bland exterior is removed.
+Other crops include wheat, oats, barley, cotton, tobbacco, and potatoes. 
+Common livestock include the usual: sheeps, cattle, and hogs.  Metals that are
+mined from the Foothills to the east are copper, iron ore, and to a lesser 
+extent, nickle.  Another resource that was recently discovered is oil.
+
++Important Individuals+
+King Zoltan II - the King is a proud (some might say arrogant) man, who 
+		 despises the city he rules.  He is often outside the city, 
+		 vacationing
+                 in the numerous private estates he owns around Kislev.  Zoltan
+                 cares little for the day to day politics of Praag, and only
+                 involves himself on personal level when he wants more money 
+		 for his coffers (i.e.he wants to raise taxes).
+
+Princess Catherine IV - in all but title, Princess Catherine rules Praag. She 
+			has
+                        her father's blessing in this, and she sees to all the
+                        minor details that "bore" him so.  A highly intelligent
+                        young woman, the Princess discharges her
+ 			responsibilities to the city in an efficient manner.
+
+Vladmir Cossak, Attendant of the Flames:
+in charge of the Ceremony Depurgas, Vladmir follows the examples set by
+past attendants and tries to remain in the background.  He is the highest
+ranking cleric of Olric in Kislev, on par with Ar-Ulric in Middenheim.
+Vladmir is fanatically devoted to his position and has a deep hatred of
+chaos in all its forms.
+
+Basil Vardaski, Chief Inquisitor:
+the Chief Inquisitor is the most feared man in
+Praag, without a doubt.  Churlish and cynical,
+Basil Vardaski controls Praag's official witch-
+hunters (read: secret police) with a dispassionate
+ruthlessness that would do a Champion of Khorne
+proud.  Enemies of the High Inquisitor have a
+tendancy to disappear...
+
++Important Groups+
+Black Daggers - a cult who worships a unnamed god of chaos (even they do know
+                the god's identity).  This god is mentioned by the cultists
+                as 'The One Who is Unamed' or 'Our Silent Watcher'.  The
+                cult has so far evaded the vicious witch-hunters attentions
+                by having their meeting places outside the city.  Their
+ 		goals are
+                mostly unknown, and seem to vary from each reported activity.
+                Cult members are quite fond of using poisoned weapons,
+                daggers being their favorite envenomed weapon of choice.
+
+Boyars - just below being nobility themselves, Boyars are wealthy landowners.
+         They are not a single cohesive group in a normal sense, but wield
+         considerable political influence when they are threatened as a whole.
+
+Servants of the Flame - this group is mainly composed of clerics of Olric who,
+                        along with their duties leading the Ceremony Depurgas,
+                        form an official court which judges "crimes against
+                        nature" (i.e. worshipping a chaos god, being a mutant,
+                        etc.).  Very cooperative with the sanctioned witch-
+                        hunters.
+Chris Clements
+chris@atmnet.com
+
+"Death?  Yeah, I've met him.  I wasn't impressed."

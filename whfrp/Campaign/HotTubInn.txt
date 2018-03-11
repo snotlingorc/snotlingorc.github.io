@@ -1,0 +1,392 @@
+From: noel welsh <welsh_nh@ee.uwa.edu.au>
+To: wfrp@gojira.monsta.com
+
+          The Hot Tub Inn & Surrounds v1.0
+          By Noel Welsh
+          
+          This document is copyright Noel Welsh, 1995, and may not be
+          reproduced in a commercial setting without permission from
+          the author.
+          
+          ------------------------------------------------------------
+          
+          De Satz's Square
+          
+          Located in the Artisan's Quarter, De Satz Square contains a
+          natural spring which supplies water to the surrounding area.
+          The spring has an elegant fountain built around it, and is
+          known as Maiyir's Font. The water flows into large stone
+          basin, in which inhabitants of the Square bathe (when
+          they're not at the Hot Tub), and draw their water from.
+          Surrounding the Square are the houses of the local
+          residents. Three buildings may be of interest to travellers:
+          The Hot Tub Inn, Ragnok Teln's Smithy, and Elka's
+          Apothecary.
+          
+          
+          The Hot Tub Inn
+          
+          
+          Physical Features
+          
+          The Hot Tub Inn is a five storey, half stone, half timber
+          structure. A polished wooden sign, with the Inn's name and a
+          faded picture of a man relaxing in a steaming tub hangs
+          outside.
+          Inside, the Hot Tub Inn is well appointed, if somewhat old.
+          It is furnished with dark wood and brass fittings throughout
+          the bar and rooms. The ground floor consists of a mid-sized
+          common room, with a bar against the far wall. Behind the
+          bar, a door leads to the back rooms, which in turn lead out
+          to a rear courtyard where deliveries are made. However, few
+          travellers notice these details of their first visit to the
+          Hot Tub. What they do notice is the massive fireplace which
+          dominates the centre of the room. This stove heats the Tub
+          upstairs which gives the Inn its name.
+          Upstairs, of course, is the Hot Tub. This large wooden tub
+          is filled regularly from Maiyir's Font. A large reservoir of
+          water hangs above the fireplace below, and hot water can be
+          drawn up to the Tub. Additionally, the chimney from the
+          stove through the centre of the tub, heating the water
+          within. 
+          A leather cover keeps the heat in until the water reaches
+          sufficient temperature to coax the patrons upstairs, whilst
+          wooden slats prevent the patrons from burning their feet on
+          the chimney. A pipe, stoppered with a large copper plug,
+          drains to the sewers. Small windows around the room help
+          remove water vapour and stop the ceiling from rotting.
+          As might be guessed, the Tub is of Dwarven design. In fact,
+          is was built by Ragnok Teln's father. Dwarven runes
+          identifying the artisan can be found along the base of the
+          Tub.
+          Above the Tub are the rooms, which get steadily smaller the
+          higher one travels. On the third level, half the level is
+          occupied by the landlord and his family. The remaining 3
+          rooms are available for rent. These rooms are approximately
+          4 yards by 5, and sleep 2 comfortably, 4 (or more) if you
+          like each other.
+          The fourth floor rooms are about 3 yards square and sleep 2.
+          The fifth floor rooms are 3 by 2 cells, and only sleep 1 on
+          a straw pallet.
+          
+          
+          The Landlord and Family
+          
+          Rudolph Grasser
+          The publican of the Hot Tub Inn is Rudolph Grasser (sorry, I
+          have no originality). Rudolph is a big man, about 6"1', who
+          carries a fair bit of weight on his large frame. He has a
+          moustache, a perpetually worried expression, and is bald.
+          Rudolph is not an imaginative man, nor is he given to
+          extremes of emotion. He prides himself on the cleanliness
+          and service of his Inn, and it is his constant hard work
+          which keeps the Inn in good shape. He is always polite and
+          stays out his patrons' lives as much as possible.
+          
+          Catchphrases:
+          "I trust you're enjoying the meal", as he delivers another
+          round of drinks.
+          "I hope you don't mind me asking, I know it's none of my
+          business, but would you know about the strange goings on
+          around here?", when the PCs stagger in, covered in blood,
+          after Nuln is afflicted by Chaos apparitions.
+          
+          Ingrid Grasser
+          Rudolph's wife is a plump woman of 38, about 6 years younger
+          then her husband. Her raven hair is turning grey, and her
+          face is showing some signs of aging, but she still retains
+          much of the beauty of her youth.
+          When Ingrid married Rudolph at the age of 17, she was taken
+          by his handsome features, and stoic resilience. She dreamed
+          he would take her away from her boring life. 28 years later,
+          the dreams have faded, and Ingrid has fallen into a routine
+          life. She cooks the food, helps clean the inn and never
+          finds time to stop to wonder what life might have been like.
+          Ingrid is living life through her children, who she has
+          encouraged to be adventurous and independent, much to their
+          father's disapproval.
+          
+          Catchphrases:
+          "Will that big oaf never stop eating? If he knew how much
+          trouble went into that sauerkraut he might stop to savour it
+          a bit more!"
+          "Renhkard, I want you to do something with your life, I
+          don't want you to waste it."
+          
+          Renhkard Grasser
+          Age: 20
+          Rudolph's oldest son inherited his stature and good looks,
+          but not his even temperament. His mother's constant nagging
+          to "do something with your life" has created an highly
+          ambitious young man, fond of adventure and willing to do
+          whatever he feels necessary to get his own way.
+          Unfortunately for Renhkard, the Inn offers little in the way
+          of excitement or potential. Renhkard has turned to crime as
+          an easy way to satisfy his goals. He has become the leader
+          of a gang of local youths involved in burglaries and con
+          jobs. So far his success have been limited, but as he gains
+          in confidence and experience, Renhkard is trying larger, and
+          tougher, jobs.
+          As might be expected, Renhkard has a very poor relationship
+          with his father, who he sees as a pathetic nobody. Rudolph
+          suspects that Renhkard is getting up to something, but in
+          his typical stoic manner, has done little to dissuade him.
+          He has no idea his son is a criminal.
+          In casual conversation, Renhkard is witty and lively. Deeper
+          conversations will reveal his self-obsessed nature.
+          Renhkard's great failing, which will prevent him from
+          progressing far in his criminal activities, is that he
+          disdains the boring planning which must go into complex
+          operations. Thus his heists are limited by his quickly
+          waning enthusiasm.
+          
+          Catchphrases:
+          "Sigmar's spirit, it the old bear again. Here to remind me
+          of my blasted duties at his stupid little inn!"
+          "This plan has got to work, lads! Now you know that
+          merchant...um...Acrimboldo, the one with the spicery? Well I
+          overheard him yesterday..."
+          
+          Jutta Grasser
+          Age: 19
+          Jutta resembles her mother, with dark hair and beautiful
+          features. She is second only to Renhkard in her mothers
+          affections, and has never be constrained by her mother from
+          doing what she wishes. She has grow up spoilt and willful.
+          She demands, and gets, expensive cosmetics and jewelry.
+          Ingrid is trying to give Jutta everything she desired as a
+          child, whilst Rudolph has never been much involved in the
+          upbringing of his children.
+          Jutta main goal is life is to be courted by as many men as
+          possible. It's not that she considering marriage yet, it's
+          just that she enjoys ordering them around, and playing them
+          off against each other. Jutta enjoys getting her suitors to
+          purchase expensive gifts for her, and getting them into
+          fights against each other. She will attempt to seduce anyone
+          who is good-looking and wealthy, patrons to the Hot Tub
+          included.
+          
+          Catchphrases:
+          "No, I'm sorry, I can't assist you, I feel quite faint."
+          "If you really love me, you will do anything for me. I want
+          you to prove that you really love me."
+          
+          Klaus Grasser
+          Klaus died of the pox at the tender age of three. Ain't that
+          sad.
+          
+          Catchphrases:
+          "", and you can quote that.
+          
+          Jorg Grasser
+          Age: 16
+          Jorg has the characteristic facial features of his family.
+          He is of medium height, and quite pudgy, as he does not
+          partake in sports due to his short-sightedness. By the time
+          Jorg was born, Ingrid was too busy mothering the other
+          children to pay much attention to him. Thus Jorg has grown
+          more to the liking of his father, quiet and calm. Jorg helps
+          out a lot around the inn, and is the likely successor to
+          Rudolph.
+          
+          Catchphrases:
+          "Yes Sir, your horse will be ready in a few minutes. I'll
+          see to it myself, Sir."
+          "Two steins of the house draught? Yes, Sir.....That's 20
+          pennies. Thank you Sir."
+          "Oh, I'm so sorry! I...um...didn't realise you
+          hadn't...excuse me...um..."
+          
+          Erich Grasser
+          Age: 13
+          Erich is the result of brief affair between Ingrid and a
+          guest at the Hot Tub. Erich has dark blond hair, and a
+          smaller stature then his brothers. Ingrid knows who fathered
+          Erich, and the neighbours love to gossip about him. Rudolph,
+          typically, hasn't given the possibility much serious
+          thought, and it doesn't bother him particularly.
+          Ingrid has rejected the child from birth. The only attention
+          she pays to Erich is to criticise him. Luckily for Erich,
+          Rudolph was becoming more interested in the children by the
+          time he was born, so Erich is not the wreck he could be.
+          Still, the kid has problems. He has low self-esteem, and is
+          given to misbehaving to attract attention.
+          
+          "Mutter! Mutter! MUTTER!" How's my German?
+          "No! I don't want to! I'm not going to do it! Leave me
+          alone!"
+          
+          Herr Hund
+          Erich's mangy mutt, a mongrel with brown and black fur, is
+          given to slinking around the Hot Tub, whining at customers
+          until it gets chased out, and annoying the neighbours. The
+          dog is a wimp and runs away from anyone it doesn't know,
+          unless Erich is nearby, in which case it bristles and
+          growls. Rudolph is the only person besides Erich who likes
+          the mutt. The rest of the family do their best to ignore it,
+          and boot it if it comes near.
+          
+          Catchphrases:
+          What do you think? "Ich bin Herr Hund. Woof! Woof! Woof!"
+          "Whine! Whine! Whine!" Big sad eyes at the new guest eating
+          the pork sausage.
+          "Here you go you poor dog..."
+          "CHOMP!"
+          "Hey! Come back with my breakfast you!"
+          
+          
+          Life at the Inn
+          
+            The day starts just before dawn. Ingrid goes shopping for
+          bread, meat and other foodstuffs, usually taking Renhkard if
+          he's not hung over, or Jorg. Meanwhile, Rudolph supervises
+          deliveries from the brewer, checks on the stores and lights
+          the fires for breakfast. Erich does menial tasks if he's in
+          a good mood, and steals some food for the esteemed Herr
+          Hund. The hired help arrives to assist in serving tables and
+          cooking.
+            About a half-hour after dawn the first customers,
+          merchants and the like who must be up early, start to filter
+          in for breakfast. Ingrid returns from the shopping and all
+          the Inn's energy is focused on preparing breakfasts.
+            After an hour, the Inn is starting to fill up. The crowd
+          consists of merchants and storekeepers, and the various
+          guest who are staying at the Inn. Serving maids are rushing
+          about and Ingrid is yelling at the clod who just split soup
+          on the kitchen floor. The good Herr Hund is trying to sneak
+          into the common room and Jorg is trying to boot him when he
+          does. The young hopefuls are waiting for Jutta to put on an
+          appearance, Renhkard may just be sneaking in after getting
+          drunk last night and Erich is trying to hide so he doesn't
+          have to do any work.
+            After breakfast, the crowds go to their business, and a
+          small army of maids descend on the common room to clean it,
+          and rearrange the furniture for lunch. The rooms upstairs
+          are also cleaned. Rudolph checks the stocks, and Ingrid or
+          Jorg goes to purchase any items which are low. Jutta will be
+          receiving young men, or be chaperoned about town. Renhkard
+          will be trying to sneak out so he can meet with his gang.
+          Preparation for lunch will start.
+            Following the lull after breakfast, the Inn once again
+          becomes a madhouse when the University bells signal noon.
+          Tradesmen and merchants flock to the Hot Tub for an eel pie
+          and a couple of steins of the house draught. The scene is
+          similar to breakfast, with even Renhkard helping out.
+            After lunch, the common room is again tidied up. Rudolph.
+          Renhkard and Jorg will take a couple of buckets and start
+          filling up the reservoir and Tub for the night. After
+          filling the tub, Renhkard will share a few drinks with his
+          friends and most likely disappear for the night. Jutta will
+          return from town with her new presents, and retire to her
+          room until dusk.
+            At dusk, the big fire in the common room will be lit and
+          dinner commences. The regulars, or Tubbers as they call
+          themselves, arrive about an hour after dusk. Erich will be
+          sent to bed. Jutta will come down for dinner, and then lock
+          herself into the Tub room for an hour (part of her beauty
+          regime). After she has left, Rudolph will declare the Tub
+          ready, and the Tubbers, middle-aged artisans and merchants,
+          will retire to the Tub for some drinks and conversation.
+            After the last patrons have left, around 10 on weekdays or
+          12 at the weekends, the Inn is tidied up and prepared for
+          breakfast. Renhkard is responsible for cleaning the Tub, but
+          more recently he has been paying Jorg to do this for him.
+          Finally, an hour or two after the Inn closes, the hired
+          hands leave, and the Grassers can retire to a well earned
+          rest.
+          
+          
+          Prices
+          PCs short of cash can work at the Hot Tub. An extra helper
+          or two can always find work, for bread and board, if nothing
+          else. The hours are long, but it pays 7/- per day, or a spot
+          in the common room and meals.
+          
+          Rooms
+          All rooms contain bedding, and a wash-stand. The third
+          storey rooms have a small table and chair. Cramming more
+          people then is comfortable into a room cost and additional
+          50% per person.
+          3rd Storey: Rooms go for 20/- per night, or 6GC per week.
+          4th Storey: 15/- per night, or 5GC per week.
+          5th Storey: 5/- per night. Normally not rented for longer.
+          Common Room: 2/- per night. Fleas are free.
+          
+          Food
+          Meals are provided in the good old German style; large, and
+          filling. Dumplings are a common addition to many dishes.
+          Medieval cooking tends to be full of spices.
+          The dishes given below are simply examples of what is
+          available. Ideas are welcome.
+          Note that most dishes are served either with dark rye bread,
+          or wholemeal bread.
+          
+          Soups
+          Cabbage Soup: Cabbage and little bits of sausage. 2/-
+          Beer Soup: Always a favourite. 2/-
+          Kidney Soup: Kidneys, milk and egg yolk. Ugh. 1/-
+          
+          Fish
+          Fish Stew: Chunks of fish with onions and cream. 4/-
+          Eel: Baked or fried. 2/-
+          Fish Cakes: House specialty, heavily seasoned. 2/-
+          Fish Pies: Eel or fish with cooked vegetables in a pie. 3/-
+          Fish Dumplings: Eat on their own, or add to soup. 1/-
+          
+          Meats
+          Jugged Hare: A young hare, served with vegetables. 5/-
+          Roast Pigeon: A roast pigeon stuffed with liver and heavily
+          seasoned. 4/-
+          Sauerbraten: Braised and seasoned topside. Good. 4/-
+          Pork chops with plums: Exactly what it says. 3/-
+          Bones: A bone covered with left over meat. 10d each.
+          
+          Vegetables and Salads
+          Sauerkraut: Cabbage fermented with salt and juniper berries
+          and then fried. A house specialty. 1/5d
+          Potato Salad: Boiled potatoes with olive oil, onions and
+          garlic (Not the fake white mayonnaise you see today). 10d
+          Lentil Salad: Cooked lentils with parsley, onions and sour
+          cream. 1/-
+          Steamed Vegetables: Whatever is in season. Usually potatoes,
+          cauliflower and carrots. 8d
+          
+          Deserts
+          Apple Pudding:  Cooked apples with a sugar and egg mixture.
+          1/-
+          Baked Locksmith's Apprentices: Small children...No, they're
+          actually prunes stuffed with almonds and baked. 4d each.
+          Fruit Kuchen: Seasonal fruit baked into a type of pie. 1/-
+          Sultana Cake: Usually very good, but occasionally Jutta
+          bakes this to torture her beaus. Avoid when she does. 8d per
+          slice.
+          
+          Drinks
+          The Famous House Draught: Brewed on the premises. Thick and
+          dark. 10d per stein.
+          Lager: Brewed at one of Nuln's many breweries. 8d per stein.
+          House Wine: Cheap red wine, often mistaken for vinegar. 3/-
+          per bottle.
+          Brettonian Wine: Mostly red, with the odd white, imported
+          from Brettonia. '05 was a good year. 25/- and up per bottle
+          
+          Plot Ideas
+          Well, my original intention was to simply make the Hot Tub a
+          place to stay for the PCs. If you want to base adventures on
+          it, here are some ideas:
+          1. The shady stranger with a past who comes to stay. What
+          did they do, who are they running from and can the PCs help?
+          2. Catch the thief. Somebody is stealing from the Tub. It
+          could even be Renhkard.
+          3. Help the family. If your group likes heavy emotions,
+          throw the Grasser family into crisis. Renhkard is caught
+          thieving, Rudolph is going broke paying for Jutta's
+          extravagances and Erich runs away with Herr Hund. You could
+          even make Jutta pregnant if you wish. Can the PCs bring the
+          family back together? Can they stop Herr Hund from coming
+          back with Erich?
+          
+          
+          Ragnok Teln
+          
+          Elka

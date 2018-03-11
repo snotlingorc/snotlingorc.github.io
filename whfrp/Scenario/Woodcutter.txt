@@ -1,0 +1,103 @@
+From selin@acs.ucalgary.caWed Oct 25 14:13:46 1995
+Date: Sat, 21 Oct 1995 22:43:40 -0600 (MDT)
+From: Joanne Selin <selin@acs.ucalgary.ca>
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: The Woodcutters Shack
+
+GM Notes:  this "lair"can be used anywhere along a fairly remote forested 
+roadway.  Its a bit on the dark side, so be warned.  The besttime to use 
+it is just as the sun is setting, when your tired PCs are looking for a 
+place to halt for the night.  What follows has been written with PCs 
+being on foot, so you can make adjustments as you see fit.  Description 
+for the PCs is in quotes.
+
+"As you trudge along the worn road you notice that the forest shadows are 
+growing longer each passing minute.  The air is noticeably cooler, a 
+definite chill envelopes you.  The few clouds overhead are turning bright 
+reddish orange as the sun begins its final descent.  A large black raven 
+rises above the roadway, slowly circling, and then heads off into the 
+gathering twilight. "
+
+OBS test:  success gives the following "The woods are silent.  As if all 
+living things are holding their breath."
+
+"As you continue meandering past potholes and the odd cobble you notice a 
+narrow dirt path leading into the woods."
+
+Init. test:  success= detection of a trail of old, sticky blood heading 
+into the underbrush at the intersection.  Further searching finds a 
+body.  Its a man, 50ish.  His leather jerkin is split open along his 
+back.  Flies buzz around.  Any rural type PC will notice that his 
+clothing shows his profession as a woodcutter.
+
+"Further along this narrow path you note that it winds around to the 
+right.  The thick undergrowth and large trunks block your view.  It is 
+getting darker.  In what little light is left you can make out two 
+smaller forms lying on the path near the turn.  Everything is silent and 
+still."
+
+"The two forms are bodies of a young boy, around eight years of age.  His 
+hand clasps the detached arm of a little girl that lays grotesquely 
+nearby.  The terror on their faces is pitifully obvious.  Large hack 
+marks marr their bodies."
+
+	If you are using Insanity, roll vs. each PCs cool.  Failure by 
+10% or more gains one point.
+
+"Beyond the sickening sight, a ways ahead, you can barely make out the 
+shape of a small shack.  A small lighted window, half shuttered is 
+visible through the branches and brush.  The path leads towards the 
+structure."
+
+"As you approach you can make out a garbled voice and hear a rythmic 
+scraping sound, like metal on stone.  The clapboard building is a few 
+paces long and seems square from your vantage.  The wood door hangs from 
+one hinge and the light from within escapes into the evening darkness."
+
+-if the PCs call out, a womans voice calls back, "Dinners ready Steiner 
+my love.  Bring the children....bring the children...Steiner...mad..mad"
+-any PCs sneaking around the shack must roll vs DEX or stumble over a low 
+wood pile causing a large racket.  When it quiets, the PCs hear the wood 
+floor squeak a bit and the scraping stops.
+-any PC trying to glimpse through the half window, or doorway, will see a 
+tall, handsome woman, wearing typical reikland dress with dark brown 
+stains all over it.  She is holding a large woodsmans axe and a whetstone.
+-should a PC charge the door and smash it in, force them to rollvs. DEX 
+or stumble over the body of a man.  As they sprawl into the shack, they 
+instantly lose a full round.
+-the woman will not go outside, even if they raze it.
+-anyone entering the shack, asking what happened will be met by the 
+womans odd stare.  She'll say, "Ach, Steiner.  You've come in before I 
+set the table....Steiner.... leibling...the Raven is gone now.  Where are 
+the children...madness..."
+
+	Helga Untermeyer-  woodcutters wife
+	M   WS   BS   S   T   W   I  A  DEX   LD   INT   CL  WP  FEL
+	4   43   28   4   3   7  44  1  33    33   33    33  33  29
+	***subject to frenzy after speaking to PCs- roll vs Cool
+
+	Skills: Cook, ID plants, set trap, silent mov.rural, conc.rural, 
+follow trail, specialist weapon- 2hnd. weapon (woodsmans axe).
+	Trappings: woodsmans axe, whetstone.
+
+	Helga has gone off the edge and whacked everyone.  She'll whack 
+the PCs too (They all look like Steiner, her dead husband).  If she is 
+too easy to take out, give her a fate point- make em sweat a bit.
+
+There is nothing of value in the shack, unless the GM decides otherwise.
+The dead man on the floor was a traveller- dressed in fine clothing.  He 
+seems to have lost his head over this matter, and his coin purse lays 
+split open on the floor beneath him- the blood covered coins are mostly 
+silver  (2D10) and D6 gold coins.  The GM could use the traveller as a 
+clue holder that the PCs have missed during their adventures.
+
+Flesh this out as much as you like.
+
+Written by Dave Selin
+
+
+Comments are welcome,
+
+Dave Selin
+selin@acs.ucalgary.ca

@@ -1,0 +1,601 @@
+From magnus.seter@multimediasoftware.se Mon Sep 29 14:50:37 1997
+Date: Mon, 1 Sep 1997 17:37:02 +0100
+From: magnus.seter@multimediasoftware.se
+Subject: [wfrp] New spells and magik rules
+
+New Magik Rules
+After testing the magic system in WFRP, one finds out that it is simple and 
+consistent, if somewhat sketchy. The system works well for the spell included 
+in the rulebook, but if you wish to add the spells detailed in this 
+publication, and I don't see any reason why you shouldn't, you'll have to make 
+some additions to the basic spellcasting rules. This is no revolutional 
+redesign of the rules, but rather additions to make spellcasting more exciting 
+and dynamic. Even if you don't use the new spells, and I don't see any reason 
+why you shouldn't, you could find these rules interesting.
+
+Spellcasting
+A spellcaster may from now on chose between three different ways of casting his 
+spells. The Normal Casting, which takes one round to complete without any 
+difficulties (except those mentioned in the rulebook), the Secret Casting and 
+the Quick Casting. These two additonal ways of casting spells are described 
+below.
+
+Secret Casting - When trying to cast a spell unnoticed, the magician have to 
+make smaller gestures and use only whispered words. This means that the spell 
+takes twice as long to cast (normally two rounds) and that the caster must make 
+a WP test at -10% per level (no modification to Petty Magic) to avoid having 
+the spell canceled by the lack of magic energies. Anyone observing the 
+spellcaster is allowed an Observe test to notice the spellcasters activities. 
+Only discrete spells may be cast this way, not physical attacks such as Magic 
+Missiles.
+
+Quick Casting - This enables the magician to immediately put the effects of a 
+spell into play. It requires wild gestures and fierce shouting to enhance the 
+flow of magic. Unfortunately there is a risk of the spell backfiring. The 
+magician must pass a WP test at -10% per level (no modification for Pety Magic) 
+not to loose control of the magic, resulting in a backfire. These backfires are 
+usually the worst effects the spell can have to the caster (Fireballs exploding 
+in his hands, Healing spells becomes Wounding spells and so on). If the WP test 
+is passed, the magicians spell takes effect immediately in the beginning of the 
+round. The spellcaster may, due to exhaustion not perform any other activity 
+during the round.
+Rituals may only be performed using the Normal Casting procedures.
+
+Combined Spellcasting
+With the addition of the spells in this companion, several interesting options 
+of spellcombinations are opened up for the players. The first one that springs 
+to mind is Blade of Fire and Shield, which if combined provides the magician 
+with a powerful weapon as well as a strong defense. Should this be allowed? I 
+think so, but within limits. The spells that after casting needs constant 
+refueling to remain active and still allows the magic-user freedom of movement 
+can be combined with other spells. This includes spells such as Blade of Fire, 
+Shield, Stonefist and Flee Footed, since they only need the mental command to 
+fuel the spells at the beginning of each round, leaving the rest of the round 
+open for further spellcasting. The gamemaster migh on the other hand wish to 
+rule that casting a spell while another is being fueled disrupts the 
+concentartion of the magic-user and thereby cancels the fueled spell. In taht 
+case he could consider uisng Combined Spellcasting, ruling that any spells can 
+be combined and cast in one round, adding all costs and effects together and 
+applying them to the caster or target. The one drawback is that the caster must 
+pass a WP test for every spell involved, with a -10% penalty per spell level 
+(no modifiers for Petty Magic). If he fails any of these tests, all spells 
+backfire or are canceled, causing a lot of grief and frustration for the poor 
+magic-user and his player. The chosen way to approach this problem is up to the 
+individual gamemaster.
+
+I'll give you an example to show you how Combined Spellcasting works. Let's say 
+I wish to combine the spells Fleet Footed, Shield and Blade of Fire. The total 
+MP cost would be 6, and I would have to pass a Magic test for each spell 
+invoved for a total of three. All three tests are made with a -10% modifier. If 
+I pass all tests, all spells take effect. If I flunk one, all hell breaks loose.
+
+New Spells
+While waiting for the Realms of Sorcery here are some new spells for all 
+Wizards and their like. The style of the spells are standard fantasy, and you 
+can, if you search hard enough, find the equivalents of most of the listed 
+spells in other role-playing games (I won't tell you which role-playing games, 
+you'll have to find that out yourselves). The object of this section is to 
+provide magic-using characters and NPC's with a wide range of interesting 
+spells that can be used outside the combat environment. For this purpose, most 
+spells have been labled Petty Magic and Battle Magic, to make them accessible 
+to all types of magicians. I have, for playtesting purposes, designed the 
+spells so that some have very high Magic Point costs. This is because I think 
+it is easier on the players to lower the cost after testing the spell out, 
+rather than raising it.
+
+Animate Object
+Spell Type: Battle magic
+Spell Level: 3
+Magic Points: 5
+Range: Touch
+Duration: 1 hour per level
+Ingredients: Pulverised chicken bones
+This spell allows the magician to animate one object, no larger than the 
+caster. Simple commands, like 'sweep the floor' and 'dust shelves', can be 
+given. The object will try to perform the commands for the duration of the 
+spell.
+
+Aura of Cool
+Spell Type: Battle Magic
+Spell Level: 2
+Magic Points: 4
+Range: Personal
+Duration: 1 hour per level
+Ingredients: Small piece of platina
+An Aura is projected around the caster who, for the duration of the spell, 
+recieves a +10% bonus to any tests involving Cool. Also, any creature wishing 
+to attack the caster must make a WP test, at +10%. If this test is failed, and 
+the caster makes no offensive moves, the creature hesitates one round. All 
+other rules concerning Auras also applies.
+
+Blade of Fire
+Spell Type: Battle Magic
+Spell Level: 1
+Magic Points: 2 per round
+Range: Personal
+Duration: See notes
+Ingredients: Small ball of sulphur 
+The caster wields a sword of fire, using his WP to determine wether the attack 
+hits. The blade may not be parried. If a hit is achieved the blade causes D6+3 
+points of damage (only metal and magic armour protects). Flammable targets 
+suffer an additional D4 damage. The blade can be wielded as long as the 
+magician channels magic points into the spell. After the end of the last round 
+the caster may decide to throw the blade as a Fireball, doing D6+3 points of 
+damage to any single target (irrespective of any armour). Flammable targets are 
+caused an additional D6 points of damage.
+
+Call Object
+Spell Type: Battle Magic
+Spell Level: 4
+Magic Points: 10 (+5, see below)
+Range: 100 yards
+Duration: Instantaneous
+Ingredients: Small vial of milk (preferably fresh)
+The caster may target an object to be retrieved by the means of this spell. To 
+do this, the magic-user must touch the object for more than 10 minutes and give 
+a mental command to the object, spending 5 MP. Later on, when the caster casts 
+tge spell, the object will instantly appear in his hands or near his person. 
+Objects to be retrieved can not be larger than the magician himself.
+
+Chalk
+Spell Type: Petty Magic
+Spell Level: P
+Magic Points: 1
+Range: Personal
+Duration: 1 turn
+Ingredients: Some dirt
+This spell allows the caster to use his index finger as it were a chalk of any 
+desired colour for the duration of the spell.
+
+Cleanse
+Spell Type: Battle Magic
+Spell Level: 2
+Magic Points: 3
+Range: Touch
+Duration: Permanent
+Ingredients: Pulverised crystal
+The caster may, using this spell, cleanse one pint of any liquid or any half 
+pound of any food, so that it will not contain any foreign substances not 
+naturally inherent in the liquid or food. This means that poisoned food and 
+drink will become edible, but it also means that if cast upon a delicious 
+dinner, all spices and other ingredients will be purged from the food. 
+
+Clearsight
+Spell Type: Battle Magic
+Spell Level: 3
+Magic Points: 1 per 100 feet of sight
+Range: Personal
+Duration: 1 round per level
+Ingredients: Eye of a wild eagle
+For the duration of the spell the caster can percieve all details within range 
+as clearly as desired. Object must be in line of sight, with no obstructions 
+between caster and object. 
+
+Clot
+Spell Type: Battle Magic
+Spell Level: 2
+Magic Points: 2 per Wound
+Range: Touch
+Duration: Permanent
+Ingredients: Piece of clean cloth
+When using this spell, the caster may staunch the flow of blood of any victim. 
+The bleeding stops by as many Wounds as the magician invests Magic Points in 
+the spell, at the rate of exchange given above.
+
+Control Higher Mind
+Spell Type: Battle Magic
+Spell Level: 3
+Magic Points: 6 per round 
+Range: 10 feet
+Duration: See notes
+Ingredients: Brain of humanoid
+With this spell, the magician can control one higher mind (ie Humanoid 
+creatures) for as long as he maintains concentraiton and channels magic points 
+into the spell. The victim may make a Magic Test to avoid being controlled. Any 
+being controlled this way obeys the casters commands as long as those actions 
+does not put the victim or his friends in any immediate danger.
+
+Control Lesser Mind
+Spell Type: Battle Magic
+Spell Level: 1
+Magic Points: 2 per round
+Range: 10 feet
+Duration: See notes
+Ingredients: Brain of lesser creature
+With this spell, the magician can control one lesser mind (ie animal creatures) 
+for as long as he maintains concentration and channels magic points into the 
+spell. The victim may make a Magic Test to avoid being controlled. Any being 
+controlled this way obeys the casters commands as long as those actions does 
+not put the victim in any immediate danger.
+
+Counting
+Spell Type: Petty Magic
+Spell Level: P
+Magic Points: 1
+Range: Personal
+Duration: 1 round
+Ingredients: Bead of pearls
+Using this spell enables the magician to instantly determine the amount of one 
+type of object within sight. The caster might for example use this spell to 
+count coins in a purse (if the purse was open, that is) or the amount of 
+enemies in an opposing body of troops.
+
+Delayed Fireball
+Spell Type: Battle Magic
+Spell Level: 3
+Magic Points: 5
+Range: Touch
+Duration: 1 turn/level
+Ingredients: Ball of sulphur
+A variant of the normal Fireball spell, this spell may be cast upon any spot 
+the magician desires. After any period of time not exceeding the spells 
+duration, a Fireball explodes upon the spot designated by the magic-user, 
+having the effects of a normal Fireball upon any objects and beings within the 
+range of explosion. Note that the caster must actually touch a spot to place 
+the Fireball, and that it therefore cannot be placed into thin air. It can be 
+placed upon an object which then is dropped from any heigth (a leaf or a 
+feather, for example), or thrown at an enemy (using a stone or whatever).
+
+Digest
+Spell Type: Druid Magic
+Spell Level: 1
+Magic Points: 2
+Range: Personal
+Duration: 1 turn/level
+Ingredients: One straw of grass
+While under the effect of this spell, the caster may digest any vegetational 
+substance not normally edible for the caster and gain nourishment from the 
+substance. Allows the druid to eat grass, leaves and other plants. The taste of 
+the substance will in no way be affected. Note that to gain enough nourishment 
+to survive from only eating grass, one would have to put away quite an amount, 
+and would have to spend a lot of time collecting it. 
+
+Electric Schock
+Spell Type: Battle Magic
+Spell Level: 1
+Magic Points: 1
+Range: Touch
+Duration: Instantaneous
+Ingredients: Piece of catskin and a small glass rod
+The caster charges himself with static electricity and will deliver an 
+electrical shock to the next being or object he touches. The shock is quite 
+powerful and delivers 1D3 Wounds, irrespective of target's Toughness and 
+Armour. Any victim failing a Toughness test is paralyzed for one round, unable 
+of any physical action.
+
+Familiar
+Spell Type: Battle Magic
+Spell Level: 3
+Magic Points: 10
+Range: Not applicable
+Duration: Permanent
+Ingredients: A drop a fresh blood
+Bordering on Demon Magic, this spell summons a Familiar that is bound to the 
+caster. This Familiar functions quite different from the Druid Familiar found 
+in the rulebook. The magicians Familiar takes on a physical form, often that of 
+a cat or an owl, but always an animal that corresponds with the alignment of 
+the caster. The form may be no larger than the magician. The form will have all 
+the normal statistics for the corresponding animal, except for WP and Int which 
+will be equal to the caster's. The magician and the Familiar are then in 
+constant telepathic contact, and the caster can use the Familiar's senses as he 
+wishes. This contact remains as long as the magician and the Familiar are no 
+longer than 300 yards apart. The Familiar may learn skills as any other 
+character, within the physical limitations of it's chosen appearence. If the 
+Familiar is hurt, the magician suffers the same amount of damage in Wounds. 
+Criticals taken by the Familiar does not effect the magician.
+
+Firestorm
+Spell Type: Battle Magic
+Spell Level: 4
+Magic Points: 10 per round
+Range: 100 yards 
+Duration: See notes
+Ingredients: ball of sulphur and a feather of a dove
+One of the most devestating and fearsome spells ever discovered. The spell 
+allows the caster to control a raging storm of fire within 100 yards. The storm 
+follows the gestures of the magician and has an effective radius of 48 yards. 
+The storm lasts for as long as the magician fuels it with magic points. All 
+creatures and objects caught within the raging fire suffers 2D6 Wounds 
+(Toughness and Armour protects). Flammable targets takes an additional 2D6 
+Wounds. All targets must also make a Toughness test to remain conscious for 
+every round they are caught in the storm.
+
+Flame Arrow
+Spell Type: Battle Magic
+Spell Level: 3
+Magic Points: 5
+Range: Touch
+Duration: 1 round per level
+Ingredients: Sulphur and oil mixed together
+The caster smears some of the sulphur and oil on the tip of the arrow or bolt, 
+and then intones the spell. After the spell is completed, the arrow must be 
+shot within the duration of the spell, using either a bow or a crossbow. When 
+striking the target, the arrow explodes as a Fireball, causing 1D10+3 points of 
+damage to anyone within 10 feet. Flammable targets takes an additional 1D8 
+points of damage. If the arrow or bolt has not struck any target at the end of 
+the duration, it explodes at the present location causing damage as above.
+
+Fleet Footed
+Spell Type: Petty Magic
+Spell Level: P
+Magic Points: 1 per round
+Range: Personal
+Duration: 1 round per MP
+Ingredients: Pair of miniature golden shoes
+While under the influence of this spell the magician may add 1 to his Move 
+characteristic. The spell lasts for as long as the caster maintain it with 
+magic points.
+
+Flip
+Spell Type: Petty Magic
+Spell Level: P
+Magic Points: 1
+Range: 10 feet
+Duration: Instantaneous
+Ingredients: Small coin
+The magician may flip one object no heavier than a bottle of wine . Often used 
+to turn a page in a book, or flip a coin to impress friends and relatives.
+
+Greater Blade of Fire
+Spell Type: Battle Magic
+Spell Level: 3
+Magic Points: 5 per round
+Range: Personal
+Duration: See notes
+Ingredients: Small ball of sulphur 
+This greater version of Blade of Fire creates a two-handed sword of fire. The 
+magician still uses his WP to determine hits. The blade may not be parried. If 
+a hit is achieved the blade causes 2D6+3 points of damage (only metal and magic 
+armour protects). Flammable targets suffer an additional 2D4 damage. The blade 
+can be wielded as long as the magician channels magic points into the spell. 
+After the end of the last round the caster may decide to throw the blade as a 
+Fireball, doing 2D6+3 points of damage to any single target (irrespective of 
+any armour). Flammable targets are caused an additional D6+3 points of damage.
+
+Hold
+Spell Type: Battle Magic
+Spell Level: 2
+Magic Points: 6 
+Range: 10 yards
+Duration: 1 round 
+Ingredients: Small chain
+A lesser variant of the Stand Still spell, when cast upon any target no larger 
+than the magician, the target is held by invisible hands, unable to move, for 
+the duration of the spell. The target is always allowed a Magic Test to avoid 
+the effects of this spell.
+
+Killing Touch
+Spell Type: Battle Magic
+Spell Level: 4
+Magic Points: 10 
+Range: Touch
+Duration: See notes
+Ingredients: Pulverised human bone
+When touching a living being after casting this spell,  the magician channels 
+his power into the target, which suffers a fatal heart attack and must make a 
+Toughness test to survive the shock. The spell will only allow one touch before 
+having to be cast again. Other magicians may also make a WP test to avoid the 
+effect.
+
+Locate Large Animal
+Spell Type: Druid Magic
+Spell Level: 2
+Magic Points: 4 
+Range: 100 yards
+Duration: See notes
+Ingredients: Piece of fur from any large animal
+With this spell, the Druid may determine the existence of any large animal 
+within 100 yards, and also its spieces, age and sex. The spell will only detect 
+one animal at a time. 
+
+Locate Small Animal
+Spell Type: Druid Magic
+Spell Level: 1
+Magic Points: 2 
+Range: 100 yards
+Duration: See notes
+Ingredients: Piece of fur from any small animal
+With this spell, the Druid may determine the existence of any small animal 
+within 100 yards, and also its spieces, age and sex. The spell will only detect 
+one animal at a time. 
+
+Magic Steed
+Spell Type: Battle Magic
+Spell Level: 4
+Magic Points: 20
+Range: Not applicable
+Duration: 1 hour per level
+Ingredients: Small silver horseshoes
+The magician summons a magic steed, taking the form of a great white or black 
+stallion. The horse have got the statistics found below. For purposes of 
+combat, the Magic Steed is treated as if it were a Warhorse. If it encounters a 
+fog, the Magic Steed may ride on top of the fog as well as on the ground, 
+thereby gaining a sort of flight. It is limited to the fog and may not ride 
+through thin air. 
+Profile: M 10 WS 50 BS 0 S 7 T 5 W 13 I 40 A 1 Dex - Ld 10 Int 10 Cl 10 WP 10 
+Fel - 
+
+Measure
+Spell Type: Petty Magic
+Spell Level: P
+Magic Points: 2
+Range: 100 yards
+Duration: Instantaneous
+Ingredients: Small silver horseshoes
+The caster may determine the distance betweem two points, accurate down to one 
+inch. Both the points must be within 100 yards of the magician.
+
+Memorize
+Spell Type: Petty Magic
+Spell Level: P
+Magic Points: 1
+Range: Personal
+Duration: 1 day per level
+Ingredients: Small ribbon
+For every 10 points of Intelligence possessed by the magician, he may memorize 
+one single thing, such as a name or a place, a picture or a map. For the 
+duration of the spell, he may recall the name or image to his mind and see it 
+as clearly as if it really were there. Often used to cheat on exams, this way 
+to good grades is frowned upon by the real academics, who are learning just for 
+the sake of learning.
+
+Mend
+Spell Type: Battle Magic
+Spell Level: 3
+Magic Points: 8
+Range: Touch
+Duration: Permanent
+Ingredients: Piece of cloth and sticks
+Using this spell, the caster may mend any one broken limb. The spell must be 
+applied at least within one hour of the accident, and does not stop any 
+bleeding or other related injuries. 
+
+Painful Touch
+Spell Type: Battle Magic
+Spell Level: 1
+Magic Points: 3
+Range: Touch
+Duration: 1 turn per level
+Ingredients: Silver needle
+For the duration of this spell, all living beings the caster touches 
+experiences an intense pain, like being burned by a redhot poker, where they 
+are touched. The targets must make a WP test not to let anything held go. If 
+the magician holds on to a target, the victim must make a WP test each round 
+not to pass out from the intense pain.
+
+Penetrating Gaze
+Spell Type: Battle Magic
+Spell Level: 2
+Magic Points: 3 per inch
+Range: Personal
+Duration: 1 round per level
+Ingredients: Small magnifying glass
+By means of this spell, the caster may see through items no denser than wood as 
+if they were not there. For every 3 MP spent on the spell, one inch of material 
+can be seen through. This spell does not allow the magician to see through 
+metals or dense materials like granite or marble.
+
+Read Mind
+Spell Type: Battle Magic
+Spell Level: 3
+Magic Points: 5 per round
+Range: Touch
+Duration: See notes
+Ingredients: Small pendulum
+When casting this spell the magician may scan the mind of any creature. This 
+does not mean that the caster understands all thoughts, even though he recieves 
+all information as pictures and words. A dragon mind, for example, is far from 
+understandable for a simple human mind, and vice versa. The caster can through 
+this spell gain information locked away deep in the targets brain, even things 
+the target wishes to hide. Basic motivations, fears, loves, thoughts about 
+specific subjects, all are scanned by the magician. The target is allowed one 
+Magic Test per round the contact is upheld. If the magician looses his physical 
+grip on the target or a Magic Test is passed, the contact is immediately broken.
+
+Read Surface Thoughts
+Spell Type: Battle Magic
+Spell Level: 1
+Magic Points: 3 per round
+Range: 3 feet
+Duration: See notes
+Ingredients: Small pendulum
+This weaker mind scan allows the caster to read the surface thoughts of any 
+creature within range. The target is allowed a Magic Test each round the 
+contact is upheld to aviod the probe. Contact is broken as soon as a Magic Test 
+is passed or the target moves out of range.
+
+Restore Minor Object
+Spell Type: Battle Magic
+Spell Level: 1
+Magic Points: 3
+Range: Touch
+Duration: Permanent
+Ingredients: Pieces of broken object
+Using this spell, the magician may restore broken objects to their former 
+shape. The caster must have all pieces of the object, or the mending will be 
+incomplete. The objects may be no larger than the average vase.
+
+Send Thoughts
+Spell Type: Battle Magic
+Spell Level: 2
+Magic Points: 4 per round
+Range: 10 yards per level
+Duration: See notes
+Ingredients: Feather of a pigeon
+The magician may by using this spell send any thoughts to whomever he choses 
+within range. If the reciever is not aware of the fact that he is to recieve a 
+message, he automatically try to defend himslef by making a Magic Test, be it 
+friend or foe of the caster. If the reciever does not want to continue 
+recieving messages after a link is established, he is allowed one Magic Test 
+each round the caster tries to uphold the link between them. As soon as a Magic 
+Test is passed, the contact is broken.
+
+Shield
+Spell Type: Battle Magic
+Spell Level: 1
+Magic Points: 3 per round
+Range: Personal
+Duration: See notes
+Ingredients: Piece of broken shield
+When casting this spell, the magician is, on any chosen arm, given the 
+protection of an invisible shield. The shield functions the same as a normal 
+shield, but will not interfere with further spellcasting. The shield lasts as 
+long as the magician continues to spend Magic Points to keep it up.
+
+Stairway
+Spell Type: Battle Magic
+Spell Level: 2
+Magic Points: 4
+Range: 10 yards per level
+Duration: 1 turn per level
+Ingredients: Piece of broken stair
+The caster may at any place there is space enough, create a stairway, leeding 
+up or down, to a maximum of 10 yards in all directions per level. Any 
+obstructions in the stairs way, immediately cancels the spell.
+
+Stonefist
+Spell Type: Battle Magic
+Spell Level: 1
+Magic Points: 2 per round
+Range: Personal
+Duration: See notes
+Ingredients: Knuckledusters
+While fueling this spell with Magic Points, the caster gains the skill of 
+Strike Mighty Blow, if using his fist as a weapon. Note that as the ingredient 
+is a knuckleduster, the damage is further modified.
+
+Storm Blast
+Spell Type: Battle Magic
+Spell Level: 3
+Magic Points: 6 per round
+Range: 48 yards
+Duration: 1 round
+Ingredients: Piece of charcoal
+The caster throws a tremendous storm blast at his targets. All beings and 
+objects along a straight line chosen by the magician and within 48 yards must 
+make a Strength test to remain standing. No one may advance towards the caster. 
+If the caster choses, he may fuel the storm blast with Magic Points for 
+secveral rounds, requiring a Strength test each round for effected creatures. 
+
+Warpstone Sense
+Spell Type: Battle Magic
+Spell Level: 3
+Magic Points: 6
+Range: 48 yards
+Duration: 1 turn 
+Ingredients: Small Warpstone
+The caster may while under the influence of this spell feel the presence, or 
+absence of any source of Warpstone within range. The general amount of 
+Warpstone is also felt, as is the direction and distance, in a straight line to 
+the source of chaos.
+
+Wind Protection
+Spell Type: Petty Magic
+Spell Level: P
+Magic Points: 1
+Range: Personal
+Duration: 1 hour
+Ingredients: Small piece of fur
+This spell negates any effects upon the character caused by breezes and medium 
+wind blasts. The effect lasts for 1 hour, or until dispelled by the caster.
+

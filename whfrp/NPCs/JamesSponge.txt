@@ -1,0 +1,178 @@
+JAMES SPONGE
+
+The Cake Guild is an association whose purpose is to protect the
+halfling communities in the Empire. Any halfling that feels menaced
+can ask for the protection of the Guild; if the chiefs (les Chefs) of
+the Guild think that the case is worth of consideration, they will
+probably send one or more agents to investigate. When the case
+requires particular attention, spies could be used. If it is a VERY
+special case, then it is most probable that James Sponge will be sent.
+
+Before becoming a secret agent for the Cake Guild, James Sponge has
+been a cook, a thief, a charlatan. As a cook he gained a certain
+fame as the inventor of the world-wide famous (at least, that's what
+he says) Sponge Sponge, also called 007 Sponge because it is composed
+of seven layers of sponge interleaved with seven different creams whose
+recipe is secret. He is also the world-wide famous author (at least,
+that's what he says) of the book "Sponge's Sponges", including 101
+recipes for cakes and sweets (but the "007 Sponge" is not
+included!!). 
+
+At the moment, he is working for the Cake Guild as a secret agent; he
+is often sent to investigate on cases involving the life of halfling
+communities, every time the chiefs of the Guild suspect that someone
+is attempting to somehow disturb them. 
+
+He is now writing a book whose temporary title is "Danger is My Job:
+My Life as A Secret Agent for the Cake Guild", which obviously is
+not going to be published until he retires from work - and, even then,
+probably the Cake Guild will oppose to the publication. In this book,
+he is writing the memories of his adventures. He describes himself as
+a perfect secret agent, brave, clever, strong, and all this kind of
+things: but he is likely to have slightly modified the reality of
+facts. Surely he is one of the most efficient agent working for the
+Guild, probably the best of all, although we have no precise
+information about the exact number of such agents.
+
+When he goes for a mission, he usually pretends to be a merchant or a
+confectioner. This cover usually works, because not only he is known
+by quite a few people as a confectioner, but also because he is a
+really good cook. Every spy goes in mission with a certain amount of
+weapons and useful tools for any purpose, and so does James: the Guild
+provides him with the strangest tools, made by the Chief Engineer of
+the Cake Guild Equipment Section, the Gnome Inventor Q..... the
+Fourth, also known (for short) as "Q".
+
+As a matter of fact, he is not too stupid, but sometimes pretends to
+be. He is also a nice person, friendly as most halflings are, and as
+most halflings fond of eating and drinking.
+If you meet him, convince him to prepare a "007 Sponge" for you: it's
+worthy!!
+
+Profile:
+
+M WS BS S T W  I A Dex Ld Int Cl WP Fel
+4 31 41 3 3 8 75 2  62 39  45 61 57  58 
+
+Skills:
+Act, Blather, Bribe, Charm, Concealment (Urban), Cook, Cryptography,
+Dancing, Disguise, Drive Cart, Evaluate, Flee!, Herb Lore, Linguistic,
+Luck, Mimic, Palm Object, Pick Locks, Public Speaking, Read/Write,
+Secret Language - Thieves, Seduction, Shadowing, Silent Move (Rural,
+Urban), Sixth Sense, Wit.
+
+Trappings:
+Recipe Book, d4 Homing Pigeons, Disguise Kit, Strange Small Key(*),
+Thieving Picks, Skeleton Keys, Fork, Spoon, Magical Suit(**), Coach(***).
+
+(*)"Q." gave James this key maintaining it would be able to neutralize
+a human-sized opponent without actually harming it. So far, James has
+tried to use it many times, but he hasn't yet understood which, among
+the effects produced, were meant to be and which were just
+malfunctions.
+
+Whenever James tries to use the key, roll d10 on the following table:
+
+James aims the key at the opponent, threatening him. Then...
+
+1: KABLAM! Explosion of the key causes to James 1d4 wounds (no armour
+nor toughness).
+
+2-3: BOUM! The key explodes again. No harm for James, but a thick cloud
+of smoke prevents him and whoever in the area from seeing anything for
+the next round.
+
+4-5: ????! Nothing happens. James looks at the key in disappointment. The
+opponent looks at James and is puzzled by his strange behaviour. Both
+loose the rest of their attacks for the round.
+
+6-7: PTU! The internal mixing process required to produce the
+neutralizing gas is incomplete. The key sprinkles a liquid instead of
+a gas. Roll against James' BS to see whether he hits his opponent. If
+so, he's blinded for 1d3 rounds.
+ 
+8-9: SKRIEEAK! The internal works creak horribly. Each creature within
+2 yards form James roll against WP (characters with Acute Hearing have
+a -10 penalty; James has got used to it and has a +10): those who fail
+spend the rest of the round regaining from the terrible noise and have
+their I halved for the next 1d6 rounds. Of course, deaf creatures are
+not affected.
+
+10: I can't believe it! The key has worked! It shoots a small amount
+of narcotic gas onto the opponent's face (up to 2 yards of distance),
+enough to make him sleep for 1d6 turns. Roll against James' BS to
+see whether he hits.
+ 
+This key was one of "Q."'s first creations, and the inventor will
+never admit it has any malfunction. According to him, it works exactly
+the way it should: the various different effect have the purpose to
+puzzle the opponents, who can never know what they are going to face.
+
+(**) This suit was created in the Zaubercollegium of Altdorf. James
+paid a large fee for it, but it has proved to be worthy the expense
+since then. It is a very smart dark suit; essentially, its magic lies
+in the fact that it cannot be burnt, wet, dirtied, wrinkled, stunk
+out, in a few words it will always look perfect as if it had just been
+washed and ironed (very important, for a secret agent!).
+
+As a minor feature, it also gives James 1 AP on all the body (Head not
+included). Wizards of the Zaubercollegium said this last feature was
+by far the simplest one to achieve.
+
+
+(***) James' coach is another creation by "Q" (perhaps the most
+successful one, according to the James the *only* successfull one). It
+is a 4 HP open black coach, modified by Q with some small tricks
+(bloodyhell dirty blows according to have experimented it). Coach
+companies would pay a lot of money to have them on their coaches (and
+to use them against other companies coaches!) The coach is really
+useful in the spectacular chases James has at least once a mission.
+
+All of the tricks can be activated by the coachman, handling a few
+levers. They include:
+
+1) Ejectable seats: all the seats in the coach have a underlying
+explosive charge, which can be activated by levers 1 to 4 to throw the
+passenger out the coach. The passenger will go up 1d3 yards above the
+coach before falling: calculate the damage as usual. This feature is
+useful for quick escapes, in case of real danger (although this means
+the coach will fall in the enemy hands). This feature *should* not be
+used when the retractile anti-rain cover is active... 
+
+2) Rear caltrops: lever 5 opens a back compartment. Caltrops drop on
+the road, covering the area behind the coach. This is most likely to
+stop, or at least to (painfully) slow down any pursuer. Ostinate
+pursuers entering the area will have their way hindered by James'
+present. GMs should handle the situation in the details.
+
+3) Wheel spikes: have you ever seen "Ben Hur"? Neither did Q. However,
+James' coach has retractile spikes on the wheels activated by lever
+6. The spikes can easily destroy the wheels of another coach. This was
+the purpose they were meant for. Most often James clung to them after
+an unpredicted fall while he was fighting with an enemy on the running
+coach.
+
+4) Retractile anti-rain cover: the name says everything. This trick
+was required by James before he was able to get his magical
+suit. Lever 7 activates it, providing a resistant almost
+undestructible shield against rain, snow, wind, hail, and, to a lesser
+extent, also against quarrels, arrows and some magical attacks. To
+James disappointment, shielding support against thrown boulders has not
+yet been provided (due to fund lack, he was told). The cover gives 2
+additional AP to all within the coach. The retractile anti-rain cover
+is also a good disguise for the coach.
+
+5) Retractile front-lanterns: lever 8 opens two compartment in front
+of the coach, from which two extensible poles exit with two lanterns
+on the top. Very useful during night chases or romantic ride along the
+river... ("Oh James, you always surprise me...") Thanks to complex
+works included in the compartment (according to James, thanks to some
+goodwilling fire spirit), the lanterns come out already lighted.
+
+6) Retractile front-crossbows: lever 9 opens the same compartment as
+lever 8, but, instead of the lanterns, two small foldable
+crossbow-pistol appear (of course already charged to fire!). With a
+simple touch of his finger on a button on the coach, James is able to
+fire the two crossbows. 'Q' insisted on putting an explosive charge on
+the quarrels, but James always refused. Useful to clear the road out
+of annoying people.

@@ -1,0 +1,575 @@
+<html>
+
+<head>
+
+<script type="text/javascript" src="/static/js/analytics.js" ></script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+
+
+<title>The Bergsburg Project</title>
+	<link rel=stylesheet type="text/css" href="/bergsburg/bb.css">
+<SCRIPT src="/bergsburg/rumours.js" type=text/javascript>
+</SCRIPT>
+<SCRIPT type=text/javascript>
+<!--
+function rnd(limit) {
+return Math.ceil(Math.random() * limit);
+}
+// -->
+</SCRIPT>
+</head>
+
+<body bgcolor="#000000">
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script> if (window.archive_analytics) { window.archive_analytics.values['server_name']="wwwb-app13.us.archive.org";}; </script>
+
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">
+//<![CDATA[
+var firstDate = 820454400000;
+var lastDate = 1420070399999;
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http:\/\/bergsburg.darcore.net\/districts\/viehstadt.html";
+
+var curYear = -1;
+var curMonth = -1;
+var yearCount = 18;
+var firstYear = 1996;
+var imgWidth = 475;
+var yearImgWidth = 25;
+var monthImgWidth = 2;
+var trackerVal = "none";
+var displayDay = "4";
+var displayMonth = "Jul";
+var displayYear = "2010";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+
+function showTrackers(val) {
+	if(val == trackerVal) {
+		return;
+	}
+	if(val == "inline") {
+		document.getElementById("displayYearEl").style.color = "#ec008c";
+		document.getElementById("displayMonthEl").style.color = "#ec008c";
+		document.getElementById("displayDayEl").style.color = "#ec008c";		
+	} else {
+		document.getElementById("displayYearEl").innerHTML = displayYear;
+		document.getElementById("displayYearEl").style.color = "#ff0";
+		document.getElementById("displayMonthEl").innerHTML = displayMonth;
+		document.getElementById("displayMonthEl").style.color = "#ff0";
+		document.getElementById("displayDayEl").innerHTML = displayDay;
+		document.getElementById("displayDayEl").style.color = "#ff0";
+	}
+   document.getElementById("wbMouseTrackYearImg").style.display = val;
+   document.getElementById("wbMouseTrackMonthImg").style.display = val;
+   trackerVal = val;
+}
+function getElementX2(obj) {
+	var thing = jQuery(obj);
+	if((thing == undefined) 
+			|| (typeof thing == "undefined") 
+			|| (typeof thing.offset == "undefined")) {
+		return getElementX(obj);
+	}
+	return Math.round(thing.offset().left);
+}
+function trackMouseMove(event,element) {
+
+   var eventX = getEventX(event);
+   var elementX = getElementX2(element);
+   var xOff = eventX - elementX;
+	if(xOff < 0) {
+		xOff = 0;
+	} else if(xOff > imgWidth) {
+		xOff = imgWidth;
+	}
+   var monthOff = xOff % yearImgWidth;
+
+   var year = Math.floor(xOff / yearImgWidth);
+	var yearStart = year * yearImgWidth;
+   var monthOfYear = Math.floor(monthOff / monthImgWidth);
+   if(monthOfYear > 11) {
+       monthOfYear = 11;
+   }
+   // 1 extra border pixel at the left edge of the year:
+   var month = (year * 12) + monthOfYear;
+   var day = 1;
+	if(monthOff % 2 == 1) {
+		day = 15;
+	}
+	var dateString = 
+		zeroPad(year + firstYear) + 
+		zeroPad(monthOfYear+1,2) +
+		zeroPad(day,2) + "000000";
+
+	var monthString = prettyMonths[monthOfYear];
+	document.getElementById("displayYearEl").innerHTML = year + 1996;
+	document.getElementById("displayMonthEl").innerHTML = monthString;
+	// looks too jarring when it changes..
+	//document.getElementById("displayDayEl").innerHTML = zeroPad(day,2);
+
+	var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+	document.getElementById('wm-graph-anchor').href = url;
+
+   //document.getElementById("wmtbURL").value="evX("+eventX+") elX("+elementX+") xO("+xOff+") y("+year+") m("+month+") monthOff("+monthOff+") DS("+dateString+") Moy("+monthOfYear+") ms("+monthString+")";
+   if(curYear != year) {
+       var yrOff = year * yearImgWidth;
+       document.getElementById("wbMouseTrackYearImg").style.left = yrOff + "px";
+       curYear = year;
+   }
+   if(curMonth != month) {
+       var mtOff = year + (month * monthImgWidth) + 1;
+       document.getElementById("wbMouseTrackMonthImg").style.left = mtOff + "px";
+       curMonth = month;
+   }
+}
+//]]>
+</script>
+
+<style type="text/css">body{margin-top:0!important;padding-top:0!important;min-width:800px!important;}#wm-ipp a:hover{text-decoration:underline!important;}</style>
+<div id="wm-ipp" lang="en" class="__wb_banner_div" style="display:none; position:relative;padding:0 5px;min-height:70px;min-width:800px">
+
+
+<div id="wm-ipp-inside" class="__wb_banner_div" style="position:fixed;padding:0!important;margin:0!important;width:97%;min-width:780px;border:5px solid #000;border-top:none;background-image:url(/static/images/toolbar/wm_tb_bk_trns.png);text-align:center;-moz-box-shadow:1px 1px 3px #333;-webkit-box-shadow:1px 1px 3px #333;box-shadow:1px 1px 3px #333;font-size:11px!important;font-family:'Lucida Grande','Arial',sans-serif!important;">
+   <table style="border-collapse:collapse;margin:0;padding:0;width:100%;"><tbody><tr>
+   <td style="padding:10px;vertical-align:top;min-width:110px;">
+   <a href="/web/" title="Wayback Machine home page" style="background-color:transparent;border:none;"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0"/></a>
+   </td>
+   <td style="padding:0!important;text-align:center;vertical-align:top;width:100%;">
+
+       <table style="border-collapse:collapse;margin:0 auto;padding:0;width:570px;"><tbody><tr>
+       <td style="padding:3px 0;" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb" style="margin:0!important;padding:0!important;"><input type="text" name="url" id="wmtbURL" value="bergsburg/districts/viehstadt.html" style="width:400px;font-size:11px;font-family:'Lucida Grande','Arial',sans-serif;" onfocus="javascript:this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20100704054918" /><input type="submit" value="Go" style="font-size:11px;font-family:'Lucida Grande','Arial',sans-serif;margin-left:5px;width: inherit !important" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td style="vertical-align:bottom;padding:5px 0 0 0!important;" rowspan="2">
+           <table style="border-collapse:collapse;width:110px;color:#99a;font-family:'Helvetica','Lucida Grande','Arial',sans-serif;"><tbody>
+			
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr style="width:110px;height:16px;font-size:10px!important;">
+           	<td style="padding-right:9px;font-size:11px!important;font-weight:bold;text-transform:uppercase;text-align:right;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+		                <a href="/bergsburg/districts/viehstadt.html" style="text-decoration:none;color:#33f;font-weight:bold;background-color:transparent;border:none;" title="23 May 2010"><strong>MAY</strong></a>
+		                
+               </td>
+               <td id="displayMonthEl" style="background:#000;color:#ff0;font-size:11px!important;font-weight:bold;text-transform:uppercase;width:34px;height:15px;padding-top:1px;text-align:center;" title="You are here: 5:49:18 Jul 4, 2010">JUL</td>
+				<td style="padding-left:9px;font-size:11px!important;font-weight:bold;text-transform:uppercase;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+		                <a href="/bergsburg/districts/viehstadt.html" style="text-decoration:none;color:#33f;font-weight:bold;background-color:transparent;border:none;" title="14 Aug 2010"><strong>AUG</strong></a>
+		                
+               </td>
+           </tr>
+
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr>
+               <td style="padding-right:9px;white-space:nowrap;overflow:visible;text-align:right!important;vertical-align:middle!important;" nowrap="nowrap">
+               
+		                <a href="/bergsburg/districts/viehstadt.html" title="18:06:46 May 23, 2010" style="background-color:transparent;border:none;"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+		                
+               </td>
+               <td id="displayDayEl" style="background:#000;color:#ff0;width:34px;height:24px;padding:2px 0 0 0;text-align:center;font-size:24px;font-weight: bold;" title="You are here: 5:49:18 Jul 4, 2010">4</td>
+				<td style="padding-left:9px;white-space:nowrap;overflow:visible;text-align:left!important;vertical-align:middle!important;" nowrap="nowrap">
+               
+		                <a href="/bergsburg/districts/viehstadt.html" title="2:52:06 Aug 14, 2010" style="background-color:transparent;border:none;"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0"/></a>
+		                
+			    </td>
+           </tr>
+
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr style="width:110px;height:13px;font-size:9px!important;">
+				<td style="padding-right:9px;font-size:11px!important;font-weight: bold;text-align:right;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+		                <a href="/bergsburg/districts/viehstadt.html" style="text-decoration:none;color:#33f;font-weight:bold;background-color:transparent;border:none;" title="5 Jun 2009"><strong>2009</strong></a>
+		                
+               </td>
+               <td id="displayYearEl" style="background:#000;color:#ff0;font-size:11px!important;font-weight: bold;padding-top:1px;width:34px;height:13px;text-align:center;" title="You are here: 5:49:18 Jul 4, 2010">2010</td>
+				<td style="padding-left:9px;font-size:11px!important;font-weight: bold;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+                       2011
+                       
+				</td>
+           </tr>
+           </tbody></table>
+       </td>
+
+       </tr>
+       <tr>
+       <td style="vertical-align:middle;padding:0!important;">
+           <a href="/web/20100704054918*/bergsburg/districts/viehstadt.html" style="color:#33f;font-size:11px;font-weight:bold;background-color:transparent;border:none;" title="See a list of every capture for this URL"><strong>44 captures</strong></a>
+           <div class="__wb_banner_div" style="margin:0!important;padding:0!important;color:#666;font-size:9px;padding-top:2px!important;white-space:nowrap;" title="Timespan for captures of this URL">11 Sep 02 - 14 Aug 10</div>
+       </td>
+       <td style="padding:0!important;">
+       <a style="position:relative; white-space:nowrap; width:475px;height:27px;" href="" id="wm-graph-anchor">
+       <div class="__wb_banner_div" id="wm-ipp-sparkline" style="position:relative; white-space:nowrap; width:475px;height:27px;background-color:#fff;cursor:pointer;border-right:1px solid #ccc;" title="Explore captures for this URL">
+			<img id="sparklineImgId" style="position:absolute; z-index:9012; top:0px; left:0px;"
+				onmouseover="showTrackers('inline');" 
+				onmouseout="showTrackers('none');"
+				onmousemove="trackMouseMove(event,this)"
+				alt="sparklines"
+				width="475"
+				height="27"
+				border="0"
+				src="/web/jsp/graph.jsp?graphdata=475_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000001100_2003:-1:100101010101_2004:-1:001010011010_2005:-1:100100010000_2006:-1:010000010101_2007:-1:000000000001_2008:-1:111000100002_2009:-1:201111110101_2010:6:111110110000_2011:-1:000000000000_2012:-1:000000000000_2013:-1:000000000000_2014:-1:000000000000"></img>
+			<img id="wbMouseTrackYearImg" 
+				style="display:none; position:absolute; z-index:9010;"
+				width="25" 
+				height="27"
+				border="0"
+				src="/static/images/toolbar/transp-yellow-pixel.png"></img>
+			<img id="wbMouseTrackMonthImg"
+				style="display:none; position:absolute; z-index:9011; " 
+				width="2"
+				height="27" 
+				border="0"
+				src="/static/images/toolbar/transp-red-pixel.png"></img>
+       </div>
+		</a>
+
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td style="text-align:right;padding:5px;width:65px;font-size:11px!important;">
+       <a href="javascript:;" onclick="document.getElementById('wm-ipp').style.display='none';" style="display:block;padding-right:18px;background:url(/static/images/toolbar/wm_tb_close.png) no-repeat 100% 0;color:#33f;font-family:'Lucida Grande','Arial',sans-serif;margin-bottom:23px;background-color:transparent;border:none;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="display:block;padding-right:18px;background:url(/static/images/toolbar/wm_tb_help.png) no-repeat 100% 0;color:#33f;font-family:'Lucida Grande','Arial',sans-serif;background-color:transparent;border:none;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+
+</div>
+</div>
+<script type="text/javascript">
+ var wmDisclaimBanner = document.getElementById("wm-ipp");
+ if(wmDisclaimBanner != null) {
+   disclaimElement(wmDisclaimBanner);
+ }
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+
+<TABLE BORDER=0 CELLSPACING=0 CELLADDING=0 WIDTH=100%>
+<TR>
+<TD ALIGN=center>
+<!--  -->
+
+	<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+	<TR>
+	<TD COLSPAN=3>
+		<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+		<TR>
+		<TD><a href="/bergsburg/index.html"><IMG SRC="/bergsburg/gfx/row3gfx1.gif" BORDER=0></a></TD>
+		<TD><IMG usemap="#contents" SRC="/bergsburg/gfx/row3gfx2.gif" BORDER=0></TD>
+		</TR>
+		</TABLE>
+	</TD>
+	</TR>
+	<TR>
+	<TD COLSPAN=3>
+		<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 BGCOLOR="#ffffff" WIDTH=770>
+		<TR>
+		<TD BACKGROUND="/bergsburg/gfx/leftside.gif"><IMG SRC="/bergsburg/gfx/clear.gif" HEIGHT=1 WIDTH=14 BORDER=0></TD>
+		<TD WIDTH=100%>
+			<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 ALIGN=left>
+			<TR>
+			<TD><a href="/bergsburg/index.html"><IMG SRC="/bergsburg/gfx/row4gfx1.gif" BORDER=0></a></TD>
+			</TR>
+			</TABLE>
+
+<!-- BEGIN SUBHEAD -->
+
+<!-- END SUBHEAD -->
+
+		</TD>
+		<TD BACKGROUND="/bergsburg/gfx/rightside.gif"><IMG SRC="/bergsburg/gfx/clear.gif" HEIGHT=1 WIDTH=12 BORDER=0></TD>
+		</TR>
+		<TR>
+		<TD BACKGROUND="/bergsburg/gfx/leftside.gif"><IMG SRC="/bergsburg/gfx/clear.gif" HEIGHT=1 WIDTH=14 BORDER=0></TD>
+		<TD WIDTH=100%>
+
+<!-- BEGIN MAIN -->
+<br>
+
+<CENTER><h1>Viehstadt</h1></CENTER>
+
+<table cellspacing=8>
+<tr>
+<td align=left width=80><b>Contents:</b></td>
+<td><A HREF="/bergsburg/districts/viehstadt.html#history">History</a>&nbsp;&#149;&nbsp;<a href="/bergsburg/districts/viehstadt.html#description">Description</A>&nbsp;&#149;&nbsp;<a href="/bergsburg/districts/viehstadt.html#trading">Trading Orientations</A>&nbsp;&#149;&nbsp;<a href="/bergsburg/districts/viehstadt.html#map">Map</A>&nbsp;&#149;&nbsp;<a href="/bergsburg/districts/viehstadt.html#thoroughfares">Main Thoroughfares</a>&nbsp;&#149;&nbsp;<a href="/bergsburg/districts/viehstadt.html#people">People</a>&nbsp;&#149;&nbsp;<A HREF="/bergsburg/districts/viehstadt.html#locations">Locations</A></TD>
+</tr>
+</TABLE>
+
+<div align=justify>
+
+<P><A NAME="history"></a><h3>History</h3>
+
+Settlement in the area began early, and was named after the Bergsburg butchers who were the first distinct group to emerge, in the main due to the close proximity of grazing fields to the east of the city. Viehstadt as a district subsequently expanded due to the trade flowing into the <a href="/bergsburg/districts/grossplatz.html">Grossplatz</a>, as travelling traders would occasionally decide to settle down next to this mercantile nexus. This growth peaked in the decades after the first gold rush of 2022 IC when the need for skilled craftsmen in trades associated with prospecting was at its highest. These same craftsmen supported the growth of the city during the following centuries and Viehstadt also became known as the city’s industrial hub, home to the majority of Bergsburg's artisans.
+<p>
+In 2214 IC the decision was made to expand the city wall due to the urban spread of <a href="/bergsburg/districts/osttor.html">Osttor</a> and <a href="/bergsburg/districts/sudentor.html">Sudentor</a> – this was to transform the district. The chosen foundations of the wall left a large uninhabited space between existing Viehstadt and the new boundary. Over the next century the council made funds available for an ambitious building project to construct property on the vacant land. The Rathaus employed local Dwarven architect Lothar Lunnson who, having a large sum of money to play with, embarked on a project that would imprint his style on the city. Examples of this ‘lotharian’ architecture can be seen throughout the newer end of the district.
+<p>
+Due to this spendthrift period, the council still owns the majority of rented property in the city. This concentration of municipally owned property perhaps explains the better services in the area: Observant newcomers might note the regular use of stone, numerous public cisterns, and perhaps most significantly, the only fire-watch post in the city.
+
+<P><A NAME="description"></a><h3>Description</h3>
+
+Viehstadt is by far the largest of the town's districts, as it was already a moderate size before being expanded beyond its' requirements by the 2214 wall. The wall itself is higher for the part of its length that borders the district and has benefited from superior fortifications that were added in 2340. This construction included an interesting tower on the out-reaching corner that is used by the watch and the <a href="/bergsburg/sn/bb_sn62.html">Wizards’ Guild</a>. From outside it is especially noticeable that more attention has been spent on the wall lining Viehstadt than that part bordering <a href="/bergsburg/districts/sudentor.html">Sudentor</a>.
+<p>
+Most of older side of Viehstadt sometimes known as altecke or the ‘old end’ is a cramped untidy mess of buildings and there is no distinct boundary between Viehstadt and <a href="/bergsburg/districts/grossplatz.html">Grossplatz</a>. Most locals say that when you can hear <a href="/bergsburg/districts/grossplatz.html">Grossplatz</a> you are in <a href="/bergsburg/districts/grossplatz.html">Grossplatz</a>. On the other side of Lothanplatz the buildings, in what is sometimes called neuecke or ‘new end’ are more modern, no more than a couple of centuries old.
+
+<P><A NAME="trading"></a><h3>Trading Orientation</h3>
+
+As consumers do not like traversing the city in order to see a selection of one particular product, trades are, for the most part, grouped together. Artisans who chose to establish themselves outside the area that corresponds to their craft tend to do badly with only a few notable exceptions. 
+East of the <a href="/bergsburg/districts/grossplatz.html">Grossplatz</a> is the ‘butchers’ quarter’ and although this was perhaps literally a quarter in the past when the trade lent ‘cattle town’ its name, it now constitutes less than an eighth of the district. Located in the same area are the saddlers, coopers and other trades associated with coaches, carts, horses and the great volume of traffic that passes past Viehstadt. On the border with <a href="/bergsburg/districts/sudentor.html">Sudentor</a> is the tanners’ quarter where the leather and cloth-working craftsmen have their workshops, although the quality tailors are scattered throughout the city. The other end of this road leads towards the Mourners’ Guild as well as the stonemasons, engravers and tradesman of the funerary business. The carpenters and their associated trades are spread broadly throughout the north of the district.
+<p>
+The Artisans mostly inhabit altecke where their family-owned workshops are sometimes many centuries old. The eastern half is pre-dominantly residential; for merchants who either cannot afford to live in <a href="/bergsburg/districts/osttor.html">Osstor</a> or who dislike the bustle. A variety of tradesmen of more unusual craft, (often foreigners) co-exist with the wealthier building families in homes they constructed for themselves.
+
+<P>
+
+<a name="map"><IMG ALIGN=CENTER BORDER=0 ALT="Clickable map" SRC="/bergsburg/maps/viehstadtC.jpg" USEMAP="#viehstadtmap"></a>
+
+<P><CENTER><FONT SIZE=2>Click map to see location descriptions. Click <A TARGET="_BLANK" HREF="/bergsburg/maps/viehstadtB.jpg">here</A> to get a big map in separate window.</FONT></CENTER>
+
+<map name="viehstadtmap">
+<area shape="poly" alt="Der Hythe" coords="280,320,343,267,377,292,310,360" href="/bergsburg/districts/viehstadt.html#num1">
+<area shape="rect" alt="Crystal Clear" coords="425,256,445,276" href="/bergsburg/districts/viehstadt.html#num2">
+<area shape="poly" alt="Drogo's Herbarium" coords="214,190,238,161,262,182,235,210" href="/bergsburg/districts/viehstadt.html#num3">
+<area shape="poly" alt="Roland's Rest" coords="292,212,317,187,378,233,345,270" href="/bergsburg/districts/viehstadt.html#num4">
+<area shape="poly" alt="The Butchers' Guild" coords="350,433,360,405,400,425,388,454" href="/bergsburg/districts/viehstadt.html#num5">
+<area shape="rect" alt="The Cutler's Cupboard" coords="220,390,250,357" href="/bergsburg/districts/viehstadt.html#num6">
+<area shape="poly" alt="Valla Haus" coords="456,207,480,173,496,184,472,218" href="/bergsburg/districts/viehstadt.html#num7">
+<area shape="poly" alt="The Innkeepers' Guild" coords="182,214,196,209,214,242,190,256" href="/bergsburg/districts/viehstadt.html#num8">
+<area shape="poly" alt="Middle Mountain Meats" coords="408,519,435,492,462,514,433,545" href="/bergsburg/districts/viehstadt.html#num9">
+<area shape="rect" alt="Zamin's Second Skin" coords="371,125,390,133" href="/bergsburg/districts/viehstadt.html#num10">
+<area shape="poly" alt="Grindolturm" coords="376,713,411,674,445,707,412,747" href="/bergsburg/districts/viehstadt.html#num11">
+<area shape="rect" alt="Brennen Stazion" coords="107,267,135,251" href="/bergsburg/districts/viehstadt.html#num12">
+<area shape="rect" alt="Hurgar's Clock Tower" coords="271,247,292,267" href="/bergsburg/districts/viehstadt.html#num13">
+<area shape="poly" alt="Osttor" coords="1,1,520,1,540,60,150,140" href="/bergsburg/districts/osttor.html#map">
+<area shape="poly" alt="Sudentor" coords="1,470,45,440,210,640,140,750,1,750" href="/bergsburg/districts/sudentor.html#map">
+<area shape="poly" alt="Grossplatz" coords="1,1,140,150,50,410,1,420" href="/bergsburg/districts/grossplatz.html#map">
+<area shape="default">
+</map>
+
+<h3><a name="thoroughfares"></a>Main Thoroughfares</h3>
+
+Viehstadt has no real thoroughfares and apart from the branch of Talabheimweg that leads onto Lothanplatz, most streets are narrow and winding. Carts rarely need to venture further than Lothanplatz but those streets on the eastern side are wider, straighter and run parallel to the city walls.
+<p>
+Lighting is provided communally by artisans in their parts and by the watch in the newer parts, who light the static lantern posts provided. The majority of streets are flagged, some in better repair than others
+<p>
+
+<ul>
+<li><b>Nüchterne Gasse</b>
+<br>
+Nüchterne Street boasts the most taverns of all roads in the city. Students from <a href="/bergsburg/districts/verenenstadt.html">Verenenstadt</a> cross town to frequent these establishments, as do Dwarves and the better-to-dos in <a href="/bergsburg/districts/osttor.html">Osttor</a> and, although this creates an unseemly mix at times, it is one of the safest places to drink in the city. Even so the Watch maintains a presence here, looking on from the walls on most evenings. Infamous bars such as the Luckless Panner and the Silent Poet can be found here.
+<p>
+<li><b>Der Shamblest</b>
+<br>
+This winding lane leading through the centre of butchers’ quarter is the oldest in the district and mishapenly cobbled. The abattoirs that back on to it feed the butchers’ shops that invariably front onto more hygienic thoroughfares. In the mornings the lane is packed with carts laden with fresh carcasses. This inevitably means that most days it is filthy: strewn with offal and drenched in blood. In the summer the stench can be unbearable.
+<p>
+<li><b>Gerbenstrasse</b>
+<br>
+This narrow street starts in the old end and leads up a slight incline to the new. Foremost at Gerbenstrasse’s western end are the huge tanners' barns. Within these stone, barn-like buildings are the tanning pits that were once outside the town; fumes and steam escape through their narrow-slitted windows. Leather hangs from windows and poles above the street dripping liquids and dyes and at times this end of Gerbenstrasse can smell at least as bad as Der Shamblest. The eastern end is packed with the workshops of the leather-workers guild, cordwainers, corriers, homers, saddlers and the like. No group monopolises trade here and merchants can shop around the wealth of goods on sale in search of a reasonable price.
+<p>
+<li><b>Lothanplatz</b>
+<br>
+The main market place in Viehstadt is spacious, although it is still considerably smaller than <a href="/bergsburg/districts/grossplatz.html">Grossplatz</a>. As opposed to the <a href="/bergsburg/districts/grossplatz.html">Grossplatz</a> and its consumer markets, Lothanplatz is a working area. Bulk goods travelling the land trade routes are bought and sold, either directly to artisans, traders or stock houses. Merchants and traders frequent the area at all times along with the many porters offering their services in carrying smaller loads. 
+The square is a good place to compare the differing architectural styles in Viehstadt as it more or less splits the old and new halves of the district. The square was entirely paved as part of the municipal building scheme, which was an essential move due to the amount of traffic it now receives.
+<p>
+<li><b>Blutgang</b>
+<br>
+Blutgang defines the border with <a href="/bergsburg/districts/osttor.html">Osttor</a>, anything north of it is considered outside Viehstadt. It is a road that is frequented by prospectors and adventurers, especially those on short stay. Along its length can be found some of the best small bakeries in the city, several provision stores and the pick of the more reputable guest-houses.
+<p>
+<li><b>Friedrick’s Allee</b>
+<br>
+Beautifully cobbled and un-plagued by traffic, Friedricks’ Allee runs up a shallow incline following the wall from the border with <a href="/bergsburg/districts/sudentor.html">Sudentor</a> to its abrupt corner that defines the sharp point in the Viehstadt wall. Lined by trees and some of the most exclusive properties, (privately owned by merchants or wealthy artisans) in the district it ends at Grindolturm. The well-respected physician <A href="/bergsburg/sn/bb_sn28.html">Bernhard Hardtung</a> has his home and office here.
+<p>
+</ul>
+<p>
+
+<h3><a name="people"></a>The People</H3>
+
+Most of Viehstadt is given over to the middle class artisans who supply Bergsburg with commodities and trade items. Artisans often live on the premises of their workshops, often above them while apprentices' lodge in the same place that they work. Goods can be bought from these workshops directly and during the daylight hours Viehstadt is a hive of commercial activity.
+<p>
+Viehstadt’s inhabitants are generally better off than their neighbours in <a href="/bergsburg/districts/sudentor.html">Sudentor</a> but not as wealthy as the mercantile classes that reside in <a href="/bergsburg/districts/osttor.html">Osttor</a>. The population, who for the most part are small-time traders whose business does not extend outside the city, tend to bear the brunt of civic taxes which the poor cannot or do not pay and from which many of those resident in <a href="/bergsburg/districts/osttor.html">Osttor</a> and <a href="/bergsburg/districts/harzel.html">Harzel</a> find themselves exempt. The district is a diverse mix of trades and therefore of people. The majority of the town's foreigners, travelling merchants who have settled in the city, live in the neuecke and this district has become more liberal than most. The same cannot be said for the altecke where the family-orientated businesses of artisans hold a wealth of traditional, conservative views. As Viehstadt abuts <a href="/bergsburg/districts/osttor.html">Osttor</a> there is a notable, although much lesser, dwarvish influence here too.
+<p>
+The Guild of Stevedores and Teamsters have a large portion of their members employed here and in addition to their control of neighbouring <a href="/bergsburg/districts/sudentor.html">Sudentor</a> and Viehstadt’s negligible criminal element, the district comes within their sphere of influence allowing them to wield greater power than any other single group. However they seldom opt to use this other than in circumstances of severe harassment and although relations can be acrimonious, most employers are wary that secure labour depends on co-operation with the Guild. The watch never maintains a heavy presence here although there are always a couple arbitrating petty disputes in Lothanplatz. Patrols are more regular than in <a href="/bergsburg/districts/sudentor.html">Sudentor</a> however, often encouraged by the generous donations of locals.
+<p>
+PCs unaccustomed to trading environments may feel intimidated by the hustle and bustle of the Lothanplatz and the associated trading areas. Blutgang is lively in the day and there is a similar atmosphere around Nüchterne Gasse at night. The areas around Freidrick’s Allee are always quiet and peaceful.
+<p>
+
+<h3><a name="locations"></a>Locations</h3>
+
+<ol>
+
+<a name="num1"></a>
+<li><b>Der Hythe</b>
+<br>
+A huge rectangular trade-hall of impressive size it stands as one of the cities' largest buildings and the finest example of Lotharian architecture, one of its side walls runs the entire length of Lothanplatz. It is here that wholesale dealing is done by Bergsburg traders and where regional suppliers can sell their goods into storage. There are three wide, arched entrances for wheeled vehicles and two working cranes that operate from the halls’ first floor gallery, loading heavier goods into storage. The Merchants’ Guild rents Der Haythe from the Council and effects control over the site.
+
+<a name="num2"></a>
+<p><li><b><a href="/bergsburg/sn/bb_sn17.html">Crystal Clear Glassblower</a></b>
+<br>
+In a street off Nüchterne Gasse, Heinrich Vosterkind runs one of Bersburg’s two glass-making workshops.
+
+<a name="num3"></a>
+<p><li><b>Drogo's Herbarium</b>
+<br>
+Just off Lothanplatz this establishment is run by the Halfling Drogo. The range of herbs is as good as any in the city with a good supply of sweet smelling plants that regularly sell to residents near to the butchers quarter and a considerable stock of Grave root. Some locals have heard rumours that Drogo is somehow connected to the shadowy Raven Knights of the Cult of Morr.
+
+<a name="num4"></a>
+<p><li><b>Roland's Rest</b>
+<br>
+Proudly the largest hostelry in the city, Roland’s Rest sits on the corner of Lothanplatz and is one of the most prominent buildings for those entering from Kleintalabheimweg. Its ancient, dusty maze of rooms is regularly filled with a host of visiting traders, merchants and a range of oddballs and characters (some of whom have been there for years). Reinald Torten runs the inn along with the stable business and saddlers that are affiliated to it. He is one of the most influential businessmen in the district and in direct competition with Hochland Crossing Coaches.
+
+<a name="num5"></a>
+<p><li><b>The Butchers’ Guild</b>
+<br>
+One of the oldest guilds in the city, the Butchers’ Guild operates from an old first floor apartment here. Central to their members’ area it is reached from Der Shamblest via an external wooden staircase. This leads to an office with balcony views of the butchers' back streets. The sign of a cleaver hangs over the door.
+
+<a name="num6"></a>
+<p><li><b>The Cutler’s Cupboard</b>
+<br>
+Situated in an extremely narrow side alley between Der Shamblest and Lothanplatz. Arne Kurkin and his family have a tradition of providing the butchers’ trade with carving equipment that has endured three centuries. Interestingly, Arne also has a tradition of selling high quality throwing knives to a more exclusive clientele.
+
+<a name="num7"></a>
+<p><li><b>Valla Haus</b>
+<br>
+This elegant Lotharian house on Nüchterne Gasse was obtained by Hofbauer-Bodelstein Trading a century ago after they received it in a will from a benefactor. They are thought to have close links with the butchers trade and other businesses in their end of Viehstadt.
+
+<a name="num8"></a>
+<p><li><b><a href="/bergsburg/sn/bb_sn11.html">The Innkeepers' Guild</a></b>
+<br>
+A non-descript three-storey building midway down Nüchterne Gasse, the Guild Council vet new innkeepers.
+
+<a name="num9"></a>
+<p><li><b>Middle Mountain Meats</b>
+<br>
+Hochland's finest meats are sold in this shop and the coat of arms of many a Hochland noble family is bolted outside above the glass pane. For generations Uhler Fleisher’s family has cut and sold the best meat in the city from their shop at the southern end of Der Shamblest and ‘Lean’ Uhler is particularly renown for his excellent venison. Uhler’s other reputation is that he has the fiercest of the dogs (that work in and patrol his premises) of all the butchers of Viehstadt.
+
+<a name="num10"></a>
+<p><li><b>Zamin’s Second Skin</b>
+<br>
+This small tattoo emporium is run by the heavily set, heavily-decorated Zamin who in fact is a well-mannered Dwarf of culture. Located among the other Dwarven workshops that clutter Viehstadt’s branch of Thorgrimstrasse, Second Skin is easily identified by its artistic and colourful signage.
+
+<a name="num11"></a>
+<p><li><b>Grindolturm</b>
+<br>
+This tower, two centuries old, is the work of the <a href="/bergsburg/sn/bb_sn67.html">Dwarven Engineers’ Guild</a>, and as such an impressive fortification. Standing on the ‘spike’ of the Viehstadt wall, the Watch and City Guard use several floors of the tower and between them have an interesting collection of crossbows and other missile weapons stored there. Interestingly, the <a href="/bergsburg/sn/bb_sn62.html">Wizards’ Guild</a>, which contributed generously to the construction, owns the uppermost room of the tower. Non-guild members are not permitted to enter and typical rumours persist as to its function. It is called Grindol’s Watch by most after the engineer who constructed and manned it, but increasingly by some locals as Vogel’s Turm.
+
+<a name="num12"></a>
+<p><li><b>Brennen Stazion</b>
+<br>
+Situated in west Viehstadt, this is Bergsburg's only fire-watch station, manned by the four sole members of Bergsburg's only fire watch. Many locals find it quite ironic the station, along with its' cisterns of rainwater, leather hoses and small watchtower, is situated central to the majority of council-owned property in the city. Funded by the Rathaus they are comically selective about which properties they tend to in an emergency.
+
+<a name="num13"></a>
+<p><li><b>Hurgar’s Clock Tower</b>
+<br>
+Lothanplatz's defining monument, the three-storey clock tower sits off-centre of the main square. A completely aesthetic structure it looks slightly out of place. The intricate clock-piece is kept in good working order by Old Hurgar a craggy, bearded Dwarf with a grumpy temperament. In recent decades merchants, and then also travellers, have taken to sticking passing notes to the lower brickwork in the hope of contacting companions and other itinerants, a practice that Hurgar detests. He will frequently take to leaning out of the towers higher windows and volleying abuse and sometimes objects at onlookers. Since he has never been known to venture out of the tower the mass of parchment stuck to its outer walls is likely to stay put.
+
+</ol>
+
+<br>
+
+<p>
+<i>(Note: the locations described here are by no means exhaustive.  It is intended that future contributors to the Bergsburg project will use this description of the area to build on what is delineated here.  Although the 'major' institutions and landmarks of the area are described, there is plenty of room for expansion and further development)</i>
+
+</div>
+<br>
+<!-- END MAIN -->
+
+		</TD>
+		<TD BACKGROUND="/bergsburg/gfx/rightside.gif"><IMG SRC="/bergsburg/gfx/clear.gif" HEIGHT=1 WIDTH=12 BORDER=0></TD>
+		</TR>
+		<TR>
+		<TD BACKGROUND="/bergsburg/gfx/leftcorner.gif"><IMG SRC="/bergsburg/gfx/clear.gif" HEIGHT=10 WIDTH=14 BORDER=0></TD>
+		<TD BACKGROUND="/bergsburg/gfx/bottomline.gif"><IMG SRC="/bergsburg/gfx/clear.gif" HEIGHT=10 WIDTH=1 BORDER=0></TD>
+		<TD BACKGROUND="/bergsburg/gfx/rightcorner.gif"><IMG SRC="/bergsburg/gfx/clear.gif" HEIGHT=10 WIDTH=12 BORDER=0></TD>
+		</TR>
+		</TABLE>
+	</TD>
+	</TR>
+	</TABLE>
+
+<!-- START RUMOUR FRAME -->
+
+	<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 bgcolor="#ac042c">
+	<TR>
+	<TD COLSPAN=3>
+		<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=770 bgcolor="#ac042c">
+		<TR>
+		<TD BACKGROUND="/bergsburg/gfx/leftcorner3.gif"><IMG SRC="/bergsburg/gfx/clear.gif" HEIGHT=9 WIDTH=14 BORDER=0></TD>
+		<TD BACKGROUND="/bergsburg/gfx/topline.gif"><IMG SRC="/bergsburg/gfx/clear.gif" HEIGHT=9 WIDTH=1 BORDER=0></TD>
+		<TD BACKGROUND="/bergsburg/gfx/rightcorner3.gif"><IMG SRC="/bergsburg/gfx/clear.gif" HEIGHT=9 WIDTH=12 BORDER=0></TD>
+		</TR>
+		<TR>
+		<TD BACKGROUND="/bergsburg/gfx/leftside2.gif"><IMG SRC="/bergsburg/gfx/clear.gif" HEIGHT=1 WIDTH=14 BORDER=0></TD>
+		<TD></TD>
+		<TD BACKGROUND="/bergsburg/gfx/rightside2.gif"><IMG SRC="/bergsburg/gfx/clear.gif" HEIGHT=1 WIDTH=12 BORDER=0></TD>
+		</TR>
+		<TR>
+		<TD BACKGROUND="/bergsburg/gfx/leftside2.gif"><IMG SRC="/bergsburg/gfx/clear.gif" HEIGHT=1 WIDTH=14 BORDER=0></TD>
+		<TD WIDTH=100% bgcolor="#ac042c">
+
+
+<center>
+<table width=100% BORDER=0 CELLSPACING=0 CELLPADDING=0 bgcolor="#ac042c">
+<tr>
+<td>
+<font color="#dea411">
+<SCRIPT type=text/javascript>
+<!--
+var limit = rumours.length-1;
+var selected=(rnd(limit));
+document.write ("<div align='justify'>"+rumours[selected]+"</div>");
+// -->
+</SCRIPT>
+</font>
+</td>
+</tr>
+</table>
+</center>
+
+		</TD>
+		<TD BACKGROUND="/bergsburg/gfx/rightside2.gif"><IMG SRC="/bergsburg/gfx/clear.gif" HEIGHT=1 WIDTH=12 BORDER=0></TD>
+		</TR>
+		<TR>
+		<TD BACKGROUND="/bergsburg/gfx/leftcorner2.gif"><IMG SRC="/bergsburg/gfx/clear.gif" HEIGHT=10 WIDTH=14 BORDER=0></TD>
+		<TD BACKGROUND="/bergsburg/gfx/bottomline2.gif"><IMG SRC="/bergsburg/gfx/clear.gif" HEIGHT=10 WIDTH=1 BORDER=0></TD>
+		<TD BACKGROUND="/bergsburg/gfx/rightcorner2.gif"><IMG SRC="/bergsburg/gfx/clear.gif" HEIGHT=10 WIDTH=12 BORDER=0></TD>
+		</TR>
+		</TABLE>
+	</TD>
+	</TR>
+	</TABLE>
+
+<!-- END RUMOUR FRAME -->
+
+<!--  -->
+</TD>
+</TR>
+</TABLE>
+
+
+<map name="contents">
+<area shape="rect" alt="Contact Us" coords="23,1,136,37" href="/bergsburg/contact.html">
+<area shape="rect" alt="Enter the City" coords="162,1,252,37" href="/bergsburg/enter.html">
+<area shape="rect" alt="Project Information" coords="278,1,394,37" href="/bergsburg/info.html">
+<area shape="rect" alt="Bergsburg Indices" coords="416,1,483,37" href="/bergsburg/indices.html">
+<area shape="default">
+</map>
+
+
+</body>
+
+</html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 5:49:18 Jul 4, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:19:44 Apr 17, 2014.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

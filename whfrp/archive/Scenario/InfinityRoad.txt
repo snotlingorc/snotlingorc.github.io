@@ -1,0 +1,49 @@
+From cm6248@wlv.ac.ukMon Aug 14 08:58:13 1995
+Date: Wed, 24 May 95 12:05:18 0100 (BST)
+From: "O.Cooper" <cm6248@wlv.ac.uk>
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: New encounter for WFRP
+
+This little incident is a brief encounter usable when the PCs are travelling across country or along a deserted road.  It is designed to be dropped into such a journey and as such does not rely too much on peoples and places that may be in my campaign/games, but unusable in yours.  Use it or abuse it as you will.
+
+Is this sort of thing more useful to WFRP-list GMs than scenarios? I think it might be as some scenarios are difficult to fit into some campaigns.  Another point is that perhaps it might encourage people who are unwilling to type in long adventures, but have plenty of good ideas none the less to share stuff with the rest of us.  Something to discuss perhaps.
+
+THE INFINITY ROAD
+
+This encounter should be placed miles from the nearest habitation, and is suitable for any part of the Old World or Albion.  
+The PCs are wearily trudging along a deserted road, having not seen anybody else today.  The weather is miserable, the air is damp and the scenery un-interesting.  The PCs are thoroughly pissed off.  In the distance, they see a line of what might be spear-armed troops marching along the road towards them. There are suitable ruts in the earth, damp bushes, pine trees etc. surrounding the road to allow the PCs to hide in order to observe the soldiers, or they can await them in the middle of the road; it makes no difference.
+
+When the soldiers arrive in view, it will become apparent to all PCs that the approaching column is completely silent; there is no tramp of feet or sound of drums.  The soldiers wear white coats with black tricorns (a three cornered hat), are shod in heavy black boots and carry muskets slung over their shoulders (although the PCs may not recognise these as firearms, as plug bayonets are inserted into the muzzles).  They resemble Austrian infantry of the Seven Years War.
+
+Drummers and standard bearers move ahead of the column, while cavalry outriders ride along the sides of the road, all in absolute silence.
+
+If the PCs move up close to the soldiers, they discover that each soldier is vaguely translucent, but this will not be apparent to PCs observing the soldiers from a distance.  The PCs will no doubt assume the men to be ghosts, but they are not, and cannot be harmed by magical or normal weapons.  They do not trigger Identify Undead as they are not undead.  Neither can the PCs succeed in conversing with the men or catching their attention.  To all intents and purposes, they act like programmed holograms, lacking any material substance or ability to respond to the PCs.  They leave no foot-prints behind.  Illusion-destroying spells have no effect.  PCs with the Lip Reading skill will be able to catch snatches of what the soldiers are saying to one another, but much of the language is unknown.
+
+So whats going on ?
+
+At this point in the universe, the currents and eddys of time have become momentarily warped and barriers between different times have become rather thin.  The soldiers above are from several centuries in the future of the PCs, and are marching down the future incarnation of this road.  The thin time barrier has carried an image of them to the PCs time.  The actual soldiers themselves are completely unaware of this phenomena.
+
+After the puzzled PCs give up on these an continue their journey onwards, the road travels through a cutting in the hillside, where steep grassy cliffs overshadow the road.  While in the cutting, they will be assaulted by a hail of thrown stones.  Above them on the slopes are a dozen primitive humans, the types that inhabited the Old World at around the time Athel-Loren was founded.  Each will fling a stone at the PCs before charging into combat.
+
+HUNTER-GATHERERS (12)
+
+M WS BS S T W I  A Dex Ld Int Cl Wp Fel
+4 33 25 3 3 7 30 1  29 19  19 29 29  19
+Trappings - Furs, Primitive Club, Stone (to throw at PC as Improvised Weapons)
+
+Work out how many stones are flung at each PC and roll secret dice against the attackers BS.  Half the stones have no material consistency (like the white-clad soldiers above) for these attacks, ignore the dice and say something like "That one obviously missed, but you didn't see where it went" or "You wince and shut your eyes as a reflex, but it doesn't hit you".
+
+The savages will now run down to fight the PCs.  Half the savages will fight as normal, but the other half only partially exist in this time (the stones they throw are the immaterial ones) and are as substanceless as the soldiers.  However they can see and hear the PCs, but will be frightened to discover that their blows pass through the PCs and vice versa.  As a result, an immaterial savage will fight for only a couple of rounds after being struck for no visible effect or striking a PC for no effect before fleeing, becoming more and more insubstantial until they dissolve into nothing.  The other half are fully material and fight to the death dropping as physical corpses.
+
+Finally the PCs will discover an over-turned wagon, fire-blackened with a charred horses skeleton in the harness.  Inside the wagon are two scorched chests, each containing one hundred gold pieces. Sadly, this money was minted bearing the profile of the Emperor Saul, a short-lived Emperor during the age of Three Emperors and has not been legal tender for over 700 years, being in a position similar to that of Confederate dollars.  It thus worthless as cash and the metal is so heavily debased as to give it the material value of 2 or 3 GCs.  Only PCs with a background in forgery or with the Numismatics skill will realise this, otherwise wait for the fun when they attept to spend it!
+
+After walking a mile on from the wagon, the PCs come across an over-turned wagon, fire-blackened with a charred horses skeleton in the harness...
+
+The PCs find themselves back in the same spot.  This is the same spot, if they looted the chests, the chests remain empty.  If they continue in their original direction, they end up here.  They may leave the road, but evantually another road crosses their path, and they realise that they are approaching the wagon once more.  Re-tracing their steps back evantually takes them to the other side of the wagon.  In each case the walk is about one to two miles before they return to the wagon.  Note that the time of day remains the same, no matter how long the PCs wander aimlessly for, but they still get tired, and may evantually drop dead of exhaustion, thirst and hunger.
+
+The trick here is to walk backwards, in the direction the PCs wish to go.  After two miles of walking backwards and tripping over rough bits in the roads surface the PCs will leave the area of warped time.  The only indication of this will be when night sets or similar.
+
+Once the PCs have completed this encounter the tempororal disturbance fades, although anyone travelling this way in future will notice that the trip takes significantly longer or shorter than usual.  Also, spells cast here with a time duration may find the duration modified slightly either way.
+
+Owen Cooper 

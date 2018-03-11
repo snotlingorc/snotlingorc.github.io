@@ -1,0 +1,157 @@
+From: LXT510 <LXT510@novell3.bham.ac.uk>
+Date: Mon, 22 Apr 1996 12:44:25 GMT
+Subject: wfrp scenario
+
+A small scenario for WFRP with scope for further fun!
+Copyright Luke Twigger for use in GMs home campaigns only.
+Any references to Games Workshop products/terms/trademarks are used without permission -
+please refer to rulebooks for details of skills, tests, etc (by saying that I hope that
+they won't object to me posting this!)
+
+GIANT SLAYERS!
+**************
+
+This is best used when the PCs are in a vaguely remote area eg Grey Mountains where it is
+possible for a giant to wander freely!
+
+The PCs hear rumours of a giant roaming around in the nearby mountains. Successful Gossip
+tests (at +20% because it's the latest news) give the following info:
+
+1) a party of prospectors were found beaten to a pulp
+2) the mayor is offering a reward of 500GC (change this if you want to reward your PCs more
+   or less than I did!)
+3) the village inhabitants are very worried and might move away
+4) there are not many applicants for the post of 'giant slayer' yet - none in fact!
+5) a successful giant slayer will gain a lot of glory, fame, etc.
+
+Assuming the PCs are interested (if not then increase the money or have them meet the giant
+anyway on their next trip!) then they can easily get in contact with the mayor and he will
+confirm that they are the only applicants so far. Later that day while planning their hunt
+or buying kit etc they are approached by Sebastian Geheimnis (see below) who says that he'd
+like to join in the hunt if they'll have him, splitting the reward fairly. The PCs will
+hopefully agree (if not, again use your imagination eg have him conveniently walking by when
+the giant attacks). The PCs were given a simple map showing the prospectors camp (see rumour
+1) and they will have to track the giant from there.
+
+The mountains are a very rough area where it is easy to get lost. It will take 8 hours to
+reach the prospectors camp and a further 6D6 hours to find the giant. Maybe throw in some
+wandering monsters to keep them on their toes. The camp has been smashed totally and there
+is nothing of any value.
+
+Giant
+M 6
+WS 33
+BS 25
+S 7
+T 7
+W 36
+I 20
+A 5
+DEX 14
+LD 24
+INT 14
+CL 24
+WP 24
+FEL 14
+
+Characters amy attempt to dodge the giant's blows by testing against half I - characters
+with Dodge Blow test against one and a half times I (I put this rule in because
+otherwise one unlucky hit could cream an adventurer straight away!).
+
+Arrange it so that the fight with the giant takes place in the early evening (have Sebastian
+appear if necessary - he might have followed the PCs and saves one of their lives at a
+critical moment). NB Don't let the PCs leave all the giant slaying to Sebastian, have him
+knocked out if necessary.
+
+When the PCs wake up in the morning they find Sebastian gone, taking the giant's head with
+him (if a PC was on guard then they fall asleep or something). They will have to make their
+own way back through the mountains (maybe with wandering monsters...) :
+
+Make an Int test for each PC every hour (+10 Follow Trail, +20 Orientation, +10 Cartography)
+If all PCs fail then they take a wrong turn and waste an hour.
+
+When (if?!) they get back to the village they find that Sebastian has returned and claimed
+the reward in their absence - if they complain no one will believe them as Sebastian
+returned hours ago and has the head to prove it. The PCs have 2 ways of geting even:
+
+1) Talk - Sebastian will gladly tell them that all he wanted was the glory - he was on the
+          bad side of his family but now they think he is a hero. He asks them to keep it a
+          secret (and may kill them if they tell people) and will give them the whole
+          reward (and maybe a bit more) to keep them happy.
+2) Violence - Sebastian is quite a fighter. Any sneaky attacks at night etc will result in
+              him fighting to kill. He will accept any challenge and will fight a public
+              duel to redeem his honour - any weapons, any armour - one at a time or all at
+              once!
+
+Sebastian Geheimnis
+Human, Male, Neutral, 23 years old, 6'1", 180lbs, Black Hair, Scarred Face, 2 Fate Points
+Duellist (ex Noble)
+
+Sebastian has fallen out with his family who want him to take up a proper job instead of
+wandering around fighting duels. After killing the giant they think him a hero and take
+him back with open arms.
+
+M 5
+WS 62
+BS 60
+S 5
+T 7
+W 9
+I 52
+A 2
+DEX 46
+LD 53
+INT 56
+CL 63
+WP 43
+FEL 42
+
+Skills:
+Read/Write
+Excellent Vision
+Acute Hearing
+Lightning Reflexes
+Blather
+Charm
+Wit
+Etiquette
+Heraldry
+Ride - Horse
+Gamble
+Public Speaking
+Consume Alcohol
+Specialist Weapon - Fencing Sword
+Musicianship - Wind Instruments
+Disarm
+Dodge Blow
+Marksmanship
+Specialist Weapon - Pistol
+Strike Mighty Blow
+Strike To Injure
+Strike To Stun
+
+Trappings:
+Expensive Clothes
+Horse
+Dagger (72/62/4/42)
+Fencing Sword (82/62/5/62)
+Flute
+2 Pistols (BS80, 8/16/50, S3)
+
+
+Experience Points (alter if you like)
+
+Taking the job = 10 pts
+Teaming up with Sebastian voluntarily = 20 pts
+Killing the giant = 250 pts divided between all who actively helped
+Finding way back to village = 40 pts (-5 per wasted hour)
+Settling with Sebastain by talking = 100 pts (this is quite unlikely in my experience!)
+Fighting Sebastian in a duel = 25 pts
+Beating Sebastian in a duel = 300 pts divided between all who actively helped
+
+Notes - I have made Sebastain relatively hard to beat and the Experince reflects this.
+I reward thinking more than simple fighting but change this if your players will object!
+
+If they talk to Sebastian they will also ahve an ally for the future who may help them out
+occasionally, put work their way, introduce them to eligible nobles etc. Continue if
+wanted (have him turn up again in few months time out of favour again!)

@@ -1,0 +1,122 @@
+From: Learner <Falcon@Babba.CU-Online.com>
+Subject: Spellcasting Initiative, Conversions.
+
+Spellcasting Initiative
+-----------------------
+I thought the following system worked fairly well for me:
+Spell lv  Init penelty
+       P -30 I
+       1 -40 I
+       2 -50 I
+       3 -60 I
+       4 -70 I
+I always thought it was odd that a Petty Magic spell takes as long to 
+cast as a 4 Lv Spell.  The mage casts the spell at his Init and it goes 
+off at the appropriate init (based on its level, any value below zero is 
+applied to the casters Init next round).  
+
+
+Conversions
+----------------
+I was wondering if anyone else has a method of converting WFRP -> AD&D 
+2nd edition and vica-versa?  Also, does anyone have a method of 
+converting the AD&D spells into WFRP?  
+I have gotten tired of the WFRP spells not haveing very many applications 
+other than mass destruction so here's what I came up with:
+     Spells
+     ------
+       Wizard  Cleric  (AD&D)
+WFRP P   1       X
+     1  2-3     1-2
+     2  4-5     3-4
+     3  6-7     5-6
+     4  8-9      7
+The MP cost would be the AD&D level x a multiplier:
+				Multiplier
+  duration of spell     rounds, turns  x1
+			hours, days    x2 
+			weeks, months  x3
+			years, Perm    x4
+EX:  A 3rd level Ad&D wizard spell lasting 4 hours/level would be 
+equivilant to a 1st level WFRP spell of the appropriate school and it 
+would cost 3 MP (a 7th level lasting 1/hour level would = a 3 lv and cost 
+7 x 2 = 14 MP.
+
+All other properties would remain the same or be converted using common 
+sense.
+The GM, as always, has the final word and it is best not to duplicate 
+spells that are already there.
+
+
+Characters
+----------
+WFRP -> AD&D  (the WFRP xps are as stated in the book)
+Total XPS spent since creation x Multiplier = total exps in appropriate 
+AD&D class (remembering to split the xps if the ending result is going to 
+be muilti-classed)
+	     	WFRP xp   MULTILPIER
+		10,000+	x400
+		5,000	x320
+		2,500	x160
+		1,200	x80
+ 		  600	x40
+		  300	x20
+		  100	x10
+Skills would be transfered into appropriate skills taking into account 
+wpn and nonwpn slots available.  Spells would become their AD&D 
+equivelants.  Stats would translate into the correct AD&D ones (taking 
+into account the races min-max in both worlds and that +4/40 is the most 
+one can add to a WFRP character)  
+The stats would vary according to the average and max of the race 
+(Make all stats 10-100 and then take the WFRP MAX and divide by the AD&D 
+Max and the divide your WFRP Char by the result)
+The following stats are the ones that are converted:
+	STR = S      
+	DEX = DEX
+	CON = T
+	INT = INT
+	WIS = (CL + WP)/2
+	CHR = FEL
+(if you think the stats are too low than add 1 point per 1/10 the 
+character is off of the races starting max)
+All else would be determined by the AD&D (HP, wpn slots, nonwpn slots, 
+specilization, etc.).
+Ex:
+  A dwarf that has been though bodyguard, pitfighter, giantslayer, (a 
+home created class) and is now a cleric lv 1 (He represents 4 real years 
+of roleplay and was my 2nd character --after my halfing physican  died -- 
+who had been around almost the entire time of the campaign) would be:
+6000XP x 320  = 1,920,000 exp in warrior and 500 x 20 = 10,000 in cleric
+He would be a 15th level Warrior and a 4th level Cleric.
+his stats would be
+		WFRP	AD&D	MyCharWFRP  MhCharAD&D
+	STR     8	18	 6		14     (8x10=80/18 = 4.4)
+	DEX    70	17	46		11     (70/17 = 4.1)
+	CON     9	18	 9		18     (9x10=90/18 = 5)
+	INT    80	18	31		 7     (80/18= 4.4)
+	WIS   100 	18	72(88+57)	13     (100/18 = 5.5)	
+	CHR    70	17	27		 7     (70/17 = 4.1)
+with the optional rule
+		MYCHARWFRP			MYCharAD&D
+	STR      2 (2 lower than max start)	14 + 2 = 16
+	DEX	36 (0)				11 + 0 = 11
+	CON 	 5 (0)				18 + 0 = 18
+	INT	31 (9/10 = 1)			 7 + 1 =  8
+	WIS	47 (3/10 = 0)			13 + 0 = 13
+	CHR	22 (8/10 = 1)			 7 + 1 =  8
+all the other items can be calculated using the AD&D system and 
+converting the skills into appropriate AD&D skills.
+To convert the other way just reverse the process and spend the xps to 
+reach whatever career that should be the characters final career.  
+(MyChar would have 6500 xps to reach Cleric Lvl 1 after going through 
+some warrior careers first -- my sugestion would be to allot according 
+the the division of AD&D levels, ex MyChar 15+4 = 19, 15/19 = 78%, so 78% 
+->5070 (rd up) 5100 for warrior and 22%-> 1430(rd) = 1400 for Cleric).
+
+I know that I rambled but I wanted to get this off my chest and to see 
+what others thought.
+
+------------------------------
+
+End of WFRP Digest 548
+**********************

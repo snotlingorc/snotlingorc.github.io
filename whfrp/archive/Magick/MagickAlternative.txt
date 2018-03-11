@@ -1,0 +1,218 @@
+Warhammer Magic 1st draft 
+=========================
+ 
+Foreword
+--------
+ The world as will and imagination -Schopenhauer
+ 
+ Magick is the art of imposing one's will upon the world. To be able
+to do that, you need to learn how to control your will and focus it
+upon your goals.
+ 
+ You need to be able to believe to the exclusion of your senses, that
+the reality you shape is true.
+ 
+ This requires intense training and will warp your view of the world
+and your personality. No Mage is ever truly sane, as the masses use
+this word. He may have been able to keep a tenuous contact with the
+reality, that "normal" people perceive, but many lose that contact for
+good.
+
+ Magick is also very much culturally defined. A Dolgan shaman will have
+very different notions of what magick is, and how to do it, than a
+academically trained "tame" wizard of the empire.
+
+ The other important thing to keep in mind is, that magick, like art,
+cannot be truly taught. Oh, you need to learn the basic techniques of
+course, and to this end you need a master who will give his knowledge to
+you, but the final practice of magick is highly idiosyncratic, and no two
+mages will ever have the exact same spell. [Think of it that way: No two
+painters will ever produce the same picture even if they paint the same
+model.]
+
+The Mechanics
+-------------
+ 
+ To learn the art of magick you need a master and apprentice yourself to
+him. By that, you enter one of the following careers:
+
+* studiosus artem arcanem - the student at a magickal academy
+* wizard's apprentice - the apprentice of a free wizard
+* chosen son - the apprentice of a "primitive" shaman/witch
+
+In all of these careers you learn the folowing fundamental skills:
+
+* meditation - how to control your thoughts, emotions and perceptions of
+the world. you need maditation for the recovery of _magic points_ [after
+you meditate for at least 5 hours, you regain 1d4 MP per hour over 4
+hours], you also need it to force your thoughts into controlled lanes.
+A practitioner of meditation can believe anything to such an extent, that
+even a mind-reader is fooled.
+
+* body control - a practitioner of body control may change the reactions
+of his body up to the point of inducing his own death by will. He may
+also endure cold or heat, pain or sickness.
+[a successful WP-Check is needed to bring about any effect of body
+control. All body control effects take a toll, after an effect wears off,
+the mage is weak as a kitten for the same time that he kept the effect
+up. he is effectively at S1 and T1, he will be very tired, and probably fall
+asleep for the duration of the effect. resist sleeping by WP-Check]
+
+* initiation - (same as cast spells) After a mage-in-training has
+mastered the other skills, he will receive his initiation. This
+experience will put him into rapport with the invisible world, and
+finally enable him to work magick. Initiations usually involve
+near-death-experiences (in fact in some cultures, the mage truly dies and
+is reborn as mage) and contact with the invisible world and more often
+than not a patron spirit.
+[I would suggest strongly, that this initiation is played out, as it will
+give the mage a view into the different being he has become]
+
+ You also learn one path of magick. Each path is a way of getting a
+certain result. That does _not_ mean that every practitioner of a path
+will use the same methods. Methods are highly idiosyncratic and every
+mage will eventually use his very own, usually though within the bounds
+of his culture. You won't find a shaman reading incantations from thick
+books, nor will an magister artem arcanem mess with tea leaves...
+
+ You will hear more on paths later in the respective chapter.
+(Example paths would be: divination, transformation, mastery of an element, 
+dreaming, weathermastery or healing)
+ 
+ Upon completing the career, the new mage gains 1d4 Magic Points and 1d4
+insanity points (nobody said it would be easy...)
+
+Working Magick (or: Now we're getting someplace)
+------------------------------------------------
+
+ The act of magic is "easy" and straightforward. The mage visualizes his
+desired effect, and wills the reality to conform to his aims. In game terms 
+this happens as follows:
+ 
+ 1. The player decides on one of the "spells" he has learned.
+ 
+ 2. He rolls a WP-check.
+ 
+ 3. No matter, wether the spell was successful or not, he then rolls 1 to
+ 4d4, depending on the GMs demands. If he doesn't have enough Magic
+ Points to spend, he loses the remaining points as wounds.
+
+(Example: Marcus Wieselflink tries to give himself the running speed, to
+ warn his friends 5 kilometers away of an impending beastman attack. He
+ rolls for WP, succeeds. The GM thinks of this as a simple spell and lets
+ him roll 1d4 of MP-loss. Unfortunately Marcus rolls a four and he has
+ only 3 MP left. He loses one wound as a consequence and will have a
+ splitting headache when he arrives.)
+
+ If the mage loses enough Wounds to go critical, he rolls on the
+ appropriate Critical Hit table (I'll write it, for the moment simply use
+ hit location head and improvize.) he may die, but he also may keep the
+ enemy off for the few decisive minutes. (Great for last stands... "I'll
+ keep them! Get the hammer back, and sing a song about me when you come
+ home...)
+ 
+ 4. If the spell was successful, the desired effect happens, if not,
+ tough luck...
+ 
+Learning spells
+---------------
+
+ Any effect, a mage cares to use a second time is a spell. He may learn
+it through a book, by tradition, or he may think it up himself. No matter
+how he learns the spell, the decisive moment is the first application. If
+he succeeds, he will have this spell in his repertoire, if not, he will
+never be able to learn this exact spell. That is, he will have to go back
+to the "drawing board", vary the spell in someway, and try again.
+ 
+ The GM may give a bonus or a penalty on this first WP-roll, depending
+on the amount of preparation (or desperation) of the mage.
+ 
+ On the other hand may a mage also _improvise_ at WP -20. He then thinks
+of something at the spur of the moment, and just lets fly... An improvised 
+spell does not enter the repertoire and is as a rule not really recreatable.
+If the mage wants to re-use this spell, he will have to design it anew.
+ 
+ A new repertoire spell costs 50 EP, and the first casting will cost all
+ the mage's MPs or double the amount rolled, whichever is less. [That
+ just means, that you can't die from learning a spell. You _can_ die
+ from an improvised spell though.]
+ 
+Magic Point costs of spells
+---------------------------
+
+[That's where I'm still a bit in the dark, and I _will_ need feedback on
+this]
+
+ A spell needs energy, i.e. Magic Points. Depending on the power of the
+spell, you roll between one and four d4 and spend the amount of MP
+indicated. I have drawn up 4 very loose power levels. I do think that the
+level of a spell is mostly "master's choice" and as GM you can by this
+measure determine the power of magic in your campaign.
+
+* 1d4: The simple, most used and normal spells. With this power you can
+achieve results that lie within your "physical means" or don't affect the
+story overmuch. In combat you would be able to get one point of
+armor/toughness, or make 1d6 of damage. The attack does count as
+"magickal", though, and you are able to wound things that couldn't be hit
+otherwise.
+
+* 2d4: This is already strong magick. you will be able to influenc more
+than one or two persons, you will make a visible effect on a community, a
+fight or make real contact with the otherworld.
+
+* 3d4: Heavy stuff! Don't ask a mage of this power to come yesterday, 
+he might take you at your word... This power is out of reach for most usual 
+mages, and if you're capable of this, your name will be _known_.
+
+* 4d4: To reach this power you have either wrestled death herself and
+won, or you have given yourself to a higher (or lower) power. This is
+Constant Drachenfels league.
+
+Of course a lowly apprentice will not be able to cast spells of 2d4
+power, not to speak of even higher spells. So there are
+
+Limits to spellpower
+--------------------
+
+To be able to use a spell of a higher power, you need to have:
+
+* to be thoroughly comfortable at your current power. That is: you must
+have at least 10 spells of the lower power in your repertoire.
+
+* an initiation into this higher power. This initiation need not
+necessarily come from a teacher, you may initiate yourself. But it should
+be a profound experience and it will change you. [you pay 100 EP and gain
+another 1d4 Insanity points]
+
+* the necessary amount of magickal energy in your veins. [that is you can
+advance if you hve at least double the magic points, that a new spell of
+this power would cost you. That is:
+
+ at least 32 MP to advance to spells of a power of 2d4
+ at least 48 MP to advance to spells of a power of 3d4
+ at least 64 MP to advance to spells of a power of 4d4
+ 
+How to gain Magic Points
+------------------------
+
+While the character is pursuing a magickal career, he may buy 1d4 of MP
+for 100 EP. That's it.
+ Note that thus the process of aquiring MP is abit
+ erratic, and a character may end up with 4 or witzh 16 MP for 400 EP
+ he spends. 
+ 
+ Ther may be powers though that give him more MP... for a price. This is
+ the lure of chaos to mages.
+ 
+Still to do:
+------------
+
+* Careers, careers, careers... There should be about 20 of them to give
+at least a spectrum.
+
+* Paths! There needs to be a good description of each path, together with
+alot of examples.
+
+* "Reality checks" otherwise known as playtesting. This is more or less
+the system we played here in our campaign for the last 5 years, but we never
+really codified it. we had a set of common understandings and winged it.

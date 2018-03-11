@@ -1,0 +1,56 @@
+From WFRP-owner@cool.khis.com Thu Jan 20 00:44:09 1994
+Received: from cool.khis.com by sol.newcastle.edu.au with SMTP id AA04307
+  (5.65c/IDA-1.4.4 for peterson); Thu, 20 Jan 1994 00:44:00 +1100
+Received: by cool.khis.com id AA01434
+  (5.65c/IDA-1.4.4 for wfrp-list); Wed, 19 Jan 1994 06:33:10 -0600
+Date: Wed, 19 Jan 1994 06:33:10 -0600
+Message-Id: <199401191233.AA01434@cool.khis.com>
+To: WFRP@cool.khis.com
+From: Mel <mcssenct@vaxd.dct.ac.uk>
+Reply-To: WFRP@cool.khis.com (The WFRP mailing list)
+Sender: WFRP@cool.khis.com (The WFRP mailing list)
+Errors-To: WFRP-owner@cool.khis.com
+Subject: WFRP two simple Petty Magic spells
+X-Bmwmail: 4.0a
+X-List: The WFRP mailing list
+Status: RO
+
+New Spells
+
+Shadow Cloak
+
+Spell Level : P
+Magic Points : 1
+Range : Personal
+Duration : 1 hour
+Ingredients : a piece of tinted glass
+
+The caster holds the glass to his forehead to cast the spell.  As he
+does so a black ether floods out over his body merging him into the
+darkness.  In daylight the caster wil appear to be standing in the
+shade.  In twilight the caster fades to absolute blackness.
+
+This spell is used to lessen the chance of being spotted at night or
+when hiding.   Obviously, if cast in broad daylight people might
+suspect a black shadow in the middle of the road.
+
+
+Eye Of Cat
+
+Spell Level : P
+Magic Points : 2
+Range : 48 yards
+Duration : 1 minute
+Ingredients : two, small, glass balls
+
+The two glass balls are held in the casters hand and as the spell is
+cast glow an eerie green colour losing all material presence.  Slowly
+they form a pair of cat's eyes that hover in front of the mage.
+
+This spell allows the caster to see out of a pair of magical cat's
+eyes.  The eyes can be guided up to 48 yards away from the caster.
+They may be guided through walls or other obstructions if a succesfuly
+WP test is made.  The eyes cannot be guided into magical zones, across
+magical boundaries or over water.  Only vision is achieved.  Eye
+movement rate = 10.
+

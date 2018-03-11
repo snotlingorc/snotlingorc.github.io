@@ -1,0 +1,4 @@
+Warrior
+Ranger
+Rogue
+Academic

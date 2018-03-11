@@ -1,0 +1,36 @@
+M:0
+WS:10
+BS:10
+S:1
+T:1
+W:2
+I:0
+A:1
+Dex:0
+Ld:0
+Int:0
+Cl:10
+WP:0
+Fel:0
+Skills:9
+Animal Care
+Carpentry
+Metallurgy
+Orientation
+River Lore
+50%Fish
+50%Game Hunter
+50%Luck
+20%Cartography
+Trappings:6
+Pack
+One-man tent
+Pick
+Shovel
+Pan
+25%Mule
+Exits:4
+Scout
+Soldier
+Tomb Robber
+TUnnel Fighter (Dwarf Only)

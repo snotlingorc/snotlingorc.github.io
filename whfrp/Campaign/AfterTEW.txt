@@ -1,0 +1,277 @@
+From rossi@cs.tu-berlin.deMon Aug 14 09:00:36 1995
+Date: Fri, 30 Jun 1995 11:37:31 +0200 (MET DST)
+From: Oliver Rosenkranz <rossi@cs.tu-berlin.de>
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: What to do after TEW (Le Grimoire)
+
+
+The following text describes a campaign outline which is settled only few
+months after the events described in the last part of the "The Enemy Within"
+campaign "Empire in Flames". Originally it has been published in the French
+WFRP magazine "Le Grimoire" (Issue 7, pages 12-16). This translation is posted
+to the internet with permission of its author!
+
+Do not expect TOO detailed text (hey, it's just an outline). As the author
+stated: "Each GM may be able to introduce a new campaign to his players
+with this material without being limited in any way..."
+
+Though may may feel free to use this in your home campaign, pleace notice
+that all of it still is copyright material (Game machanics by GW/Hogshead,
+the rest by "Le Grimoire").
+
+I did all of the translation work by myself and there's absolutely no
+warranty that both contents are the same...You'll better know that I
+DO NOT SPEAK FRENCH AT ALL (!). Everything has been done using a French-to-
+German spellbook. :)) Believe it or not, I'm telling the truth...
+My native language is German, so please excuse any incorrect or otherwise
+terrible phrases herein. Thank you.
+
+
+Le Vieux Monde - The Old World
+------------------------------
+
+written by Sebastien Boudoud ("Le Grimoire" #7)
+translated by Oliver Rosenkranz
+
+Present Parties
+
+This is a key-event describing the meeting of the new Emperor with King Charles
+III. as a campaign outline taking place after the events of "Empire in Flames".
+At the end of this scenario the PCs are most likely "Heroes of the Empire",
+giving them the opportunity to change to a career with more prestigue (Noble,
+Chancelor, Marshall, Ambassador, Commander of ...). Therefore they are able to
+be part of the following negotiations and intrigues with the Emperor and his
+Bretonnian counterparts. Otherwise (if you haven't played "EiF" yet, for
+example) you have to adapt this meeting in a way, e.g. the PCs being cadets or
+musceteers in service of the king of Bretonnia (see "New Careers", Le Grimoire
+#7). Naturally the king uses the PCs to strengthen his position which puts them
+in the midst of this campaign, as you will see while reading the following
+supplement...
+
+* Emperor Heinrich X.
+
+Heinrich Todbringer is the eldest son of Count Boris Todbringer of Middenheim
+(see Middenheim, City of the White Wolf), who was killed during the events in
+last year's summer (see "EiF").
+His mother died of a mysterious disease and his brother Stephan died in
+consequence of a mental disease, so he is the only heir apart from his sister
+Katarina, nowadays Countess of Middenheim. His situation is much the same as
+the situation of the population of his Empire: Countless people have lost their
+parents or friends during times of war.
+He has other political plans than his predecessor Karl Franz II. He judges
+with a certain harshness about these who were involved in his intrigues and
+doings (raising taxes and stupid plans).
+To carry out the reorganisation of the Empire successfully he first counts on
+making piece with his direct neighbour, Charles III. of Bretonnia. Along with
+this he is firm to achieve new negotiations about the situation of the
+Wasteland (see WFRP rulebook, "Marienburg"). Up to this day the Burgomeisters
+of Marienburg are supported by Bretonnia which grants the independence of the
+Wasteland since 2425 IC. Emperor Heinrich has a greediness on the richness
+and profitable products of the city to use them in hard times.
+
+The Emperor has recently heard of Kislev, the last bastion between the Old
+World and the Chaos hordes, suffering from pestilence. And the only one
+presenting herself as a friend of the family of tsar Radii Bokha (whose son
+died during the first confrontations in "EiF"), called Queen of Ice, tended to
+relieve the kingdom with an army of volunteers. Because the eastern territories
+do represent the last frontier between the Old World and the Chaos hordes,
+Heinrich X. wants to sned an army under (amongst others) command of the famous
+marshall Maximilian von Gensher (or maybe one of the PCs). Therefore he must
+make piece with his eastern neighbour.
+
+Among these chosen for the meeting is this woman: the countess of Nuln,
+Emmanuelle Liebewitz, who met the Emperor at one of these balls which last
+till next morning ... long before the civil war.
+
+* The Grand Theogonist Gludred IV.
+
+No Emperor has ever been able to access the throne without the approval of
+the Grand Theogonist, who is a member of the Elector council (see TEW campaign).
+However, the successor of Yorri XV., the old Gludred IV. differs from his
+predecessors, being unable to handle power. It is said, that during his speech
+at a meeting of this council someone had to prompt him...In short, the Emperor
+need not to care of this one.
+
+* Count Alberich
+
+Count Alberich Haupt-Anderssen is now 17 years old and is subject of being
+hatred against all allies of the Grand Duke of Talabecland, Gustav von
+Krieglitz (now dead) since he got his left arm heavily injured during a
+duel by him. His thirst for revenge is incredibly large...
+Several spies (watchmen, cook, etc) constantly inform him about any
+developments of the negotiations.
+Unmarried as he is, he seeks to have the attention of Countess Emmanuelle who
+so far has been antipathetic towards his advances. Each negative reaction from
+her side will make his anger grow even more.
+
+* Grand Prince Hals
+
+Shortly after the accession to the throne of the new emperor (who fought on
+the opponents' side during the Civil war) Grand Prince Hals buried the hatchet
+with the widow (or better protector) of Grand Duke Gustav von Krieglitz of
+Talabecland, while the Prince had been accused for the assassination of his
+son.
+After having heard that an army is marching up near Middenheim he sends an
+ambassador (PC) together with some spies as messenger to this meeting, to
+stay informed about the intentions of his old enemy Heinrich Todbringer.
+Does he maybe intend to pay back old bills? He pays attention anyways.
+However, he wants his messengers to intervene if danger occurs of Ostland's
+interests being touched (His vine...).
+
+* Countess Emmanuelle
+
+She is confident about the Emperor's feelings and would without a doubt be
+willing to become empress, to give birth to a heir and reign at his side.
+But she knows also that no empress survived a very long time as head of the
+Empire...She's very anxious of other women being concurrents, especially if
+they are younger than she is (Countesse Emmanuelle is 29 years old). And more,
+she knows that the security of the Empire depends upon whether he renounces
+a would-be-wife (see below). Therefore she is interested in these negotiations
+by her very own reasons, to be able to react if necessary (a PC chanceller or
+ambassador of Nuln would be a messenger for this side).
+
+* King Charles III.
+
+He is the son of Henri IV. 'The Delighted', who has been known for his stud
+consisting of more than 150 well-bred horses which only he did ride. Once
+each week he enjoyed the hunt.
+His courtisans would have been amused if they knew about the colour of the
+horse's hide. Each time he rided "Storm", a pure white horse...
+Charles III. called 'the golden head' (each Bretonnian noble his his nick-name),
+is a man of impressive appearance and eminent corpulence, naturally blonde.
+Charles III. is a ruler like Guillaume Barbenoire and therefore rules like
+an absolute monarch (without any privy council). Unfortunately he ignores the
+needs and well-being of Bretonnian population as all other Bretonnian
+aristocrats do. A king with all the power, a fallow administration in his
+empire with most of the governors being corrupt and clerics of Shallya who
+watch over this ensemble.
+When accepting the Emperor's invitation to Altdorf, he thought to discuss
+certain matters. Drawn by his cousin, the governor of Bordeleaux, he expects
+the nullification of an empirial law which forbids the import of Bretonnian
+vine into the Empire. To him, the Wasteland serves as buffer between Bretonnia
+and the Empire of Heinrich X. which looks instable to him. But Charles III.
+isn't narrow-minded if he is convinced of the Emperor's (or the PCs') goodwill
+during the three days of negotiations, he will stop supporting Marienburg
+from now on.
+But the king asks for the creation of a combined battalion (the Bretons ever
+had strange ideas) consisting of Musceteers on the one hand and of riders
+of the order of the Giant Helmet (founded by Emperor Karl-Franz to protect the
+emperor, nowadays one counts 86 riders) on the other hand.
+The king himself suggests the inclusion of his daughter Audrey; to give her
+to him as his bride - as a sign of piece. Heinrich risks to get caught in a
+trap. How could he refuse such an offer? Charles III. offers as a dowry
+(though empirial law does not prescribe this imperatively) a remote area
+between the Empire and Bretonnia: the Loren Forest. This area is three times
+larger than the county of Wissenland but without any real economical value,
+and it is shelter to the most important Wood Elf colony in the Old World which
+is unknown to most Humans. The independant attitude of the elven race has
+always been frustrating to Bretonnian nobility and king Charles sees this as
+a disguising revenge. Should Heinrich X. accept all of these causes, the unity
+of the Empire would be in danger (Norsca, Kislev, ...), and he's known as an
+resolute enemy of all independence movements.
+
+* Cardinal Dumourieux
+
+Being the equivalent of the Empire's Grand Theogonist, he plays the role of a
+prime minister and he's in posession of plenary power everytime the king is
+'absent'. He is called "Red Minister" because of the colour of his clerical
+robe.
+Cardinal Dumourieux has been in 'business' since the times of Henri IV. and he
+is well experienced in the art of official duties (military, political and
+judicial). Often he uses his official functions as High Priest of Shallya to
+cover his personal activities serving his own material prosperity.
+He detests the Order of Musceteers, not because he is a cleric of Shallya and
+therefore against violence (he himself has a well trained Guard at his disposal
+who tangle from time to time with some certain musceteers), but because in his
+view this Order stands for public disorder. There is a law in Bretonnia which
+forbides the practice of duels...Will the Captain of the Musceteers stand in
+front of his men in times of trouble, and will the king be only amused of the
+quarrel instead of acting? Even more, the Cardinal knows that the queen has a
+love affair and he has material with him to proove this fact to an unbelieving
+king...
+If the Emperor's reaction to the offer of merriage with princess Audrey is
+positive, the counterparts have still to agree on the circumstances like where
+and under which deity, otherwise the wedding would be bounced. The Cardinal
+intends to bring all of these matters to light in these days, and he is willing
+to risk to delay the wedding for one month if no agreement can be achieved.
+
+* Queen Anne of Bretonnia
+
+he is nearly 40 years old but still a beautiful woman with blonde hair and
+green eyes. By the way, she frequently leaves the large palace of Oisillon
+to meet her lover, the Marquis Jocelyn De La Boissiere, in his chateau near
+Anguille.
+She is under permanent observation by the cardinal and his spies. The latter
+wait for the opportunity to catch her in flagranti. Luckily this secret
+remained unrevealed yet because of the help of her confidants, the musceteers.
+
+The queen always has the words of a Tilean ambassador swirling in her mind:
+"Best known are the rich, the strong and the famous, but they are all equal
+to the failure."
+[not sure about this because of lacking knowledge of french language]
+
+* Princess Audrey
+
+The princess is 21 years old and has two twin brothers, Louis and Bastien - 14
+years old. Her fragile and shy appearance which gives her a ceratin charme only
+conceals a terribly currupt creature. She is attracted heavily by members of
+the opposite sex - especially those wearing uniforms - since her last voyage to
+visit her cousins in Guisoreaux some months ago. The majority of the young
+recruits and cadets would be able to tell details...
+What would be the reaction of the Emperor or of king Charles if someone would
+inform them about this behaviour? Doubtless the cardinal would do so because his
+motto "like mother like daughter" and this would mean the end of negotiations.
+
+A member of a secret sect makes out Audrey as possible eye of a needle to gain
+access to the Emperor himself for a circle of firm followers of Slaanesh.
+Audrey would probably rather die than choose a live behind the walls of a
+monastery.
+
+* The Burgomeisters of Marienburg
+
+They are absolutely against the idea of a reunification with the Empire and
+want to maintain their independence. Hence they have no interest in Emperor
+Heinrich and king Charles achieve agreement during this encounter. But if
+they try to defeat the conclusion of the treaty and someone will be able to
+find the Wastelanders guilty for that, king Charles would stop immediately his
+support for them and march on at the head of his army towards Marienburg.
+Because of the influence of cardinal Dumourieux, king Charles is also willing
+to profit by laying his hands upon the richesses of this city.
+
+* The Elves of the Loren Forest
+
+The chief heads of the Wood Elfes do not understand king Charles III.'s
+attitude. How could they - he disposes of an area which does not belong to him
+in reality. The Elven race has representatives all over the Old World, so they
+do not fear a confrontation. Which kind of reaction will be provoked on the
+Elves' side if these rulers threaten them with a royal army? Maybe another
+civil war?
+
+* Tzeentch Cult
+
+Beheaded by civil war, this cult which is based in Altdorf seeks to recover from
+this once again...its members operate in different ways: they infiltrate the
+horsemans' chorps of the Order of the Great Helmet or this of the musceteers
+and try to provoke a deadly altercation between these two Orders. They also have
+a plan to kidnap princess Audrey. They are able to intercept messages of the
+messangers to Nuln, if they succeed in capturing one of the semaphores (see TEW
+page 23) to send then false messages to the neighbour semaphores, up to
+Altdorf.
+
+--<snip>--
+
+Please send any comments (which are most welcome) either to the WFRP mailing
+list (wfrp@gojira.monsta.com) or to me personally (rossi@cs.tu-berlin.de).
+I will forward the tenor of the feedback to the author (maybe also some kind
+of enhencement material ?!).
+
+BTW, issue 7 of "Le Grimoire" also includes the description of some new
+careers (like the musceteer - basic and advanced) which can be used in
+connection with this campaign outline. I did not send them along to give
+you some extra motivation to BUY "Le Grimoire".
+
+Enjoy,
+Oliver Rosenkranz
+rossi@cs.tu-berlin.de
+

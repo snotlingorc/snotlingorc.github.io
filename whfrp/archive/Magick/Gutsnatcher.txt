@@ -1,0 +1,86 @@
+GUTSNATCHER - A sword with a will of its own.
+	by Mikael Gustafsson, mike@CSD.UU.SE (c) 970205
+
+  The intension I had with this (IMHO) interesting magical weapon was
+to let one of my always-greedy-no-matter-what-character players get
+his hands on it. It is indeed a very dangerous weapon and should be
+used with care, as with all magic items.
+
+
+BACKGROUND:
+  In a distant past it belonged to a man know as Victor Salchas. He
+was a man of great fighting skill and he dedicated his life in the
+battle against evil. One day he saved the life of a mighty wizard who
+in return gave him a magical broadsword. And it's name was
+Gutsnatcher. He was told that it would serve him and only him for as
+long as he lived. If it would be passed to someone else he/she would
+have to prove him/herself to Gutsnatcher before it would serve another
+master.
+
+  Victor were such a good fighter and had such a great charm that the
+sword itself were influenced by him. If the concept of feeling
+admiration and proudness could be applied to swords, that would be it.
+
+  When Victor died, Gutsnatcher became devastated and haven't gotten
+over him yet.
+
+
+MAGICAL ABILITIES:
+(The sword does not need any WP-test to be wielded.)  
+
+* WS +15
+* When put on the ground it always points north.
+* Always floats in water.
+* Whenever the wielder draws blood with it, the sword steals WP from 
+  the foe attacked. It is *not* for the wielder though, it's for
+  "Gutsnatcher" itself. On a hit, there is a (100-WP)% chance that it
+  will gain WP. The gain is D10 points each time and this is deduced
+  from the attacked foe.
+
+* Each time the sword is drawn from its sheat, a WP test is made for
+  the sword. If the test fails, nothing happens. If not, Gutsnatcher
+  attacks the wielder. This means that it is Gutsnatcher's will to kill
+  unworthy mortals.
+
+  The WP gains is not permanent. At sunrise each day, it decreases by
+  5.
+
+
+FIGHTING THE GUTSNATCHER:
+(I.e. when Gutsnatcher turns against its wielder.)
+
+ Alt 1. 
+ At the end of each round, the snatcher's WP decreases by 10. This
+ means that it can only fight for a maximum of WP/10 rounds (dep. on
+ the current WP level). After this time it simply drops to the ground.
+
+ Alt 2. 
+ All damage made to it reduces its WP in the same way as wounds would. 
+
+
+Profile:
+	M WS BS S T W I  A Dx Ld It Cl WP Fl 
+	7 60  - 4 - - 60 4 -  -  50 -  $$ -
+
+ $$ The WP is initially (when found) set to D100-50. Minimum 0.
+
+The Gutsnatcher can not be killed. When reduced to 0 WP it drops to
+the ground. 
+
+
+COMMENTS:
+
+  Bear in mind that when Gutsnatcher turns against a wielder he/she
+might not have another weapon to defend him/herself with. A shield
+could be their only choice.
+
+  If a character is fleeing from Gutsnatcher ordinary fleeing rules
+apply. Swift as it is, Gutsnatcher will chase/fly after the character.
+
+  To make Gutsnatcher a bit less dangerous, make a WP test at the
+beginning of each round. If it fails, it drops to the ground.
+
+  When I had it in my campaign, I went for the Alt 1 rule. It is
+simpler but gives the average character a decent chance.
+
+  Any experiences would be appreciated. Send these to mike@csd.uu.se

@@ -1,0 +1,362 @@
+Date: Fri, 27 Oct 1995 13:00:24 -0500 (CDT)
+From: Neil Young <nyoung@krypton.mankato.msus.edu>
+Subject: WFRP: Land Transportation Rules
+
+Although cross country travel is as important in my campaigns as river
+travel,it didn't receive much attention by the WFRP authors. The rules
+included with TEW & WFRP are somewhat incomplete and contradictary IMHO. 
+I hope that these rules, along with sug gestions from the WFRP mailing
+group, can clear up a few of these problems. I wrote these rules awhile
+back and they are still pretty rough. I decided that I d post them as is,
+and I hope to improve them with ideas from the list. 
+
+I have included thoughts, explanations, and ideas in {}s.  These can
+easily be removed and still keep the rules complete.  Send any idea,
+criticism, suggestion, hatred of the author, etc. to
+nyoung@krypton.mankato.msus.edu or just post them to the WFRP m ailing
+list. 
+
+LAND TRANSPORTATION
+
+Version 1.1
+
+by Neil Young
+                                     
+In the Empire and in Brettonia boat traffic on the intricate web of rivers
+and canals makes moving goods and people easy and inexpensive (river
+travel rules are explained extensively in River Life of the Empire, a
+suppliment to DotR).  Even with their ext ensive river systems, all of the
+countries of the Old World maintain roads connecting cities and towns. 
+Villiages that do not have river access rely exclusively on these roads
+for transportation.  In counties that do not have extensive river systems,
+suc h as Estalia, the Border Princes, and parts of Kislev, overland travel
+is their primary means of transportation.  In most countries of the Old
+World, but especially in the Empire, shipping people by coach is a
+lucrative, cutthroat business. 
+
+Descriptions
+
+A coach is a four-wheeled, horse-drawn carriage, used to carry passengers. 
+The undercarriage of a coach has a pair of solid wooden axles, the front
+one able to swivel, connected rigidly with a wooden beam or iron bar.  A
+wooden framed body hangs by leath er springs attached to upright posts
+fixed to the axles.  The body design for a coach includes wooden or cloth
+side panels, side doors, front and rear seats inside, and a roof that
+forms part of the body.  An elevated seat for the driver attaches to the
+front.  The coach, by far the most expensive wheeled vehicle, incorporates
+advanced features into its design.  Coaches use radial spoked wheels to
+reduce weight and increase wheel strength, and bearings to allow the
+wheels to spin smoothly around the fixed axle.  Coaches are always
+produced by experienced cartwrights.  (Note: the coach of the Old World
+would not have been nearly as smooth and durable as a stagecoach of the
+Old West.  The 'modern' coach could not have been built until the 19th
+century when the development of the elliptic allowed the axles to move
+independently - the original form of independent suspension.)
+
+A wagon is a four-wheeled horse or ox drawn vehicle used for transporting
+heavy loads.  Fundamental features of wagon design include a heavy frame,
+a high walled, long, rectangular body with a driver's seat connected to
+the top of the front edge.  There a re two basic types of wagons: 
+
+The first, the farm wagon, is built primarily for hauling produce from the
+farm to market.  This type of wagon is rather cheap to procure, and has
+been modified in every conceivable way.  Many have been built with wooden
+sidesand roofs on the wagon to st ore tools or as living quarters, with
+cages for prisoners, etc.  They are usually built by the owner or a
+carpenter who is not trained as a cartwright.  Without advanced design
+features, the viehicle becomes fragile and slow and is dangerous at faster
+s peeds. 
+
+The second kind of wagon is the much more expensive freight wagon,
+produced by merchants for overland goods transportation.  These are a
+necessity for Old World cities with poor river access, such as Middenheim. 
+Cartwrights construct the freight wagon f or strength, speed, and, by
+lengthening the box, larger loads.  The longer length of the freight wagon
+restricts its ability to travel on the narrow winding streets of Old World
+cities, thus, teamsters build their warehouses near the edge of a city by
+a g ate, or along a wide thoroughfare.  Only a cartwright can produce a
+freight wagon and will always include advanced design features. 
+
+A cart is a square box with tall sides balanced on top of two wheels,
+using the draft animal for support in the front.  The cart is usually used
+to carry lightweight material with bulk such as hay or turnips.  It is a
+"no frills" cost-effective goods haul er usually thrown together by
+unskilled carpenters, lacking bearings and spokes.  {Another version of
+the cart is the chariot.  I have seen references in White Dwarf to
+charriots being used by Orc chiefs, but I haven t really heard of them
+being used by much of anyone else.  Any thoughts or suggestions?}
+
+Vehicle Encumbrance
+
+A land vehicle s encumbrance capacity is determined by a number of
+factors: what type of animal is pulling the vehicle, how many animals are
+pulling the vehicle, what type of terrain the vehicle is crossing, and how
+much the actual vehicle can hold. How m uch the vehicle can carry is
+determind thusly: 
+
+Total Vehicle Enc = Animal Strength x # of Animals x Terrain Modifier -
+Weight of Vehicle
+
+A vehicle can only be loaded to its capacity despite how much the team can
+pull. 
+
+For every 100 points times the number of animals in the team, or parts
+thereof, which the load is above the team's maximum encumbrance, it loses
+one from its movement allowance.  For example, a team of 4 animals can
+pull up to 400 enc. above their limit and still only have their movement
+allowance reduced by 1. 
+
+By these rules a coach with four draft horses can carry about twelve
+'typical' lightly encumbered humans (I used the standard human from the
+bestiary with S2 & T2).  A coach carrying a load of experienced adventures
+with armor can carry considerably fewe r.  Of course figuring out the
+total encumbrance for all the passengers in a coach or the cargo on a
+wagon is unnecessary unless outrageous is attempted. 
+
+Vehicle Movement
+
+Although coaches and freight wagons have M6 and carts and farm wagons have
+M4, the vehicle cannot go faster than the Running Rate of the slowest
+animal on team
+
+Vehicles moving faster than Standard Rate are subject to subject to
+breakdown.  First, the team is subject to the speed reduction described in
+Run Rate under the Moving section of WFRP pg. 73.  {I have no clue how
+long it takes someone to recover before t hey can run again . . .  The
+rule doesn't really say.} The vehicle also has a chance of breakdown as
+listed below. 
+
+Every minute that a coach or a freight wagon moves above its normal move
+rate there is a 2% chance the vehicle will become damaged by the condition
+of the road.  If a vehicle is damaged, consult the Vehicle Breakdown Chart
+to determine what has gone wrong.
+
+Farm wagons and carts traveling above standard movement are at greater
+risk of being damaged.  There is a 5% cumulative chance of breakdown every
+minute traveled at speeds greater than Standard Rate.  So in the first
+minute there is a 5% chance, the seco nd a 10% chance, and so on.  For
+every minute a character with carpentry skill spends doing preventive
+maintenance (i.e., pounding in nails, tightening straps, etc.) on the
+vehicle, the chance of breakdown is reduced by 1%.  A cartwright doing the
+same ta sk reduces the chane of breakdown by 5% every minute.  If a
+vehicle is damaged, consult the Vehicle Breakdown Chart to determine what
+has gone wrong. 
+
+Vehicles can travel on roads, tracks, or reasonably smooth unobstructed
+ground (i.e., plains and rolling hills).  Vehicles cannot under any
+circumstances go through thick forest, mountains, or marshland, although
+man made trails and roads through any of t hese are traversable. 
+
+During the winter months, when there is snow on the ground or during wet
+weather when the ground becomes a muddy bog, traveling overland and on
+tracks becomes much more difficult.  When the ground is soggy, such as
+during heavy rain, the day after a rainy day, or during the spring thaw
+there is a 10% chance that a vehicle will get stuck in the mud every hour. 
+This chance is modified by the following: 
+
+RAIN MODIFIERS
+
++20 if the vehicle is traveling on a dirt track or overland on loose
+    ground (i.e., a plowed field)
++10 if the vehicle is traveling on an unpaved road or overland on grass
++10 for every consecutive day of rain
++5 for every 1,000 enc. above 8,000
+-5 for every 300 enc. of load that the team is pulling beyond the wagons
+   encumberance
+-10 if the vehicle is traveling on a paved road in poor condition
+-30 if the vehicle is traveling on a paved road in good condition
+
+SNOW MODIFIERS
+
++10 to +50 for every consecutive day of snow, depending on the amount of
+           snow received
+
++5         for every 1,000 enc. above 8000
+
+-5         for every 300 enc. of load the team is pulling beyond the wagons
+           encumberance
+
+-20         if the vehicle is traveling on a well used stretch of road
+
+To get a vehicle out of a bog or snow bank, either the load must be
+lightened, or more pulling/pushing power must be added.  When the change
+due to reduction in weight or addition of extra pushing power is equal to
+the amount the test originally failed by , the vehicle is unstuck. 
+Immediately, when the vehicle is unstuck, make another test.  If this test
+is failed, start the whole process all over.  Success means that the
+vehicle can travel another hour before being tested again. Notice that a
+reduction o f 1,000 enc. of weight will not only remove +5 from a heavy
+vehicle's modifier, but will also give +15 points because of the excess
+pulling power.  Coaches are easy to free from bogs, as the main load, the
+passengers, can be removed easily and can even be used to push in a pinch
+(although they usually aren't very happy about it). 
+
+Although a vehicle traveling overland has less of a chance of getting
+stuck as those traveling on a dirt track, they have an even greater
+problem.  Vehicles traveling overland are prone to hitting objects, such
+as rocks, logs, and holes, which can be hidd en even in short grass from
+someone in the driver's seat.  Every half-hour of overland travel, the
+vehicle must make a risk test to determine if it has collided with such an
+object.  If a someone walks out ahead of the vehicle, spotting for
+obstacles the test is avoided if he makes a successful observe test, but
+the vehicle can move no faster than the cautious movement of the observer. 
+If the risk test is failed, the vehicle has had a collision.  Whether the
+vehicle is damaged or not depends on it's spee d.  If the vehicle was
+moving at cautions speed, there is a 5% chance it has had a collision. 
+Roll on the vehicle damage chart, modifying your roll by -60.  If the
+vehicle was moving at normal speed, there is a 10% chance it has had a
+collision.  Roll on the vehicle damage chart, modifying your roll by -40. 
+If the vehicle was moving at running speed, there is a 20% chance it has
+had a collision and roll on the vehicle damage chart, modifying your roll
+by -10. 
+
+Team Size
+
+A farm wagon has a team of two or four oxen or draft horses.  Freight
+wagons, on the other hand, are designed for a team of six draft horses. 
+One or two draft horses or oxen pull carts.  A coach usually has a team of
+four draft horses.  For heavier wheel ed loads, such as catapults,
+cannons, or other siege machines, or for dragging large objects, harnesses
+designed for more animals can be produced.  Horses and oxen cannot, under
+any circumstances, be used together on the same team. 
+
+{I assume there would also have been sleds and sleighs around, although I
+don't think the Empire, or most of the Old World, for that matter, gets
+enough snow to make the expense of buying the extra equipment necessary,
+but, sleds and sleighs would have be en an important means of travel in
+Norsca and Kislev in the winter.  Right off the top of my head I think
+that a horse drawn sleigh could carry about as much as a cart, all rules
+apply except wheel damage would affect the runners instead, and their
+would be no limit on the speed due to inferior design.  Dogs on a dog sled
+team could pull about 300? x their strength each, and I have no idea of
+the capacity or the weight of the dog sled.}
+
+Beasts of Burden
+
+{The movements shown for the horses on this table is taken directly from
+the Movement Allowance for Other Transport chart on pg. 74 of the WFRP
+rulebook with the exception of the pony.  I have enhanced the pony in both
+strength and movement in the interes t of giving Dwarves a reasonable
+alternative to a horse which sould be very difficult for them to mount and
+use without assistance.  WFRP defines a character s body encumbrance as
+his S + T x 100 making the average Dwarf PC slightly heavier than the aver
+age Human PC.  Thus I thought it unfair to give them a mount of inferior
+strength.  The pony listed here is sort of the Dwarf of the horse world.}
+
+The horses described here use the horse description and rules included in
+the WFRP Bestiary with the addition of the following special rules: 
+
+Animals harnessed in a team are unable to use their attacks.  Mules and
+donkeys {and I suppose llamas if you are in Lustria} are able to cross all
+terrain except that which requires ropes and other climbing gear to cross. 
+
+BEASTS OF BURDEN
+
+                      M WS BS  S  T  W   I  A Dex Ld Int  Cl  WP Fel
+Warhorse (Destrier)   8 33  -  5   3 11 30  1  -  10  14  30  30  -
+Light Warhorse        8 33  -  4  3  8  30  1  -  10  12  20  20  -
+Riding Horse          8 33  -  3  3  5  30  0  -  10  10  10  10  -
+Draft Horse           6 33  -  4  3  6  30  0  -  10   8   8   8  -
+Mule/Donkey           6 33  -  2  3  5  30  0  -  10   8  10  10  -
+Pony                  7 33  -  3  3  4  30  0  -  10  10  10  10  -
+Ox                    5 33  -  5  4 10  30 1*  -   6   6   6   6  -
+
+*An ox has a horn attack that it uses to defend itself when attacked.
+
+VEHICLE CHART
+
+Name           M   T   W  Capacity Encum
+Cart           4   4  10    5,000  1,000
+Farm Wagon     4   4  20    9,000  2,000
+Freight Wagon  6   5  20   13,000  1,800
+Coach          6   5  30   10,000  2,500
+  
+
+UPDATED TRANSPORTATION PRICES
+
+Name             Price (GCs)     Avail
+Coach               1000          Rare
+Freight Wagon        750          Rare
+Farm Wagon     (1d8 x 10) + 60   Common
+Cart           (1d6 x 10) + 40   Common
+Destrier           960-4750       Rare
+Light Warhorse     575-1150      Scarce
+Riding Horse        40-480       Common
+Draft Horse    (1d6 x 10) + 30  Plentiful
+Pony              5d8 x 10       Common
+Mule/Donkey    (1d8 x 10) + 20  Plentiful
+Ox             (1d4 x 10) + 30  Plentiful
+
+VEHICLE BREAKDOWNS
+
+Give coaches and freight wagons rolling for a breakdown a -10 modifier due
+to their superior construction.  Any roll less than zero indicates that
+the vehicle was jarred, but can continue to travel with no appreciable
+damage. 
+
+  Speed Damage  Rough Damage  Wagon/Coach  Cart
+      01-35         01-50       Wheel      Wheel
+      36-60                     Brake      Wheel
+      61-75         60-75       Axle       Axle
+      76-00         76-00       Harness    Harness
+
+Wheel - indicates the one of the vehicle's wheel has come loose and rolled
+off , randomly determine which wheel, with an equal chance of each. When a
+cart wheel or the front wheel on a coach or wagon is thrown there is a 5%
+chance the vehicle will overtur n.  There is a 10% chance that any thrown
+wheel will be broken beyond repair because of snapped spokes, a broken
+hub, or it just literally fell apart.  If the wheel is not destroyed it
+can be put back on by anyone in 20 minutes, if they make an Int test. The
+test can be retried if failed, but it will take another 20 minutes.  If
+multiple people are working on getting the wheel on (maximum 4), they can
+all roll to see if they accomplish it, but only one of them will have to
+make a successful Int test to a ccomplish the task.  Cartwrights or
+apprentice cartwrights can put a wheel back on in 10 minutes with no
+chance of failure. 
+
+Brake - indicates the hand brake has broken.  On level ground the brake
+only goes out while it is being used, such as around corners at high
+speed, or when it needs to stop quickly.  The vehicle can continue on
+level ground at normal speed with a broken b rake without little danger
+involved.  On mountain trails vehicle has a 75% chance of overpowering the
+horses and overturning when the break is broken.  A vehicle cannot travel
+on these trails without haveing the brake fixed.  It will take a character
+wit h carpentry skill and the proper tools 10 minutes to replace the
+brake.  Coaches traveling mountain routes {I don't even know if they
+exist} will always have spare breaks onboard. 
+
+Axle - indicates the axle of the vehicle has snapped in half, randomly
+determine which axle, with an equal chance of each.  A broken cart axle or
+a broken front axle will cause a vehicle to overturn 20% of the time.  A
+broken axle can only be repaired by a cartwright with a full set of tools
+and replacement parts available. 
+
+Harness - indicates that something in the connection between the animals
+harness and the vehicle has broken. The team runs off, and the vehicle
+goes careening off out of control with an 80% chance of overturning.  When
+this happens the character holding t he reigns has to make an Initiative
+test + 20 to let go or be pulled off the vehicle and drug by the animals a
+short ways (1xS3 hits).  Finding a runaway team will probably take some
+time.  The harness can only be fixed by a leather worker {who does leath
+er work in the Old World?  I couldn't find any applicable skills to
+manufacturing or repairing leather goods}, or be replaced, but, it can be
+temporarily patched with rope and basic tools in 15 minutes.  A vehicle
+with a patched harness can move no faster than cautions speed without
+causing the harness to break again.  Even at slow speeds there is a 20%
+chance the harness will break again every hour it is driven. 
+
+Rolling Over
+
+When a coach overturns, any character inside takes 1 x S3 hit.  Characters
+on top of a coach, in the bed of a wagon, or in a driver's seat while they
+roll, must make an Initiative test to leap off, otherwise they also take 1
+x S2 hit.  It takes a total St rength of 12 to right a coach, a total
+Strength of 10 to right a wagon, and a total Strength of 6 to right a
+cart. There is a 50% chance that any vehicle that rolls will be damaged
+beyond repair by anyone but a cartwright with the proper tools. 
+
+
+Neil Young
+(nyoung@krypton.mankato.msus.edu)
+
+

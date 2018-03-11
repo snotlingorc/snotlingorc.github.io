@@ -1,0 +1,35 @@
+
+WING COMMANDER
+  The Wing Commander is a Dwarf in charge of a "wing" of 
+Gyrocopters.  Each wing consists of one to five Gyrocopters, 
+not including the Wing Commanders Gyrocopter.  The Wing 
+Commander is the commanding officer of the Dwarven Gyrocopters.  
+
+M  WS   BS   S   T   W    I   A  Dex   Ld   Int    Cl   WP  Fel
+-   +20  +20    -    -  +2 +20 +1  +30  +20  +20  +30  +10     -
+
+  Skills
+Cartography
+Marksmanship
+Mime
+Ride Gyrocopter
+Specialist Weapon Bomb
+Specialist Weapon Steam Cannon
+Tactics
+
+  Trappings
+Aviator's Goggles
+Gyrocopter
+Hammer (counts as a hand weapon)
+Leather Flight Helmet with Wing Commander Symbol
+Leather Flight Jacket
+Gold Winged Insignia (Hammer with Wings)
+Tool Belt
+
+  Career Entries
+Gyrocopter Pilot
+
+  Career Exits
+Artillerist
+Mercenary Captain
+Sapper

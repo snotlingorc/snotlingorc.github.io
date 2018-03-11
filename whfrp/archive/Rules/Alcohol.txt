@@ -1,0 +1,31 @@
+From graemed@magnet.comWed Aug 16 17:55:20 1995
+Date: Fri, 14 Apr 1995 15:47:26 -0500
+From: Graeme Davis <graemed@magnet.com>
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: The wfrp mailing list <wfrp@gojira.monsta.com>
+Subject: WFRP: >WRFRP: Alcoholism & consume alcohol skill
+
+>Marco wrote:
+>
+>1) How do you handle alchool drinking character? The consume alchool skill
+>gives you some advantages on the stats reduction, but when do you begin to
+>suffer from alchool drinking?
+
+Alcohol is treated as a deleriant poison, though there doesn't seem to be
+any mention of that in the rulebook. Maybe it's in TEW. I don't have my
+copy with me here. Anybody else know? 
+>
+>2) The Consume Alchool skill, in WFRP, gives you a -10% modifier on a WP test
+>to refuse another drink. When do you have to make such a test?
+
+
+The WP test only really comes into play when a character has the Alcoholism
+disorder. When a character with that disorder has the opportunity to drink,
+he/she has to make a test to fight off the temptation.Consume Alcohol skill
+gives a penalty to the WP test because the character *knows* he/she can
+handle another drink, and is therefore overconfident and not afraid of the
+effects of giving in to temptation.
+>
+Graeme
+
+

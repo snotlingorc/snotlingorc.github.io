@@ -1,0 +1,148 @@
+Igor Konstantin Kikoin - Hydromancer, ex-Noble
+===================================
+
+By Ashley Southcott (ahs5@aber.ac.uk)
+
+Once a wizardly adviser to Baron Gidaspov of Waldavia-Mollachia in the Border Princes, Igor took an interest in elemental magick through his researches for the Baron.  Before long he was summoning water sprites and dancing fingers of flame beside the lake beneath the Baron's castle; such summonings used to entertain the children, as Igor takes pleasure in demonstrations of his magical ability.  The Baron, on the other hand, saw such summonings as being dangerously close to demonology, and summonings of any kind were banned from his locality.
+
+Igor was not so easily put off.  His summonings (held in secret) grew bolder, and before long he'd left his master side to complete his own researches into the subject.  Igor set up home next to the Ussurynsk falls to be near to the natural element of his researches, and for 15 years has buried himself in his work.   The Baron doesn't know of Igor's location but knows that he is probably continuing his 'heretical behaviour' and has posted a bounty for him.  Word of this has reached Igor, and he tries to maintain as low a profile as possible.
+
+Igor's biggest regret at abandoning his position as noble adviser was leaving the castle's children behind.  Those who delve into magical rites and summonings inevitably lose some of their sanity; though adults came to look at him as 'a bit funny in the head' the castle's children simply took him for what he was.  Making the choice between maintaining contacts with friends, and continuing his work was not an easy choice to make.
+
+His home is an extended cave, carved out of the rock by one the elemental Igor summoned, halfway up the cliff beside the tumbling water; the route to this can be found via a steep-stepped, moss-covered ledge, obstructed by a thick bush of thorns.  The hydromancer lives behind these thorns, which part at a verbal command from him.  (The parting-of-the-ways spell is one of the products of his researches.)
+
+His home is sparse as wizards go; but then elementalists aren't exactly known for their love of wealth or range of commodities.  Beyond the cave entrance lies three chambers, all identical in size : one is Igor's bedchamber, containing nothing more than a sleeping pallet and a variety of cloaks, clothes, travelling gear and blankets; another is the privy, which consists of a 1" wide hole in the ground, falling down 90-odd feet to the lagoon below; and his living area.
+
+The living area is where he works, eats, relaxes and generally spends most of his time.  It has a number of alcoves in which he stores jars of water, food and bread, and several shelves for storage of some books he's recently acquired (both on magic and fiction).  As to furniture and physical artefacts... these take the form of a crystal statuette of a mermaid, and numerous crystals hang from the ceiling.  On his wooden desk lie several papers that he's clearly been working on, held down by a paperweight of insect-entombed amber, and hanging above it is the wizard's personal coat of arms from his previous employment.  Not much dusting has been done in the cave for some time (wizards, and especially elementalists, aren't known for their sense of tidiness).
+
+The real wealth, as with most spellcasters, lies in his magical knowledge.  His magical store is set into a separate alcove, behind a stone slab - again, this may be moved only at his command.  It consists of vellum scrolls, and rolled-copper sheets inscribed with Dwarven runes; and of tablets of salt-rock, inscribed with more runes and hexes on unknown origin.  Also included are glass phials containing solutions varying in colour from gold to turquoise (these contain the metallic fluids and alcohols needed in his summonings), herbal cocktails, sealed jars of seeds and the dust of various types of rocks, copper bottles containing inks and a set of accompanying brushes (large and small).  His spell totems are three small inscribed rods partially wrapped in furs, and a small bag of dice - none of these are magical, but Igor believes them to be an important part of the spellcasting process.
+
+Also kept in the magical store is Igor's treasure trove - there is no coffer as such, but instead he keeps in a variety of bags (he's confident the store itself is secure from looters).  It amounts to over 500 gold crowns in various denominations. 
+
+To the left of the cave entrance is a set of steps leading down into the rock - these are lit by glowing blue crystals, hanging from crystalline rods set into the passage walls.
+
+The passage leads down a circular staircase of some fifty feet.  At the bottom is Igor's summoning chamber.  Located at the foot of, and behind, the waterfall,  this chamber was originally hollowed out from the rock by an earth elemental that Igor summoned; it's now used primarily in the summoning of his water elemental servants, and one in particular.
+
+The chamber isn't very big - about 20 feet square, and 12 feet high - and most of it is taken up by the pool of water set into the floor.  The pool runs under the far walls of the chamber and out into the larger lagoon that the Ussurynk falls flow into - and is thus an extension of that lagoon.  Hanging from the ceiling are more glowing blue crystals, but even so the chamber isn't well lit; every inch of the walls are scrawled with runes pertaining to Elemental Magic.  In several places the walls are spattered with paint or oil of some kind.  More oil can be found spilt onto the floor near the water's edge (the consequence of an elemental banishment).
+
+The remainder of the chamber is stone-floored and dusty, like the rest of his residence.  Facing the pool is the room's sole furnishing : Igor's lectern.  From here he reads his incantations and summons and binds his elementals, scattering his inks, dusts and waving his totems as he does so.
+
+Igor Konstantin Kikoin - profile
+M   WS   BS   S   T   W   I   A   Dex   Ld   Int   Cl   WP   Fel
+ 3    26    33   3   3     9   52  1    43    34   45   45    60    29
+
+Skills :	Arcane Languages (Magick, Elemental Magick)
+	Astronomy			Cast Spells (as listed below)
+	Daemon Lore			Evaluate
+	Ettiquette			Heraldry
+	History				Identify Magical Artefact
+	Ettiquette			Identify Plant
+	Herb Lore			Law
+	Magical Awareness		Magical Sense
+	Manufacture Drugs		Meditation
+	Metallurgy			Mining
+	Numismatics			Read/Write - Reikspiel
+	Rune Lore			Speak Additional Language -
+	Scroll Lore					Slavic, Reikspiel
+	Secret Language - Guilder
+
+Spells : 45 magic points
+
+Petty Magic :	Glowing Light			Battle Magic L1 : Steal Mind
+		Magical Alarm					 Wind Blast
+		Magic Lock
+		Magic Flame			Battle Magic L2 : Aura of Protection
+		Protection from Rain				  Lightning Bolt
+
+						Battle Magic L3 : Cause Instability
+							              Curse of Arrow Attraction
+
+Elemental Magic L1 : Assault of Stones	Elemental Magic L2 : Move Object
+		       Walk on Water				 Resist Fire
+		       Build Coalstone				 WitherVegetation
+								  Bind Sprite
+								  Bind Elemental
+
+Elemental Magic L3 : Banish Elemental	Elemental Magic L4 : Hedge of Thorns
+		        Create Quicksand			        Summon Elemental
+		        Summon Sprite
+
+New spells
+========
+Build Coalstone
+Elemental Level 1
+Magic Points : 1		Range : Touch
+Duration : 1 day		Ingredients : A lump of coal, a source of flames
+This spell takes the heat and flames from a campfire, lantern or equivalent fire source 
+and places it into a lump of coal.  The coalstone is thereafter turned red-hot; kept in a 
+fireproof container, it can be used to start fires, lanterns etc. or simply kept for warmth.  
+It cannot be used as a light-source itself.  A day after casting the coalstone burns itself 
+out.
+	The spell is based on an elven fire rune discovered by Dwarfs among the ruins of 
+an elven settlement, during the Dwarf-Elf Wars.  Subsequently, Runesmiths used a 
+modified version of the rune to heat their furnaces with a minimum of fuel, and to 
+warm parties of tunnel fighters as they returned from patrolling the lower depths of 
+their holds.  It has also been used for cooking purposes.
+
+Summon Sprite
+Elemental Magic L3
+Range : Personal		Duration : 1+ hrs
+Magic points : 6 per hour
+Summon Sprite summons a single elemental being of the caster's choice, providing the 
+appropriate material components are used (see below).  It is essentially a lower level 
+version of the 4th level spell Summon Elemental; Summon Sprite can only summon an 
+Elemental of D6-1 size (minimum size 1).  In this way a smaller elemental may be 
+summoned to do the caster's bidding, without the risks involved in summoning a much 
+larger elemental being invoked.  The sprite summoned must be bound and stabilised as 
+usual after summoning.
+
+Earth Sprite : a square block of granite, inscribed with the elemental rune of earth on all six sides: for each 300 cubic cm of granite used, add +1 to the dice when determining size;
+Fire Sprite : a 2-metre pole of oak, smeared with sulphur and oil and set aflame;
+Water Sprite : a circle of river-washed pebbles immersed in water, encircling the heart of a Bog Octopus;
+Air Sprite : a piece of gossamer
+
+Bind Sprite/Bind Elemental
+Elemental Level 2
+Magic Points : 4		Range : 16 yards
+Duration : 2D4 rounds
+Ingredients : Fire elemental : a glass bulb of oil
+	          Earth elemental : a stone effigy, bound by three copper rings;
+	         Water elemental : fish scales
+	          Air elemental : a hollow glass sphere
+Binding spells for elementals stabilise as well as bind the elemental concerned, although for a more variable time period than Bind Demon does for demons.  Bind Sprite will bind a single elemental of up to size 5; Bind Elemental will bind an elemental of any size.  In determining duration, the GM should roll the 2D4, so tat the caster has no idea how long the binding will remain in place.
+
+By tripling the magic point cost, the binding and stabilising ritual can be extended to cover a group of elementals, although the each ingredient will only bind a single elemental (i.e. Bind Elementals will use 12 MPs and three glass bulbs of oil will bind and stabilise three size 7 Fire Elementals).
+
+Summon Elemental remains the same : its advantage over Summon Sprite is that it can summon elementals of any size (and is therefore rarer, and more expensive in terms of MPs and components).
+
+Floozh'oaar Water Sprite - level 2 water elemental
+M   WS   BS    S   T   W   I   A   Dex   Ld   Int   Cl   WP   Fel
+2     22    22    3    2   4   24   2     22    22  22   22   22     22
+Floozh'oaar is the closest thing Igor has to a confidante.  Although elementals are sexless Igor chose to summon her in the form of a little girl, composed wholly of water : this was not displeasing to Floozh'oaar so 'she' has kept it.  She's not a powerful enough water sprite to provide Igor with much information about the element of water, but Igor's other researches make up for what she can't tell him.
+	Floozh'oaar is unusual in that she's not magically bound.  Igor doesn't feel a need to bind her because of the trust between them - she's come to believe that Igor means her no harm and thus doesn't take action against him when summons her.
+
+Daez'thl Rock Sprite - level 2 earth elemental
+M   WS   BS   S   T   W   I   A   Dex   Ld   Int   Cl   WP   Fel
+2      24    20   2   3    4  25   2    22    22   23   22   25     21
+Daez'thl is the elemental that hollowed out the cave under Igor's instructions.  His relationship with Igor is more strained, and he needs to be bound to serve Igor's purposes.  If Daez'thl finds a way to break the binding, Igor will be his first target.
+
+In order to live, Igor summons these elementals and gets them to gather precious metals and crystals from the lagoon bed, and from within the rock surrounding the falls.  These are sold in return for food at nearby villages (Igor always travels disguised) and papers, inks, clothes and any magical components he thinks he'll need.
+
+Uses for Igor Kikoin
+==============
+As a patron : Kikoin's not badly off as a result of the mineral mining his elementals do for him, and the gold he brought from Baron Gidaspov's castle.  He could thus afford to post anonymous messages in the nearby villages, asking for messengers to travel to 
+Magritta/Marienburg/Nuln/wherever to place an order for a certain book he's heard about.  Likewise, PCs can be used as retrievers of spell components.
+	On the other hand, since Igor's home isn't exactly sheltered, he could be suffering some exposure-related illness which only a far-off medicine/herb/concoction/spell component can cure.  Maybe the PCs can be hired to get it... and what if the illness is contagious?
+
+As a goal : given the bounty hanging over his head, PCs may be hired by the Baron, or a law enforcement agency acting for the Baron, to track him down and bring him to justice.  Given that Kikoin is approaching old age, and hasn't done anyone any harm, the sight of the PCs dragging a frightened old man through Waldavia to face trial ought to raise the hackles on a few locals' necks.  Alternatively, Igor could beg the PCs to escort him to a place of safety (determined by the GM) to save him from the bounty hunters who are closing in.
+
+There's also the religious angle : although Kikoin, in his elemental researches, isn't directly breaking any of the strictures of Taal's faith, a local cleric of Taal might not see it that way... and go on a witch-hunt of his own...
+
+As a chance meeting : Igor's out buying food and supplies in the village the PCs happen to be passing through.  Although adult villagers tend to disregard him, their children seem attracted to him... simply by following the children down to the lagoon's edge they're in with a chance of meeting Igor in his home (if they're polite).
+
+Naturally, Kikoin is a mine of information on elementalism and nature-spirit summoning.  Given his previous role as noble adviser, he'd very likely be able to identify several important families within Waldavia-Mollachia and give advice on how to approach them (though he'll insist on a total lack of personal involvement).  If the PCs are suitably wealthy, and they aren't believers in elemental heresy, Igor might even be willing to have one of his elementals perform some difficult task for them (e.g. hollowing out a tunnel for them to follow until they reach their ultimate goal)... for a price.
+
+Acknowledgements
+==============
+I'd be remiss if I didn't mention Eric Oppen's article on Waldavia-Mollachia, which gave me a few ideas.  It is, after all, a land supposed to be the 'last resort of the outcast'...
+	Also to David Peterson, whose daemonic name generator 'dname11.exe' helped with the elementals' names.

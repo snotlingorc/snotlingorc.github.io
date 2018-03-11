@@ -1,0 +1,1437 @@
+   Official Sources:
+Warhammer FRP Rulebook (WFRP)
+The Enemy Within source pack (TEW)
+Warhammer City- City of the White Wolf (CoWW)
+Something Rotten in Kislev (SRiK)
+Death's Dark Shadow (DDS)
+White Dwarf Marienburg articles (MAR)
+Rolston's Realm of Sorcery draft (RoS)
+Rolston's Realm of Divine Magic draft (RoDM)
+Warhammer Battle, 2nd edition (WFB2)
+Warhammer Battle, 3rd edition (WFB3)
+
+Selected entries from:
+   Warhammer Battle, 4th edition:
+Empire Army book (EMP)
+High Elf Army book (HE)
+Dwarf Army book (DW)
+Orc & Goblin Army book (ORC)
+Skaven Army book (SK)
+Undead Army book (UD)
+Dark Elf Army book (DE)
+Wood Elf Army book (WE)
+
+In conjunction with MadAlfred, additional "unofficial" stuff
+from:
+
+Morten Krog (MK) - Norscan Jarl who coordinated the Norsca
+project
+Oliver Rosenkranz (OR) - Il Duce de Miragliano who coordinated
+the Miragliano project.
+
+
+Other stuff from:
+
+Anthony Ragan (AR) - Staadtholder of Marienburg and chief
+Snotling
+Marco Bizzarri (MB) - High Priest of Morr in Luccini
+
+
+The rest of the entries (those without reference) from MadAlfred
+
+
+HISTORY OF THE OLD WORLD
+
+                    -7500 I.C.
+          The Old Slann appear from some other world. (WFB2)
+
+                    -6500 I.C.
+          The end of the Ice Age. (WFB2)
+          The Old Slann alter the planet's orbit, causing a
+               general increase in temperatures, rise in sea
+               levels and withdrawl of the ice sheets to the
+               extreme polar regions. (WFB2)
+          The Old Slann transplant the emerging race of Elves
+               onto the island later known as the Ulthuan. 
+               (WFB2)
+          Tribes of Human hunter-gatherers arrive in the New
+               World from the northwest and begin to spread
+               across the land.
+
+                    -6000 I.C.
+     LUSTRIA:
+          Tribes of Humans arrive and spread throughout the land.
+
+                    -5500 I.C.
+     LUSTRIA:
+          The emergence of Amazons. (WFB2)
+
+                     -5000 I.C.
+     DWARVES:
+          Dwarves begin their slow colonization of the Worlds
+               Edge Mountains. (DW)
+          Time of the Ancestor Gods. (DW)
+
+                    -4600 I.C.
+      ELVES:
+-4550     High Elves establish fortress of Sith
+               Rionnasc'namishathir (Star-Gem of the Sea) at the
+               mouth of the Reik.
+
+                    -4500 I.C.
+          The coming of Chaos. (WFRP)
+          In their airships, the Old Slann speed to both poles to
+               battle the intruders.
+          Most of the Old Slann perish in battle, but they
+               succeed in checking the advance of Chaos in the
+               northern New World and southern Lustria.
+          Fall of the Old Slann, their civilizations collapses
+               almost overnight. (WFB2)
+          The remaining Slann retrogress into a strange, barbaric
+               people.  They forget most of Old Technology and
+               powerful magic. (WFB2)
+     DWARVES:
+          Disappearance of the Ancestor Gods. (DW)
+          Dwarves and High Elves meet for the first time and
+               friendly relationship established. (DW)
+     LUSTRIA:
+          The Amazonian Sisterhood is founded. (WFB2)
+          The Amazons war continually on the new Slann Empire.
+               (WFB2)
+     NORSCA:
+-4500     Jotun people (Giants) are defeated and dispersed by
+               Chaos. (MK)
+     ULTHUAN:
+-4500     The first Phoenix (High) King defends the Shrine of
+               Asuryan against the Chaos Horde of Morkar. (HE)
+-4498     War against Chaos begins in earnest. (HE)
+-4480     Forces of Chaos driven back. (HE)
+          Phoenix King marries Everqueen. (HE)
+-4471     Forces of Chaos attack Avelorn. (HE)
+          Everqueen slain and children lost. (HE)
+-4461     Caledor Dragontamer starts repairing and expanding
+               ancient network of Standing Stones (which stood on
+               Ulthuan since dawn of time) so as to drain the
+               Winds of Magic from the world. (HE)
+-4458     Malekith, future Witch King of Naggaroth, is born. (HE)
+-4419     Battle of the Isle of Dread results in a magical vortex
+               which drains the world of the magic, thereby
+               weakening the Chaos forces. (HE)
+          The first Phoenix King dies. (HE)
+
+                    -4200 I.C.
+          First massive migration of Human tribes from the south.
+          Ancestors of the Romany peoples. (RoDM)
+     DWARVES/ELVES:
+-4164     Malekith defeats an Orc army and saves the city of
+               Athel Toralien. (HE)
+-4119     Dwarves and High Elves combine armies and finally drive
+               the last remnants of Chaos from Old World. (HE)
+          Trade between both races flourish and the Dwarves
+               establish many new strongholds. (DW)
+     NEW WORLD:
+-4164     The foundation of the first High Elf colonies on the
+               east coast. (HE)
+
+
+                    -4100 I.C.
+     OLD WORLD:
+-4025     Following a dream, Edrenar defeats a large Orc army. 
+               Edrenar converts to the cult of Sarriel (Morr) and
+               begins to gather followers of Sarriel around him.
+               (MB)
+     ULTHUAN:
+-4100     Edrenar the Dreamer is born. (MB)
+-4001     Edrenar the Dreamer becomes clanmaster of the
+               Allianarenel clan. (MB)
+
+                    -4000 I.C.
+     TILEA:
+-4000     Edrenar leads a number of the Allianarenel clan from
+               Ulthuan to the Old World.  They arrive in southern
+               Tilea and establish a town where they received a
+               sign from Sarriel.  The town is called Altheriol-
+               ta-Melathiel ("Black Pearl from the Two Seas").
+               Temple to Sarriel built. (MB)
+
+                    -3900 I.C.
+     TILEA:
+-3870     Edrenar, first Dreamking of the Black Pearl, dies.  He
+               is succeeded by his son, Maranawe.
+
+                    -3500 I.C.
+     TILEA:
+-3500     Altheriol-ta-Malethiel renamed Dream Gate and the first
+               Permanent Gate is opened. (MB)
+     ULTHUAN:
+-3419     Cult of Pleasure begins its slow spread through
+               Nagarythe and across all Ulthuan. (HE)
+
+                    -3200 I.C.
+     ARABY:
+          First Human civilization rises in Nippur, on the banks
+               of the Rivers Tigis and Phrates in southeastern
+               Araby.
+
+                    -3000 I.C.
+     ARABY:
+          The Pharaohs (God-Kings) unite Upper and Lower Kemet
+               (Khygia) along the banks and delta of the River
+               Nyllus.
+     DWARVES:
+-3000     Golden Age begins as Dwarven Empire founded and
+               establishment of Karaz-a-Karak as capital. (WFB3)
+     TILEA:
+-3000     Dream Gate is referred to as Nightmare Gate by other
+               Elves. Dreaming Elves begin to dabble in
+               Daemonology and Necromancy. (MB)
+
+                    -2900 I.C.
+     DWARVES/ELVES:
+-2839     Pledge of friendship between Dwarves and Elves. (HE)
+          Dwarves build the sea wall, Vloedmuur, about Sith
+               Rionnasc.
+
+                    -2800 I.C.
+     BORDER PRINCES:
+          Rise of Midean civilization.
+     NEW WORLD:
+-2789     Malekith finds the Circlet of Iron in the ancient city
+               of Vorshgar in the northern wasteland. (DE)
+-2723     Dark Elves establish themselves in the cold land of
+               Naggaroth, with its capital of Naggarond. (DE)
+          Native tribes of Ikadians in the area are scattered and
+               destroyed.
+     ULTHUAN:
+-2774     Cult of Pleasure is revealed as being secretly given
+               over to the worship of Slaanesh. (HE)
+-2751     Massacre at the Shrine of Asuryan. (HE)
+          Malekith fails in bid to become Phoenix King. (HE)
+-2749     Elven civil war commences, rages for 25 years. (HE)
+-2736     Malekith is sealed within his black armor and is hailed
+               as the Witch King. (DE)
+-2724     Phoenix King Caledor defeats the Witch King at the
+               Battle of Maledor. (DE)
+-2723     The Sundering.  Witch King interferes with the Vortext
+               which contained Chaos Magic. Much of northern
+               Ulthuan sunk. (DE)
+
+                    -2700 I.C.
+     TILEA:
+          The Last Feast of Discovery.  Undead break free of the
+               Dreaming Elves' control and slaughter them that
+               night while the priests of Sarriel are sealed
+               within the temple.  Those that survived the night
+               (and their descendants) are forever tainted with
+               insanities.  Dream Gate is abandoned. (MB)
+     ULTHUAN:
+-2630     Dark Elf expedition returns and hostilities resume.
+               (DE)
+
+                    -2600 I.C.
+     ARABY:
+          Assurian Empire dominates in Tigis/Phrates valley.
+               Clashes with Kemet to the north.
+
+                    -2500 I.C. 
+     ARABY:
+          Most of the Great Pyramids and tombs (clusters of which
+               were called Necropolises) for the pharaohs were
+               constructed during this time. (UD)
+     DWARVES/ELVES:
+          Alliance between two races facilitates taming of the
+               Old World. (WFRP)
+     FAR EAST:
+          First Dynasty rises in Cathay, consolidating victory
+               over local warlords.
+
+                    -2400 I.C.
+     ULTHUAN:
+-2319     For first time, Dark Elves mount Cold Ones in battle.
+               (DE)
+
+                    -2300 I.C.
+     ULTHUAN:
+-2219     Last of Dark Elves driven from northern Ulthuan. (HE)
+
+                    -2200 I.C.
+     ELVES:
+-2188     High Elves return to Old World. (HE)
+
+                    -2100 I.C.
+     DWARVES/ELVES:
+-2005     The Great Betrayal mars relationship between Dwarves
+               and Elves.  Elves are blamed for attacks on
+               Dwarves, even though Dark Elves are the
+               perpetrators. (HE, DW)
+
+                    -2000 I.C.
+          Second massive migration of Human tribes, this time
+               from eastern Steppes.  Ancestors to the future
+               nations, kingdoms, and city-states of the Old
+               World. (RoDM modified)
+     ARABY:
+-2000     Birth of Nagash. (UD)
+-1968     Group of errant Dark Elves teaches Dark Magic to
+               Nagash, High Priest of Khaine, in Khermi (capital
+               of Kemet). (UD modified)
+          Nagash then defeats the Dark Elf leaders in a sorcerous
+               duel and has survivors entombed alive in the Great
+               Pyramid. (UD)
+-1960     Death of Pharaoh Ormahkaten.
+          Civil War breaks out in Kemet.
+-1959     Nagash slays High Priest of Orierus and seizes power in
+               Khermi. (UD modified)
+-1950     Nagash begins to prolong his fading youth by distilling
+               an elixir from Human blood.  Recruits other
+               depraved noblemen to join him. (UD)
+          Nagash orders the construction of the Black Pyramid,
+               destined to be larger than the Great Pyramid of
+               Khemri. (UD)
+     BORDER PRINCES:
+          Midean civilization mysteriously vanishes.
+     DWARVES/ELVES:
+-1997     War of the Beard (War of Vengeance) begins and lasts
+               for 400 years. (HE, DW)
+-1974     Son of Dwarf High King slain by High Elf King Caledor
+               II. (HE)
+-1968     Battle of Oeragor. (DW)
+-1948     Elf city of Athel Maraya is burned to the ground by
+               Dwarf Army. (HE)
+     FAR EAST:
+          Civilization rises in Ind.
+     NORSCA:
+-1938     Elves are forced to evacuate Norscan ports. (MK)
+     TILEA:
+-2000     City of Kavzar is established. (SK)
+          Rapidly grows to become the largest city in the Old
+               World. (SK)
+-1950     Wandering Dwarf clan takes up residence there and
+               further builds city. (SK)
+
+                    -1900 I.C.
+     ARABY:
+          Hettite forces crush Assurian Empire, conquers Lower
+               Kemet.
+     TILEA:
+-1880     Humans begin construction of their great temple in
+               Kavzar with Dwarf help. (SK)
+          Work goes on continuously the next 100 years. (SK)
+
+                    -1800 I.C.
+     TILEA:
+-1780     Temple of Kavzar is completed and warpstone starts to
+               rain down on the city from Morrslieb. (SK)
+          Within a year city is overrun by swarms of giant
+               matched rats and disappears in the Blighted
+               Marshes. (SK)
+
+                    -1700 I.C.
+     NEW WORLD:
+-1666     Chaos army sweeps down from the Chaos Wastes  and
+               invades Naggaroth.  Dark Elf casualties are high,
+               but Chaos army completely wiped out. (DE)
+
+                    -1600 I.C.
+     DWARVES/ELVES:
+-1560     Battle of Three Towers at the gate of Tor Alessi (now
+               the Bretonnian port of L'Anguille). (DW, HE)
+          Dwarves defeat Elves in a cataclysmic battle. (DW, HE)
+          Phoenix King Caledor II slain by Dwarf King Gotrek
+               Starbreaker. (HE)
+          Phoenix Crown taken by Dwarves as recompense. (DW, HE)
+-1589     Phoenix King Caradryel recalls High Elf armies from the
+               Old World.  Elf colonies see departure as a
+               betrayal. (WE)
+-1502     Sith Rionnasc falls to Dwarves after long siege. 
+               Fortress razed to the ground.
+-1501     High Elves withdraw from Old World to battle resurgent
+               Dark Elves from Naggaroth. (HE)
+          Dwarves are left victorious, but decimated with the
+               ending of the War of Vengeance. (DW)
+     ELVES:
+-1501     Athel-Loren, the Wood Elf capital, is founded. (WFB3)
+     TILEA:
+-1600     First true Skaven emerge as masters of Skavenblight
+               (formerly Kavzar). (SK)
+          First experiments with magic. (SK)
+          Warpstone sought further afield. (SK)
+          Tunnel system under Skavenblight expanded to
+               accommodate rapidly increasing population. (SK)
+     ULTHUAN:
+-1599     Dark Elves invade Shadowlands. (HE)
+          Intermittent war begins. (HE)
+
+                    -1500 I.C.
+     ARABY:
+          Hettite forces withdraw from Kemet to meet Goblin
+               threat in north.
+     BADLANDS:
+          Goblinoids overrun land, threaten Hettite capital.
+     DWARVES:
+          Volcanic activity destroys realms. (WFRP)
+-1499     Start of Goblin wars as Karak Ungor is the first
+               Dwarfhold to fall to Goblins. (DW)
+          Karak Varn is flooded and occupied by Goblins and
+               Skaven. (DW)
+-1498     Dwarf mines in Dragonback Mountains fall. (DW)
+-1457     Mad Dog Pass and Gunbad fall. (DW)
+     NEW WORLD:
+          Almeca civilization rises in the south as Slann Empire
+               recedes into Lustria.
+     TILEA:
+-1500     Earthquakes triggered by Skaven society devastates
+               population of Skavenblight. (SK)
+          The twelve Grey Lords arise forming the first Council
+               of Thirteen and the Order of the Grey Seers. (SK)
+
+                    -1400 I.C.
+     DWARVES:
+-1387     Silver Road Wars begin and lasts 20 years. (DW)
+-1367     Mount Silverspear falls. (DW)
+     NORSCA:
+-1380     First Humans migrate to southern Norsca. (MK)
+
+                    -1300 I.C.
+     DWRAVES:
+-1250     Troll Wars begin. (DW)
+-1245     Dwarves regain control of area between Karak Kadrin and
+               Mad Dog Pass. (DW)
+
+                    -1200 I.C.
+     DWARVES:
+-1185     Karak Varn is reoccupied for 49 years. (DW)
+-1136     Orcs and Skaven renew pressure and force Dwarves to
+               depart. (DW)
+     ELVES:
+-1125     Battle of Glade of Woe where Orc army is wiped
+               destroyed in the Loren Forest.  Orion and Ariel
+               become King and Queen in the Wood. (WE)
+     NEW WORLD:
+          Miyan civilization rises to the east of the Almeca.
+
+                    -1000 I.C.
+     BORDER PRINCES:
+          Rise of Hellene City-States.
+          The renowned city-state of Myrmidens is founded. 
+               Achaen League forms to battle Goblinoids from
+               Badlands.
+     BRETONNIA:
+          Arrival of the Bretonni tribes from the east, settling
+               all lands north and west of the Loren Forest. (WE)
+     DWARVES:
+-975      Battle of a Thousand Woes. (DW)
+          Dwarf attempt to recapture Red Eye Mountain (Karak
+               Ungor) fails. (DW)
+     NEW WORLD:
+          Almeca civilization disappears suddenly.
+
+                    -800 I.C.
+     DWARVES:
+-750      Karak Azul partially occupied by Goblins for 10 years.
+               (DW)
+
+                    -700 I.C.
+     ELVES:
+-700      Kindred of the Wythel Glades leave Athel Loren and
+               migrate over the Grey Mountains into the vast
+               forests beyond.  Some settle in the Laurelorn
+               Forest. (WE modified)
+     ULTHUAN:
+-692      Last of the Dark Elves in Ulthuan are destroyed. (HE)
+
+                    -600 I.C.
+     DWARVES:
+-513      Karak Eight Peaks falls to Orcs, Goblins, and Skaven.
+               (DW)
+
+                    -500 I.C.
+          Rise of Humanity in northern Old World. (WFRP)
+          First dealings with Dwarves. (WFRP)
+          Establishment of numerous petty states throughout rest
+               of Old World. (WFRP)
+     DWARVES:
+-469      Orcs destroy and abandon Karak Azgal. (DW)
+-466      Karak Drazh falls and is renamed Black Crag. (DW)
+     ESTALIA:
+          Founding of Bilbali and Magritta.
+     TILEA:
+-500      Founding of Giamirado [Miragliano]. (OR)
+-500      Founding of Remas.
+-497      Hellenic settlers land near the ruins of Dream Gate. 
+               Beset by Undead, they pray to Thanation (Morr) for
+               deliverance.  Construction of a temple begins on
+               the ruins of the Elven Temple of Sarriel. Hellenic
+               town named Photopolis. (MB)
+
+                    -400 I.C.
+     DWARVES:
+-370      Orcs and Goblins beaten back at Battle of Black Water.
+               (DW)
+
+                    -300 I.C.
+     ARABY:
+-230      Alesandr conquers ancient kingdoms of Assuria, Het,
+               Kemet, and Nippur.
+-224      Alesandr dies from an illness in Nippur and is entombed
+               in Kemet while Hellenic Empire divided among his
+               heirs.
+     BADLANDS:
+-234      Alesandr leads Hellene armies against Goblinoids, frees
+               coast of the Black Gulf.
+     BORDER PRINCES:
+-239      Alesandr of Achaes succeeds his father, Philus, as
+               leader of the League.
+-237      Subdues City-State of Myrmidens.
+     DWARVES:
+-250      Dwarves intensify trading contacts with Humans in lands
+               which will become the Empire. (WFRP)
+          Dwarves encounter the Wood Elves of the Loren with
+               disasterous results. (WE)
+     TILEA:
+-210      Rise of Remean Republic.
+
+                    -200 I.C.
+     TILEA:
+-190      Remas leads Tilean League against invading Hellenic
+               Empire and expels it from southern Tilea.
+          Photoplois renamed Lucinia [Luccini]. (MB)
+-189      Temple of Thanation rededicated to Morr. (MB)
+-188      Miragliano razed to the ground by Remean Legions for
+               failure to provide troops in the Hellenic War.
+               (OR)
+-130      Saratosa founded.
+
+                    -100 I.C.
+     EMPIRE:
+-85       Founding of Reikdorf [Altdorf].
+-50       Founding of Middenheim. (CoWW)
+-30       Sigmar Heldenhammer born in Reikdorf. (TEW)
+-20       Founding of Nuln.
+-15       Rescues Dwarven King Kargan from Goblin warbands. (TEW)
+- 5       Founding of Talabheim.
+- 1       Battle of Black Fire Pass where Sigmar leads alliance
+               of Humans and Dwarves and crushes the Goblinoid
+               army.  Drives remaining Goblinoids back into the
+               Dark Lands. (TEW)
+     FAR EAST:
+-87       Dark Elf ships start raiding the coasts of Cathay and
+               Nippon. (DE)
+     TILEA:
+-80       Tobaro founded.
+-50       Remas battles neighbors until it dominates Tilea.
+
+                    0 I.C.
+          First period of tolerance of sorcery begins and lasts
+               200 years. (RoS)
+     ARABY:
+ 0        Remean Legions conquer Kemet and neighboring kingdoms.
+          Last pharaoh of Kemet, Amun-Ramsus XIII, slain.
+     BADLANDS:
+15        Remean Legions crush Goblins near Black Gulf and drives
+               them back into the Dark Lands.
+     BORDER PRINCES:
+ 3        Remean Legions overrun the Hellenic city-states. 
+               Control established along the coast to Blood
+               River.
+     BRETONNIA:
+25        Remas establishes presence in the south.
+     EMPIRE:
+ 0        Establishment of Empire. (WFRP)
+ 1        Sigmar crowned Emperor by High Priest of Ulric. (TEW)
+          Sigmar grants Krugar title to lands along Talabec.
+               (SRiK)
+50        Sigmar abdicates and disappears in Worlds Edge
+               Mountains. (TEW)
+52        Establishment of electoral system. (TEW, EMP)
+73        Establishment and expansion of Cult of Sigmar, open
+               conflict with Cult of Ulric begins. (TEW, EMP)
+          Johann Helstrum becomes first Grand Theogonist of
+               Sigmar. (EMP)
+85        After defeat by the still tribal Teutognens, Marius
+               leads his people westward from Nordland. (AR)
+     ESTALIA:
+35        Remean Legions conquer Magritta.
+50        Remean Legions conquer Bilbali.  Clashes with native
+               Keltoi peoples.
+     FAR EAST:
+1         Nippon unites for first time under a single Emperor
+               warlord, Yamyakyuki I. (WFB3)
+     TILEA:
+30        Increasing number of daemonolgists and necromancers in
+               Luccini.  Introduction of the Sorcerors Law. (MB)
+60        Refounding of Miragliano. (OR)
+     WASTELAND:
+90        Marius the Fen Wolf, first Baron of Westerland, founds
+               the city of Marienburg. (MAR)  Begins construction
+               of Rijker's Isle fortress. (AR)
+
+                    100 I.C.
+     NEW WORLD:
+176       Following numerous incursions by Chaos warbands, Dark
+               Elves begin building a series of watchtowers along
+               Naggaroth's northern border. (DE)
+
+                    200 I.C.
+          Secret societies of sorcerors form across Old World as
+               the various Cult hierarchies lead in the
+               oppression of the Sorcerous Arts. (RoS)
+          The loss and destruction of many magickal treasures
+               occur during this period. (RoS)
+     DWARVES:
+287       Miners discover nest of the dragon Mordrak in the
+               mountains south of Karak Azul. (DW)
+     NORSCA:
+200       Boat building techniques steadily imroves, allowing
+               Norse to travel beyond coastal waters. (MK)
+224       The Hjatland islands are discovered between the Norsca
+               and the north of Albion. (MK)
+     TILEA:
+202       At the urging of the various Cult hierarchies, Emperor
+               Nerius orders the suppression and persecution of
+               Wizards throughout the Remean Empire.
+
+                    400 I.C.
+TILEA:
+451       Sartosa is beseiged and captured by a combine force of
+               Dark Elves and Undead. (DE)
+453       Remean Legions recature Sartosa and rout the Dark
+               Elf/Undead force. (DE modified)
+
+                    500 I.C.
+          Intensive deforestation and cultivation takes place in
+               Old World as Humanity spreads. (WFRP)
+     ARABY:
+510       Establishment of City of Constantium as capital of
+               Remean Kemet.
+     BRETONNIA:
+504       Legions clash with Bretonni peoples as Remean Empire
+               expands.
+512        Founding of the city of Brionne.
+530        Founding of the city of Bordeleux.
+537        Founding of the city of Moussillon.
+540        Founding of the city of Quenelles.
+560        Founding of the city of L'Anguille.
+562        Founding of the city of Couronne.
+570        Founding of the city of Gisoreux.
+592        Founding of the city of Parravon.
+     EMPIRE:
+555       Empire grants Middenheim charter to avoid city's
+               secession. (CoWW)
+          Creation of first Knight Eternal to represent
+               Middenheim. (CoWW)
+     KISLEV:
+520       Establishment of Erengrad. (SRiK)
+572       Establishment of Dorogo. (SRiK)
+     WASTELAND:
+501       Independent Westerland is absorbed by Empire during
+               reign of Emperor Sigismund II, the Conqueror. (AR)
+
+                    600 I.C.
+     DWARVES:
+657       Thori Gundrikson discovers Gromril in caves west of
+               Black Water. (DW)
+662       Discovery of Lost Heartstone of Aldin Getgold in the
+               Dragonback Mountains. (DW)
+665       Mines near Black Water destroyed by Skaven. (DW)
+684       Discovery of the Axe of Dail deep in the ruins of Karak
+               Varn and return to High King in Karaz-a-Karak.
+               (DW)
+685       Skin of the dragon Fyrskar brought to High King. (DW)
+     FAR EAST:
+698       Representatives of the Phoenix King of the High Elves
+               arrive in Cathay. (HE)
+          Trade between east and west begins to flourish. (HE)
+
+                    700 I.C.
+     ARABY:
+758       Revolt in Kemet put down by Remeans.
+779       Establishment of Constantium as second capital of
+               Remean Empire.
+     BRETONNIA:
+756       Remean Legions retreat to south as troubles plague its
+               Empire.
+770       Newly independent Bretonnian warlords initiate 50 years
+               of sporatic attempts to invade the Loren with
+               hopes to carve out more lands.  All are repelled.
+               (WE modified)
+     DWARVES:
+742       Sons of the High King are rescued from the dungeons of
+               Black Crag. (DW)
+     NEW WORLD:
+753       Dark Elf slave-ships begin to roam the globe and begin
+               to bring entire tribes to Naggaroth in chains.
+               (DE)
+     NORSCA:
+792       Knut Thorisson begins 5 year campaign to unify Norsca.
+(MK)
+     TILEA:
+760       Civil War erupts and lasts for 30 years.
+792       Miragliano leaders are executed for their instigation
+               of the Civil War. Remean military governorship is
+               established in the city. (OR)
+     WASTELAND:
+765       Barony and Norse conclude treaty at the Althing of
+               Traktatsey ending latter's raiding. (MAR)
+
+                    800 I.C.
+     DWARVES:
+892       Destined to be the greatest and most long lived
+               Runesmith of his age, Kragg the Grimm forges his
+               first rune. (DW)
+     ESTALIA:
+820       Remas crushes revolt in Bilbali.
+     KISLEV:
+809       King Knut of Norsca battles Imperial forces near the
+               Lynsk River. (MK)
+     NEW WORLD:
+          Rise of the Anatuzi, Cliff-Dwellers, in the arid west.
+     NORSCA:
+822       Kingdom of Norsca breaks up with the death of King
+               Knut. (MK)
+     WASTELAND:
+830       Norse raids begin anew.  Marienburg is burned down
+               several times over the next 20 years by the Norse.
+
+                    900 I.C.
+     ARABY:
+996       The prophet, Mulhaed al-Quyat, born.
+     BADLANDS:
+995       Goblinoid forces destroy Remean settlements along Black
+               Gulf.
+     BORDER PRINCES:
+999       Suffering great losses, Remean Legions defeat invading
+               Goblinoids.
+     BRETONNIA:
+936       Duchy of Moussillon and Barony of L'Anguille at war.
+               (MAR)
+977       Gilles le Breton of Gisoreux begins 70 years of
+               dynastic conquests that leads to unification of
+               Bretonnia. (WFRP)
+980       Orcs and Goblins retreat to Grey Mountains and northern
+               forests. (ORC)
+982       Remean Legions begin a 10 year campaign to recover lost
+               territories and clashes frequently with le
+               Breton's army.
+
+                    1000 I.C.
+     ARABY:
+1005      Constantium becomes center of Remean Empire as the rest
+               of Empire collapses in much of Old World.
+1050      Mulhaed al-Quyat begins preaching of the One True God.
+1060      Mulhaed al-Quyat begins 200 year jihad against
+               Constantian Empire.
+1065      Mulhaed al-Quyat dies.
+     BORDER PRINCES:
+1022      Escaping the King's forces, some of Bretonnia's
+               nobility and their retinue invade and carve out
+               their own petty realms. (WFRP)
+     BRETONNIA:
+1002      Declining Remean Empire authority collapses.
+1005      Le Breton sweeps Remean armies out of Bretonnia.  He
+               dies later and is succeeded as King by his son,
+               Louis.  King Louis the Rash recognizes Athel Loren
+               as an independent realm. (WE)
+     DWARVES:
+1032      Skalf Dragonslayer slays the dragon Graug the Terrible
+               and claims the kingship of Karak Azgal. (DW)
+          Dwarves make no attempt to recapture hold infested with
+               Goblins, Skaven, and other foul creatures. (DW)
+1033      Instead, Skalf and descendants establish a town in the
+               valley below the old entrance. (DW)
+     EMPIRE:
+1000      Emperor Ludwig the Fat issues royal charter to the
+               Halflings of the Moot granting them administrative
+               autonomy and an Imperial vote. (TEW)
+1053      62 year reign of Boris the Incompetent begins.
+          Corruption prevalent throughout his reign. (TEW)
+     ESTALIA:
+1002      Remean authority collapses and Legions withdraw.
+          Establishment of petty kingdoms in the wake.
+     NORSCA:
+1000      Norse discover and settle on the Kuldevind Islands,
+               well north of Albion. (MK)
+1023      Norse discover and settle the volcanic island of
+               Ildelver between Albion and Naggaroth. (MK)
+1035      Magnus Lawmaker recreates the Kingdom of Norsca, with
+               all petty kingdoms under one strong leader. (MK)
+1082      Norse settlements in Ildelver come under continuous
+               attack from the Dark Elves. (MK)
+     TILEA:
+1001      Civil War erupts
+1015      Remas domination ends.
+          Rise of the Tilean City-States.
+1030      Arismio del Padloa writes "Civic Liberta." (OR)
+     WASTELAND:
+1087      Marienburg concludes treaty with eastern kingdoms of
+               Albion. (MAR)
+
+                    1100 I.C.
+1102      Second period of tolerance of sorcery begins and lasts
+               for 40 years. (RoS)
+1111      Devastating outbreak of Black Plague begins in the
+               Empire and spreads throughout Old World over the
+               next five years. (TEW)
+     ARABY:
+1142      Eastern provinces of Constantian Empire fall to the
+               Arabian forces.
+1152      The Western provinces fall.
+     BRETONNIA:
+1142      Guillaume, the third Bretonnian King, defeats a large
+               Orc army at the Battle of Armandur and drives the
+               last of the Orcs from northern Bretonnia. (ORC)
+     EMPIRE:
+1111      Skaven erupt to take advantage of the plague. (EMP)
+          Many small settlements abandoned. (EMP)
+1115      Death of Emperor Boris Goldgatherer the Incompetent.
+          No successor elected during ensuing anarchy. (EMP)
+          Skaven start to systematically enslave the surviving
+               Human settlements. (SK)
+1124      Count Manfred Skavenslayer finally drives out the
+               Skaven and is elected Emperor. (EMP)
+1152      Assassination of Emperor Manfred by Skaven assassins.
+               (EMP)
+          Inconclusive Electoral Council starts the 200 year Age
+               of Wars. (TEW)
+          Middenheim annexes Middenland. (CoWW)
+     NEW WORLD:
+          Rise of the Alomas, first of the Mound Builders, in the
+               Alhio River basin of the eastern woodlands.
+     NORSCA:
+1115      Death of Snorri the Unlucky.  Kingdom of Norsca
+               fragments. (MK)
+1130      Raids on Ildelver by Dark Elves diminish. (MK)
+     ULTHUAN:
+1125      Dark Elves invade Ulthuan. (HE)
+1131      Dark Elves rebuild citadel of Anlec in the Shadowlands.
+               (HE)
+1133      Begins war with siege of Griffon Gate. (HE)
+1146      Siege of Griffon Gate lifted. (HE)
+
+                    1200 I.C.
+     ARABY:
+1205      Central provinces fall and the 55 year siege of
+               Constantium begins.
+1260      Constantium falls to Arabian forces and is renamed
+               Istrabul.
+     ESTALIA:
+1212      Arabian forces begin conquest of Estalian kingdoms.
+1224      Although greatly reduced, the kingdom of Astarios and
+               its capital Magritta stands despite repeated
+               setbacks.
+1225      Bilbali falls.
+1233      Remnants of the Estalian realms (Tigarre, Obregon, and
+               Cantonia) withdraw to the Irrana Mountains to
+               continue the struggle.
+     NEW WORLD:
+          Aloma culture vanishes after 180 years.
+     TILEA:
+1230      Miraglianese merchant fleet becomes dominant on the
+               Southern and Tilean Seas. (OR)
+
+                    1300 I.C.
+     BRETONNIA:
+1342      Arabian forces lay siege to Brionne and threaten the
+               south of Bretonnia.
+1344      Rollo d'Chinon dislodges the Arabians.
+1347      d'Chinon drives them back to Estalia.
+     ELVES:
+1350      Dwarf army is decimated in the Loren in the Battle of
+               Pine Crags. (WE)
+     EMPIRE:
+1359      Imperial capital moves from Altdorf to Nuln with
+               election of Grand Duke of Stirland to Emperor.
+               (TEW)
+1360      Ottilia of Talabheim declares herself Empress with
+               support of High Priest of Ulric. (TEW)
+          High Priest of Ulric leaves Middenheim for Talabheim.
+               (CoWW)
+          Start of Imperial Civil War. (TEW)
+1361      Ottilia outlaws Cult of Sigmar in Talabecland. (TEW)
+          Ulrican extremists begin the Sigmarite Heresy doctrine.
+     LUSTRIA:
+          Chevan civilization rises in the mountainous west.
+     NORSCA:
+1300      City of Oricstaad founded by King Magnus IV. (MK)
+     TILEA:
+1326      To facilitate (control) trade, Miragliano establishes
+               trade associations with other towns in Tilea and
+               the Border Princes. (OR)
+
+                    1400 I.C.
+     ARABY:
+1435      Sultan Jaffar, a powerful Arabian sorcerer, wields
+               together a coalition of several desert tribes.
+               (SK)
+1436      Jaffar expands his city-state to a small empire with
+               the capture of Al-Haikk, Copher, Martek, and
+               Lashiek in western Araby. (SK)
+1442      The Sultan of All Araby, Daryus-e Qabir, declares jihad
+               against the infidels of the Old World. (WFRP)
+1448      Skaven convince Jaffar that he should extend his empire
+               into Estalia and overthrow the corrupt and soft
+               ruling Almarvid regime and crush the Estalians.
+               (SK modified)
+1450      Start of 600 year Crusadings.
+     DWARVES:
+1420      Lands around Karak Kadrin are tormented by the great
+               dragon Skaladrak Incarnadine. (DW)
+     ESTALIA:
+1448      Invasion by fresh Arabian army led by Sultan Jaffar.
+               (SK)
+1450      Fall of Estalian kingdom of Astarios and most of
+               Magritta.
+          Only the citadel and harbor remain in Estalian hands.
+          Start of 600 year Crusadings.
+          Estalian kingdoms lead fighting as Arabian forces
+               suppress Old World religions in Arabian-held
+               Estalia.
+1452      Fall of Bilbali to the Crusading forces.
+1457      Founding of the Order of the Blazing Sun. (EMP)
+          Magritta liberated by Crusading forces.
+          Only Arabian kingdom of Alhabra remains in Estalia.
+     NEW WORLD:
+          Tulen civilization rises in the plateaus west of the
+               Miyan jungle realms.
+
+                    1500 I.C.
+     EMPIRE:
+1540      Founding of the Order of Knights Panther.
+1547      High Priest of Ulric and Graf Heinrich of Middenheim
+               achieve rapprochement by Cult accepting vow of
+               celibacy for all priests. (CoWW)
+          Heinrich's bid for the throne fails, but declares
+               himself Emperor. (CoWW)
+          Age of Three Emperors begins. (TEW)
+     KISLEV:
+1503      First wave of Gospodar peoples migrate through Northern
+               Pass from Farside by pressure from Ungol people
+               [who moved into steppes from region in northern
+               Cathay]. (SRiK)
+1510      Norse princes of Ropsmann peoples raid Gospodar
+               settlements along Lynsk River. (SRiK)
+1523      Norse princes establish themselves as ruling minority
+               in Erengrad. (SRiK)
+     NORSCA:
+1505      Population pressure leads to sporadic raiding along the
+               coasts of the Sea of Claws.
+     ULTHUAN:
+1502      High Elf army routs Dark Elves. (HE)
+
+                    1550 I.C.
+     EMPIRE:
+1550      Steady disintegration over the next 430 years sees
+               increase in the number of Daemonologists and
+               Necromancers, proliferation of secret Chaos
+               worship. (TEW)
+     TILEA:
+1563      City of Tobaro is overrun by Skaven breaking through
+               the ancient Elf-carved network of tunnels which
+               riddle the cliffs around it. (SK)
+1565      Tobaro is recaptured by a mercenary army led by Meldo
+               Marcelli. (SK)
+     WASTELAND:
+1597      Marienburg seized by Bretonnian army under Count of
+               L'Anguille. (AR)
+
+                    1600 I.C.
+     NEW WORLD:
+          Rise of the Holamkis, second of the Mound Builders, in
+               the Misipia and Alhio River basins of the eastern
+               woodlands.
+     TILEA:
+1601      Village of Escantos in the south is completely devoured
+               by swarm of rats. (SK)
+1601      Fearing the same doom, rulers of Luccini sign a secret
+               and infamous pact with the Skaven where they agree
+               to provide Human prisoners in exchange for the
+               city's security. (MB)
+1619      A young noble, Giovanni Antonio Soldati, discovers the
+               secret pact with the Skaven.  He leads a revolt
+               which results in the execution of the Luccini
+               rulers by the mob. (MB)
+1634      Miragliano and Remas engage in four year war. (OR)
+     WASTELAND:
+1602      Five year Bretonnian occupation ends as army under the
+               Graf (Emperor) of Middenheim approaches
+               Marienburg. (AR)
+
+                    1650 I.C.
+1681      Night of the Restless Dead.  For one night throughout
+               the Known World the dead stir and walk the land,
+               sowing terror and confusion.  Entire villages and
+               towns are overrun and destroyed before the night
+               of terror ends. (UD)
+     ARABY:
+1688      Crusading forces, led by Knights Panther, sack
+               Istrabul.
+1689      Arabian forces drive Crusaders back towards sea.
+     BADLANDS:
+1666      Arabian forces destroy Goblinoid strongholds and
+               driving them towards Dark Lands.
+     ELVES:
+1670      Count Ulrich von Schloss of the Reikland, henchman of
+               the Nuln Emperor, attempts to attack the Duc du
+               Quenelles through the Loren Forest and is defeated
+               by the Wood Elves. (WE)
+
+                    1700 I.C.
+     BORDER PRINCES:
+1712      Arabian forces attack petty kingdoms, overcoming the
+               easternmost.
+1724      Battle of Matorca halts the Arabian advance in the
+               southeastern region of the Old World.
+     EMPIRE:
+1707      Orc Warlord Gorbad Ironclaw invades Empire from Black
+               Fire Pass. (EMP)
+          Capital moves to Altdorf as Nuln is sacked, Mootland is
+               devastated, and Sudenland overrun. (EMP)
+1708      Large Imperial army led by Count of Wissenland is
+               destroyed in Battle of Grunberg. (EMP)
+          Altdorf is besieged, but holds out. (EMP)
+          Emperor Sigismund V is killed by Orc wyverns. (EMP)
+1709      Orc army disperses after Warlord Ironclaw dies. (EMP)
+     FAR EAST:
+1731      Rise of the Tialanese Empire in the lands south of
+               Cathay.
+1745      Ungol horde, led by Kanai-Khan, sweep through northern
+               Cathay.
+1749      Overthrows the Ling Dynasty.
+     LUSTRIA:
+          Chuano civilization begins to rise north of the Chevan
+               people.
+     ULTHUAN:
+1703      Norse raids begin. (HE)
+          Magnus the Mad besieges Lothern with 200 men. (HE)
+
+                    1750 I.C.
+     BRETONNIA:
+1786      Bordeleaux loses one third of its population to
+               outbreak of Red Pox in a single week. (SK)
+          Baron Giscard Du'ponte orders poor quarter burned to
+               ground which halted Pox immediately. (SK)
+     FAR EAST:
+1798      Ungol invasion fleet sinks off Nippon during a sudden
+               storm.
+     KISLEV:
+1752      Ungol hordes invade.(SRiK)
+1754      Norse princes subdue the Ungol horde in the north.
+               (SRiK)
+1755      The Ungol become rulers along the Rivers Talabec and
+               Urskoy. (SRiK)
+1762      Prince Vermund establishes Cult of Ulric in north.
+               (SRiK)
+
+                    1800 I.C.
+     ARABY:
+1806      Crusaders carve out petty kingdoms.
+1814      Crusaders capture Istrabul.
+     BRETONNIA:
+1806      King Louis VIII (the Simple) dies leaving no clear
+               heirs.
+1808      Central authority collapses.
+1809      Duchies and baronies war against one another for next
+               250 years.
+1812      Southern Bretonnia is ravaged by another outbreak of
+               Red Pox. (SK)
+          Great fire of Brionne razes three quarters of city.
+               (SK)
+1813      Two Skaven armies appear, razing several villages and
+               small towns along the River Brienne. (SK)
+          Brionne and Quenelles are besieged. (SK)
+          Skaven army defeated and driven off by Wood Elves and
+               Bretonnian knights from Pavarron. (SK,WE)
+          Red Pox brought under control. (SK)
+     EMPIRE:
+1812      Middenland lays siege to Middenheim and are repulsed
+               with the aid of Dwarves. (CoWW)
+1813      Dwarves seal Middenheim's "Undercity". (CoWW)
+1848      Norse raids resume on coast.
+     TILEA:
+1813      Northern Tilea is ravaged by outbreak of Red Pox. (SK)
+          Many fleeing northern Tilea head south, increasing
+               population. (MB)
+1830      Luccini becomes the largest city in Tilea. (MB)
+
+                    1850 I.C.
+1870      Third period of tolerance of sorcery begins in the
+               Tilean City-States. (RoS)
+     BRETONNIA:
+1854      Norse raids begin on the northern coast.
+     NORSCA:
+1850      Norse raiding parties cross the Sea of Claws and Middle
+               Sea.
+     TILEA:
+1867      Sartosan pirates begin raiding Miraglianese shipping.
+               (OR)
+
+                    1900 I.C.
+     ARABY:
+1936      Arabian piracy on the rise. (OR)
+     EMPIRE:
+1901      Ungol warband threatens Talabheim. (SRiK)
+1904      Emperor in Talabheim acknowledges sovereignty of Ungol
+               chief Utilla over all lands east of Talabheim.
+               (SRiK)
+     KISLEV:
+1903      Development of loose confederation of states, centered
+               on the city-state of Erengrad [under Ingjold the
+               Red] and ruled by Norse Ropsmann princes. (SRiK)
+1910      Ungol capital of Dorogo becomes cosmopolitan city.
+               (SRiK)
+     NEW WORLD:
+          Holamki and Tulan civilizations vanish.
+     ULTHUAN:
+1903      Facing increasing Norse raids, Mages of Saphery draw a
+               shroud of mists over eastern sea approaches. (HE)
+
+                    1950 I.C.
+1993      Religious pressures bring a bloody end to the third
+               period of tolerance of sorcery. (RoS)
+     ARABY:
+1958      Fall of the Crusading Kingdoms.
+     BRETONNIA:
+1952      Baron Henri d'Amateu of L'Anguille grants the Norse
+               Skajad the Bastard land in the Armorica region to
+               end the Norse raids.
+     EMPIRE:
+1979      Magritta of Marienburg becomes last elected Empress for
+               400 years. (TEW)
+          "Wizard's War" begins in Middenheim and spreads
+               throughout the Empire. (CoWW)
+1980      Grand Theogonist of Sigmar refuses to acknowledge
+               election of Magritta and Imperial system is
+               effectively ended. (TEW)
+          Dark Ages spread as central authority completely
+               collapses for next 320 years. (TEW)
+1991      "Wizard's War" ends in the banishment and execution of
+               a number of Daemonologists and Necromancers.
+               (CoWW)
+     LUSTRIA:
+          Chevan civilization declines.
+     NEW WORLD:
+          The Anatuzi culture declines as the Molgolan
+               civilization rises just to the south.
+     TILEA:
+1993      The Order of the Custodes Vagantes (Morr priests
+               dedicated to hunting necromancers) is founded in
+               Luccini. (MB)
+
+                    2000 I.C.
+     EMPIRE:
+2010      Wars of Vampric Counts begin with devastation of
+               Ostermark by Vlad von Carstein, first of the
+               notorious Vampire Counts of Sylvania. (EMP)
+          Undead armies rampage between Stirland and northern
+               border. (EMP)
+          Battle of Hunger Wood. (DW)
+          Dwarves take part in the Night Siege of Castle
+               Tempelhof and the defeat of Vampire Countess
+               Emmanuelle. (DW)
+     ESTALIA:
+2032      The last of the Arabians withdraw from Estalia.
+     KISLEV:
+2003      Ungol aristocracy slowly assimilated into Gospodar
+               culture. (SRiK)
+2011      Ropsmann princedoms establish overland trade with
+               Dorogo. (SRiK)
+     NEW WORLD:
+          Miyan civilization declines.
+     NORSCA:
+2000      Erald the Wanderer becomes first Human to reach the
+               Elven Kingdoms, but is prevented from entering by
+               Sea Elves.
+
+                    2050 I.C.
+     FAR EAST:
+2064      Tialanese Empire collapses under weight of attacks from
+               the Cathanese Imperial Army.
+     NEW WORLD:
+          Rise of the Misipians, third and greatest of the Mound
+               Builders, in the Misipia, Alhio, and lower Misori
+               River basins of the eastern woodlands.
+          Founding of the mound-dominated city of Cahoken.
+
+                    2100 I.C.
+     EMPIRE:
+2145      Battle of Hel Fen. (EMP)
+          Manfred von Carstein, last of the Vampire Counts of
+               Sylvania, is destroyed along with his Undead
+               horde. (EMP)
+     KISLEV:
+2100      Igor the Terrible, prince of Erengrad, invites Prince
+               of Dorogo to join the Confederacy of Kislevite
+               States. (SRiK)
+2101      When Prince refuses, Igor sends army to reduce Dorogo.
+               Renames city Kislev and embarks on campaign to
+               consolidate various minor states and
+               principalities of southern and central Kislev.
+               (SRiK)
+2134      Igor's campaign stalls at foothills of Worlds Edge
+               Mountains and Farside Steppes region. (SRiK)
+2135      Declares both territories part of Confederated States
+               of Imperial Kislev and names himself Tsar of all
+               Kislev. (SRiK)
+
+                    2150 I.C.
+     BADLANDS:
+2198      Goblinoid forces overrun Arabian villages.
+2199      Arabians withdraw to the Marg beh-Mard Desert.
+     BORDER PRINCES:
+2179      Last of the Crusading forces drive the Arabians out of
+               the Old World.
+     LUSTRIA:
+          Rise of the Nazcas in the western mountains and
+               highlands.
+          Trade commences with the declining Slann.
+     TILEA:
+2169      Battle of the Blight. (DDS)
+          Miraglianese army and allies drive the Skaven back to
+               the deepest reaches of the marshes. (DDS)
+          Thousands of Skaven die, but Tileans fail to utterly
+               destroy them. (DDS)
+     WASTELAND:
+2150      Sea Elves return to Old World. (MAR)
+          Marienburg signs treaty granting them exclusive trading
+               rights with Sea Elves. (MAR)
+2151      Re-establishment of Sea Elves in ancient, ruined
+               Star-Gem fortress. (MAR)
+
+                    2200 I.C.
+     BRETONNIA:
+2201      Beginning of the Errantry Wars when Louen Orc Slayer,
+               King of Bretonnia, declares intention to rid
+               Bretonnia of Orcs. (ORC)
+2232      Alliance of northern Estalian kingdoms invade and
+               conquer southern Bretonnia.
+     DWARVES:
+2205      Battle of Black Falls ends in rout of Goblin army by
+               Dwarves after both sided lost their leaders. (DW)
+     ELVES:
+2202      An Orc army fleeing the Bretonnians through the Loren
+               Forest is ambushed and destroyed by Wood Elves.
+               (WE)
+     KISLEV:
+2203      After several increasingly weak and ineffective Tsars,
+               coalition of government bureaucrats and priests
+               conspire to govern through puppet Tsars. (SRiK)
+2206      Establishment of first agricultural colonies in
+               Farside. (SRiK)
+     NORSCA:
+2202      Frustrated at home, the Emperor of Middenheim invades
+               the southern Norscan kingdoms of Soerligslette and
+               Fjellsende. (MK)
+
+                    2250 I.C.
+     BRETONNIA:
+2267      All provinces send troops to drive out the Estalian
+               invaders. (RoDM)
+2274      Siege of Brionne results in the end of Estalian
+               domination.
+     ESTALIA:
+2270      Rise of the Inquisition.
+     NEW WORLD:
+2261      Rise of the Aztlanos in the plateaus where the Tulan
+               civilization once stood.
+     NORSCA:
+2270      Start of three year rebellion against Middenheim
+               Emperor.  All Norscan kingdoms take part. (MK)
+2273      Erik Olavsson is crowned King of Norsca. (MK)
+2290      Middenheim Emperor recognized the sovereignty of each
+               of the four Norscan kingdoms and trade resumes.
+               (MK)
+     TILEA:
+2254      Estalian kingdom of Astarios establishes an empire by
+               conquering southern Tilea.
+2255      Miragliano signs a treaty with Sartosa.  Both begin
+               raids on Estalian shipping. (OR)
+2283      Riots in Luccini violently suppressed.
+
+                    2300 I.C.
+     DWARVES:
+2302      Karaz-a-Karak is attacked during Great War against
+               Chaos, but holds out. (DW)
+2321      Battle of Bloodwater Sound ends with Dwarf Ironclads
+               from Barak Varr defeating Skaven Fleet in the
+               Black Gulf. (DW)
+     EMPIRE:
+2301      Incursion of Chaos. (WFRP)
+2302      Magnus the Pious appears in Nuln and unites Empire.
+               (TEW)
+2303      Eternal alliance with Kislev. (TEW)
+          Minor plagues break out in Nuln and Talabheim. (SK)
+2304      Magnus elected Emperor. (TEW)
+     ESTALIA:
+2321      Estalian coast suffers from Skaven raiding throughout
+               summer. (SK)
+     KISLEV:
+2300      Establishment of Romanoff dynasty. (SRiK)
+2301      Incursion of Chaos. (WFRP)
+2302      Praag falls and siege of Kislev and Erengrad begins.
+               (SRiK)
+          Tsar Alexis Romanoff appeals to Magnus for aid. (SRiK)
+2303      Battle of Grovod Forest results in defeat for Chaos
+               hordes. Imperial and Kislevite forces with Norse
+               allies drive Chaos forces back. (SRiK)
+2303      Kislevite chapter of the Order of the White Wolf
+               founded. (SRiK)
+     NEW WORLD:
+          Six nations of the Eraquati in the northeastern forests
+               free themselves from the Dark Elf domination.
+          Continuous war between native Humans and Dark Elves
+               begins.
+     NORSCA:
+2301      Incursion of Chaos. (WFRP)
+2303      Harald the Wolf leads Norse and Norse Dwarves against
+               Chaos hordes and drive them back.
+     TILEA:
+2310      Guido Cesare Bardi, a wizard from Miragliano, discovers
+               the Book with the Red Cover in the ruined areas of
+               Luccini. (MB)
+2319      Skaven warships are spotted in waters off Tilea. (SK)
+2321      Tilean coast suffers from Skaven raiding throughout
+               summer. (SK)
+     ULTHUAN:
+2301      Incursion of Chaos led by Dark Elves. (HE)
+2303      Dark Elves and Chaos allies are driven out. (HE)
+     WASTELAND:
+2302      Graf Paulus van der Maacht, last Baron of Westerland,
+               dies in battle against Chaos. (MAR)
+2303      Minor plague hits Marienburg. (SK)
+2305      Magnus decrees the cessation of the Barony and
+               establishes Province of Westerland, governed by an
+               appointed Council drawn from the burghers of
+               Marienburg. (MAR)
+
+                    2350 I.C.
+     EMPIRE:
+2369      Death of Magnus the Pious. (TEW)
+          Empire does not pass to his brother, Gunther von
+               Bildhofen, but to Count Leopold Unfahiger of
+               Stirland. (TEW)
+2387      Prince Karsten of Waldenhof employs Skaven to undermine
+               the walls of Castle Siegfried in Sylvania. (SK)
+          Karsten is lynched when all the children in Waldenhof
+               disappear. (SK)
+     FAR EAST:
+2355      Nipponese armies invade Imperial Cathay.
+          Start of 120 year war between the two great Empires.
+     LUSTRIA:
+2391      Nazca Empire grows as Chuano civilization subjugated.
+     TILEA:
+2388      Miragliano suffers from an infectious plague called the
+               Spotted Pestilence.  Enacts the Law of Water
+               Supply to prevent its reoccurrence. (OR)
+     WASTELAND:
+2378      Merchant fleets and militias from Marienburg conduct a
+               highly successful campaign against pirates. (MAR)
+2391      Two days of riots result from Elves arresting a Human
+               in the Suiddock and dragging him off to Elftown. 
+               Many Elves are lynched before tempers are calmed.
+               (AR)
+
+                    2400 I.C.
+2429      Renaissance of sorcerous studies across entire Old
+               World. (RoS)
+     BORDER PRINCES:
+2420      Bretonnian knights win a huge victory against Orcs at
+               Blood River. (ORC)
+     BRETONNIA:
+2419      Accession of Charles I L'enorm (Charles the Enormous)
+               marks beginning of Bretonnia degeneration. (WFB3)
+2420      King Charles L'enorm announces intention to carry the
+               Errantry Wars east into the Border Princes and
+               beyond. (ORC)
+     DWARVES:
+2420      Goblin Warlord Grom the Paunch defeats Dwarf army in
+               the Battle of Iron Gate. (DW)
+     EMPIRE:
+2420      Grom the Paunch, a notorious Goblin King, commences 4-
+               year rampage throughout the Empire before setting
+               sail for Ulthuan. (EMP)
+2429      Removal of Dieter IV, last Unfahiger, from Imperial
+               throne. (TEW)
+          Prince Wilhelm Holswig-Schliestein of Altdorf becomes
+               Emperor Wilhelm III. (TEW)
+2430      Capital returns to Altdorf from Nuln.
+     KISLEV:
+2400      Abandonment of last Farside colony. (SRiK)
+     LUSTRIA:
+2402      Discovery of Lustria by Old Worlders. (WFB3)
+2410      Colonization begins.
+2412      First encounter with ancient, degenerated civilization
+               of the Slann.
+     NEW WORLD:
+2429      Discovery of New World by Old Worlders.
+2449      Colonization begins.
+     SOUTHLANDS:
+2421      Norse Losterikson discovers a great inland bay on the
+               west coast, south of the equator. (WFB3)
+2430      Colonization begins on "New Coast".
+     TILEA:
+2400      City-States free themselves of Estalian yoke.
+     ULTHUAN:
+2425      Goblin horde from Old World invades eastern Ulthuan and
+               ravages land until defeated. (HE)
+     WASTELAND:
+2429      Marienburg Provincial Council declare the Wasteland's
+               independence and secede from Empire. (TEW)
+          Battle of Grootscher Marsh deals decisive blow to
+               Imperial designs. (MAR)
+          Emperor Wilhelm III recognizes Wasteland independence.
+               (MAR)
+2449      Rioting spreads from the Suiddock throughout the city
+               in response to anti-Labor laws passed by the City
+               Council at the behest of the Merchants' Guild.
+
+                    2450 I.C.
+     BORDER PRINCES:
+2488      Bretonnian army is defeated by Orc army in the Battle
+               of Death Pass. (ORC)
+     BRETONNIA:
+2488      King Charles II declares Errantry Wars at an end. (ORC)
+     DWARVES:
+2473      Belegar, descendant of King Lunn, recaptures and
+               resettles parts of Karak Eight Peaks. (DW)
+          The Dwarfhold remains in a permanent state of siege.
+               (DW)
+2498      Battle of the Jaws. (DW)
+          Orc army is defeated at west end of Mad Dog Pass by
+               Dwarves. (DW)
+     ELVES:
+2495      Undead army attack the Loren in an attempt to invade
+               Bretonnia and is annihilated. (WE)
+     EMPIRE:
+2452      Emperor Wilhelm III legalizes the practice of the four
+               sorcerous academic disciplines and establishes the
+               four academies of sorcery and magickal guilds.
+               (RoS)
+     KISLEV:
+2475      Last Romanoff Tsar, psychotic Ivan, murdered by a
+               fanatic priest. (SRiK)
+          Radii Bokha rises to power with the support of the
+               military and aristocracy. (SRiK)
+
+                    2500 I.C.
+          Incursions of Chaos are growing increasingly active.
+               (WFRP)
+     BRETONNIA:
+2500      Charles Tete d'Or ascends throne as King Charles III.
+               (WFRP)
+     DWARVES:
+2503      Orc army occupies Karak Azul for four years before
+               retreating from a Dwarf army. (DW)
+2510      Dwarf army defeats rampaging Orc army in the Battle of
+               Broken Leg Gully. (DW)
+     EMPIRE:
+2502      Election of Karl-Franz, of the house of
+               Holswig-Schliestein, as Emperor Karl-Franz I.
+               (TEW)
+2512      Huge army of Orcs begin rampage in the northern Empire.
+               (EMP)
+     ULTHUAN:
+2502      Erik Redaxe raids Cothique at head of a great fleet of
+               Norse reavers. (HE)
+          High Elf war fleet defeats Norse. (HE)
+     TILEA:
+2513      Wizard Tax restored in Luccini. (MB)

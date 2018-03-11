@@ -1,0 +1,67 @@
+From: Fernando De Francisco <ferdf@luna.gui.uva.es>
+Subject: WFRP: Parry: Weapons Table
+
+
+I've been thinking about the parrying rules and finally I've tried 
+something that I think is good enough:
+
+The table is an addition to the one in WFRP. I hope you like it.
+
+Weapon		Ini	To hit	Dam	To parry	Parrying
+Hand Weapon	-	-	-	-		-
+Knife/Dagger	+10	-	-2	-20		-20
+Spear		+10/+20	+10	-	-		-
+Improvised	-10	-	-2	+10		-10
+Bastard		-10	-	+1	-		-
+2-handed	-10	-	+2	-		-10
+Halberd		-10/+20	-10/0	+2	-		-10/0
+Quarter Staff	-	-	-1	-		+10
+Flail		-	-10	+1	-10		-10
+2-handed Flail	-20	-20	+3	-10		-10
+Rapier		+20	-	-1	-		-10
+Buckler		-	-	-2	+20		+20
+L-H Dagger	-	-	-2	-10		-
+Sword Braker	-	-	-2	-10		-
+Lance		+20	+10	+2	-20		NA
+Net		-	-10	-	-10		-30
+
+And now some explications
+
+"to parry" means the difficult that your opponent has when trying to
+parry your blow.
+"parrying" means the difficult to parry with your weapon
+
+knife/Dagger: It's difficult to parry a Dagger but it's difficult to 
+parry with it as well. So, a knife Vs. knife combat is quite mortal ideed.
+  
+Improvised: Easy to see it coming, difficult to parry with (you're 
+improvising)
+
+Bastard: No modifications if you use it with two hands (I mean 2 hands 
+free, not the 2 hands at the same time)
+
+2-handed: Clumsy and difficult to move it quickly enough to parry.
+
+Quarter staff: You can catch it everywhere, so it's fast and big.
+
+Flail and 2-h Flail: No handle, no easy parry. You have to hit opponent 
+weapon in order to parry.
+
+Buckler: The perfect weapon to parry with, as a shield is, but you still 
+only save 1d6 wounds (instead all damage using shield).
+
+L-h Dagger: It's small, but made to parry. I suggest that when used with 
+a sword, get a free parry (because you can use it at the same time you 
+attack)
+
+Lance: Parry with a Lance?? You're joking
+
+Net: You have to tangle the weapon in order to parry.
+
+Well, that's it. I wait for suggestions, commentaries (good if possible), 
+or whatever you want.
+
+Thanks.
+
+B O K K E N
+

@@ -1,0 +1,557 @@
+THE SCOPE OF MAGIC
+
+New Spells for Warhammer Fantasy Roleplay
+(taken from White Wolf 17)
+
+Designed by  Ken Cliffe.
+Typed in by Ben Fabian (fabian@inf.fu-berlin.de).
+[Notes in brackets ].
+
+PM:
+
+SENSE OF PRESENCE
+
+Spell Level: P
+Magic Points: 1
+Range: Personal
+Duration: D6 minutes
+Ingredients: A body part of the creature to be detected
+
+On casting this spell, one type of creature, fantastic or not, must be 
+specified for detection. As long as the spell is maintained, the caster
+will be alerted to the presence of any number of the designated creature
+within a 48 yards radius. Each time the same or a different type of 
+creature is to be detected, a new casting of the spell is required.
+The old casting must be dispelled or allowed to wear out. 
+Only one type of creature can be sensed for at a time.
+
+BM1:
+
+GUIDE MISSILE
+
+Spell Level: 1
+Magic Points: 2
+Range: 24 yards
+Duration: Instantaneous
+Ingredients: A lock of elven hair
+
+This spell may be cast upon any single creature within a 24 yard radius.
+The subject«s next missile attack will automatically hit its target and
+will do double damage. The subject may also specify the exact target of 
+his shot (an orc«s head or a rope to a drawbridge, for example).
+If the subject of the spell does not make a missile attack within one turn 
+of the casting, the spell«s effects dissipate.
+
+[Should be restricted to non-magical arrows and bows, or MP cost be 
+increased to 4 .]
+
+BM 2:
+
+INVIGORATE
+
+Spell Level: 2
+Magic Points: 4
+Range: Touch
+Duration:  1D10 turns
+Ingredients: The tooth of an ogre
+
+Thies spell allows the caster to invigorate a creature«s will.
+The creature touched is healed of 1D3 Wounds. His Toughness is raised one
+point for the duration of the spell. Will Power and Cool are each raised by
+10 Points for the same amount of time.
+
+BM 3:
+
+CURSE WEAPON
+
+Spell Level: 3
+Magic Points: 6
+Range: 12 yards
+Duration: 3D6 rounds
+Ingredients: A hand-to-hand weapon
+
+This spell allows the caster to curse another character«s weapon.
+Only melee weapons can be affected, not missile weapons or magical
+weapons. A cursed weapon causes its wielder to attack with a -20 WS
+modifier and a -2 modifier to all damage done. The weapon cannot be
+released for the duration of the spell, unless the wielder can make a
+successful WP test.
+A weapon can also be cursed before its owner draws it - when it«s still 
+sheathed. The owner will suffer from the curse when the weapon is drawn,
+but its effects will only last for those rounds remaining since the spell«s
+casting. Magical Sense skill will not warn a character that his sheathed
+weapon has been cursed, since he would have to touch it to find it out.
+
+BM 4:
+
+STEAL SPELL
+
+Spell Level: 4
+Magic Point: 15
+Range: 24 yards
+Duration: Instantaneous
+Ingredients: A magnet
+
+By  means of this spell, the caster may steal the next spell to be cast by
+another spellcaster, only one spellcaster can be targeted as a victim of this
+spell at a time. If the intended victim does not cast another spell within 6
+rounds, Steal Spell is negated, but Magic Points are still spent.
+An intended victim of this spell will not know that his next spell is going
+to  be stolen. He must make a successful WP test or his next spell will simply
+sputter out and become the possession of the caster of Steal Spell.
+A victim«s WP test is modified according to his level. For the modifiers
+see the following chart (it is assumed that the caster of Steal Spell is 
+level four):
+
+Victim«s Level			WP Modifier
+	1					-10
+	2					    0
+	3					+10
+	4					+20
+
+If the test succeeds, no spell is stolen, but the caster of Steal Spell must still
+expend the designated number of Magic Points. 
+If the test fails, the caster of Steal Spell takes his victim«s next spell.
+That victim must still expend the normal number of Magic Points for his 
+own spell, even though it was stolen. The recipient may cast the stolen spell 
+himself, at the level of his victim, without expending any more Magic Points.
+If the stolen spell is not cast within one round, it is lost. Should the caster of 
+Steal Spell exceed the 24 yard range before the intended victim casts his spell,
+the second spell just fizzles out and is lost to both parties.
+Note that all types of spells can be stolen and cast. Stolen spells do not
+become a part of the thief«s permanent spell repertoire. Furthermore, 
+spellcasters of Good alignment might abstain from casting stolen 
+Necromantic or Demonologist spells for moral reasons.
+Some spells have durations which the original caster may control. 
+For example, such spells might be listed as "Duration: 1+ hours". A stolen
+spell with a duration like this can be recast by a "spell thief", but cannot be 
+maintained any longer than the shortest specified time (one hour in the
+above example).
+
+DE 1:
+
+PENDEMON
+
+Spell Level: 1
+Magic Points: 2
+Range: Touch
+Duration: 1 turn
+Ingredients: A wizard«s staff and a body part of a demon
+
+This  spell transforms the head of the caster«s staff into the head of  a
+snarling, gnashing demon. When the staff is swung as a hand-to-hand
+weapon, the demon head will bite into a victim upon a successful hit.
+No special skill is required to properly use the staff when this spell is in
+effect. A hit does 1D6+3 Wounds, plus the Strength of the wielder.
+Victims of a bite must also make a test against Toughness x 10 or fall
+unconscious for 1D6 rounds. Six rounds (1 Turn) after the spell«s casting,
+the spellbinder«s staff will return to normal.
+
+DE 2:
+
+DEMON HOUNDS
+
+Spell Level: 2
+Magic Points: 5 per hour
+Range: Near
+Duration: 1+ hours
+Ingredients: The pelt of a wolf
+
+This spell allows a Demonologist to summon and control dogs and wolves.
+Depending on the environment, 1D10+2 dogs or wolves will be summoned.
+If the spell is cast underground or in some other unlikely location, the GM
+may decide wether any hounds arrive at all. The caster can control the actions
+of summoned beasts within a 48 yards radius. His or her control over an 
+animal overrides any other. A Demonologist also draws out the demonic, 
+beastly nature of dogs and wolves. A hound will have its Profile modified as
+follows: WS +10, S +1, A +1, WP +10. All three types of wolves are affected by
+this spell. A controlled  hound can be identified by its shining red eyes and
+the hellish glow from its gaping maw. If a dog or wolf exceeds the 48 yard radius
+of the caster, it willrevert to normal and regain control of itself.
+The animal will undoubtedly run away, unless someone else can control it.
+Control of hounds which have "escaped" can only be regained by casting the spell
+again.
+
+DE 3:
+
+TRANSFORMATION
+
+Spell Level: 3
+Magic Points: 8 + 2 per turn
+Range: Personal
+Duration: 1+ turns
+Ingredients: A body part of the appropriate animal
+
+This spell allows the caster to take the form of a normal or giant rat, bat or wolf 
+(not including Rock Rats or Dire Wolves). The caster gains all the characteristic
+scores of the animal in question (except Intelligence which remains unchanged), 
+plus any ability that the animal might have. If rendered unconscious by Wound 
+loss or any other means, the caster reverts to human form. While in animal 
+form, the Demonologist cannot cast spells or perform any other action which
+the animal is not capable of. The initial transformation to animal form
+costs 8 Magic Points and this lasts 1 turn; the form may be maintained at
+an additional cost of 2 Magic Points per turn.
+
+DE 4:
+
+MUTATE
+
+Spell Level: 4
+Magic Points: 20
+Range: Touch
+Duration: Instantaneous
+Ingredients: Powdered Warpstone
+
+When a creature is touched by the caster of this spell, mutations occur
+as if  by  the power of Chaos. A victim receives a test against WP to resist 
+the effects of the spell.  On a failed test, determine the effects of the mutation
+by referring to the Realm of Chaos book. A victim of Mutate should roll on
+the mutant tables in Realm of Chaos. All deformities are permanent.
+Creatures touched that are already mutants will receive another D4 mutations.
+If no one is touched within 6 rounds of the spell«s casting, the spell dissipates
+(or could inflict one mutation on the caster if he fails a WP test), but full 
+Magic Points are still spent.
+The spell may only be used to mutate one victim per casting. To touch a target,
+the caster rolls to hit, ignoring  normal unarmed combat modifiers. 
+No damage is done by the contact.
+Mutations will certainly have serious effects on player characters and 
+important non-player characters. The GM might rule that victims undergo 
+specific personality changes. The character«s alignment might not change,
+but he might gain Insanity Points or a Mental Disorder or two (WFRP p. 83-87).
+Magically induced mutations might be reversed, but the task would certainly 
+amount to a quest of some sort.
+
+EM 1:
+
+ANCHOR OF STONE
+
+Spell Level: 1
+Magic Points: 3
+Range: 12 yards
+Duration: Instantaneous
+Ingredients: A ball of clay
+
+When this spell is cast, earth and stone within a 6 yard radius will grab hold
+of feet or body parts coming in contact with them. Each creature in the area
+of effect may make an Initiative test to avoid the effect. Those that fail are 
+unable to move their feet for 1D10 rounds. Stuck victims can still fight,
+but suffer a -20 WS and BS modifier, while their opponents receive +20 WS 
+and BS modifier for the purpose of attacks made against those held. No amount
+of hacking will loosen the earthen or stone hold.
+
+EM 2:
+
+SHELTER
+
+Spell Level: 2
+Magic Points: 4
+Range: 24 yards
+Duration: Until next sunrise
+Ingredients: A miniture of a stone structure
+
+This spell allows the caster to command the earth to construct a shelter
+within which he and others may reside. Certain types of earth are too 
+unsound to form such a structure (ie. mud); even sand would make a sturdy
+shelter, but solid rock will commonly be used.
+A shelter comfortably houses two man-sized creatures  for each level of 
+the caster, protecting them from the elements. A shelter has four walls, 
+a ceiling and a floor. Consider it a single building section for destruction
+purposes (WFRP, p. 77). After the next sunrise, the earth will return to its
+former position, without harming anyone still inside.
+
+EM 3:
+
+FAERIE FORGE
+
+Spell Level: 3
+Magic Points: 10
+Range: Touch
+Duration: Until next sunrise
+Ingredients: A metal weapon
+
+By means of this spell, any forged weapon (ie. a sword, axe, spear point,
+arrowhead, etc.) can be temporarily imbued with magical abilities. Until
+the next sunrise, the weapon has the ability of Flame Attack (see WFRP,
+p. 169). The weapon also counts as a magical weapon for the purpose of
+hitting creatures only affected by by such weapons. This spell will not normally
+affect weapons which already have magical properties. After the next sunrise,
+the affected weapon returns to normal.
+
+EM 4:
+
+PURIFYING WIND
+
+Spell Level: 4
+Magic Points: 20
+Range: 2800 yards
+Duration: Instantaneous
+Ingredients: The lung of a white swan
+
+When cast, a purifying wind will blow through a region of 2400 yards in 
+radius. This wind continues to blow for 2D6 rounds. While it is blowing,
+the wind cancels the effects of all gases, such as poisonous clouds. It may
+also cancel out any spells which taint the air in the area of effect. Such spells 
+would include Cloud of Smoke, Dust Storm, Foul Air, Mystic Mist and 
+Wind of Death. To maintain his spell, the caster of one of these spells will
+have to make a successful WP test. Any Demonologist spells which summon
+"writhing mists" (ie. Summon Magical Aid) that are cast in the area affected 
+by the wind  will also be cancelled. If the Demonologist can make a successful
+WP test, he may continue to cast his spell normally. Furthermore, ethereal
+creatures, including all Ethereal Undead and Air Elementals, caught in the 
+wind will suffer 1D10 + 4 Wounds. Ethereal Undead  also have twice the 
+normal  chance of becoming Subject to Instability while the wind blows
+(ie. roll 1D6 every  three rounds instead of every six).
+
+IM 1:
+
+INVISIBILITY
+
+Spell Level: 1
+Magic Points: 1 per 2D6 rounds
+Range: Personal
+Duration: 2D6 rounds
+Ingredients: A piece of clear glass
+
+This spell causes the caster to become invisible to normal sight.
+He may still be seen by those with night vision unless he pays an additional
+2 Magic Points. Anyone looking toward the invisible caster may see through
+the illusion with a successful Intelligence test. An invisible person will
+reveal his position by  talking, attacking, being struck, making noise,
+leaving footprints and so on. If the position is so revealed, attacks made
+against the Illusionist suffer a -10 modifier to hit until the position changes.
+If the Illusionist«s position is unknown, attacks will miss altogether.
+If attacks are actually aimed in his direction the attacker still suffers a -20
+modifier.
+
+IM 2:
+
+ILLUSIONARY BLAZE
+
+Spell Level: 2
+Magic Points: 4 per 5D6 turns
+Range: 48 yards
+Duration: 5D6 turns
+Ingredients: A vial of oil
+
+The illusion of a roaring blaze is created. The blaze need not even arise from
+a flammable source. It covers an area of up to 40 square yards. Anyone within
+6 yards of the fire receives an Intelligence test to recognize the blaze for what
+it is. Naturally, coming into contact with the flames dispels the illusion.
+
+IM 3:
+
+ANIMATE
+
+Spell Level: 3
+Magic Points: 6
+Range: 48 yards
+Duration: 1D6 turns
+Ingredients: An inanimate object
+
+This illusion causes inanimate objects to appear to come to life. A chair can
+be made to dance about, a broom to fly, or a house to do flips. Only one object
+can be made  to appear animate at a time. The object, in fact, remains
+in its original location, but becomes invisible to all sight. Anyone observing
+the animated "object" tests against Intelligence to recognize the illusion. 
+Should the real, invisible object be touched, the illusion is dispelled. 
+An animated object will have a Movement score of 6 and an Initiative of 70.
+If it can be touched or struck, the illusion is dispelled, but since the "object"
+is so quick, all WS and BS tests made suffer a -10  penalty. 
+Animated "objects" will themselves avoid contacting victims for obvious
+reasons.
+
+IM 4:
+
+DREAMWAVE
+
+Spell Level: 4
+Magic Points: 20
+Range: 2800 yards
+Duration: Instantaneous
+Ingredients: A sleeping subject
+
+By means of this spell, an Illusionist can enter the dreams of another person
+and alter them to his desire. An intended victim receives a Will Power test.
+If it succeeds, the caster cannot enter the subject«s dreams. No further attempts
+can be made that night. A failed  test allows the Illusionist to intrude in the 
+victim«s dreams. Obviously, there are numerous ways in which a dream may be
+altered. The GM should decide what is allowed and what is not, but it should
+be remembered that the Illusionist is the master in invaded dreams.
+Wether the victim will die when killed in their dreams is up to the GM. 
+The subject will certainly be affected during waking hours by  particularly  
+intense dreams. Anxieties might arise; fears of certain places, actions or events 
+might develop; or the person could become physically and emotionally drained 
+(ie. Cl -10, T -1) for a number of days. Furthermore, should the victim encounter 
+theIllusionist while awake, he will react accordingly (ie. Fear test, + 20 modifier
+to Fellowship tests, etc.).
+As soon as  the victim«s dream is ended, the Illusionist is expelled from the 
+victim«s mind. This spell interferes with the maintenance of other illusions.
+
+NM 1:
+
+CONVERSE WITH DEAD
+
+Spell Level: 1
+Magic Points: 1 per turn
+Range: 6 yards
+Duration: 1+ turns
+Ingredients: A jaw bone
+
+By means of this spell, the caster may converse with the dead. The subject of
+the spell must be within 6 yards of the caster and have been of roughly human 
+intelligence in life. It need not be animated or controlled by the Necromancer
+for the spell to function, but buried dead have to be exhumed before a conversation
+can begin. The subject will only speak in those languages it knew in life.
+It will remember events of its life and will have the same knowledge that it
+did in life. A corpse may also be able to relate details about its present
+surroundings. Dead conversationalists will certainly have personalities of
+their own.
+
+NM 2:
+
+SKELETAL STEED
+
+Spell Level: 2
+Magic Points: 2 + T  of mount in living form
+Range: Not applicable
+Duration: Until next sunrise
+Ingredients: A corpse, skeleton or enchanted bone of the beast to be summoned
+
+This spell allows the caster to conjure a skeletal mount. Typical mounts include
+horses, eagles and Hippogriffs. Wether a dragon can be conjured is up to the GM.
+The  magic Point cost of the spell is dependent on the creature being summoned 
+as a mount. The cost equals its Toughness as a living creature (see Bestiary), 
+plus 2. A steed may be summoned in precisely the same way as normal skeletons.
+A skeletal steed also causes fear in living creatures.
+The skeletal steed is completely loyal to its creator and will follow his 
+instructions implicitly, something  which can sometimes pose a problem.
+If the Necromancer exceeds a 6 yard distance from his steed, it becomes
+Subject to Instability and Stupidity. If a mount becomes unstable, it collapses,
+never to rise again. A steed will attack on its rider«s command. Any hit from a
+skeletal steed has a 35% chance of causing Infected Wounds. If the caster is
+slain, the steed collapses. At the crack of the next dawn, the steed will disappear,
+even if being riden at the time.
+A skeletal mount has a profile similar to its living counterpart, but with the
+following modifiers: W  is at 3/4; I -10; Ld, Int, Cl, WP all equal 18; Fel = 0.
+The steed will retain those physical abilities it had in life that it could
+logically still have.
+
+NM 3:
+
+ETHEREAL BANE
+
+Spell Level: 3
+Magic Points: 8
+Range: Touch
+Duration: Until next sunrise
+Ingredients: Any weapon
+
+By casting this spell, a Necromancer is able to enchant any  non-magical or
+magical weapon. If not already magical, the weapon counts as  a magical
+weapon for the purposes of hitting Ethereal Undead. For each blow that an
+Ethereal Undead creature takes from such an enchanted weapon, an
+Instability test is made (see WFRP , p. 215), even if the creature is in its place
+of haunting.
+
+NM4:
+
+STEAL SOUL
+
+Spell Level: 4
+Magic Points: 20
+Range: 2800 yards
+Duration: Instantaneous
+Ingredients: A possession or body part of the victim
+
+This spell may be cast against another single character within 2800 yards
+of the caster. The victim receives a test against Will Power to avoid  the
+spell«s effects. Failure results in the victim«s soul being sucked from his body.
+His soul instantly travels to the caster and may be imprisoned within a 
+container of some kind, or may be allowed to dissipate to the winds, lost forever.
+The victim«s body collapses. It continues to live, but is inanimated. If the
+victim«s soul is not returned (or replaced in some way) within 2D6 days, 
+his body will die. A body lacking a soul is considered prone for the purposes
+of attacks made against it.
+
+DR 1:
+
+ANIMAL SENSE
+
+Spell  Level: 1
+Magic Points: 1 per turn
+Range: Sight
+Duration: 1+  turns
+Ingredients: A sprig of mistletoe
+
+This spell endows the caster with the ability to see, hear, smell, taste and
+touch those things  that a designated animal does. Normal and giant animals
+can be used, but not fantastic ones. The animal being used as the medium 
+must be within sight. The caster cannot influence an animal«s actions or
+gain knowledge of its thoughts or emotions. Only one animal can be used
+as a medium at a time. The animal does not receive a WP test.
+
+DR 2:
+
+PURIFY
+
+Spell Level: 2
+Magic Points: Variable
+Range: 48 yards
+Duration: Variable
+Ingredients: A handful of clean water or untainted soil
+
+This spell allows the caster to cleanse a quantity of water or a tract of land.
+Any impurities or diseases can be removed from water or soil. A single casting,
+like purifying a well, pond or garden, would cost 4 Magic Points. A more 
+demanding casting, like purifying a river, field or orchard would cost more
+depending on the magnitude of the task. If any area larger than 48 yards in
+radius is affected, 4 Magic Points are added per 48 yard area. The effects of the 
+spellare permanent unless the impurities in the water or soil naturally
+reemerge with time.
+
+ACCELERATE GROWTH
+
+Spell Level: 3
+Magic Points: 8
+Range: Touch
+Duration: 2D6 turns
+Ingredients: Tree sap or an animal heart
+
+This spell causes ordinary plants and animals (including giant animals,
+but not fantastic ones) to age in seconds and grow accordingly. The caster
+may determine the point at which growth stops, but if allowed to continue
+unchecked, old age and death will set in at the end of the round. The aged
+plant or animal reverts to its original age  and size when dispelled or when 
+the duration expires. A subject which dies of old age remains dead once the
+spell is over. The GM should determine the precise effects on a plant or animal,
+depending on the original age of the subject.
+
+NM 4:
+
+LIGHTNING STRIKE
+
+Spell Level: 4
+Magic Points: 15
+Range: 2800 yards
+Duration: Instantaneous
+Ingredients: A metal rod
+
+This spell allows the caster to summon a single bolt of lightning and command
+it to strike a target up to 2800 yards away. Only one bolt can be summoned
+per round, at a cost of 15 Magic Points. Stormy, or simply cloudy skies must be
+overhead for the summons to operate. The spell will not function indoors
+or underground. A bolt may be targeted at a character or a group of characters
+or creatures. Target restrictions apply in the same way as for missile fire
+(see Targetting Spells, WFRP, p. 136). A summoned bolt hits its target automatically.
+If fired into a group it will hit 1D6 characters or creatures per level of the caster.
+A hit causes 2D8 Wounds at Strength 7 (irrespective of armor) and will cause
+additional 1D12 Wounds to flammable targets.
+Creatures which are Subject to Fear of fire will have to make a fear test. 
+Summoned lightning is similar to a magic missile. Victims of a lightning
+bolt may attempt to dodge the blast by testing against Initiative. If successful,
+the character only  takes half damage. 
+
+[What a Power-Blast! Perhaps  damage should  be reduced to 2D6 W. But I like
+the idea of Deadly Druids!]
+
+

@@ -1,0 +1,111 @@
+Path: rc6.urc.tue.nl!tuegate.tue.nl!svin02!hp4nl!mcsun!sunic!ugle.unit.no!ugle!olavma
+From: olavma@siri6.lise.unit.no (Olav Marstokk)
+Newsgroups: rec.games.frp
+Subject: New spells for WFRP
+Message-ID: <OLAVMA.91May15150911@siri6.lise.unit.no>
+Date: 15 May 91 13:09:11 GMT
+Sender: news@ugle.unit.no
+Distribution: rec
+Organization: The Norwegian Institute of Technology
+Lines: 99
+
+
+ Here are some new Battle Magic Spells for WFRP.
+I use them in my campaign.
+
+
+
+Level 1
+
+*********************************************************
+FLYING FIST
+
+Spell level: 1
+Magic Points: 3
+Range: 48 yds
+Duration: Instantaneous
+Ingredients: a glove
+
+A disembodied fist flies trough the air.
+It hits its target automatically on the head,
+delivering a strength 6 hit. The attack counts 
+as unarmed and non magic. The fist is considered 
+to have the skill: "Strike to Stun".
+*********************************************************
+*********************************************************
+SIXTH SENSE
+
+Spell level: 1
+Magic Points: 4 
+Range: Personal
+Duration: 1 hour per level
+Ingredients: a mirror
+
+Treat as if the caster had the skill with the same name,
+but test against WP instead of Int.
+*********************************************************
+*********************************************************
+STABILIZE
+
+Spell level: 1
+Magic Points: 4 per hour
+Range: Touch
+Duration: 1 hour
+Ingredients: a small stone
+
+This spell will stabilize anyone suffering from a 
+critical hit. Note that this spell does not restore any
+wounds, and the character is still considered severly
+wounded. The duration of the spell may be increased at 
+a cost of 4 MP per hour.
+********************************************************
+
+Level 2
+
+********************************************************
+CURE HEAVY WOUNDS
+
+Spell level: 2
+Magic Points: 6
+Range: Touch
+Duration: Instantaneous
+Ingredients: One dose of Tarrabeth
+
+This spell can be used to heal the caster or one other
+individual. The spell takes effect immediately, restoring
+D8 wounds. The spell will not work on severly wounded
+characters.
+A spellcaster who fails to cast this spell successfully
+causes D8 wounds to the patient.
+********************************************************
+
+Level 3
+
+********************************************************
+MAGIC AURA
+
+Spell level: 3
+Magic Points: 7
+Range: Personal
+Duration: 1 hour per level
+Ingredients: an amethyst(value 30GC)
+
+This spell gives the caster 1 AP on all locations.
+The aura is not dispelled by hits from magic weapons,
+and the protection counts as magical. 
+It may be dispelled at will by the caster.
+********************************************************
+********************************************************
+DECREASE
+
+This spell may be cast at any creature or individual.
+Victims who fail a magic test immediately lose 
+2D10 points of either WS,BS,I,Dex; caster's choice, 
+but they cannot be brought below 0. 
+Lost points are restored next sunrise.
+********************************************************
+
+
+Tarrabeth is an herb. It is described in the first book
+of THE ENEMY WHITHIN.
+

@@ -1,0 +1,36 @@
+From: Marcin Gwozdzikowski <5GWOZDZI@novell.ftj.agh.edu.pl>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: New armours
+
+Hi guys!
+Sorry that I`m late ,but I was ill and  so I couldn`t get to my 
+internet. Now lets begin.
+
+Riveted Armour
+--------------
+Riverted armour is made up from lether and it`s cover by metal things 
+like rivert ,circles and so.
+
+There are three kinds of it.
+* Riverted doublet gains 0/1 AP to a chest.But it has increased damage 
+limit up to 6 pionts of damage (leather has 3 for example).
+* Riverted jacket 0/1 AP to a chest and arms.
+* Riverted coif defends head 0/1 AP
+
+Cost of "upgrading" this armour is 3gc for chest and 1gc for each 
+reamining part of body.(Don`t forget to add this to price of leather 
+armour).Weight points are:chest +15,arms +10,legs +10 (for each) and 
+head +5 (it`s noumber which must be add to leather items).
+
+Scale-armour.
+-------------
+It works almoust the same as riverted and leather armour but this 
+type of armour resist to 10 points of damage.(0/1 AP up to 10 dp).
+I`ve created three kinds of it.
+
+* Scale-doudlet defends only chest (and a back of course) cost 25gc
+weight: 60p.
+* Scale-jacket defends chest and arms , cost 30gc weight: 65p.
+* Scale-tunic defends chest ,arms and legs ,cost 55gc weight :75p.
+
+

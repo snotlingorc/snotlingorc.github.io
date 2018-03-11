@@ -1,0 +1,54 @@
+                     NO MORE 'NAKED DWARF' SYNDROME 
+
+Below is my method, than resolve problem of high T, than I post to the list
+in past. Base in this method is percentage way calculation of damage.
+We treat tougness like 10*T% numbers of damage, than person may "stand".
+Then (10-T)*10% is number of real damage.
+
+This method gives:
+   - that same number of damage like normal method for characters of 
+     T from 1 to 4 
+   - each success attack on person (even on person with high T) gives damages
+       - that resolve "naked dwarf" syndrome
+
+Way:
+1. solve strenght of attack (SA) = (S or ES) + 1d6 (+ bonus from weapon)
+2. if target's T >= 10 then solve damage like normal
+3. if target's T < 10 then:
+        real damage is (10-T)*10% of SA ;
+   that is: 
+      (10-T)*SA / 10 and after this substract of armor points ;
+   or use table:
+
+                          SA
+     T    1   2   3   4   5   6   7   8   9   10  
+        ------------------------------------------
+     1 |  1   2   3   4   5   5   6   7   8   9
+     2 |  1   2   2   3   4   5   6   6   7   8
+     3 |  1   1   2   3   4   4   5   6   6   7
+     4 |  1   1   2   2   3   4   4   5   5   6
+     5 |  1   1   2   2   3   3   4   4   5   5
+     6 |  0   1   1   2   2   2   3   3   4   4
+     7 |  0   1   1   1   2   2   2   2   3   3
+     8 |  0   0   1   1   1   1   1   2   2   2
+     9 |  0   0   0   0   1   1   1   1   1   1
+
+Example:
+Orc with S4 attack dwarf with T7. Roll 1d6 gives 3. In normal way number
+of damage is S+1d6-T=4+3-7=0. In my method : SA=S+1d6 is 7, T is < 10 then
+solve 10-T (point 3 above) is 3. Then SA*(10-T) is 7*3=21, /10 = 2.1 ,
+round fraction gives 2 (or look on table SA 7, T 7 - gives 2).
+Dwarf has 2 points of damage.
+
+Another example:
+Dwarf (S 5) attack orc (T 3). Roll 1d6 gives 4. In normal method number of
+damage is 5+4-3=6. In my method SA=9, 10-T=7, 9*7=63 , 63/10=6.3 round off
+gives 6 (use table gives that same). 
+
+In first example was resolve syndrome of too higher toughness, in second
+- compatybility of damage numbers with normal method for person with
+  'normal' T (that is T below 5).
+
+------------------------------------------------------------------------------
+maciej s. afanasjew                            sergiej@gumbeers.elka.pg.gda.pl
+------------------------------------------------------------------------------

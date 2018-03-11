@@ -1,0 +1,147 @@
+From: Psychedelic Goblin <PS4CC@merkland.rgu.ac.uk>
+Subject: Combat Rules.
+
+1)Untrained Use of Specialist Weapons.
+At present anyone using a weapon they don't have the specialist skill 
+for attacks at a base 10%. This is ludicrous because most people can 
+hit someone with anything more than 1 time in 10 attacks. It's really 
+silly if you consider an experienced warrior (WS65) is also stuck at 
+the same level.
+ - Solution: Halve the WS (round down) when using specialist weapons 
+untrained. This still gives a strong modifier and reflects the 
+abilities and talents of each person.
+
+2) Toughness vs Damage
+We all know about naked dwarf syndrome by now, but even in more 
+mundane cases it takes 3 average sword blows to critically wound the 
+average human. In my opinion it should take no more than 2.
+ - Solution: use half T (round up). this means even Mr Hard the Dwarf 
+with T9 takes 1 or 2 points of damage from the average sword blow.
+Another good point is this encourages characters to parry attacks.
+This rule is applicable to all creatures including dragons. More will 
+become apparent below.
+I also use a slight variation of clay luthers excellent scale rules.
+
+3)Armour.
+As it stands there is no difference between chain or plate, and 1 AP 
+is nothing really. In conjuction with the lowering of T vs damage, 
+the effectiveness of armour should be increased as follows:
+Leather - no change
+Chain Mail - 2AP
+Plate Mail - 4AP
+Shield - 1AP (if not actively parrying), 4AP with a parry.
+I think these rules portray armour slightly more realistically than 
+before. For example: the average human wearing full plate can take 
+effective damage upto 6 points, which just protects him from the 
+average sword blow. The differentiation between plate and chain also 
+avoids situations when players choose to wear chain simply because 
+it's lighter than plate and provides the same protection.
+Animals with natural armour have it beefed up as follows:
+Hide - as leather
+Shell/carapace- 2-3AP
+Dragon Skin - 4AP.
+Bear in mind that I use a slight variation of clay luthers excellent scale rules as 
+well.
+Armour should be subtracted BEFORE Toughness, not after as it states 
+in WFRP. After all the armour is meant to intercept the blow before 
+it reaches your flesh.
+
+4) Specialist Weapon - 2 Weapon
+Gives +1 attack/parry with a secondary weapon.
+The secondary weapon must be no larger than a shortsword in length.
+the wielder suffers penalties of -10%WS to the primary weapon, and 
+-20%WS to the secondary weapon (halve these penalties if the 
+character possess Ambidextrous).
+The extra attack/parry must be with the secondary weapon.
+Characters with the SW-Parrying skill can parry with the secondary 
+weapon at no penalty.
+
+5) Specialist Weapon - Parrying
+This gives the character +10% to all parry attempts with a parrying 
+weapon.
+
+6) Specialist Weapon-Fist
+At the moment this skill covers knuckle dusters, garottes and meat 
+hooks! There are several problems:
+Firstly, it doesn't take any real skill to use knuckle dusters or 
+gauntlets because all they do is essentially 'harden' the fist of any 
+punch attack. Anyone who can punch, can use them at no penalty, which 
+is why thugs favour them.
+Secondly, there is a world of difference between punching someone, 
+slashing them with a hook, and strangling them with a cord.
+- solution: anyone can use knuckle dusters and gauntlets at no 
+penalty.
+Strangling weapons are now covered by SW-Garotte (see below).
+SW-Fist now only covers slashing fist weapons such as meathooks and 
+warclaws.
+
+7) Spec Weapon - Garotte
+Covers the use of garottes, scarves, knotted cords and the like.
+the attack is usually from behind and with surprise. damage as 
+follows:
+The victim can struggle for T rounds but suffers a cumulative -10% 
+penalty beyond the first. After T rounds have elapsed the victim 
+falls unconscious. Thereafter the attacker can inflict S damage per 
+round until the victim dies (using the sudden death critical table), 
+OR can leave the garotte around the neck of the victim, keeping the 
+air supply cut off, in which case the victim dies in T rounds.
+The struggling is an opposed S test.
+
+8) Dodge Blow
+The character with this skill can dodge attacks at their full 
+Initiative score.
+Characters without the skill dodge at half their Initiative score 
+(round down).
+For either, each successive dodge in the same round incurs a cumulative 
+-10% penalty.
+
+9) Unarmed Combat
+As it stands, all characters suffer a -20%WS penalty when fighting 
+unarmed and -3 damage. I agree with the damage penalty but not the WS 
+penalty. It is much easier for a human to kick or punch than wield a 
+sword effectively without training. Unarmed is our natural state and 
+I think reducing the average human to WS23 unarmed is stupid. At 
+least 1 in 3 blows should connect.
+ - solution: characters fighting unarmed do so with no WS penalty.
+Street Fighting - this now implies a seasoned unarmed fighter, who 
+adds +10%WS unarmed (except grappling) and has the damage penalty 
+reduced to -2nl, for all attacks except grappling.
+Wrestling - this works as Street Fighting but applies to grappling 
+only.
+
+>Combat Modes
+Mode                                 Init     To Hit   Damage                             
+Unarmed*                              -            -           -3nl
+Gauntlet/Knuckle Duster*    -            -           -2nl
+Warclaw/Meat hook           -           SW          -1
+Grapple                             -10        -10         -3nl
+nl - non lethal. These attacks are always Strike to Stun, and only 
+25% of the damage is real (has an effect on the Wounds).
+* - means the attack is effected by the unarmed vs armour rules.
+
+10) Missile Weapons
+At the moment a throwing knife does the same damage as a throwing axe 
+or normal sword attack! In fact, a few of the missile weapons are 
+overpowered. Solution: see table below.
+
+Weapon                 S     L    Ex      ES  Load/Fire
+Sling                     24    36   150    -2         1rd
+Staff Sling            24    36   200    -2       1rd/1rd
+Dart*                    4      8     20     -2         1rd
+Throwing knife     4      8    20      -2         1rd
+* - a dart in this case refers to the war dart as used by the greeks 
+and romans. They were about 16" long.
+
+11) Clays Scale Rules
+I use them with only 1 minor modification:
+instead of 1 dice per scale difference for damage, I just add 1 for 
+each scale difference.
+In clays example the dragon according to his rules would have done
+9+4d6 damage (an average of 23!, which I feel is a little too high).
+With my modification it would be 12+d6 (for an average of 16, which 
+is more than enough to eviscerate the average human).
+
+
+Grishnag!!
+You'll Never take me Alive!!
+Goblinoids of the World Unite!!

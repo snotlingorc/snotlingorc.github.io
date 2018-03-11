@@ -1,0 +1,175 @@
+From: Chris Clements <chris@atmnet.net>
+Subject: [WFRP:1561] The Swords of Khorne
+
+--
+"The Swords of Khorne"
+
+GM Notes:
+
+"The Swords of Khorne" is the name of a large (16 members) chaos warband
+that exists only to kill in the name of their bloody god.  It is led by
+the manical fighter Bakal, and although a few members of the band may
+be more powerful than him, none can match his fanatically fevor in combat.
+The group of fiends stalk within the Empire, attacking with deadly
+quickness.  Their targets include coaches, roadwardens, rural farms,
+even small villages.  Very few indeed have survived a meeting with this
+group...
+
+They have no overall purpose except to slaughter; Bakal has a vague
+notion of attacking a large city in a suicide run sometime in the
+future, all for the glory of Khorne, but he has made no definite plans.
+If this event were to happen, the band would disguise themselves as best
+they could, sneak into the city, then kill.  Kill, kill, kill!  Men,
+women, children, puppy dogs, rats, whatever.  If it is alive, Khorne
+wants it dead.  And while they are most assuredly signing their own
+death warrants, many a watchman (as well as innocent citizen) will die
+by their blades before they fall.
+
+Adventure Ideas:
+
+Unless your group of pcs are tough (and I mean damn tough), the Swords of
+Khorne should not be used as a standard encounter.  This group has managed
+to take out small mercenary bands, units of knights, and the occasional
+slayer; a party pcs would be chewed up and spit out by these guys.  They
+should not be encountered unless the gm wants a bunch of dead pcs.
+
+They are a great starting point for the creation of a few rumors, however.
+The pcs may hear of a band of chaos stalking the land, murdering all they
+find (perhaps a friend or family member of a pcs?).  Another good use
+is to have a pc just starting out survive an attack on their town by
+them (the pc hiding, of course); this will teach the character how brutal
+chaos can be.  Perhaps the best use for them is to let the group of
+stalwart adventurers know that discretion IS sometimes the better part
+of valor if they normally have a tendency to let the sword solve all their
+problems ("Those who live by the sword...").
+
+An adventure could be designed around what happens after the Swords of Khorne
+attack a small village, with the pcs hired/help rebuild the shattered remnants
+of the mutilated town.  It would show another facet of evil that spawns from
+chaos; one that is more often than not the most terrible...
+
+
+Bakal - Chaos Champion of Khorne (Outlaw, Outlaw Chief) 
+M   WS   BS   S   T   W   I   A   Dex   Ld   Int   Cl   Wp   Fel
+6   57   55   5   7   11  56  3   47    67   37    42   41   6
+
+Skills:
+Dodge blow, disarm, specialist weapon - 2 handed, flail, polearm, fist;
+street fighting, strike mighty blow, strike to injure.
+
+Rewards/Mutations:
+Chaos Armor (2 APs all locations, bonded - +1 T, +10 vs. all magic tests.) [r]
+Manic Fighter - hates all foes, can not be forced to leave combat. [m]
+Long Legs (M +1) [m]
+Featureless Face [m]
+Eye of Khorne - collar of Khorne (WP 89), Fleshhound, and a chaos sword:
+                WS +10, +1 damage.
+
+Trappings:
+Two-handed chaos sword "Karn-Arak" - enchanted; WS +10, D +3, I -10.
+sword
+dagger
+3 bloodstones (Each stone will summon a bloodletter.  After its use it is
+              destroyed, crumbling to dust.  The daemon will stay for the
+              entire battle, but must check for instability as normal.)
+Warhorse (see WFRP bestiary - horse)
+collar of Khorne (WP is treated as 89 when testing vs. magic.  It dissolves
+                 into dust if the Bakal is killed.  With his chaos armor
+                 his WP vs. magic is 99)
+
+2 Goblins (Gronx & Rakza)
+    M   WS   BS   S   T   W   I   A   Dex   Ld   Int   Cl   Wp   Fel
+G1: 4   35   25   3   3   7   20  2   18    18   18    18   18   5
+G2: 4   18   13   5   7   7   20  1   18    18   18    18   18   8
+
+Skills:
+Dodge blow, strike mighty blow
+
+Rewards/Mutations:
+Goblin 1: Bestial Face - Dog (A +1). [m]
+Goblin 2: Metal Body (WS & BS/2, S +2, T=7). [m]
+
+Trappings:
+sword
+shield (1 AP all locations)
+
+
+7 Dwarfs
+    M   WS   BS   S   T   W   I   A   Dex   Ld   Int   Cl   Wp   Fel
+    3   41   25   3   4   8   22  2   20    54   29    51   50   12
+D3: 3   41   25   3   4   8   22  3   20    54   29    51   50   8
+
+Skills:
+Disarm, dodge blow, strike mighty blow.
+
+Rewards/Mutations:
+Dwarf 3: Horns (A +1, gore). [m]
+
+Trappings:
+scimitar
+sleeved mail coat, chain coif, + shield (2 APs all locations)
+
+
+Vaqri - Warrior of Chaos; Khorne (Mercenary Captain)
+M   WS   BS   S   T   W   I   A   Dex   Ld   Int   Cl   Wp   Fel
+4   62   55   7   6   13  44  4   47    56   43    62   45   16
+
+Skills:
+Disarm, dodge blow, heraldry, ride, secret language battle tounge, street
+fighter, specialist weapon - lance, two handed, flail, parrying, strike mighty
+blow, strike to injure.
+
+Rewards/Mutations:
+Chaos Armor - (2 APs all locations, +10 vs. magic tests). [r]
+Beaked (A +1; bite). [m]
+Strength +3. [r]
+
+Trappings:
+Two-handed sword (D +2, I -10)
+crossbow with 15 bolts
+warhorse (see WFRP bestiary - horse)
+
+4 Mercenaries
+M   WS   BS   S   T   W   I   A   Dex   Ld   Int   Cl   Wp   Fel
+4   39   39   3   3   7   30  1   29    34   26    29   29   22
+
+Skills:
+Disarm, dodge blow, secret language battle tounge, strike mighty blow, ride.
+
+Trappings:
+sword
+mail coat + shield (2 APs body/legs, 1 AP arms/head)
+crossbow with 15 bolts
+riding horse (see WFRP Bestiary - horse)
+
+
+Kaelak - Zoat; chaos warrior of Khorne
+M   WS   BS   S   T   W   I   A   Dex   Ld   Int   Cl   Wp   Fel
+10  59   25   5   6   18  50  2   43    89   89    89   89   8
+
+Skills:
+Acute hearing, excellent vision, follow trail, specialist weapon - 2
+handed, strike mighty blow.
+
+Rewards/Mutations:
+Fast (M+3) [m]
+Blood Rage - subject to Frenzy when within 24 yards of a wounded
+             creature, including itself. [m]
+Skin of Khorne - Red (T +1)
+
+Special Rules:
+3 points of armor on the body and hindquarters, and 1 point on all
+other locations.
+
+Trappings:
+Zoat great sword (D+2, I-10; Rune of Cutting & Smashing)
+--
+
+I have other (most a lot less powerful) chaos warbands; if anyone would
+be interested in me posting them, let me know.
+
+Chris Clements
+chris@atmnet.com
+
+"Vale, mi amice."
+

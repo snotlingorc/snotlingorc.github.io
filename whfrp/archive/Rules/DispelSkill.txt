@@ -1,0 +1,102 @@
+                            The Dispelling Skill
+
+
+
+Prepared by D J Brattan
+Original Concept by Tim Steele
+
+
+The idea of dispelling has been changed in the 4th edition of Warhammer Fantasy
+Battle. It has changed from using the appropriately named Battle magic spell to
+being more of a skill that a magician has or an innate property that certain 
+magic items are prized for. For this reason and to cover the Dwarven innate 
+ability to resist magic, I use these rules set out below for my roleplay 
+campaign.
+
+Any character with the ability to cast spells can also learn the skill of 
+dispelling. A character with this skill is taught how to use his innate ability
+to twist the winds of magic so that a spell cast in his vicinity can be slightly
+misaligned and therefore disrupted. The idea is similar to an engineer building
+a great tower. One brick out of place can cause the whole construction to 
+collapse. Knowing which brick is the critical one is where the skill is 
+involved.
+
+The skill is usually made available at the same level as when Petty Magic is 
+available ie as a wizard's apprentice or Druidic Priest etc and is acquired via
+the same process as other skills costing 100 xps. Dwarfs are an exception to 
+this rule (See below).
+
+There are also magic items that have an innate ability to disrupt magic cast 
+against them, such as shields or talismans. These items are usually wrought by 
+mighty mages and so have a strong chance to negate enemy spells. Any spell that
+would otherwise affect the owner has a chance of being dispelled. Magic shields
+etc of this kind usually have the same chance as a level 4 wizard in attempting
+to dispel.
+
+
+How it's Done :
+
+Dispelling works by comparing the dispellers level and the spell casters level 
+to the percentage on the table below. The casters percentage is taken away from
+the dispellers and the resulting percentage is the chance to dispell.
+
+
+Dispellers Spell Level   Dispel Chance   Casters Lvl Modifier
+
+Petty ( or Dwarf)             25%                 +10%
+Level 1                       35%                   0%
+Level 2                       45%                  -5%
+Level 3                       55%                 -10%
+Level 4                       65%                 -15%
+
+
+Augmenting Spells/Dispels : 
+ 
+
+The chance to dispell can be further enhanced by using extra magic points. The 
+dispeller gains an extra 5% per magic point used to augment his chance to 
+dispel. Similarly the caster can use magic points to ensure his spell occurs. 
+Each extra magic point used deducts 5% from the chance to dispell.
+
+Before the spell is cast, the caster writes down how many extra points to be 
+added to the overall magic points total (if any) to guard against dispelling. 
+The dispelling mage then writes down secretly how many magic points (if any) is
+to be used in the dispelling attempt. These amounts are then revealed and the 
+percentage chance to dispell is further modified by the result.
+
+
+An example : 
+
+A 1st level mage has just learnt fireball. He is adventuring in the perilous 
+vaults of Karak Varn and comes across an evil Orc Shaman. Immediately the mage
+whips out a ball of sulphur and shouting the approriate words casts the spell 
+at his victim. The mage decides to bolster his attempt of casting the spell 
+seeing that his victim is also a spell caster and adds two extra points. (This 
+would not be neccessary if he was fighting ogres, seeing they usually have no 
+spell ability and therefore cannot attempt to dispel a spell). He writes this 
+amount down and waits for the orc to respond.
+
+The shaman is a wiley beast and knows that even though he is at 2nd level 
+ability, a successful fireball against him will do more than give him an 
+overall tan. He decides to use 3 magic points to defend himself and writes the 
+amount down.
+
+The two amounts are revealed and to the mages initial dismay, the total spell 
+points are against him and so the shaman's dispell attempt will be at +5%. The 
+above table is consulted and it is found that the Shaman has a basic dispel 
+ability of 40%. The mage is 1st level and so adds +0% to this chance. The extra
++5% for spell points is added to this giving a total chance of 45%.
+
+Now the Shaman rolls the dice to score a 53% and decides that perhaps Sunblock 
+15+ would have been more useful. Our happy mage now has to contend with the 
+Shaman's relatives running up the corridor behind him.
+
+
+About Dwarfs : 
+
+Dwarfs, being naturally wary of magic, are already aware of this skill. Any 
+dwarf of any profession can expend the required 100xps to gain the skill. 
+However, they do not get better at it like magicians do and so stay at the level
+of Petty Magic when trying to dispell. This means that overall, the Dwarf will 
+have 30% basic chance to Dispel which cannot be modified except by the level of
+the casting mage and any extra points that mage expends.

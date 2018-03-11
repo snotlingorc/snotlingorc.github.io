@@ -1,0 +1,38 @@
+Lout
+------
+Nobody knows who created this sword, and if the crafter is still around, it 
+is pretty safe that he is not proud of this creation.  Normally this would be 
+considered a failure. But not completely.  Crafted to be a superb ally against 
+the forces of chaos with a limited amount of intelligence, and decent 
+detection abilities the wizard succeeded getting all that he asked for in that 
+regard. But
+only sporadically.  The process of binding a spirit to the sword slightly 
+unbalanced the individual that was used.  It is a great weapon against Chaos,
+but is as unpredictable as Chaos itself.  The enchantments laid on the 
+sword after the spirit was trapped made the spirit subject to fear of Chaos, 
+and stripped it of some of its intelligence.
+	-- +10% CL  
+	-- Knows Alignment of anything within 5 yds.
+	-- Knows Old Worlder, Bretonnian, Reikspeil, Dark Tougne, Orack,
+Tilean, SL-Classical.
+	-- Telepathy to holder of single syllable words and single syllable 
+words only.
+	-- SUBJECT TO FEAR OF CHAOS.
+-If FearTest is passed: 
+	-- Wielder is subject to hatred of chaos.
+	-- on a successful disarm attempt may (25%) destroy a Chaos
+Weapon.
+	-- alarm owner of chaos if he is sleeping.
+	-- +2 T;  +2 S;  +20% WS;  +20% Magic Tests (vs. Chaos ONLY)
+	-- Will hack a downed creature of chaos repeatedly unless sword
+passes an INT test to know not too.  If owner passes a LD test he can 
+command sword to not hack body to bits.  If he fails, the sight of himself
+mutilating the body will result in an Insanity Point.
+-If FearTest is failed:
+	-- Sword is afraid and will do nothing that round.  If wielder swings
+Lout at creature of chaos it will not let him.  As if he failed his initial WP 
+
+test to be able to use a magic sword to begin with, but as soon as Lout 
+passes his FearTest, all the abilities mentioned above kick in instantly.
+  -- Lout's ability scores are as follows:
+LD:40; INT:35; CL:40; WP:80; FEL:25

@@ -1,0 +1,5 @@
+Ecate					/Religion/RoDMSample.txt
+Mathlan - God of the Seas		/Bestiary/SeaElves.txt
+Rota-Himmel				/Bestiary/SeaElves.txt
+Senparae				/Bestiary/SeaElves.txt
+Throrin the Slayer			/Careers/DwarvenSlayers.txt

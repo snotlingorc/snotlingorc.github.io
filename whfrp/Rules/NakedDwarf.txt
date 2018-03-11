@@ -1,0 +1,60 @@
+From blanchard@nmsnp4.nmsu.eduMon Aug 14 08:46:35 1995
+Date: Tue, 24 Jan 1995 15:40:44 -0700
+From: blanchard@nmsnp4.nmsu.edu
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: wfrp@gojira.monsta.com
+Subject: Naked Dwarves
+
+
+	The "Naked Dwarf" syndrome was a problem when I first played Warhammer
+several years ago (I had to give it up in favor of grad school).  I recently
+started playing again and have been kicking around a few rule modifications,
+one of which is meant to deal with this problem.  Keep in mind these rules
+are still in the development stage and haven't been play tested much.  
+	In order to cure the "Man of Steel" problem, I've eliminated the
+toughness attribute all together.  To compensate for the increase in damage
+a character will take from a blow, I have also changed the wounds rules 
+slightly.  Each hit location now has its' own wound value.  This value comes
+from the old wound statistic.  For example, if a character has W=7 under the
+standard rules,  he can now take 7 wounds of damage to each of his six hit 
+locations.  If a specific location should fall below 0 wounds,  the character
+then begins taking criticals on that location only.  Should he be hit in a 
+different location, the damage is subtracted from the wounds left on that 
+location seperate from all other damage.
+	The change in wounds doesn't quite balance the lack of touhgness.
+This leads to two more changes that I felt fixed other problems I saw with 
+the combat system in Warhammer.  One is the relative ineffectiveness of shields
+in the game.  I currently give everyone with a shield or off handed parrying
+weapon a free parry each combat round.  (Off handed weapons users may choose 
+to use this as an extra attack instead.)  Shields and weapons still use their
+respective modifiers when these parries are attempted.  I use the following 
+modifiers for shields:
+
+	buckler		+10
+	normal shield	+20
+	large shield	+30
+	
+	I also felt that armor was not effective enough.  So I've modified 
+armor values in the following way.
+
+	Heavy Plate w/chain, full Helm w/coif		8
+	Heavy Plate, full Helm, pot helmet w/coif	6
+	Brigandine, Metal Scale, pot helmet		5
+	Chainmail					4
+	Leather						2
+	Heavy Clothing					1
+
+I chose these values by examining the average amount of damage an average
+begining character could do with a hand weapon.  (3.5 + 3 Str. = 6.5 damage)
+Note that I'm not considering the possibility of rolling extra damage.
+I'm also considering that each hit location has an average of 6 wounds 
+before critical hits are taken.  
+	I'm still toying with these rules along with a few others.  I'm 
+usually pretty busy, but any coments would be appreciated.
+
+Sean Blanchard
+(blanchard@nmsnp1.nmsu.edu)
+
+"That which does not kill us, must have missed us..." - Miowara Tomokata
+"When things are blackest, I just tell myself 'cheer up, things 
+ could be worse!' And sure enough, they get worse!" - The Great Skeeve

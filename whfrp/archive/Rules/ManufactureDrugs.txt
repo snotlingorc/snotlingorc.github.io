@@ -1,0 +1,656 @@
+One caveat - be aware that it's to some extent still a framework.  For
+example, not all the "chemicals" I came up with are used in the Specifics
+I've documented - they're there for my own convenience as pegs on which to
+hang future recipes if I feel it's appropriate.
+
+(It's worked, to date - it kept the player in question active and interested
+during the more frustrating portions of Power Behind The Throne, at least.)
+
+Cheers - Ian
+
+=======================
+
+Drug Manufacture
+
+Drugs ("Specifics") are similar to herbs in their descriptions and range of
+effects. However, there are also a number of differences.  Firstly, 
+Specifics may be purchased at a price from a number of sources, eg a
+local alchemist (although I suspect in this case a better term would be, 
+"apothecary") or Physician - someone with the time and skills to make
+them up. Such sources will normally only be found in the larger towns and
+cities. It will almost always be cheaper by a factor of 2 or more for a
+player to manufacture Specifics themselves from raw ingredients, than to
+purchase them already compounded.
+
+Alternatively, characters with the *Manufacture Drugs* skill may
+compound Specifics for a range of effects themselves, provided they
+are able to acquire the correct ingredients.  Such ingredients will
+normally be either herbs or Chemicals, as fits the skill description.
+
+Herbal ingredients can be obtained from the normal sources (eg a
+herbalist), and used to produce Specifics with properties identical to
+their herbal equivalents (as described in "The Enemy Within").  Such
+preparations will normally be easier to use than their herbal
+equivalents, and will retain their properties for much longer (ie
+semi-indefinitely).
+
+Chemical ingredients will normally require prior preparation by a
+character or NPC with the *Chemistry* skill.  Preparation of a
+Specific requires a successful Int role; failed preparations may have
+unexpected effects at the GMs discretion (although normally these
+would be broadly in line with the Specific's intended properties).
+
+
+For every Chemical-based Specific, the following factors are defined:
+
+Availabilty (compounded):
+        The availabilty of the Specific in prepared form.
+
+Price (compounded):
+        The price of *ONE* treatment of the prepared Specific "over
+        the counter" (remember that some drugs may not be readily available,
+        and may even be subject to local legal controls).  *NOT* to be 
+        confused with the cost of preparing one *batch* of the Specific (see
+        below), which may well yield several treatments-worth.
+
+Method of Application/Dosage/Skills/Tests/Effects:
+        As for herbs
+
+Recipe:
+        The Chemicals required to concoct the Specific (normally 1+1d3
+        components; some of these may occur more than once).
+
+Preparation:
+
+        As Herbs
+
+Attention:
+
+        The degree to which the preparation must be monitored.
+        Attention will be categorised as:
+        "Low" - The preparation can safely be left unattended for long
+        periods (say, over a low flame)
+        "Medium" - The preparation must be checked regularly (say,
+        once an hour), and longer periods of attention will be necessary from
+        time to time (say, two hours per day).  The checking can be delegated
+        to a suitable individual with appropriate skills (say, a physician's
+        apprentice) with a -10% modifier to the final INT check for success.
+        The longer periods of attention require skills that cannot be
+        delegated.
+        "High" - The preparation requires constant attention - the
+        character preparing the Specific is effectively unable to do anything
+        that will take them away from their job for more than a few minutes.
+        If the preparation takes more than a day, it may be necessary to
+        arrange for a servant or apprentice to wake the character at regular
+        intervals during the key stages.
+
+If a character wishes to prepare more than one Specific at a time, the
+success roll for *each* specific being prepared must be reduced as
+follows:
+        For every other "Low" Attention Specific being prepared: minus
+        5% per Specific.
+        For every other "Medium" Attention Specific being prepared:
+        minus 15% per Sspecific.
+        For every other "High" Attention Specific being prepared:
+        minus 30% per Specific.
+
+
+Yield:
+        The number of treatments prepared in a single batch by
+        following the recipe.  Players should be allowed to scale the recipe
+        up or down within reason; however, for every factor above one  by
+        which the recipe is scaled up or down, a 10% negative modification
+        should be made to the INT test for success.  (Thus, a player with an
+        INT of 54 trying to prepare three times the recipe quantity of a
+        Specific (ie two extra lots) at one go would roll against a modified
+        INT of 34 (= 54-2x10)).  A player may always opt to prepare multiple
+        batches of a single Specific in parallel; in this case, each batch 
+        is treated as a seperate Specific when calculating the Attention
+        modifiers (above) to be applied to the final INT roll for success.
+
+
+
+SPECIFICS:
+
+"A Salve for the Relief of Infection in Wounds"
+
+Availabilty (compounded):
+        Rare
+
+Price (compounded):
+        5gc
+
+Method of Application:
+        Smear
+
+Dosage:
+        1 day
+
+Skills:
+        Cure Disease
+
+Tests:
+        Int, and see below
+
+Effects:
+        When applied to an infected wound, will halt the effects of
+        any infection, restoring all lost DEX points in d6x5 game turns.  It
+        will also add 10% to the Toughness test made by a character to
+        establish whether they have lost any wounds permanently, and halve the
+        effects of a bad (96-00) roll.
+
+Recipe:
+        1 part  Oraculum
+        1 part  Sigmarite
+        2 parts Tilean Salts
+
+Preparation:
+        1 week
+
+Attention:
+        Medium
+
+Yield:
+        4 treatments
+
+
+
+"A Powder to Aid in Recovery from Surgery"
+
+Availabilty (compounded):
+        Scarce
+
+Price (compounded):
+        4gc
+
+Method of Application:
+        Dust onto the wound or incision
+
+Dosage:
+        1 day
+
+Skills:
+        Surgery
+
+Tests:
+        Int
+
+Effects:
+        Use of this powder by a character with the *Surgery* skill
+        will add 10% to any tests involving that skill.  In addition, the
+        preparation will also mitigate by up to 10% any negative modifiers
+        from unhygenic surroundings or dirty equipment.
+Recipe:
+        1 part  Brandt's Liquid
+        1 part  Green flowers of Mondrite
+        1 part  Malcheor's Water
+
+Preparation:
+        3 days
+
+Attention:
+        Medium
+
+Yield:
+        2 treatments
+
+
+
+"A Potion for the Acceleration of Healing - Formula One"
+
+Availabilty (compounded):
+        Rare
+
+Price (compounded):
+        8gc
+
+Method of Application:
+        Ingest
+
+Dosage:
+        1 week
+
+Skills:
+        Heal Wounds
+
+Tests:
+        Int, and see below
+
+Effects:
+        Characters treated with this Specific will recover wounds at a
+        rate of 1 additional wp per day, over and above the effects of any
+        other treatment they may be undergoing.  However, if the Specific is
+        administered in parallel to other herbs or drugs, the patient must
+        make a Toughness role each day (for as long as the two treatments
+        continue) or suffer an overall *loss* of 1 wp that day.
+
+Recipe:
+        1 part  Brandt's Liquid
+        1 part  Imperial Water
+
+Preparation:
+        1 day
+
+Attention:
+        Medium
+
+Yield:
+        2 treatments
+
+
+
+"A Potion for the Acceleration of Healing - Formula Two"
+
+Availabilty (compounded):
+        Rare
+
+Price (compounded):
+        10gc
+
+Method of Application:
+        Ingest
+
+Dosage:
+        1 week
+
+Skills:
+        Heal Wounds
+
+Tests:
+        Int, and see below
+
+Effects:
+        Characters treated with this Specific will recover wounds at a
+        rate of 1 additional wp per day, over and above the effects of any
+        other treatment they may be undergoing.
+
+Recipe:
+        1 part  Brandt's Liquid
+        1 part  Imperial Water
+        1 part  Potter's Crystals
+
+Preparation:
+        2 days
+
+Attention:
+        High
+
+Yield:
+        2 treatments
+
+
+"Salts for the Restitution of Conciousness"
+
+Availabilty (compounded):
+        Average
+
+Price (compounded):
+        15/-
+
+Method of Application:
+        Inhale
+
+Dosage:
+        1 hour
+
+Skills:
+        None
+
+Tests:
+        Patient's Toughness
+
+Effects:
+        Waving a vial of this under a stunned/concussed characters's
+        nose will bring them round in 1d4 rounds, provided they make a
+        successful Toughness test at +10%
+
+Recipe:
+        1 part  Dragon's Milk
+        1 part  Tilean Salts
+
+Preparation:
+        2 days
+
+Attention:
+        Low
+
+Yield:
+        10 treatments
+
+
+
+"A Specific for the Treatment of Deep Wounds"
+
+Availabilty (compounded):
+        Very rare
+
+Price (compounded):
+        10gc
+
+Method of Application:
+        As a poultice to open wounds
+
+Dosage:
+        2 weeks
+
+Skills:
+        Heal Wounds
+
+Tests:
+        Int
+
+Effects:
+        Characters suffering from heavy or severe wounds will recover
+        1 (severely wounded) or 1d3 (heavily wounded) during the first 24
+        hours that this Specific is applied, thereafter counting as *lightly
+        wounded*, provided that during that period they take complete or near-
+        complete rest.  (GM's call, but anything much more than just sitting
+        around is out.)
+
+Recipe:
+        1 part  Elfhair Crystals
+        1 part  Griddlestone
+        2 parts Malcheor's Water
+
+Preparation:
+        3 days
+
+Attention:
+        High
+
+Yield:
+        4 treatments
+
+
+
+"A Potion for the Sustenance of the Injured"
+
+Availabilty (compounded):
+        Rare
+
+Price (compounded):
+        8gc
+
+Method of Application:
+        Ingest
+
+Dosage:
+        1 week
+
+Skills:
+        Heal Wounds
+
+Tests:
+        Int
+
+Effects:
+        24 hours after imbibing this preparation, a character will
+        regain 2wp no matter *how* they exert themselves in the meantime,
+        *and* irrespective of any other wounds they may take in the meantime.
+        (The GM should rule *when*, in game terms, this will occur, and
+        confirm to the player when they have regained their 2wp.)
+
+Recipe:
+        1 part  Compacted Altdorfer Ash
+        1 part  Oraculum
+        1 part  Dragon's Milk
+        1 part  Hochnite
+
+Preparation:
+        3 days
+
+Attention:
+        High
+
+Yield:
+        6 treatments
+
+======================================================================
+
+Chemicals:
+
+On the Naming Of Chemicals:
+
+For the record, the name given to a Chemical is that by which it is known to
+practising Alchemists and related trades; it may or may not have anything 
+to do with its actual nature.  "Dragon's Milk", for example, is so called 
+because of its appearence, namely a white-ish liquid flecked with 
+blood-red particles.  It has nothing whatsoever to do with real dragons.
+(Mind you, if the player are asked to get some, and don't know any
+better...)
+
+
+Preparing Chemicals:
+
+Chemicals can be prepared by a character with the *Chemistry* skill
+from raw components (ores and the like).  For simplicity, it is
+assumed that each Chemical requires only one raw component, and that
+the components have the same availability as the Chemical.  Enough raw
+ingredient to make one unit of a Chemical can be purchased at a base
+price of 20%-50% of that of the prepared Chemical.  Time to prepare is
+shown below; where this is given as "(none)", the chemical does not
+require special treatment before use.
+
+Altdorfer Ash (Compacted)
+
+Availability:
+        Rare
+
+Cost:
+        8gc
+
+Preparation:
+        1 day
+
+
+Altdorfer Ash
+
+Availability:
+        Rare
+
+Cost:
+        10gc
+
+Preparation:
+        1 hour
+
+
+Brandt's Liquid
+
+Availability:
+        Scarce
+
+Cost:
+        2gc
+
+Preparation:
+        2 days
+
+
+Chorbionide
+
+Availability:
+        Rare
+
+Cost:
+        8gc
+
+Dragon's Milk
+
+Availability:
+        Average
+
+Cost:
+        10/-
+
+Preparation:
+        3 hours
+
+
+Elfhair Crystals
+
+Availability:
+        Rare
+
+Cost:
+        6gc
+
+Preparation:
+        (none)
+
+
+Flowers of Mondrite (Green)
+
+Availability:
+        Average
+
+Cost:
+        5/-
+
+Preparation:
+        (none)
+
+
+Flowers of Mondrite (Blue)
+
+Availability:
+        Scarce
+
+Cost:
+        5gc
+
+Preparation:
+        (none)
+
+
+Fluvium
+
+Availability:
+        Rare
+
+Cost:
+        7gc
+
+Preparation:
+        5 days
+
+
+Griddlestone
+
+Availability:
+        Very Rare
+
+Cost:
+        18gc
+
+Preparation:
+        1 week
+
+
+Heinrich's Earth
+
+Availability:
+        Rare
+
+Cost:
+        8gc
+
+Preparation:
+        2 days
+
+
+Hochnite
+
+Availability:
+        Very Rare
+
+Cost:
+        13gc
+
+Preparation:
+        (none)
+
+
+Imperial Water
+
+Availability:
+        Rare
+
+Cost:
+        7gc
+
+Preparation:
+        2 days
+
+
+Malcheor's Water
+
+Availability:
+        Average
+
+Cost:
+        1gc
+
+Preparation:
+        1 day
+
+
+Oraculum
+
+Availability:
+        Scarce
+
+Cost:
+        2gc
+
+Preparation:
+        4 hours
+
+
+Potter's Crystals
+
+Availability:
+        Rare
+
+Cost:
+        7gc
+
+Preparation:
+        2 days
+
+
+Precipitated Folchareum
+
+Availability:
+        Rare
+
+Cost:
+        8gc
+
+Preparation:
+        2 hours
+
+
+Sigmarite
+
+Availability:
+        Average
+
+Cost:
+        10/-
+
+Preparation:
+        (none)
+
+
+Tilean Salts
+
+Availability:
+        Scarce
+
+Cost:
+        4gc
+
+Preparation:
+        1 week
+

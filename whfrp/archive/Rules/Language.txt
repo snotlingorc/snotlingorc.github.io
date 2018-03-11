@@ -1,0 +1,426 @@
+* OPTIONAL LANGUAGE RULES FOR WFRP V1.1*
+Written by Ben Fabian (fabian@inf.fu-berlin.de)
+
+Note:
+
+The following suggestions arose basically from two thoughts:
+
+(i) The need of somehow revising the original rules for learning,
+speaking and writing languages. My campaign runs on a very realistic
+level (whatever that exactly means), and my players ask many, many
+*questions*!
+
+(ii) A pragmatical GM«s thought: Find another way for them to spend
+their EPs!
+
+Basic ideas:
+
+1. There are differences in the quality of mastering a language.
+Even a highly intelligent scholar should have some difficulties
+in using a foreign language like a native speaker, and this should
+be somehow reflected in game terms.
+
+2. A difference has to be made between the spoken language and the
+kind of *alphabet* it takes to write in this language. Therefore a 
+single READ/WRITE Skill is not enough.
+
+* NEW RULES: *
+
+1. GRADES of expertise:
+
+There are GRADES of mastering a language, ranging from
+1 (worst) to 5 (best).
+
+GRADE 1: The character can express basic and simple things
+in this language, like "Me - hunger!" or "Troll - there - on hill!".
+
+GRADE 2: The character can form grammatically correct sentences
+and express most of his thoughts and needs (but slowly and with
+recreational pauses inbetween.)
+
+GRADE 3: The normal native speaker.
+(Herr "Otto Normal" as he is called in the Empire.)
+
+GRADE 4: The way of a native speaker who had the chance of enjoying
+(should we say: being forced to?) a higher way of education,
+it would include knowledge of "classical" or "canonical" authors
+(or singers, story tellers in an oral culture) and understanding 
+language-related puzzles and jokes. (Note that in most of the cases
+this grade would require - in a literal culture - the
+Read/Write Skill for this language.)
+
+GRADE 5: The character is as fluent and expertised as a
+great poet or author. The GM may restrict this Grade to
+exceptional individuals.
+
+For every language a character knows the Speak Language Skill is
+noted seperately, followed by the Grade.
+
+GAME USE: OK, it«s fine to have this nice classification, but now?
+Well, it is used to modify language related test, for example
+to understand an overheared conversation, to follow a song in
+a foreign language, to solve a riddle (if you don«t want/can«t/
+don«t bother to let a player solve it for real!), to move in
+disguise and so on.
+
+MODIFIERS on INTelligence:
+
+GRADE 1: -20
+GRADE 2: -10
+GRADE 3:   0
+GRADE 4: +10
+GRADE 5: +20
+
+How to increase one`s GRADE?
+Answer: Spending time and EP«s! (Harr, Harr!)
+
+But serious: Learning a language well is a long and intensive
+process, therefore the following would suit fine:
+
+Native speakers normally start the game with a GRADE 3 in their
+native tongue.
+(If the parents speak different languages, the lucky child may
+have learnt two languages at Grade 3, GM«s decision. Perhaps it
+is also interesting to roleplay a character with less speaking
+ability...?)
+
+To learn an additional language you certainly need basic training
+by a teacher or a very good book (with introduction in your own 
+language).
+In the latter case, remember you need the R/W in your language too!
+You also need a certain amount of time.
+
+I would recommend the rules in the WFRP-Book, page 291, but applied
+to each Grade of expertise. To learn a new Grade in a language
+you need 12 months, minus 1 month for every full 10% of INT.
+(You can do other things in this time, but players should announce
+that their characters spend their free time learning.)
+After that time the player makes an INT check for his character.
+If successful, he can spend 100 EPs to aquire the new Grade.
+(If you feel nasty, make the process cumulative, eg. Grade 1
+- 100 EPs, Grade 2 - 200 EPs, Grade 3 - 300 EPs and so on. But it
+could hold them back from learning languages.)
+Otherwise, the character has to repeat the procedure, but
+can spend the EPs elsewhere.
+
+2. R/W skill for each alphabet that is used.
+
+Here more realism can create some more complexity. One should
+make a difference between different alphabets.
+The point is, that some languages (e.g.the sub-groups of Old Worlder)
+use the same alphabet and some can use two or more. Later will follow
+a more detailed view on some Warhammer languages and alphabets.
+
+Basically, there are two ways to handle this:
+
+(i) To make gaming easier: Ignore the non-congruence (if i may
+say so) between alphabets and languages. Assume, that every culture
+has developed its own alphabet or changed foreign ones completely
+by adopting it to their own language.
+
+I would  recommend the following:
+let the character learn the R/W Skill once, and everytime he/she
+learns another language, double costs for Grade 1 (200 EPs).
+Learning Grade 1 includes learning the alphabet after the basics
+of R/W are learned once.
+
+NOTE: If a character learns R/W Skill *after* learning several other
+languages, it could be strange that he now learns how to R/W them
+all in an instant.
+ 
+(ii) Let them learn seperate R/W Skills for every alphabet
+encountered, then use a list of the connections between alphabets
+and languages to determine what they can read and write, and what
+they can *understand*.
+That seems to me the realistic way.
+Time for learning an alphabet should depend on the number of signs
+involved. I would suggest 8 months, minus 1 for each full 10% of
+INT for every 100 signs (min. 1 month). After this time, a check
+on INT; if successful: spending of 100 EPs and "heureka!".
+
+3. Example:
+
+Huithlorn, a well-travelled sea-elf merchant, now living in 
+Marienburg, has the following language related Skills:
+
+SPEAK LANGUAGE: Tar-Eltharin 4
+SPEAK LANGUAGE: Fan-Eltharin 2
+R/W Eltharin Runes
+SPEAK LANGUAGE: Reikspiel 3
+SPEAK LANGUAGE: Breton 2
+R/W Latinic Alphabet
+SPEAK LANGUAGE: Dark Tongue 1 (you see, something is strange
+with him, but that is another tale...)
+
+If he wants to learn Fan-Eltharin better, he has to find a Wood
+Elf to help him out. After spending some time, EPs and money
+it may work and give him Grade 3. No problems with normal
+conversations in Fan-Eltharin anymore!
+
+As you might notice, there are some changes in the classification
+of languages.
+
+LANGUAGES AND ALPHABETS
+
+1. Languages and Dialects
+
+I would recommend the following: To speak and understand a
+dialect of a language, you need to learn it. There are lots
+of differences between Slavic and Estalian, for example!
+(I think it«s hard to think of them as dialects at all;
+a dialect could be the way halflings in the Moot or Middenheimers
+would speak Reiksspiel, but OK, that«s a question of
+definitions.)
+
+In game terms, you need to buy the Speak Language Skill for
+each dialect and advance in the GRADES of mastering, like
+learning a true foreign language.
+But:
+It has to be taken in account that if you already know one
+dialect (sub-language) of any given language, learning another
+is easier.
+To reflect this in game terms, you cold do two things:
+
+(i) After having learned one dialect of a language, the EP-costs
+and time needed for learning another dialect of the same language
+are halved (50 EPs and half normal time for each Grade, minimum
+1 month).
+
+Or:
+
+(ii) By learning one dialect with Grade 3 or more, you
+automatically gain Grade 1 in every other dialect of the same
+language. For example: knowledge of Breton with Grade 3 would
+give you Speak Albion 1, Speak Estalian 1, Speak Tilean 1 ...
+Skills. I would note it down like this:
+
+SPEAK Breton 3
+SPEAK Other Old Worlder 1 
+
+Later the character could for example learn Tilean with Grade 2,
+spending time and 100 EPs as normal.
+
+NOTE:
+Learning a second dialect with Grade 3 will *not* increase the
+other dialects« Grades!
+
+To Huithlorns Language Skills (in Part 2) we would add:
+SPEAK Other Old Worlder 1
+SPEAK Other Eltharin Language 1
+
+2. WARHAMMER LANGUAGES (not complete! please add!)
+
+LANGUAGE: * Almecian (Ancient) * (New World)
+Alphabet: not known
+
+LANGUAGE: * Alomaic * (Alomas, New World; extinct)
+Alphabet: not known
+
+LANGUAGE: * Anatuzian * (Anatuzi, New World; declined)
+Alphabet: not known
+
+LANGUAGE: * Assurian (Ancient) * (Assurian Empire)
+Alphabet: Cuneiform
+
+LANGUAGE: * Atzlanian * (New World)
+Alphabet: not known
+
+LANGUAGE: * Battle Tongue (Secret Language) *
+Alphabet: Tilean (and special signs)
+
+LANGUAGE: * Cathan * (Cathay)
+Dialects: many
+Alphabet: Cathan, a very large one...
+
+LANGUAGE: * Chevan * (Lustria; declined)
+Alphabet: not known
+
+LANGUAGE: * Chuanoic * (Chuano, Lustria)
+Alphabet: not known
+
+LANGUAGE: * Classical (Secret Language) *
+Dialects: Guilder, Hellenic (Ancient), Tilean (Ancient)
+Alphabet: Ancient Hellenic uses the Hellenic alphabet,
+Guilder and Ancient Tilean the Tilean alphabet (sic!)
+
+LANGUAGE: * Dark Tongue * (Chaos)
+Dialects: Beastman, Khorne, Nurgle, Slaanesh, Tzeentch, other...
+Alphabet: Dark Signs, other...
+ 
+LANGUAGE: * Demonic Tongue * (Demons and Demonologists)
+Dialects: Khorne, Nurgle, Slaanesh, Tzeentch, other...
+Alphabet: Dark Signs
+
+LANGUAGE: * Dragon«s Tongue * (Dragons, Wyrms and their like)
+Dialects: Eastern Dragon«s, Lustrian Dragon«s, Norse Dragon«s,
+Western Dragon«s (New World), Old World Dragon«s, Southern
+Dragon«s Tongue
+Alphabet: The dragon«s way of storing knowledge is a form of
+permanent mental projection in enchanted items or locations.
+To human scholars so far unknown.
+
+LANGUAGE: * Druidic (Ancient) * (Druids)
+Alphabet: Druidic Runes
+
+LANGUAGE: * Eltharin * (Elves)
+Dialects: Arcane Elf, Dark Elvish, Fan-Eltharin (Wood Elves),
+Tar-Eltharin (High and Sea Elves)
+Alphabet: Eltharin Runes
+
+LANGUAGE: * Eraquatian * (New World)
+Alphabet: not known
+
+LANGUAGE: * Grumbarth * (Ogres)
+Alphabet: No way...
+
+LANGUAGE: * Goblin Tongue * (Goblinoids)
+Dialects: Ghazhakh (Goblins), Harghazhakh (Hobgoblins),
+Orrakh (Orcs), Snotgob (Snotlings)
+Alphabet: Orcish Symbols; crude versions of foreign alphabets
+
+LANGUAGE: * Hettite (Ancient) * (Het)
+Alphabet: Cuneiform
+
+LANGUAGE: * Holamkian * (Holamkis, New World; vanished)
+Alphabet: not known
+
+LANGUAGE: * Ikadian (Ancient) * (Ikadians, before Naggaroth)
+Alphabet: not known
+
+LANGUAGE: * Indian * (Main language of Ind)
+Dialects: many, e.g. Vedic (Ancient)
+Alphabet: Devanagari
+
+LANGUAGE: * Keltic (Ancient) * (Keltoi, Druids)
+Alphabet: none
+
+LANGUAGE: * Khazalid * (Dwarfs and Gnomes)
+Dialects: Arcane Dwarf, Chaos Dwarvish, Ghassaly (Gnomes),
+High Khazalid ("normal" Dwarfs), Norse Khazalid
+Alphabet: Dwarven Runes
+
+LANGUAGE: * Magick * ("modern" Wizards)
+Dialects: Battle M, Elemental Tongue, Illusionist M, Necromancy
+Note: Demonologists use the Demonic Tongue.
+Alphabet: Magickal Runes
+
+LANGUAGE: * Midean (Ancient) * (Midea, Border Princes)
+Alphabet: Linear Script
+
+LANGUAGE: * Malla-room-ba-larin * (Treemen)
+Alphabet: not known
+
+LANGUAGE: * Misipian * (New World)
+Alphabet: not known
+
+LANGUAGE: * Miyan (Ancient) * (New World; declined)
+Alphabet: Miyan Runes
+
+LANGUAGE: * Molgolanian * (Molgolan, New World)
+Alphabet: not known
+
+LANGUAGE: * Nazcian * (Nazcas, Lustria)
+Alphabet: not known
+
+LANGUAGE: * Nipponese * (Nippon)
+Alphabet: Cathan
+
+LANGUAGE: * Nippurian (Ancient) * (ancient Nippur)
+Alphabet: Cuneiform
+
+LANGUAGE: * Nordic * (Norse)
+Alphabet: Futhark Runes
+
+LANGUAGE: * Old Slannish (Ancient) * 
+Alphabet: Slannish Runes
+
+LANGUAGE: * Old Worlder *
+Dialects:
+Albion, Breton, Dwarven OW, Estalian, Gnomish OW, Guilder
+(various), Halfling OW, Hellenic, Slavic, Tilean, Reikspiel,
+Wood Elvish OW
+Alphabet: Tilean, but Hellenic uses the Hellenic,
+Slavic the Kyrillic alphabet
+
+Note:
+Some confusion could arise about the Old Worlder dialect of
+an Bretonian Dwarf. I would restrict the use of ... OW languages
+to closed and isolated communities, or we get something like:
+Tilean Dwarvish Old Worlder Dialect. That«s fine, but far from
+being playable! (Or is it?)
+
+LANGUAGE: * Orgvar * (Trolls)
+Alphabet: not known
+
+LANGUAGE: * Pharonic (Ancient) * (Pharaonia = Kemet)
+Alphabet: Pharonic Hieroglyphs
+ 
+LANGUAGE: * Queekish * (Skaven)
+Dialects: Lustrian, Old World
+Alphabet: Skaven Runes
+
+LANGUAGE: * Rangers Tongue (Secret Language) *
+Alphabet: Tilean (and special signs)
+
+LANGUAGE: * Semitic *
+Dialects: Arabic (Arabs), Hebraic (Hebrews)
+Alphabet: Semitic
+
+LANGUAGE: * Ssissyl«k * (Lizardmen and Troglodytes) 
+Dialects: Ssissyl«k (Lizardmen), Ss«kyzz«l«k (Troglodytes)
+Alphabet: not known
+
+LANGUAGE: * Thieves Tongue (Secret Language) *
+Dialects: many (e.g. Middenheim)
+Alphabet: Tilean (and special signs)
+
+LANGUAGE: * Tialanese * (Far East)
+Alphabet: Cathan (?)
+
+LANGUAGE: * Tulanic * (Tulan, New World; vanished)
+Alphabet: not known
+
+LANGUAGE: * Tumaic (Ancient) * (Tumas, ancient Tilea)
+Alphabet: not known
+
+LANGUAGE: * Ungolian * (Ungol-tribes)
+Alphabet: Cathan, Kyrillic (adopted) or Ungol Runes
+
+
+Thanks to all who contributed so far,
+esp. Morten and Keith!
+
+Their options are:
+
+(1) Morten: The EP cost could for example be augmented by 50 points each
+time, i.e. 100 for level 1, 150 for level 2, 200 for level 3, etc... due
+to the ever increasing complexity.
+
+(2) Keith: I have noticed..., that language students find that learning
+additional languages gets easier. I knew a mexican engineer who worked in
+Lybia and spent each vacation in a different European country.  He said it
+took him years to learn english (his second), only about a year to learn
+italian, and even shorter amounts for the other 4 or 5 he knew.
+If this anecdotal evidence has any validity, how about translating it
+into game terms by doing something like this:  Every language after the second
+the time is lowered quicker.  Lower the intelligence needed by 1 pt.
+For example, Rothnag is trying to learn his 3rd language.  It would take him
+12 months minus 1 month for every 9 pts (instead of 10) of intelligence.
+When he tried to learn his fourth he would subtract 1 month for every 8 pts
+of intelligence.
+
+[Note: Perhaps - if it doesnt increase the book-keeping too much - we should
+use different rules for learning a language (i) in its native country,
+(ii) from a native speaker in another land, or (iii) just from books
+or the like. For (i) I would recommend a variant of Keiths« (2), for (ii)
+the rules given above and for (iii) Mortens way (1). But it«s - as always -
+up to you!]
+
+OK, please send comments and suggestions! Add more Languages!
+
+Ben Fabian (fabian@inf.fu-berlin.de)
+
+
+
+
+ 

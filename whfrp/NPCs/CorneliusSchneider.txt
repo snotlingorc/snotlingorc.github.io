@@ -1,0 +1,53 @@
+From: mb0796@rtccnh1.serigate.philips.nl
+
+
+Cornelius Schneider, Oculist
+
+The old world is, as has been noted, not a very healthy place. Some of the most 
+common and debilitating complaints are concerned with the eye, as this part of
+the anatomy is particularly vulnerable to maladies brought on by poor diet and 
+low levels of heigene. For this reason there are many who make a living travelling
+between outlying villages and towns peddling various balms and ointments for
+such inflictions.
+
+Cornilius Scneider differs from the average Oculist, who is little more than a
+travelling herballist, in that he has had a formal education, attending a course
+in Natural Philosophy at the University of Nuln, where he specialised in Optics.
+Whilst at the University, Cornelius joined a little known secret society, Known
+as the `Fellowship of Free Thought`. 
+
+This society is dedicated to the ideals of freedom of speech, universal education,
+social reform and freedom of belief. While it is the first three which have made 
+the society universally unpopular with the establishment, it is the last which has
+enabled it to take action. Four years ago the society was outlawed for its 
+heretical creed, and has since been ruthlessly repressed. 
+
+Cornelius Schneider has therefor abandoned his studies and has taken on this new
+guise as a means of travelling between the scattered members of the fellowship.
+While he has acquired a proffessionally cheery `bedside manner` anyone who converses
+with him on a more social level will quickly percieve Cornelius` bitterness, and 
+disenchantment with the system. He will soon open up to anyone he sees as having
+similar views to his own, though he will not mention the society itself until he
+really trusts them. Cornelius is a useful contact not only for his medical skills
+but also for his constant travelling and huge number of unlikely contacts. He is 
+likely to know the whereabouts of any member of the intellectual elite of the old
+world, including many with "Unorthodox" views or habits.
+
+5ft8 tall  30yrs old medium build, wears glasses
+
+
+M  WS  BS  S  T  W  I  A  Dex  Ld  In  Cl  Wp  Fel
+4  40  30  3  4  8  40 1   60  45  55  55  55  50
+
+Read/write, Herb lore, prepare drugs, Glassworking, Cure disease, Ride horse
+secret signs -FFT
+  
+Horse, books, sword, medicine box, D6 pairs spectacles (100GC each)
+
+
+Spectacles
+not everyone is lucky enough to have perfect vision. your characters eyesight could 
+be improved by 2D6-6 percent by wearing a pair of Cornelius` spectacles. The actual
+effect depends on wether you are short or long sighted (50% chance of either)
+Short sighted: add value calculated above to BS and INIT
+Long sighted: add value calculated above to WS and DEX   

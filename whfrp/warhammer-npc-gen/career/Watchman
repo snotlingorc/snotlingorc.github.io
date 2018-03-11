@@ -1,0 +1,28 @@
+M:0
+WS:10
+BS:10
+S:1
+T:0
+W:2
+I:10
+A:1
+Dex:0
+Ld:0
+Int:0
+Cl:0
+WP:0
+Fel:0
+Skills:2
+Strike Mighty Blow
+Strike to Stun
+Trappings:4
+Club
+Lantern and pole
+25%Chance of Mail Shirt
+Leather Jack (If Mail Shirt failed)
+Exits:5
+Bounty Hunter
+Judicial Champion
+Mercenary Captain
+Racketeer
+Roadwarden (except Halfling)

@@ -1,0 +1,218 @@
+From:          graemed@magnet.com (Graeme Davis)
+
+WARPSTONE
+Warpstone is the raw stuff of Chaos - a form of matter dragged through into
+this world from another dimension by the violent birth of Chaos. It is a
+powerful source of magic, and is greatly sought after by all followers of
+Chaos.
+A single piece of raw Warpstone is usually an irregularly-shaped lump about
+the size of a man's fist. It emits an intense black light, which seems to
+swallow light from its immediate vicinity, creating a small patch of
+darkness around it. In this raw form, Warpstone is very dangerous to all
+creatures, and prolonged exposure can cause severe mutation or death. The
+Skaven, and many of the other races of Chaos, were created by exposure to
+raw Warpstone, as natural creatures were twisted by its magical emanations
+and developed mutations which have been handed down through the
+generations.
+Any creature exposed to raw Warpstone (ie within 10 yards of an unshielded
+source) for a period of a day or more has a 5% chance of developing one
+mutation, which is rolled on the Personal Chaos Attributes table in Slaves
+to Darkness. Roll at the end of each day of exposure. Skaven Grey Seers
+have only a 1% chance of being affected, since their constant exposure to
+raw Warpstone has given them a limited resistance to its effects.
+Warpstone can only be used in a controlled way once it has been refined.
+This is a difficult process, and one which only the Skaven Grey Seers have
+the natural ability perform, actually gaining magical energy by doing so.
+Refined Warpstone is a grey powder, quite unlike the original matter. It
+has has no warping effects unless it is eaten or otherwise taken into the
+body, in which case there is a 1% chance of gaining a Chaos mutation every
+time it is consumed. Many Skaven bear the results of this unholy diet. Grey
+Seers may consume refined Warpstone without risk of further mutation
+because of their special resilience.
+SKAVEN WARPSTONE MAGIC
+As well as supplying the Skaven magicians with magical energy, Warpstone is
+used by the Skaven clans for their own purposes. Clan Skryre, the
+Warlock-Engineers, are able to manufacture many strange and powerful
+weapons in this way. Warpstone is added to metals in carefully controlled
+quantities during smelting or annealing, endowing the metal with magical
+qualities. Members of the Clan Moulder use small amounts of Warpstone to
+cause mutations amongst their captive breeding stock, creating new races of
+twisted and loathsome creatures such as the Wolf-Rats and Rat-Ogres. Clan
+Pestilens have developed the use of Warpstone to start devastating plagues.
+Clan Eshin are adept at making deadly weapons and poisons from Warpstone.
+Even the Warlord Clans find uses for this strange and potent material, in
+the form of specially manufactured protective amulets, maddening
+battle-drugs and mind-altering potions.
+Some of the magical items manufactured by the Skaven from Warpstone are
+described below. These are only the items which have been seen by Human
+chroniclers; it is almost certain that there are other weapons in the
+Skaven arsenal, as yet unknown.
+The Firethrower
+This device projects a corrosive, flaming mixture, made from refined
+Warpstone in conjunction with other chemicals and magic. It is much feared,
+and extremely deadly both to its target, and sometimes to its crew. The
+firethrower has a crew of two Ratmen, which are moved as a single unit. If
+one of the crew is killed or disabled, the weapon cannot be fired until a
+replacement is found; the surviving crew member may either abandon the
+weapon, acting as an independent character, or stay with it until the
+missing crew member is replaced. The first crewman aims and fires the
+weapon, while the second carries its deadly fuel in a small cask on its
+back.
+4]Firing: The weapon must be primed before use, so the crew may not move
+and fire in the same round. The weapon has a range of 24 yards, and firing
+is handled as follows:
+The firethrower is aimed and fired using the normal rules for throwing
+incendiaries, ignoring the "missile lands at thrower's feet" rule. It is
+subject to misfires; consult the following table in the event of a misfire:
+D100 roll	Result
+01-25	Nothing happens. Crew may attempt to fire again next round.
+26-75	Firethrower jams. Crew must spend D6 rounds clearing it for firing.
+76-00	Firethrower explodes. Crew is killed automatically, all other
+creatures within 2 yards take D3 automatic hits at S 5, modified as usual
+by armour and T. All flammable objects within 2 yards of the weapon are
+automatically set alight.
+Any creature struck by the firethrower's warpflame suffers 1 hit at S 5,
+modified as usual by armour and T. Creatures which survive the attack are
+warped by the fire (see below).
+Warpflame: any creature which survives an attack by the firethrower must
+make an immediate WP test; if the test is failed, the victim's body bursts
+into a gout of mutations, with new limbs, snakes, antennae and other
+unnatural excresences sprouting from its twisting, melting body. The victim
+becomes a living, bubbling pile of caustic slime, and moves in a random
+direction each turn/round (roll D8 each turn/round: 1 = ahead, 2 = ahead
+left, 3 = left, and so on). Anything it blunders into sustains a single S 5
+hit. The slime-creature is immune to all psychology rules, and retains the
+profile it had at the moment when it was warped. The victim may expend a
+Fate Point in order to avoid being warped, but even then gains 6+D6
+Insanity Points.
+Plague Censers
+These are specially made incense-burners carried by certain members of the
+Clan Pestilens. Refined Warpstone is burned like incense, and the  censers
+are swung around the wielder's head, scattering their foul poisonous fumes
+in the air. Ratmen using these devices wear thick hoods and scarves to
+protect them from the fumes, although this does not always work. The
+effects of this gas are horrible to see, causing anyone breathing it to
+develop a rapid and painful form of plague in which the skin blisters and
+swells before breaking out into bleeding sores and boils.
+The whirling censer creates a cloud of poisonous gas within 4 yards of its
+wielder. All creatures within this area must make a successful I test or
+suffer an automatic S 3 hit from the flailing censer (modified as normal by
+armour and T), and a successful Poison test or sustain another automatic S
+2 hit (not modified by armour), for each round they are within the cloud. A
+D6 must be rolled every round for the Censer Bearer; on a roll of 6 the
+wielder is struck by its own censer, and suffers damage accordingly.
+A censer continues to burn and emit its noxious vapour so long as it is
+swung, but will be extinguished once its user is slain or disabled. An
+extinguished censer may still be used as a weapon, and counts as a
+double-handed flail.
+Warpstone Charms
+These are made from small pieces of Warpstone, and may take almost any
+form; normally they are irregularly-shaped pieces of coloured stone, jewels
+or chunks of crude metal, all incorporating or exposed to the effects of
+Warpstone. They are tokens of luck, and may offer some protection from
+magic. Charms of this kind are used by the most important amongst Skaven
+(ie the biggest and meanest). During their construction, they somehow
+develop a life of their own, so that they writhe and move constantly, and
+may be warm or soft to the touch. These pieces are literally hammered into
+the Skaven's skin, often about the head, sticking out like a row of studs.
+If a Skaven loses an eye, ear or some other feature, it may be replaced by
+a Warpstone charm. The Warpstone charm has three functions:
+Firstly, if the charm is used to replace an organ, such as an eye, it will
+fulfil the function of that organ just as well as its original did; thus a
+Skaven who has had both eyes replaced by Warpstone charms will still be
+able to see normally.
+Secondly, the charm gives the Skaven a +10 bonus to WP tests when it is
+attacked with magic.
+Thirdly, any Skaven carrying a Warpstone charm may use its power to ignore
+any single dice throw and roll again. This power may only be used once per
+day.
+Poisoned Wind
+This is one of the Clan Skryre's most notorious weapons. A devastating
+magical wind is entrapped inside a globe of glass. The globe is produced by
+means of the Warpstone, and small amounts can be seen inside the unbroken
+globe. Globes may be thrown up to 6"/12 yards, or smashed if the carrier
+prefers, releasing a sudden blast of strange gas. This lasts only that turn
+and affects all models within 2"/4 yards. The effects of the gas will vary
+from victim to victim; some suffer hardly at all while others go completely
+insane, attacking their friends or becoming utterly helpless.
+The victim must make an immediate Poison test or gain D6 Insanity Points.
+Warpstone Grenades
+Like the Poisoned Wind, these weapons consist of glass globes, hurled by
+hand or from a sling. The globes contain a flammable mixture of Warpstone,
+phosphorus and pitch, similar to the concoction used in the Firethrower.
+This mixture ignites on contact with air, so that when the globe is broken
+it explodes, spattering the sticky burning matter over a 4 yard radius.
+Everything within this radius takes D3 S 4 hits; because the mixture sticks
+to anything it hits, all targets are treated as flammable.
+Warpscrolls
+These are powerful magic items, inscribed upon the hide of living creatures
+using a special ink manufactured from Warpstone. To be fully effective the
+hide must be flayed from the creature while it is still alive, and then
+cured using finely ground Warpstone power. Once prepared, the Warpscroll
+can be used by any Skaven Plague Monk  of hero status. The Skaven must
+remain for a turn reading and displaying the scroll, in the following turn
+it may direct the effects of the scroll against any enemy unit or
+individual within 12 yards.
+The effects of the scroll cover an area 4 yards in diameter, with the
+centre of the area not more than 12 yards from the scroll itself. All
+living creatures within this area must make an immediate WP test or suffer
+rapid and irreversible ageing, shrivelling and dying in a few brief
+seconds. Victims may spend a Fate Point in order to avoid this fate.
+Assassin Weapons
+Assassin Weapons are used by the infamous Clan Eshin, the Skaven spies and
+assassins. During their manufacture, a small amount of Warpstone is
+incorporated into their substance, which is also treated with certain
+guarded magical spells known only to the Rat-assassins. The metal becomes
+incredibly hard and sharp, and constantly "sweats" a deadly poison. An
+Assassin Weapon is usually (90%) a dagger, but they have also been known to
+take the form of arrows, crossbow bolts, throwing stars (R 4/8/20; ES C;
+Rld 1 round), and other small weapons. No Assassin Weapon larger than a
+dagger has ever been recorded.
+The effect of any armour is reduced by 1 point, and cause double normal
+damage. Any creature wounded by an Assassin Weapon must make an immediate
+Poison test or die.
+Potions of the Skaven
+These potions incorporate refined Warpstone along with other strange
+ingredients, and are used to improve the fighting abilities of the warrior
+Skaven.
+The potions will only be found on Skaven leader-types. If you wish to
+determine this randomly, 5% of all Skaven champions, heroes and wizards
+will have one potion, which is good for one dose only. When any Skaven
+drinks the potion, roll D6 and consult the following table:
+1	The Skaven ignores all psychological effects;
+2	The Skaven gains a +20 bonus to all Magic tests;
+3	The Skaven becomes subject to hatred of all non-Skaven, and will attack
+the nearest non-Skaven immediately;
+4	The Skaven becomes subject to Frenzy;
+5	The Skaven's metabolism speeds up to a phenomenal rate; its M, I and A
+are all doubled. Roll D6 at the beginning of each round; on a score of 1,
+the Skaven collapses dead.
+The effects of the potion lasts for 2D6 hours. Any non-Skaven drinking such
+a potion must make an immediate Poison test or die; even if the test is
+passed, the character will be in great pain (all percentage characteristics
+halved) for D4 hours.
+The Arca Chaotis
+The most feared Skaven weapon of all is the Arca Chaotis, or Black Arc - a
+magically protected chest that holds a huge chunk of raw Warpstone in a
+suspension of energy. The Arc is normally kept securely locked, and is
+borne by its dedicated litter bearers. The casket can only be opened by a
+Warpstone key. Once exposed, the Arc hurls forth bolts of black lightning,
+capable of razing cities and destroying armies. Only a character carrying a
+Seerstone (see below) is really safe. The Black Arc is said to be one of
+the most potent sources of power in the entire world. Thankfully, the
+Skaven have never been known to use it, and there are some who believe that
+it is merely a legend.
+The Seerstone
+The Seerstone is a ball of crystal, at the heart of which lies a piece of
+raw Warpstone. The Warpstone glows with an especially fervent black
+radiance whenever the Black Arc (see above) is near, and so allows its
+holder to trace the position of the Arc. As the holder approaches the Arc
+the glow strengthens, and as he draws away the glow fades. Only a Grey Seer
+can use a Seerstone for this purpose. The stone also serves to protect its
+holder from the lightning bolts that spew from the Black Arc once it is
+opened. A character holding a Seerstone cannot be harmed by the Arc,
+although all around him is death and destruction.
+
+
+
+

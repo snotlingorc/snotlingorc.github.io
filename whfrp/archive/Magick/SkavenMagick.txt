@@ -1,0 +1,334 @@
+From rossi@cs.tu-berlin.deFri Apr 21 14:54:45 1995
+Date: Tue, 6 Dec 1994 15:30:45 +0100 (MET)
+From: Oliver Rosenkranz <rossi@cs.tu-berlin.de>
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: wfrp@gojira.monsta.com
+Subject: Skaven Magic
+
+============
+
+I never saw why different types of civilisations - which don't have anything
+in common - should have the same knowledge when it comes to Magic.
+Why should Skaven Grey Seers know/use the same spells available to human
+magicians. Human or Elvish wizards have lots of libraries and magic schools
+in which they study. Grey Seers are a lot like shamans who have been blessed
+by their foul Skaven god (The Horned Rat) and therefore are able to convert
+raw warpstone to pure magic energy (called Magic Points in game terms).
+
+Grey Seers are united in a clan which is similar to a caste. So their knowledge
+about magic is transported from Seer to Seer. Scientific research is almost
+unknown to Skaven although there are examples of Skaven engineers developing
+weaponry and the like. Magic spells came (and occasionally also still come)
+to the Grey Seers' mind as a gift of their deity. Some times Skaven also
+steal scrolls or books written by Human or Elven wizards, so some spells
+they use have been taken from other civilisations.
+
+
+Skaven magic has been developed over the millenia to satisfy the Skaven
+needs to attack enemies, to live underground and to hide their appearance
+in order to bluff and trick other civilisations. Skaven have some degree
+of respect for fire. So spells that use fire are very rare, and a Skaven
+sorceror who wants to cast such a spell has to make a successful test
+against his WP to do so. As a result of this Skaven sorcery does not know
+the Fireball spell.
+
+The following is a list of Skaven spells which are in some way different
+from the spells known by other civilisations :
+
+		o---------------------------------------o
+
+Spell Name	: Warp Ball
+Spell Level	: Battle Magic 1
+Magic Points	: 2 per Warp Ball
+Range		: 48 yards
+Duration	: instantaneous
+Ingredients	: one dose of warpstone
+
+Skaven sorcerors casting this spell throw a ball of glowing warpstone at
+their enemies, causing a great deal of damage and insanity. Only one warp
+ball per level of the caster may be thrown per combat round. Each spell must
+be targeted at the same character or group of characters or creatures.
+Target restrictions apply in the same way as for normal missile fire (see
+WFRP rulebook, Targeting Spells).
+
+Warp Balls automatically hit their target. If a warp ball is fired into a
+group, it will hit 1D4 creatures per level of the caster. Each hit has a
+strength of 2, and causes 2D4 wounds on one target (irrespective of any
+toughness). Additionally targets who did not successfully dodge a warp
+ball gain one insanity point per warp ball. If the warp ball is made of pure
+warpstone, non-dodging creatures gain 1D3 insanity points instead.
+
+		o---------------------------------------o
+
+Spell Name	: Call Rats
+Spell Level	: Battle Magic 1
+Magic Points	: 3
+Range		: 1 mile per level of the caster
+Duration	: D6 turns
+Ingredients	: a small silver statue of the Horned Rat
+
+Before casting this spell the Skaven sorceror chooses the kind of rats to be
+called. Casting this spell attracts a number of rats within range (if any)
+to come to the place where the caster stood when casting this spell. The
+maximum number of rats can be determined on the table below but the GM may
+decide that there are fewer rats within range. The rats count as swarm and
+follow simple instructions of the caster. The first rats do appear at the
+earliest at the end of this spell's duration.
+
+	rat type	maximum number of called rats
+	--------	-----------------------------
+	Giant Rats		2D6
+	Rock Rats		4D6
+	Normal Rats		6D10
+
+		o---------------------------------------o
+
+Spell Name	: Doom of Infection
+Spell Level	: Battle Magic 2
+Magic Points	: special
+Range		: special
+Duration	: instantaneous
+Ingredients	: a scorpion tail
+
+This spell may be cast either against any one single creature or against all
+non-friendly creatures within 24 yards of the caster. If cast against a single
+creature, the creature has to be touched and the spell costs 3 Magic Points,
+if cast on all non-friendly creatures within 24 yards the spell costs
+6 (+ number of affected creatures) Magic Points, but no creature needs to
+be touched.
+Any affected creature is allowed to instantaneously make a WP test to avoid
+the spell's effects (+10 bonus for creatures with Immunity to Disease skill).
+Any creature who fails this test AND loses at least one wound within the next
+24 hours suffers from an infected wound. No tests may be made when the
+infection occurs.
+
+		o---------------------------------------o
+
+Spell Name	: Awareness of Danger
+Spell Level	: Petty
+Magic Points	: 1 per hour
+Range		: personal
+Duration	: 1 + hours
+Ingredients	: the nose of a snotling
+
+This spell gives the caster a good chance of being aware of danger before
+it occurs. The caster has to choose the time the spell should affect him.
+During that period of time (max. 24 hours) the caster is given a +20 modifier
+on all Initiative tests when reacting to non-obvious danger. Dodging a
+blow in already going on hand-to-hand combat is NOT a reaction to a
+non-obvious danger. This spell may only be cast once per 24 hour period.
+
+		o---------------------------------------o
+
+Spell Name	: Warp Power
+Spell Level	: Battle Magic 4
+Magic Points	: 10
+Range		: 24 yards
+Duration	: instantaneous
+Ingredients	: 10 doses of raw warpstone
+
+Only the most powerful of the Skaven sorcerors may be able to cast this
+spell. It may be cast only once per combat round nad it may be targeted at
+any individual or single group. Target restrictions apply in the same way
+as for normal missile fire.
+
+This spell hits its target automatically and causes 1D10 Wounds at Strength
+9. Additionally there is a 75% chance for wounded creatures (no matter if
+they were wounded before or during that spell) that the warpstone penetrates
+the creature's body and causes 2D6 insanity points.
+
+		o---------------------------------------o
+
+Spell Name	: Cloak of Shadows
+Spell Level	: Elemental Magic 1
+Magic Points	: 2
+Range		: 12 yards in all directions
+Duration	: one minute per level of caster
+Ingredients	: a black cotton swab
+
+This spell fills a room of 12 yards in all three directions with a thick black
+gas which makes is impossible to see or smell anything within that cloud.
+Creatures that rely on these senses suffer a +/- 20 penalty to all orientation,
+combat or reaction tests as long as they are within that cloud. The gas
+of which the cloud consists of makes all other senses dull, so a creature
+that wants to do any coordinated action (like leaving the cloud) must make
+a successful WP test do so. All WP tests of the caster succeed automatically,
+so he is the only person who may act normally. Casting spells is still
+possible, but spells that rquire smelling or seeing are not possible within
+or into that cloud.
+
+		o---------------------------------------o
+
+Spell Name	: Thick Fur
+Spell Level	: Battle Magick 1
+Magic Points	: 1 per AP and location
+Range		: personal
+Duration	: one battle
+Ingredients	: a jawbone of a troll
+
+This spell provides protection against Wounds by increasing the number of
+armour points on any one location. The Skaven sorceror may choose the
+location and the number of AP on it. For example, Hackgood the Skaven
+Grey Seer wears a Sleeved mail coat with 1 AP on all locations (except
+his head) and chooses to increase the number of AP by two on all locations.
+Overall, this results in 2 AP on his head and 3 AP on all other locations.
+The spell costs 22 Magic Points - 12 MP for the AP increase plus 10 MP for
+already wearing 5 AP (see WFRP rulebook, Spellcasters and Armour, p135).
+This spell is does not count as Aura.
+
+		o---------------------------------------o
+
+Spell Name	: Warpstorm
+Spell Level	: Elemental Magic 3
+Magic Points	: 8 per turn
+Range		: 64 yards
+Duration	: 1 + turns
+Ingredients	: a staff with an air elemental bound to it, 3 doses of
+		  refined warpstone
+
+This spell may cause harmful side effects !
+A Skaven spellcaster must make a successful WP test to cast this spell.
+Otherwise the staff explodes and the spellcaster takes 1D10 Wounds at
+the strength of 4. Once he passed the WP test, the three doses of warpstone
+are sucked into the staff. While one dose remains inside, the other two
+doses of warpstone are consumed by the elemental in order to provoke a
+magic storm. All other spellcasters within range must make a
+successful T test or gain one insanity point, and each time they want to
+cast a spell they must make a successful Cl test to do so.
+Each dose of warpstone that remains inside the staff gives the caster a
++5 penalty for his WP test the next time this spell is cast with the same staff.
+For example, when trying to cast this spell using a staff which has already
+been used three time before the spellcaster's WP test is with a +15 penalty.
+
+		o---------------------------------------o
+
+Spell Name	: Hide Path
+Spell Level	: Illusionist 1
+Magic Points	: 2 per hour
+Range		: no limitations
+Duration	: 1 + hours
+Ingredients	: a twig from an elm grown on warp infected ground
+
+This spell hides all trail and tracks of the spellcaster for a number
+of hours. Only tracks which arise after the spell is cast can be hidden.
+The Skaven spellcaster must choose the period of time during which his
+tracks are hidden before casting the spell. Only characters with all of
+the following skills Excellent Vision, Orientation and Follow Trail have
+a chance equal to one half of their Initiative score to discover this
+trail.
+
+		o---------------------------------------o
+
+Spell Name	: Poison Wind
+Spell Level	: Elementalist 2
+Magic Points	: 6
+Range		: 32 yards
+Duration	: instantaneous
+Ingredients	: a rotten cheese
+
+An instantaneous foul odour can be smelled within 32 yards away from the
+caster. All characters (even friendly ones and the spellcaster himself) must
+immediately make a successful WP test or become unconscious for 1D6+6
+game turns (minutes). Any creature staying for more than 3 minutes
+within the poisoned area become poisoned with two doses of Black Lotus.
+
+		o---------------------------------------o
+
+Spell Name	: WeakMind
+Spell Level	: Battle Magic 1
+Magic Points	: 3
+Range		: Touch
+Duration	: D6 rounds
+Ingredients	: a bony spoon
+
+This spell may be cast against an other single creature. The victim receives
+a test against Will Power to avoid the spell's effect. Failure results in
+the victim's Will Power being reduced by 10 points. This spell can only
+be cast once per level per combat round, because the bony spoon is destroyed
+during the spell's casting. Reductions of several castings of this spell are
+cumulative. If a victim's WP is reduced to zero or below, the victim becomes
+unconscious and gains 1D6+2 insanity points. Any resulting disorder will be
+"Fear of Skaven". All characteristic losses are temporal.
+
+		o---------------------------------------o
+
+Spell Name	: Infiltrate Mind
+Spell Level	: Battle Magic 3
+Magic Points	: 6 + enemy's WP/10
+Range		: Touch
+Duration	: one week
+Ingredients	: a small golden crown with the sign of the Horned Rat on it
+
+This spell may be cast against any one other character with Int of at least
+13. The victim must make a successful WP test to avoid the spell's effects.
+This spell is cast to infiltrate to victim's mind and to let him have some
+kind of fixed idea. The spellcaster may choose any not too complicated
+pattern of ideas (GM decides what may be too difficult). The victim will
+think that it this is his idea and will do anything which lies within his
+nature to achieve this goal. For example, Pjotr the Merchant will use his
+trading connections to try to ruin a certain person and Peter the Agitator
+will probably talk to some peasants to convince them of the fact that
+bringing a certain person enchained and gagged to him would be an action
+which is good for them. Reduce the victim's Int to 10 when it comes to think
+about the reasons to act like this. Otherwise, in situations, actions and goals
+which would bring the victim itself (!) in direct physical danger, allow the
+victim a WP test to avoid acting that way.
+Treat the character as possessed during one week. He may be cured in the
+normal way possessed people are cured.
+
+		o---------------------------------------o
+
+Spell Name	: Resist Disease
+Spell Level	: Petty Magic
+Magic Points	: 2
+Range		: personal
+Duration	: one day
+Ingredients	: one dose of refined warpstone
+
+This spell provides certain protection to resist the outbreak of diseases.
+This spell is the equivalent to the Immunity to Disease skill. Characters
+who already have this skill, receive another +10 bonus on all Disease
+test. Any casting of this spell dissolves the effects of other Resist
+Disease spells.
+
+		o---------------------------------------o
+
+Spell Name	: Panic Foe
+Spell Level	: Elementalist 2
+Magic Points	: 4
+Range		: 12 yards
+Duration	: one game turn
+Ingredients	: a face mask showing the face of a vermin lord
+
+This spell may be cast against any other character or single group within
+range of the spellcaster. Any affected character receives a test against
+WP to avoid the spell's effects. A failed test results in gaining a
+temporary irrational fear of the spellcaster and its kind. The victim must
+make a successful Cl test or flee from this place (if possible).
+Creatures who already fear the spellcaster will become subject to terror
+of this kind (again, temporarily).
+
+		o---------------------------------------o
+
+Spell Name	: Summon Vermin Lord
+Spell Level	: Daemonologist 4
+Magic Points	: 20
+Range		: Not applicable
+Duration	: until task completed
+Ingredients	: the pure heart of a Human cleric, slain in ritual sacrifice
+
+The caster can use this spell to summon a Vermin Lord, Greater Daemon of the
+Horned Rat. See "Summon Graeter Daemon" (Daemonology Level 4 spell) for
+further details.
+
+		o---------------------------------------o
+
+This test should assist you in writing your own spells which you can
+hand over to your Grey Seer NPCs to frighten your PCs. The PCs should
+always be aware that normally they simply cannot say what a Grey Seer
+is doing and which spell he is casting when taking some magical ingrediences.
+Please send your own inventions to the wfrp mailing list.
+
+Oliver Rosenkranz
+rossi@cs.tu-berlin.de
+

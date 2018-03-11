@@ -1,0 +1,377 @@
+From: Michael Andersen <ia9501@knold.ballehs.dk>
+Subject: Encounter: Ernst Himmelmann's arena of exotic beasts
+
+Hi people here is a little encounter I've created some days ago.
+
+ERNST HIMMELMANN'S ARENA OF EXOTIC BEASTS
+-----------------------------------------
+Are your players looking for a real fight? Do they find Minotaur fights at the 
+Middenheim festival boring? Well, why disappoint them, here is a way to let 
+the players enter the combat of their lifetime - maybe also loosing their life 
+in the progress.
+
+Ernst Himmelmann is a 45 years old human who has specialized himself in a very 
+special and, in most areas, very illegal business. Ernst and a couple of 
+trusted people are traveling the world, often to destinations where great 
+festivals are held.
+Finding Ernst is an adventure in its own right. Players might overhear some 
+slight rumour which reveals something about furious combats and much money. 
+Following up the rumour might reveal a little more. The players can at last 
+be able to contact Ernst (via one of his agents) after having talked to one 
+of the surviving combatants (likely to be a trollslayer or other equally 
+fighters) or the city's underground society - which often collect guild money 
+from Ernst.
+When the players have convinced Ersnt (via his agent) of the sincerity of 
+fighting they can get audience with Ernst Himmelmann. The PCs will now be 
+into this so deep that it will too late to back out.
+At the audience the PC, who wish to fight, should present his request for the 
+fight (typically which monster/creature and conditions). Ernst will ask 
+questions about the PC's earlier careers, what he is doing now and so on, to 
+determine fighting experience (remember that Ernst is very capable of this 
+with his years of experience).
+At last Ernst will present the player with the odds and the amount to pay for 
+the fight to take place. This amount depends on whether Ernst has the 
+requested creature in stock (players can ask about which creatures is 
+currently available), or if he has to pay from the black market or dispatch 
+his own hunters (expensive!!!!). The PCs will have to own a lot of money, even 
+more if they want to bet on their odds and be able to make money out of the 
+combat.
+The odds depends on the players fighting experience as determined by herr 
+Oberwald and Ernst. Odds range from 2:1 - a trollslayer versus a troll to 
+100:1 a Halfling something against an adult Dragon.
+Ernst is a reasonable man and if the PC is able to pay for the combat itself, 
+but is unable to bet money on the combat(and makes a successful Fel test), 
+Ernst will present the player with a loan, to be put in the bet, large enough 
+to make the players efforts worth the fight. This loan will require a sponsor 
+for the player, in case he should die in the combat.
+An adventure idea could be introduced when a player are unable to pay back 
+their loan (typically a sponsor!). Ernst present the player with an 
+alternative: To get an specific exotic creature for his arena.
+Combats against creatures which are available in Ernsts stock will take 
+2-5 days to be arranged, while creatures not in stock will take up to a year 
+to arrange depending on the rarity of the creature.
+As an example of prices a fight against a Dragon in stock will cost 500 GC 
+while the prices is multiplied by 20 for a creature not in stock - 10.000 
+GC. The dead creature is kept by Ernst, as he has many contacts interested in 
+the skins and internal organs
+When the fight is agreed the player will have to make a convincing suicide 
+note (in case the player should loose the fight), the method of suicide, 
+should it be appropriate is determined by Ernst (usually the clawed body is 
+hurled from a high cliff, to totally destroy the body).
+If Ernst where to sell one of his creatures without a fight (happens 
+occasionally as wizards needs ingredients) the price will be multiplied by 5.
+The number of employees depends heavily upon the number of creatures in stock, 
+but Ernst always ensure to have the most trusted people in his staff. The 
+creatures are kept in wagons usually away from the city (because its often 
+impossible to smuggle all of them through the gates). The creatures aren't 
+treated well and is kept in too small cages. This treatment of the creatures 
+have gotten Ernst very unpopular within a travelling group of Beastfriends. 
+Ernst, however, has so many enemies that he can't be bothered, and would 
+probably have them wiped out if they get to annoying.
+The players should be warned. We are talking big money, and Ernst will not 
+take it lightly to be bothered with the PCs showing up, getting a lot of 
+information, and then leave with the 'Sorry! To expensive'. Ernst has too 
+much to loose and this kind of behaviour is testing his temperament. The PCs 
+could very well get a nightly visit by members of the nearest assassin guild.
+Neutral aligned creatures are usually irritated into a frenzy state before 
+entering combat (the good old string around a male creatures testicles 
+always works)
+
+Creatures in stock:	Chance	Amount	Price
+Dragon			05%	1	500
+Troll			45%	1	80
+Basilisk		10%	1	200
+Chimera			15%	1	150
+Griffon			15%	1	125
+Harpy			25%	1D3	50
+Hydra			15%	1	250
+Jabberwock		20%	1	225
+Manticore		15%	1	250
+Giant spider		40%	1	100
+Giant Scorpion		40%	1	100
+Wyvern			20%	1	200
+Fimir			45%	1D3	50
+Dragon Ogre		10%	1	400
+Mutant			75%	1D6	50
+Unspeakable thing 
+	(Chaos Spawn)	55%	1D3	90
+Minotaur		45%	1	70
+Treeman *		05%	1	500
+Zoats (might be 
+	shamans)*	05%	1	500
+Chaos Hounds		20%	1D3	150
+Elephant or Mammoth	10%	1	450
+Cold one Warhound	05%	1	400
+Cold one		05%	1	400
+Slann (typically 
+	inexperienced)**02%	1	1000
+Coatl			02%	1	1200
+Crocodile (best odds 
+	in waterfights)	10%	1	500
+Jaguar (hunts can be arranged)	10%	1	500
+Sabre Tooth tiger (see above)	10%	1	500
+Troglodyte		10%	1	500
+
+*): this can be a nasty experience for players not of evil and chaotic 
+    alignment. Slaying the creature while looking into its innocent eyes as it 
+    dies. Ernst has no opinion wether a creature is good or evil, if its exotic 
+    it can be used!
+**): The fighting conditions will normally be unarmed or even and with poor 
+    odds. This is just for the chance to fight a rare but weak creature.
+
+Ernst Himmelmann, ex.-Pitfighter ex.-Footpad: Slaver. And Outlaw Chief
+
+M WS BS S T  W  I A Dex Ld Int Cl WP Fel
+4 53 58 6 6 11 54 3  46 68  47 52 37  25
+Skills: Disarm, Dodge Blow, Specialist Weapon - Fist - Flail - Parrying - 
+	Two handed - Whip - Net, Strike Mighty Blow, Strike to Injure, 
+	Very Strong, Silent move - Urban - Rural, Strike to Stun, Drive Cart, 
+	Ride - Horse, Speak Kislevite, Follow Trails, Identify Plants, 
+	Secret Language - Battle, Secret Language - Thief, Evaluate
+Trappings: Magick Sword (Sleep - Hit creature must pass a WP or fall into 
+	sleep, +2 D), Sleeved mail shirt, Mail coif, Crossbow, Knife, Whip, 
+	Net, Lots of money, Contacts with Assassin and Thieves guild(valuable!
+	Often used when loans aren't paid), etc.
+
+3 Beast Hunters
+
+M WS BS S T  W  I A Dex Ld Int Cl WP Fel
+4 51 55 4 5 10 54 1  36 38  47 55 41  26
+
+Skills: Set traps - for big creatures, Follow Trail, Silent move - Rural, 
+	Concealment - Rural, Prepare Poisons, Specialist weapon - Lasso - Net, 
+	Strike to Stun, Marksmanship
+Trappings: Crossbows, Net, 20' Rope, manacles/ collars/ chains, Sleeping drug 
+	for giant creatures (works as manbane - etc., on humanoids), Sword, 
+	Dagger, Shield, Sleeved mail shirt, helmet.
+
+Handlers etc.
+
+M WS BS S T W  I A Dex Ld Int Cl WP Fel
+4 43 38 4 5 9 52 1  36 36  37 42 37  29
+
+Skills: Animal care (or beast care), Dodge blow, specialist weapon - Whip, 
+	Beast knowledge (knowledge of special abilities and so on - in order 
+	to survive)
+Trappings: Hand weapon, Whip, Sleeved mail shirt, mail coif, other items as 
+	fit.
+
+Reiner Oberwald, Advisor - Auditor - Scribe
+Reiner is Ernst Advisor and Auditor. He is able to check for magic weapons, 
+	which are only allowed if agreed on, and enchantments etc.
+
+M WS BS S T W  I A Dex Ld Int Cl WP Fel
+4 43 38 3 3 7 64 1  46 63  48 42 67  39
+Skills: Arcane Language - Magick, Read/Write, Secret Language - Classical, 
+	Astronomy, Cartography, History, Identify Plants, Linguistics, 
+	Magic sense, Numismatics, Super numerate, Rune lore, Speak Arabian - 
+	Kislevite, Identify Magical artefacts.
+Trappings: Writing equipment, Dagger, Ring of adamantine (T=7), Potion of 
+	invisibility.
+
+------------------------------------------------------
+Mike says: Don't be afraid to annihilate your players, 
+they really deserves it!
+------------------------------------------------------
+
+Beastiary
+---------
+Chaos Hound
+M WS BS S T  W I  A Dex Ld Int Cl WP Fel
+6 41 00 4 4 11 40 2  -- 24  14 24 24  10
+Alignment: Chaos
+Attributes: D6-4
+Chaos hounds can be trained for war, but can never be trained to become 
+faithful. They tend to forget alliance during combat.
+
+Coatl
+The Coatl, or Flying Serpent, is a strange, Lustrian creature that figures in 
+the legends of the Slann.  The Slann associate the creature with the God 
+Quetzalcoatl, and treat it as a sacred animal. Coatl are intelligent 
+creatures, and may be magical.  They speak their own sibilant language.
+
+Physique. Adults can reach 20' in length. They resemble large snakes, with the 
+head of a dragon and feathered wings. Sometimes their whole body can be 
+covered in feathers. The Coatl can shed and regrow plumage in any color it 
+chooses.
+
+World Distribution: Coatl live in the tropical rain forests of Lustria. 
+They avoid contact with other races.
+
+Profile:
+M WS BS S T  W  I A Dex Ld Int Cl WP Fel
+2 57  0 4 5 21 60 3   0 43  43 43 43  29
+
+Special Rules. Bite attacks. Coatl are venomous. Fly as swoopers, the movement 
+allowance given is for ground movement only. Coatl can be wizards- work out 
+the profiles.  Cause fear in living creatures under 10'.
+
+Cold one Warhound
+
+Cold Ones are the largest members of the lizard race. They are related to 
+Lizardmen and Troglodytes, but are far more brutal and stupid than even the 
+most stupid Troglodyte. Cold One warhounds are the larger hunting animals of 
+the Cold one race. They are trained (as best as they can!) and used by 
+Lizardmen, and Slann as beasts of war.
+
+Physique.  Cold One warhounds are ugly, alligator-like animals with a coarse, 
+scaly skin and menacing pointed teeths. They respond well to the tutelage of 
+Slann or Lizardmen handlers, but cannot be tamed  warm-blooded races.
+
+World Distribution: Native to underground caverns of the New World and 
+Lustria.
+
+Profile:
+M WS BS S T W  I A Dex Ld Int Cl WP Fel
+6 33  0 3 3 7 26 2   0 10  14 66 66   -
+
+Special Rules:
+The Cold one Warhound's thick scales provides it with 2 AP on all body 
+locations.
+Cold one warhounds have a +1 modifier to damage because of their powerful jaws 
+and muscles.
+Cold one warhounds  are Subject to stupidity (if lead, any test is on the 
+handlers characteristics), until they are involved in hand to hand combat, 
+after which they can't be forced to leave combat.  Unlike Cold Ones the 
+Warhounds are very predatory and are able to attack other creatures of the 
+lizard race. They are not affected by smell from other lizards. Only 
+cold-blooded creatures may be able to use the Cold one warhounds as beasts of 
+war. This include Lizardmen and Slann (Slann are not Repitles!). 
+The stench of a Cold one warhounds is so strong that non-Lizards in hand to 
+hand combat suffers a -10 to hit.
+Cold one warhounds vision isn't very good, they navigate by smell instead. 
+They can trace most creatures up to 30 yards away. This range is increased 
+with 5 yards for every wound the creature has suffered. As a rule of thumb you 
+should allow a chance for the warhounds to react on wounded creatures (and 
+moving towards it). There is a additional 10% chance for each wound the 
+creature has suffered.
+
+Cold Ones 
+ 
+Cold Ones are the largest members of the lizard race. They are related to 
+Lizardmen and Troglodytes, but are far more brutal and stupid than even the 
+most stupid Troglodyte. Cold Ones can be ridden, and are used by Dark Elves, 
+Amazons, Lizardmen, and Slann as riding beasts.
+
+Physique.  Cold Ones are large monsters, well over 10'.  They either knuckle 
+walk or walk on their hind legs using their tails for balance at speed. The 
+head is large with a gaping mouth studded with sharp teeth.
+
+World Distribution: Native to underground caverns of the New World and Lustria.
+
+Profile:
+M WS BS S T  W  I A Dex Ld Int Cl WP Fel
+8 33  0 4 4 17 20 2   0 10  14 66 66   -
+
+Special Rules:
+The Cold ones thick scales provides it with 1 AP on all body locations.
+Cold ones have a +1 modifier to damage because of their powerful jaws and 
+muscles.
+Cold ones cause fear in creatures less than 10 feet tall.
+Cold ones are Subject to stupidity (if ridden any test is on the rider's 
+characteristics), until they are involved in hand to hand combat, after which 
+they can't be forced to leave combat.  Cold Ones will never attack other 
+creatures of the lizard race because they recognize the smell produces by them 
+(and they are not affected by it either). Only cold-blooded creatures may 
+normally be able to use the Cold ones as riding animals. This include Lizardmen 
+and Slann (Slann are not Repitles!). The exception is Dark elves! Dark elves 
+are able to ride Cold Ones by smothering themselves in the scent of 
+Troglodytes. This is obtained by wearing Troglodyte skins or by using an 
+extract of their odour. In order to do this, however, the riders must inhale 
+special chemicals to burn out their nasal membranes and destroy their sense of 
+smell and taste.
+The stench of a Cold one is so strong that non-Lizards in hand to hand combat 
+suffers a -10 to hit.
+
+Crocodile
+
+Profile:
+M WS BS S T  W  I A Dex Ld Int Cl WP Fel
+* 33  0 4 4 15 26 1   0 10  14 66 66  -
+*: 6 in water and 3 on land
+
+Special rules
+The thick leathery Crocodile skin adds 1 AP on all body locations.
+Crocodiles have a +1 modifier to damage because of their powerful jaws and 
+muscles.
+ 
+Elephant or Mammoth
+M WS BS S T  W  I  A   Dex Ld Int Cl WP Fel
+8 33 00 8 8 35 30 2/1*  -- 29  14 29 29  16
+
+Elephants and Mammoths in the warhammer world are just like the elephants from 
+our world (mammoths are just much more hairier) except that they are larger!!!!
+
+Alignment: Neutral
+
+Mammoth's and elephants causes fear (-10 to test) in creatures under 10', when 
+they trample into combat.
+*):Mammoth's and elephants have two stomp attacks (or two fangs) and one 
+special trunk attack which can only be used upon one creature in the front 
+which must be under 10' tall. A successful hit indicates that the victim is 
+lifted up and thrown against any other opponents (causing a S5 hit on the 
+victim and S3 on other opponents hit - D6 in a group) or if possible into a 
+heavy obstacle (causing a S5 to 8 hit depending on the type of obstacle). A 
+thrown victim must pass a Dex test on impact to hold on to his handheld 
+equipments. Instead of throwing, the mammoth can also grab hold of its victim 
+as it is lifted up into the air. This is only done if there isn't anybody 
+around to throw the bastard against. This follows the wrestling rules, but the 
+victim may choose to use Dex instead of Strength. Since this would mean that 
+the elephant wins, you should check if weapon arm is pinned (se lasso rules). 
+If it isn't then a damaging hit to the elephants trunk will make it drop its 
+victim (2-3 yards fall).
+A killed mammoth or elephant will fall to a random side. Any creature in the 
+path must pass an I test to jump away or receive a S 10 hit on his body as the 
+creature fall upon him.
+If elephants are well treated (all times!) they can be trained to be loyal 
+towards their master (but can quickly change if not treated well).
+
+Jaguar
+
+The Jaguar is one of the Lustrian big-cats; others include animals such as the 
+Cougar. They are very similar and the same profile can be used for both, and 
+for similarly sized big-cats from the South Lands and Cathay. The Lustrian 
+Jaguar is a large animal, larger than any living big-cat from our own world. 
+They cannot be ridden, but if captured young and carefully hand-reared they 
+can be kept as pets, guards, or animals of war. The Amazons are particularly 
+skilled at this, and the Jaguar has become companion animal to the Amazonian 
+High Priestesses.
+
+Physique. Jaguars are large feline creatures, a orange/brown or sand colored 
+fur marked in black or dark brown spots or broken spots.  All black, or 
+melanic, animals sometimes appear, and are highly valued by the Amazons. 
+They are under 10' - usually 6' long.
+
+World Distribution: Jaguars live in the jungles of Lustria and the New World.
+Cougars live throughout the New World and Lustria.
+
+Profile:
+M WS BS S T W  I  A   Dex Ld Int Cl WP Fel
+9 41  0 4 3 6 30 3(5)   0 10  14 43 43   -
+
+Special Rules.  Bite and claws attack.  If attack from ambush and with 
+surprise all four claws and bite attack simultaneously. Tame animals must 
+have a handler within 20', and will test reaction on handler's characteristics.
+
+Sabre-Toothed Tiger 
+
+A remnant of the prehistoric inhabitants of Lustria, the Sabre-toothed tiger is 
+still found deep in the jungles of that lush continent.  The Slann prize the 
+tiger as a fighting animal.
+
+Physique.  Sabre-toothed tigers are amongst the largest cat s in all the 
+world, often standing more than six feet at the shoulder. They are powerfully 
+muscled creatures, capable of moving quickly and delivering mighty blows with 
+their front paws.  The most distinctive features of these tigers are their 
+overgrown canine teeth. Up to nine inches long, these teeth hang over the 
+tiger's bottom lip in a fearsome ivory curve.  These teeth can inflict the 
+most horrendous damage as they rip through the flesh of the tiger's prey.
+
+World Distribution: Deep in the jungles of Lustria and the New World.
+
+Profile:
+M WS BS S    T  W  I A Dex Ld Int Cl WP Fel
+6 41  0 5(7) 4 11 40 3   0 14  14 43 43   -
+
+Special Rules. Two claws and one bite attack. Bite attack is at a Strength of 
+7 while claws are at S5.

@@ -1,0 +1,545 @@
+The Bard
+
+[Editors Note:  The following is Ben Hudgins' bard character class for Warhammer.  After that is a posting to the warhammer list with criticisms and suggested changes. My personal view is that they should be on a similar kind of level to the Alchemist career class, except with more of an individual flavour.  It is certainly too powerful at the moment.  The bard is not merely a wizard who can sing - the spells are weaved using the songs themselves.  This will also make the casting time significantly longer.]
+
+[There will be two more versions of the Bard character class to be posted in the near future]
+
+
+Article 18870 of rec.games.frp:
+Path: pitt!dsl.pitt.edu!pt.cs.cmu.edu!tut.cis.ohio-state.edu!zaphod.mps.ohio-state.edu!samsung!cs.utexas.edu!rutgers!netnews.upenn.edu!eniac.seas.upenn.edu!hudgins
+>From: hudgins@eniac.seas.upenn.edu (Ben Hudgins)
+Newsgroups: rec.games.frp
+Subject: Bards for WHRP
+Keywords: bards, lutes, lyres, harps, etc.
+Message-ID: <21289@netnews.upenn.edu>
+Date: 5 Mar 90 17:53:05 GMT
+Sender: news@netnews.upenn.edu
+Reply-To: hudgins@eniac.seas.upenn.edu (Ben Hudgins)
+Organization: Gaming Addicts of America
+Lines: 448
+ 
+ 
+	Having been inspired by an ancient rec.games.frp article touting the
+joys of bards and such, I succumbed to my creative instinct and thusly the
+advance class of Bard has come about (for WHRP).
+ 
+Bard
+ 
+Advance Scheme - Level 1
+------------------------
+M    WS   BS   S    T    W    I    A    Dex  Ld   Int  Cl   WP   Fel
+---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
++0   +20  +10  +0   +0   +3   +10  +0   +20  +10  +10  +0   +0   +10
+ 
+ 
+Advance Scheme - Level 2
+------------------------
+M    WS   BS   S    T    W    I    A    Dex  Ld   Int  Cl   WP   Fel
+---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
++0   +20  +10  +0   +0   +4   +20  +0   +20  +20  +10  +0   +0   +10
+ 
+ 
+Advance Scheme - Level 3
+------------------------
+M    WS   BS   S    T    W    I    A    Dex  Ld   Int  Cl   WP   Fel
+---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
++0   +20  +20  +0   +0   +4   +20  +0   +30  +30  +20  +10  +10  +30
+ 
+ 
+Advance Scheme - Level 4
+------------------------
+M    WS   BS   S    T    W    I    A    Dex  Ld   Int  Cl   WP   Fel
+---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
++0   +20  +20  +0   +0   +5   +30  +0   +30  +40  +30  +20  +20  +40
+ 
+ 
+Skills:
+ 
+Level 1                              Level 3
+-------                              -------
+Clown                                Blather
+Dance                                Mystic Songs, Level 3
+Mystic Songs, Level 1                Speak Additional Language
+Read/Write                           Story Telling
+Read/Write Music                     Wit
+Speak Additional Language
+ 
+Level 2                              Level 4
+-------                              -------
+Acting                               Linguistics
+History                              Magical Sense
+Mimic                                Mystic Songs, Level 4
+Mystic Songs, Level 2                Speak Additional Langauage
+Speak Additional Language            Theology
+ 
+ 
+Magic Points:
+  Elves: +4d4 points per level
+  Others: +2d4 points per level
+ 
+ 
+Trappings:
+  Hand Weapon
+  Lute or Mandolin
+  Sheet Music
+  Colorful Clothes
+ 
+ 
+Career Exits:
+  Bard - of next level
+  Bawd
+  Charlatan
+  Demagogue
+ 
+ 
+Notes: Bards must first progress through the Minstrel career (taking all
+ skills and advances; note that non-elves must start with Entertainer -
+ Troubadour before becoming Minstrels, although they do not have to take
+ all advance and skills before advancing to Minstrel). Once they become
+ Bards, to advance in level they must take all skills and advances, along
+ with at least two mystic songs of their current level. Level advances cost
+ 100 EP as usual.
+ 
+ 
+Mystic Songs - Level 1
+----------------------
+Awaken
+ Magic Point Cost: 1
+ Range: 100 yards
+ Duration: instantaneous
+ Singing Time: 1 round
+ 
+  When the bard plays this tune, all creatures within the range of the spell
+ will awaken. Those under the effects of magical sleep or the like are allowed
+ another saving throw at +20 to their magic test.
+ 
+Charm I
+ Magic Point Cost: 2
+ Range: 10 yards
+ Duration: special
+ Singing Time: 1 round
+ 
+  This song effects only one creature at a time, specified by the bard. The
+ target must make both a successful magic test and WP test or be allied with
+ the bard for a number of turns equal to the amount that the target failed the
+ test by (magic or WP, depending which is worse).
+ 
+Disharmonic Blast I
+ Magic Point Cost: 2
+ Range: 48 yards
+ Duration: instantaneous
+ Singing Time: 1 round
+ 
+  The bard must specify a target. Unless the target makes a successful magic
+ test, it will suffer 1d10 wounds at Strength 2. A successful test will halve
+ this damage.
+ 
+Lullaby
+ Magic Point Cost: 2
+ Range: 20 yards
+ Duration: 1/2 hour per level
+ Singing Time: 2 rounds
+ 
+  Anyone within the area of effect of this spell (except the bard) must make a
+ WP test or fall asleep for the duration. There is a modifier on this test,
+ however: the difference between the bard's Fel and the victim's WP.
+ 
+Reveal Magic
+ Magic Point Cost: 2
+ Range: 10 yards
+ Duration: instantaneous
+ Singing Time: 2 rounds
+ 
+  When the bard completes this song, all magic items within the range will
+ begin to glow softly. At the end of the round after the bard has ceased to
+ sing, this glow will stop. Note that only magic items will glow, while magic
+ using creatures and other spell casters will not.
+ 
+Song of Battle I
+ Magic Point Cost: 2
+ Range: 20 yards
+ Duration: as long as the bard sings
+ Singing Time: effect begins immediately
+ 
+  All those who are friendly to the bard within the range of this spell will
+ gain a +10 bonus to their WS. Note that the bard cannot do anything but sing
+ during this spell or the bonus ceases.
+ 
+Song of Courage I
+ Magic Point Cost: 1
+ Range: 20 yards
+ Duration: as long as the bard sings
+ Singing Time: effect begins immediately
+ 
+  This song is similar to the Song of Battle, only allies of the bard gain a
+ +10 bonus to their Cl and WP.
+ 
+Song of Harmony I
+ Magic Point Cost: 2
+ Range: 10 yards
+ Duration: instantaneous
+ Singing Time: 3 rounds
+ 
+  All creatures within the area of effect are healed for 1d6 wounds.
+ 
+Summon Animals I
+ Magic Point Cost: 2
+ Range: special
+ Duration: 1 hour
+ Singing Time: 2 rounds
+ 
+  This song will summon 5d10 rats which will serve the bard for the duration of
+ the spell.
+ 
+ 
+Mystic Songs - Level 2
+----------------------
+Charm II
+ Magic Point Cost: 4
+ Range: 20 yards
+ Duration: special
+ Singing Time: 1 round
+ 
+  This song has the same effect as Charm I, only the creature has a -10 penalty
+ to its WP test. The bard may, however, opt to choose two targets instead of
+ just one, whereas the WP tests of the two targets will be unmodified.
+ 
+Disharmonic Blast II
+ Magic Point Cost: 4
+ Range: 48 yards
+ Duration: instantaneous
+ Singing Time: 1 round
+ 
+  This spell is a more powerful version of Disharmonic Blast I, causing 1d10
+ wounds at Strength 4 to a specified target. Again, a successful magic test
+ halves the damage.
+ 
+Song of Battle II
+ Magic Point Cost: 4
+ Range: 20 yards
+ Duration: as long as the bard plays
+ Singing Time: effect begins immediately
+ 
+  This is a more powerful version of the Song of Battle I, increasing WS by +20
+ instead of just +10.
+ 
+Song of Courage II
+ Magic Point Cost: 2
+ Range: 20 yards
+ Duration: as long as the bard plays
+ Singing Time: effect begins immediately
+ 
+  This is a more powerful version of the Song of Courage I, increasing Cl and
+ WP by +20.
+ 
+Song of Forgetfulness
+ Magic Point Cost: 4
+ Range: 48 yards
+ Duration: 2d6 rounds per level
+ Singing Time: 1 round
+ 
+  This song effects a specific target within the range of the spell. The target
+ must make a successful WP test or suffer the effects of a Steal Mind spell for
+ the duration of the spell. The victim will also suffer amnesia, forgetting all
+ that has happened to him or her in the last 24 hours, including any spells
+ they have memorized within the last day.
+ 
+Song of Harmony II
+ Magic Point Cost: 4
+ Range: 10 yards
+ Duration: instantaneous
+ Singing Time: 3 rounds
+ 
+  All creatures within the area of effect are healed for 1d6+3 wounds.
+ 
+Song of the Vines
+ Magic Point Cost: 6
+ Range: 50 yards
+ Duration: 1d6 rounds per level
+ Singing Time: 2 rounds
+ 
+  This song will animate all the underbrush within the range of the spell.
+ These plants will obey the bard, attacking his or her opponents. This plant
+ beast has 5 attacks per round, attacking with a WS of 33. Hits cause damage at
+ Strength 3. The plants cannot be destroyed, but will be held at bay by fire.
+ 
+Summon Animals II
+ Magic Point Cost: 4
+ Range: special
+ Duration: 1 hour
+ Singing Time: 2 rounds
+ 
+  This song will summon 1d10 wolves, who will obey the bard for the duration of
+ the spell.
+ 
+ 
+Mystic Songs - Level 3
+----------------------
+Charm III
+ Magic Point Cost: 8
+ Range: 20 yards
+ Duration: special
+ Singing Time: 1 round
+ 
+  This song has the same effects as Charm I, only the target creature has a -20
+ penalty to its WP test. The bard may, however, opt to choose two targets
+ whereas their WP test will be made with a -20 penalty. Four targets may also
+ be chosen, although their WP tests will be unmodified.
+ 
+Disharmonic Blast III
+ Magic Point Cost: 8
+ Range: 48 yards
+ Duration: instantaneous
+ Singing Time: 1 round
+ 
+  This spell is a more powerful version of Disharmonic Blast II, causing 1d10
+ wounds at Strength 8 to a specified target within the range of the spell.
+ Again, a successful magic test halves the damage.
+ 
+Song of Battle III
+ Magic Point Cost: 8
+ Range: 20 yards
+ Duration: as long as the bard sings
+ Singing Time: effect begins immediately
+ 
+  This is a more powerful version of the Song of Battle II, increasing WS by
+ +30.
+ 
+Song of Courage III
+ Magic Point Cost: 4
+ Range: 20 yards
+ Duration: as long as the bard sings
+ Singing Time: effects begin immediately
+ 
+  This raises the Cl and WP of all the bards allies by +30, provided they are
+ within range.
+ 
+Song of Harmony III
+ Magic Point Cost: 8
+ Range: 10 yards
+ Duration: instantaneous
+ Singing Time: 3 rounds
+ 
+  All creatures within the range of the spell are healed for 2d6 wounds.
+ 
+Song of Instability
+ Magic Point Cost: 10
+ Range: 20 yards
+ Duration: instantaneous
+ Singing Time: 2 rounds
+  
+  All creatures subject to instability must make a check if they are within the
+ range of the spell. This is irregardless of whether they are under control of
+ some being or in a location where they would not normally be subject to
+ instability.
+ 
+Song of the Trees
+ Magic Point Cost: 10
+ Range: 50 yards
+ Duration: 1d6 round per level
+ Singing Time: 2 rounds
+ 
+  This spell will animate the surrounding vegetation. This plant beast attacks
+ 5 times per round at Strength 6, with a WS of 66. See Song of the Vines for
+ further details.
+ 
+Soundwave
+ Magic Point Cost: 12
+ Range: 20 yards
+ Duration: instantaneous
+ Singing Time: 1 round
+ 
+  This is a mass damage spell, causing 4d6 wounds at Strength 3 to all beings
+ within the area of effect (except the caster). A successful magic test halves
+ the damage.
+ 
+Summon Animals III
+ Magic Point Cost: 6
+ Range: special
+ Duration: 1 hour
+ Singing Time: 2 rounds
+ 
+  This song summons 1d6 war dogs that will serve the bard for the duration of
+ the spell.
+ 
+ 
+Mystic Songs - Level 4
+----------------------
+Call the Dead
+ Magic Point Cost: 14
+ Range: special
+ Duration: until dawn the following day
+ Singing Time: 3 rounds
+ 
+  This duplicates the spell Summon Skeleton Horde.
+ 
+Charm IV
+ Magic Point Cost: 12
+ Range: 20 yards
+ Duration: special
+ Singing Time: 1 round
+ 
+  This song has the same effects as Charm I, only the target creature has a -30
+ penalty to its WP test. The bard may opt to split the effect between 2, 3, or
+ 6 targets, incurring a -15 penalty on WP tests for 2 targets, -10 for three
+ targets, and no penalty for any of the six targets.
+ 
+Disharmonic Blast IV
+ Magic Point Cost: 12
+ Range: 48 yards
+ Duration: instantaneous
+ Singing Time: 1 round
+ 
+  This is a more powerful version of Disharmonic Blast III, casuing 1d10 wounds
+ at Strength 12 to a specified target within the range of the spell. Again, a
+ successful magic test halves the damage.
+ 
+Song of Battle IV
+ Magic Point Cost: 12
+ Range: 20 yards
+ Duration: as long as the bard sings
+ Singing Time: effect begins immediately
+ 
+  This spell is similar to the other Songs of Battle, but raises WS by +40.
+ 
+Song of Courage IV
+ Magic Point Cost: 8
+ Range: 20 yards
+ Duration: as long as the bard sings
+ Singing Time: effect begins immediately
+ 
+  This spell raises the Cl and WP of the bard's allies by +40 as long as they 
+ are within range of the spell.
+ 
+Song of Harmony IV
+ Magic Point Cost: 12
+ Range: 10 yards
+ Duration: instantaneous
+ Singing Time: 3 rounds
+ 
+  All those who are within the area of effect are healed for 2d6+3 wounds.
+ 
+Summon Animals IV
+ Magic Point Cost: 8
+ Range: special
+ Duration: 1 hour
+ Singing Time: 2 rounds
+ 
+  This song summons 1d3 bears that will obey the bard for the duration of the
+ spell.
+ 
+ 
+Notes on Mystic Songs: All of the appropriate spells above have a circular area
+ of effect centered on the bard, the circle having a radius equal to the range 
+ of the spell. This reflects the auditory aspect of Mystic Songs. Note also
+ the bard must have an instrument to cast these spells and must be able to sing
+ also. A gagged bard is no good. Neither is one with his hands tied behind his
+ back (ever try to play a lute with your toes?).
+ 
+  Also, the spells above are mostly combat oriented. I am sure that others can
+ be created for the more non-martial aspects of the bard profession (such as
+ something that makes listeners more...receptive to suggestion).
+ 
+  Some may think that the bard is too powerful a career, but the class is 
+ tailored to my interpretation of the Old World, where magic using folk are few
+ and far between and all kick butt.
+ 
+  Feel free to make any mods you want, but gimme credit if ya would. I'm a vain
+ type of fellow.
+ 
+  Also, please excuse any typos or no-nos anywhere in this material. I was in a
+ hurry.
+
+
+Date:         Mon, 03 Feb 92 09:45:38 MEZ
+From: Benedikt Rosenau <I3150101@DBSTU1.bitnet>
+Reply-To: wfrp (WFRP Mailing List)
+Errors-To: cluther
+X-Mailing-List: WFRP Mailing List
+X-From: Benedikt Rosenau <I3150101@DBSTU1.bitnet>
+Subject:      That Bard From Rec.games.frp
+To: WFRP Mailing List <wfrp@morticia.cnns.unt.edu>
+In-Reply-To:  Message of Sat, 1 Feb 92 15:21:02 EST from
+ <MUCHISK@ucs.indiana.edu>
+
+The spells of the bard posted remind me of a the spells of a character class
+similar to a bard in an ADnD offshot. Anyway, I had the feeling that the
+career posted was made up from WHFRP skills and ADnD spells. The ADnD of
+version of a rogue/spellcaster blend seems to have influenced the concept
+strongly. Normally, a character would have to go through (and survive) two
+fully different career paths to have the advantages of both.
+
+
+On the advance system: +40 on both Fellowship and Leadership? If memory serves
++40 Ld was reserved for the Mercenary Captain and +40 Fel for the Demagogue.
+There is no advance in Toughness, 1 wound more than that of a spellcaster of
+a similar level, and quite a lot of advances in personal statistics. The WS
+and BS skill advances imply that this is rather a crossover from a fighter-
+spellcaster than - well, for instance - a just more secular druid.
+Believe me, I once had a character with 71 Fel after going through Power Behind
+The Throne, and it has been a nuisance.  Together with Seduction, Charm, Wit,
+and Etiquette it added up to  a total Fellowship roll of 111. Critical success
+on a roll of 81 or lower. I don't play that character anymore.
+
+Skills:
+I wonder what Acting and Mimic in the skill list are for. And I do miss History
+and Genealogy (or heraldry) when I compare it to the historical filids.
+Read/Write Music is fine.
+
+Magic points: 4d4 for Elves only and 2d4 for other races? Either 4d4 for humans
+misses by accident or it is an attempt to unbalance the game and push the
+Elves.
+Honestly, apart from that the disadvantages of Elves or rarely enforced, the
+combination of spells, advances, and an Elven profile are a powergamer's wet
+dream.
+
+For instance disharmonic blast 1d10 Wounds at Strength 2. Roll 1d10 1d6 damage
+and add 2, or is it 1d10+2? Does armour protect? The first version is quite
+likely to blow even an advanced charcter to shreds (in a first level non
+specialist spellcasting career boosted by some neato rogue abilities? Wow, er,
+bleech) and even the second version is too powerful if it can bypass armour.
+And where is the idea of using it only for magical attacks that work like
+Strike To Stun?
+And of course, we have a more powerful version of the sleep spell than that of
+a similar magic career. And strong healing magic is included too. The most
+powerful healing spell used to give 1d10 wounds back to a character, but now
+everything in the area of effect is INSTANTLY (oh my god) cured for 2d6+3.
+IMO, that is the worst violation of the WHFRP concept or what I think it could
+be that I have seen.
+For 'balance', the summoning skills exceed that of a druid, and are on a par
+with that of a Necromancer or Demonologist WITHOUT any of the disadvantages of
+the these.
+Has anyone ever seen an evil wizard proceed beyond second level? If so, contact
+me.
+
+
+Am I wrong or does the Bard need only an instrument (as opposed to a magic
+instrument) to be able to use his spells? Anyway, the casting time for most
+spells is too short for my idea of music based magic. Nor are the effects
+subtle enough. This is a straightforward boost on the wizards careers. The
+Warhammer Careers are indeed unbalanced, and spellcasters are among the most
+powerful, but even specialist wizards have to go at great lengths to find a
+teacher (fully left out for the bard) and have to blow out 200xlevel exp for
+getting to the next level. I assume our Bard just spends 100...
+And the spellpoint cost is so low that it makes me cry.
+
+The Warhammer World is quite balanced, but with this kind of charming, spell-
+casting rogue leader, Bards would rule.
+
+Let's come to my own idea of them. Bard is related to a Druid like an Alchemist
+to a Wizard. This means an advance scheme simliar to that of a priest, some of
+the more academic or theologic skills exchanged with musical or social skills -
+like Scroll Lore becomes History (oral). Human bards should be followers of the
+Old Faith, Elves and Hobbits should have special gods for it. The Initiate
+stage would be quite like that of a Ministrel. Magic points (2d8) and Magic
+be available from level 2 upwards, with spells similar to that of a druid of
+Level-1. Restrictions would be a behavior like you would expect from a mix
+of a druid and a priest of Verena (or whatshername?).
+
+Exits would include the Seer.
+
+But, Clays way of going through the careers of a Ministrel and a Druid is the
+best one for playing, IMO.
+
+
+

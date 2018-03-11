@@ -1,0 +1,1245 @@
+Here is the new updated version of Literature in The Old World, since my
+e-mail adress was wrong in the last version I would like anybody who had
+(or has) ideas (new books, please!) or comments to mail me at this adress:
+<ia9501knold.ballhs.dk>
+
+
+Literature in The Old World
+By Michael Andersen
+
+As a game master you may well find yourself in a situation where the players want to examine some library of no importance. Rather than tell them this, you can use some of the following books. Some of the information will reefer to a "Personal timeline". This is a piece of paper you can make for characters with history skill, which contains information, in the form of a timeline, showing what a character knows. Just skip this rule if you don't like it, and instead tell the player what happened on a specific  year, when they read some of the books. The first information in the following list of books is to be read like this: Name of book, Author, Availability, year, price, and language/ languages. Shortcuts are C-Common, U-Uncommon, R-Rare, V-Very rare, E-Extremely rare (only 1-4 versions of the book).
+Unless otherwise stated, the player must pay 100 EP, and make an INT test, in order to teach skills from books.
+In these rules the theology skill has been divided into several skills, like the specialist weapon, Secret language, and so on. This means that normal theology skill only covers the religion from the players homeland (eg. Old world religion). The proscribed cults have been further divided into the specific gods. So theology - Tzeentch skill grants the player knowledge of the Tzeencth  religion and understanding of the different Tzeentch cults, who also have different aims and translations of the Tzeentch religion. Alternatively you can have the EP cost lower, but even 100 EP will do just fine.You can also judge that the specialist Theology tests, gives a +20 bonus, instead of Theologys +10.
+'Normal' under a books language description simply means the normally spoken language of the Author (eg. Empire=Reikspiel, Brettonia=Bretton)
+The table below are meant to be used with penalties and bonuses. Forexample a merchants townhouse library may receive a -15 modifier while a huge verena temple might receive a +10 modifier.
+Use the name table in the character pack rule additions for quick names of the books author (unless one is mentioned), and also the place of origin table when you have to randomly determine a country or city.
+In White Dwarf issue 108 - The WFRP adventure Terror in the darkness, the author Carl Sargent made use of a bestiary title with a Latin name. In my personal opinion this gives an ancient atmosphere to the book. I know there is no parallel to Latin in The Warhammer world, but in my campaign i have introduced a Latin Arcane language from the old Remas empire (Caput Mundi : The capital of the world - Old Latin pronouncing for Rome). This language is most often used within the religious cults followed in the old Remean empire (ex. The Solkan cult), and some old literature is also written in this language. Clerics of cult which emanates from the southern lands (like Tilea, Remean Empire etc.) must learn the Arcane Latin language on their first level. 
+Below are some guidelines, or rather words, for generating Latin names. Don't worry about grammatical correctness, if one of your players complaint about it - Smack him in the head, kill his character or just ignore him!!!!!  
+
+Bestiis: Animals
+De "something": About something
+In aenigmate: Mysterious
+Liber "something": Book about Something
+Literatura: Literature or writing
+Mors: Death
+Mundi: The world
+Pictura: Picture
+Secretum: The secret
+Speculum: Mirror or the opposite
+Stellatis: Stars
+Terribilis: Terrible
+
+D100	Type of book:				
+?-27 Novels and fiction
+        1-48 -Love stories, Various, C, ?, 2-10 gc, Normal
+                Trivial love stories. Descriptions: Man meets girl, can't
+                get eachother because of a complication, usually a tragic
+                ending. Alternatively a character reading one of these books,
+                should make a T test midway in the book to stay awake.
+        49  - Journey to Morrslieb, Julius Werner, R,  2403, 25 gc,  classical
+                A very confusing book about an expedition to Morrslieb in a
+                flying ship. The reader gains 1D3-1 insanity points.
+        50-96 -Realistic stories (find an appropriate name), - , C-R, - ,
+                5-20 gc,  usually Normal
+                These books contains fictional stories, but an INT should
+                be secretly rolled (History +10). Failure indicates that
+                the reader believe that the contents of the book is true
+                (a historical book). Add something false to the players
+                personal timeline. Ex. "2311 - Dieter the beggar was
+                crowned as Emperor".
+        97-98 -Dark Dreams and Forbidden Pastimes, Mordecai Thandos, U,
+                2342, 30-50 gc, Reikspiel
+                (From Deathrock)
+                Although somewhat peverse, the book has nothing to do with
+                anything evil or chaotic. Mainly a volume of erotic verse
+                concerning some historical figures.
+        99-00 -Arabian nights
+                A collection of histories from Araby. Some bears elements
+                of erotic writting. The book is renowned for the history of
+                Al-nadim and the Djini in the bottle, Ali-Kebab and the
+                40th Bandits, and others. Basically the same as the Arabian
+                nights in our world, just change the names.
+                The reader will get a slight insight in the culture of
+                Araby, and also learn about the exsistence and nature of
+                Djinns and Efreets.
+28-33  Poem/ songs
+        1 -Beatiful tunes from the Moot, Various Musicians, U, Printed 2446,
+                40 gc, Reikspiel and nodes
+                Merry Folk music from the Moot.
+        2 -Songs of Liadriel, various, R, ?, 40 gc, Elthárin + Elven notes
+                This book contains elven songs.
+        3 - Ogrish Folksong
+                ?????????
+        4- Children Rhymes and songs
+                Ex.: The Marienburg nursery Rhyme From DoTL
+                Whisperer, Whisperer, will she come soon,
+                The one who lives in the Chaos moon?
+                Whisperer, Whisperer, are we undone
+                When Morrsliebs face eats up the sun?
+                Whisperer, Whisperer, can it be true?
+                Oh yes, my child, now i'll eat you!
+34-40  Art/ theatre
+        -The Strange Story of Dr. Ziekhill and Mr. Chaida, Version 1:
+                V.I.Tiodrov / Version2:Detlef Sierck, U, 2474 / 2503,
+                50 gc, Kislevite / Reikspiel
+                (medival Dr.Jekyll and Mr.Hyde)
+                This book is a play by the famous playwright Detlef Sierck.
+                Originally by the Kislevite dramatist V.I. Tiodrov, but now
+                adapted by Detlef. The story takes action in Kislev and is
+                about a young cleric of Shallya named Dr.Zhiekill who
+                experiments with a potion that turns him into the evil
+                Mr.Chaida.
+        -The treachery of Oswald, Detlef Sierck, U, 2503 , 50 gc, Reikspiel
+                (As proscribed in the Warhammer fiction book "Drachenfels"),
+                The real story about  Detlef's attempt to stage Oswald von
+                Konigswald's adventure, about how he killed Constant
+                Drachenfels, in Castle Drachenfels itself. After a serie of
+                intriques, Drachenfels emerges during the play and tries to
+                kill the Emperor and everyone else. Oswald himself hasn't
+                killed Drachenfels but instead made a pact to save his life.
+                Instead it is Detlef who kills Drachenfels in the holy name
+                of Sigmar (the Ulric cult has allready tried to ban the play,
+                but haven't succeded).
+        -Drachenfels, Detlef Sierck, R, 2502, 100-200 gc, Reikspiel, 
+                As proscribed in parts of the book Drachenfels. This is the
+                original play script by Detlef Sierck, about Oswald Von
+                Konigswald, Genevieve, Anton Veidt, Erzbeth, And Rudi's
+                adventure in Castle Drachenfels. This play was made under
+                the instructions of Oswald von Konigswald who freed Deltef
+                Sierck from the Mundsen keep in order to make this play.
+                It is known today that the play itself doesn't describe the
+                situation as it actually was, since the traitor Oswald and
+                Drachenfels was the only one to know it by that time.
+        -The world of theater.
+                A kind of dictionary of fameous playwrights.
+                Here is the Malvoisin part (from the novel Genevieve Undead):
+                Malvoisin Bruno (2440 - ?)
+                The author of the banned play "Seduced by Slaaneshi",
+                followed by more perverse and sick plays which was never
+                played on stage. After a anonymously play script, where the
+                Emperor has intercourse with a She-Goat, was traced back to
+                him, the watch showed up to arrest him but found him totally
+                altered. It is said that he escaped him and was never seen
+                again.
+        -The fate of fair Florence  -  Von Diehl
+                ???
+        -To my unchanging lady
+                By Detlef Sierck, to Gennevieve
+        - A knights Mid-summer dream
+                See PBTT
+        - The Bloody Chambers, Will Pikewaver, U, ?,  75 gc, Reikspiel/Breton
+                The Dying of the Light page 80-88
+        - The Knights at the Circus or Acharniazusoi, Aristides, U, 80 gc,
+                Reikspiel/Breton
+                The Dying of the Light page 80-88
+                This play is a farcial misadventure of mistaken identity,
+                bawdish sauciness and the low habbits of high citizens.
+        - The Wise Children, Johann Bart, U, 2500, 70 gc, Reikspiel/Breton
+                The Dying of the Light page 80-88
+                A Modern play in which the children of an important noble
+                family depose their parents and adopt a uniquely childish
+                attitude to local political struggles.
+        - The Infernal Machinery of Desire or Love, Will Pikewaver, U, ?,
+                85 gc, Reikspiel/Breton
+                The Dying of the Light page 80-88
+        - The Mechant of Sorcery, ?, U, ?, 75 gc, Reikspiel/Breton
+                The Dying of the Light page 80-88
+        - Companions to Wolves, Sinclair, U, ?, 75 gc, Reikspiel/Breton
+                The Dying of the Light page 80-88
+        - Taking a Cat to Wife, Gregory Hoggis, U, ?, 75 gc, Reikspiel/Breton
+                The Dying of the Light page 80-88
+41-45 Miscellaneous
+        D6 voll
+        1 -Blank Note Book, -, C, -, 10 gc, -
+                A blank notebook with D10X3 pages
+        2 -Written Note Book, -, -, -, ?, -
+                A note book found in a library can either be blank, or it
+                can contain some written notes. In this way you can
+                introduce handouts with clues concerning your campaign.
+                Typically the notebook will have been written by the owner
+                of the library, containing notes from books and other
+                research.
+                Notebooks by other persons can also be found. They tend to
+                have information on researches which has been of interest
+                to the library's owner, and thus obtained by him.
+        3 -Diary
+                Like the written notebooks, a diary can also be used to
+                introduce clues in a campaign, or just be a boring scholars
+                day by day events.
+                Diary's of famous persons are rare but not totally
+                impossible to find. In a larger library you can allow a 10%
+                chance that the diary are the memoirs of a historical person.
+                Ex.: Heinrich Kemlers dark diary, Magnus the Pious warfare
+                diary, etc.
+        4 -Personal Sketchbook
+                This book is a notebook containing drawings by some unknown
+                person or perhaps the library's owner.
+                The drawings can be some irrelevant drawings of nature areas,
+                cities, or persons, or perhaps drawings to illustrate
+                different subject in books studied by the drawings author.
+        5 -Hollow book.
+                This book has been hollowed to make it contain a hidden item.
+                D100 Item                               .
+                1-50  Empty
+                51-55 D10 Gold pieces and D6 Silver shill.
+                56-61 A silver necklace worth D3X10 GC
+                62-66 Pieces of paper containing an erotic short story in a
+                      webery writing.
+                67-71 Pieces of paper with drawings of erotic motives.
+                72-77 a small dagger (could be a bloodstained murder weapon!)
+                78-86 A religious token/ symbol (roll a random deity on the Religion chart further below)
+                87    A random gem.
+                88-91 A random vial of a alchemist compound
+                91-94 A random vial of poison
+                95-98 D3 random spell ingredients (may have rotten away!)
+                99-00 A magical scroll (reefer to scrolls below)
+        6 -False book.
+                This book has a false cover. Roll a new book (ignoring this
+                result and any other like this), this is the front cover.
+                Roll another book, adding +10 to your roll - This is the
+                real contents of the book.
+46-55  The world
+        Other continents, Cultures, Geography, Bestiary, flora, maps,
+        Places in the World, etc.
+        -Cities of the Old World
+                Books about cities in the Empire, can contain a lot of
+                different informations. To randomly determine a specific
+                city, you should roll on the appropriate "Place of Birth"
+                table in the character pack rule addition.
+                Informations about the cities will depend on how informative
+                the book are (GM's choice). City informations of the
+                Reikland cities can be found on page ?? or in DotR. Parravon
+                area: page ??.  Middenland: CotWW/COC.
+                Descriptions of cities are spread out among different WFRP
+                volumes:
+                Nuln: WFRP
+                Altdorf: WFRP, DOTR, EIF
+                Marienburg: MAR, WFRP
+                Middenheim: CotWW/CoC, WFRP. Se the handout section for
+                            Middenheim history!
+                Major cities of the Old World: WFRP 274-286
+                Couronne: WFRP
+                Bogenhafen: SOB
+                Kemperbad: DotR
+                Grissenwald: DotR
+                Pfeildorf, Wuppertal, Loningsbruck, Agbeiten,
+                           Hochsleben : EiF
+                Norsca cities: Norse suplement at Warhammer archives
+                Albion cities: Albion suplement at warhammer archives
+
+                By reading a book of a specific city, the character will be
+                more likely to find his way in the city when he arrives as a
+                newcomer, and will probably also have learned the right
+                etiquette's, etc. All this depends, of course, on the
+                reliability of the book. Remember also that the books
+                informations may not be "up to date".
+        -Land, continents and areas
+                Like the books about cities, these books contains
+                information of a foreign country or area.
+         01-56 The Old World
+                1 The Empire
+                2 Bretonnia
+                3 Norsca
+                4 Albion
+                5 Estalia
+                6 Tilea
+                7 The Border Princes
+                8 Switzer
+                9 The Grey Mountains
+                10 The Vaults
+                11 The Worlds edge mountains
+                12 The Wasteland
+                13 Kislev
+                14 Remean Empire
+
+         57-60 The New World
+		1 Lustria
+		2 Naggaroth
+		3 Ulthuan
+         61-75 Araby
+		1 Land of the Sultan
+		2 Land of the Pirate king
+		3 Land of the Dead
+         76-88 Southlands
+               New coast
+                1 Ivory coast
+                2 Gold Coast
+                3 Savage Coast
+         89-93   The Dark lands
+		1 The Plain of Zharr
+		2 The desolation of Azghorh
+		3 The Howling wastes
+		4 The mountains of Mourn
+		5 The plain of bones
+        94-96   Badlands
+        97-00   The far east
+                1 Nippon
+                2 Cathay
+        The book will also have informations of the D10-5 major settlements
+        in the area, and perhaps also some important sites.
+
+        -Naggaroth, Banadl Anwesu, R, ?, 200 gc, Eltharin
+                This book is represented in White Dwarf magazine #?? In the
+                article Witchelves of Naggaroth.
+        -Maps
+                Maps can also typically be found in a library. These maps
+                are usually detailed maps of specific areas. Two maps of the
+                same areas can contain different information. For instance
+                one of two maps of the Empire have, as an addition, marked
+                spots of major Skaven lairs, while the other only have the
+                human settlements. This can be a good situation for
+                introducing various maps for you campaign. The maps might
+                also be included in the books above.
+56-66  Books of skill and trade, (pick a name or roll one at random ), C-U,
+        ?, 30-120 gc, depends on contents but usually Normal
+        These books contains information about a skill or trade. The
+        appropriate skill can be learnt in the normal way by reading the
+        book. The following skills can be learnt from a book
+        D100
+        1-3     Arcane Language. Books about Arcane languages, is both a
+                dictionary of words and also contains various information
+                about the language. Books about Arcane languages differs
+                a lot from each other in quality. See RoSM for more details
+                about Arcane languages.
+		D100	Language	
+		1-50	Modern
+                51-65   Druidic
+		66-78	Arcane Dwarf
+		79-87	Arcane Elf
+		88-91	Daemon tongue
+		92-99	Elemental tongue
+		00	Old Slannish
+        4-10  Brewing. Ex. Names: Fine ales of the Empire/moot/etc., The art
+                of Brewing.
+        11-18   Cook
+        19      Diving
+        20-25   Herb Lore
+                Ex.: -Book of Herbs, Claus Johanson, C, 2423, 50 GC,
+                Reikspiel
+                For 100 EP and a successful INT test, the reader gains the
+                skill Herb lore.
+        26-29 Manufact. Drugs
+        30-35 Metallurgy.
+        36-37 Prepare Poisons
+        38-39 Secret Sign
+        40-43   Backery
+                ex.: Longfoots bakery, S. Longfoot, R, 2499, 20 GC, Reikspiel
+                This book can teach the reader Backing skill, which is very
+                similar Cook skill. The skill can't be used in the
+                Wilderness, as an oven, flour, water, sugar, at least is
+                required. But in a city, employment is fairly easy. As well
+                as bread, the character is also able to make pastries. In
+                game terms you should allow Halflings to have this skill
+                already, in addition to their cook skill.
+        44-46 Super Numerate
+        47-50 Astronomy. Ex. names: Sternschau's Astronomical Records
+                (dotR-33), Liber Zodiak, or Secretum Stellatis
+        51      Astrology. Ex. Names: Liber Stellatis
+        52-54 Cartography
+        55-57 Chemistry
+        58-60 Cryptography
+        61      Hypnotise
+        62-65 Heraldry
+        66-73 History (reefer to the Historical section)
+        74-78 Identify Plant
+        79-80 Law (of a specific country or region)
+        81-84 Musicianship. A guide to a specific instrument or node system:
+                D100  Subject                    
+                1-25      Flute
+                26-50   Lute
+                51-54   Hapsichord
+                55-67   Violin
+                68-75   Percussion
+                76-94   Human nodes
+                95-96   Elven Notes
+                97-00 Other primitive node systems (Ex.: Norse)
+                85   Secret Language
+        86-94 Additional Language
+        95-98 Theology *
+        98    Medical book/Physician book. By reading this book, the reader
+                will be able to lean Heal Wounds, Manufacture Drugs, Cure
+                disease, and Prepare Poison. Apart from this the book
+                contains description of various diseases - of which the
+                reader will be able to cure by using the cure disease skill
+                (except from special, almost, uncureable diseases), a chapter
+                on human anatomi (a theoretic start on learning surgery).
+                Here is an example of a variant from the above example:
+                Speculum Amoris, Massimo (of Bologna)
+                (Source: Il Nome Della Rose)
+                Sort of medical book about the disease 'Love sickness'. The
+                book contains various quotes from other writers and books,
+                about the subject.
+                Ex. quotes: Abu Bakr-Muhammed Ibn Zakariyya ar-Razi from
+                Liber Continens: Love is paralleled  with Lycantropi, making
+                the affected act like a wolf. His sight will faint, his body
+                will shrink, and he will become very dry and thirsty. At
+                last the affected person will roam the cemeteries like a
+                Wolf.
+        00   "Magic" book. This book is about magic tricks, not real magic,
+                but about palming and other entertainer tricks. It is
+                possible to learn Palm object skill, sometimes Hypnotise or
+                Pick pocket, and various tricks which simulate Petty magic
+                tricks (e.g. Pulling a rabbit out of a hat = Produce small
+                creatures, except that preparations and Palm object are
+                used). All these tricks also requires long practical
+                training.
+
+        *: A religeous book containing a random god or god group (e.g. The
+        law siblings Solkan, Arianka, Alluminas).
+        You should reefer to page 10 in Apocrypha Now, called Skills and
+        Careers (Also found in The Restless Dead Campaign or White Dwarf
+        #90), for further and more detailed rules.
+67-77 Folklore.
+        Books about folklore will not necessarily be true, but may have
+        something to do with real events. As GM you should feel free too
+        improvise on stories from the timeline. This roll could also be a
+        good way to introduce a local earth spirit, or maybe a specific
+        daemon.
+        If you want too, you can reefer to the Historical section, and add
+        elements of folklore to the result.
+        1-50 Religion
+                These books contains informations about religion. Either a
+                specific cult or the gods in a specific area. When you roll
+                a specific area below you should add a 10% chance that the
+                book is non-devoted and instead contains informations about
+                the different religions in that area - normally without the
+                secret or outlawed religious cults. When rolling a single
+                good, there will be 50% chance that the book is written by
+                an author which is devoted to the religion (01-25 means
+                that it will be a copy of the main religious book of that
+                religion - Bible) - This will affect the description of the
+                cult which will be very optimistic.
+                D100    Religion type    
+                01-15   Random common deity of area
+                16-30   Old World General:
+                        01-02   Ecate
+                        03-10   Rhya
+                        11-15   Old faith
+                        16-18   Ranald
+                        19-26   Taal
+                        27-47   Verena
+                        48-58   Manann
+                        59-75   Morr
+                        76-89   Myrmidia
+                        90-00   Shallya
+                31-39   Brettonia:
+                        -       Jeanne du Lac
+                40-51   Empire:
+                        01-42   Sigmar ex: -See "the history of sigmar" below
+                        43-59   Ulric
+                        60-72   Handrich
+                        73      Stromfels - God of reefs and Currents
+                                (outlawed aspect of Manann, worshipped by
+                                Pirates & Wreckers)
+                        74-84   Forsagh - God of Prophecy (Aspect of Moor,
+                                worshipped by Seers & Fortune Tellers)
+                        85-90   Karog - God of Rivers (Aspect of Taal,
+                                worshipped by some Fishermen)
+                        91      Kharnos - Lord of Beasts (Aspect of Taal,
+                                Primarily an elven god - worshipped mainly by
+                                Beastmasters but also worshipped by Hunters &
+                                Trappers)
+                        92-93   Haleth - The Goddess of hunting (Aspect of
+                                Rhya)
+                        94-95   Dyrath - The Fertility Goddess (Aspect of
+                                Rhya)
+                        96-00   Bogenauer - Primary God of Bogenhafen (or a
+                                saint as suggested on the mailing list - I
+                                preefer this one!)
+                40-52   Tilea:
+                        01-45   Madonna Of the Marshes - Aspect of Rhya
+                        46-90   Mercopio - god of trade (Aspect of Handrich)
+                        91-00   Remean Religion(Solkan, Myrmidia, etc.)
+                53-58   Norse
+                        01-40   Olrik (Aspect of Ulric) - Father of War
+                        41-00   Valdin - The All-Seeing Master of Fate
+                59-69 Albion
+                        01      Crom-Cruarch - Great Worm of War, Dark god
+                        02-30   Danu, the Earth Mother
+                        31-39   Lugh the Sun God
+                        40-47   Hu, the god of warriors
+                        48-66   Bila, the God of Death 
+                        67-70   Ayrin, the Goddess of Love and Beauty
+                        71-00   Ogmios, the God of Literature and Poems
+                70-75 Dwarfs:
+                        01-40   Grungni - God of mining
+                        41-71   Morngrim - God of war
+                        72-84   Gazul - Lord of undeearth (Dwarf aspect of
+                                Morr)
+                        85-00   Rukh - God of Smiths (Dwarf aspect of Ringil)
+                76-80 Gnomes:
+                        01-40   Ringil - God of Smiths & Jesters
+                        41-71   Randandil
+                        72-00   Gandargil
+                81-88 Elves:
+                        01-09   Mathlann (Elven aspect of Manann)
+                        10-18   Meneloth
+                        19-32   Sarriel - of Dreams (Elf - Morr Aspect in his
+                                dream aspect)
+                        33-52   Sho 'sarrah. - The great provider
+                        53-81   Liadriel - God of songs and wine
+                        82-92   Adamnan Na Brionha - God of the wild dance
+                        93-98   Torothal - Goddess of rain & rivers (female Taal aspect)
+                        99-00   Kharnos  - Lord of Beasts (Elf & human aspect
+                                of Taal)
+                89-94 Halflings:
+                        01-75   Esmeralda - Godess of hearth and home
+                        76-00   The Pilgrim
+                95-97 Law:
+                        01-10   Illuminas, master of light, lord of morning
+                        11-40   Arianka, of law and discipline
+                        41-88   Solkan, Vengeance and Retribution
+                        89-99   Sormophia of eternal beauty
+                        00      Olmek - God of Banthrils
+                98 Chaos:
+                        01-30   Slaanesh - Lord of pleasure
+                        31-35   Khorne - The blood god
+                        36-46   Nurgle - The Plague Lord
+                        47-77   Tzeentch - changer of the ways, The Great
+                                Mutator
+                        78-79   Zuvassin (SRiK)
+                        80      Necoho (SRiK)
+                        81-88   Malal - The renegade, The Doomed One
+                        89-96   The Horned rat - Gnawer at the Fabric of the
+                                World
+                        97-00   Obscuras - Master of Darkness, Lord of the
+                                Shadows
+                00 Ogrish
+                        -       The great marv
+                (By the way, its very creative with all the new developed
+                gods on the internet, but how  about some creative Saints
+                and avatars instead, there are so many gods!)
+
+        51-52 Halfling war heroes (Both pages), Anominous, U, 2420, worth
+                nothing, Reikspiel
+                Worth nothing except for some Halfling academics who will
+                pay up to 5 GC.
+        53-57 The history of Sigmar, ?, C, ?, 100 gc, Classical or Reikspiel
+                This history starts from Sigmar's birth and goes no further
+                than to the point where Sigmar returns the hammer. Add the
+                Sigmar events to the readers personal timeline. Theology -
+                Sigmar skill can be gained for 100 EP.
+        58-82 Other
+                Descriptions can be found in the timeline.
+                1 Imperial Hero Magnus the Pious (2302+)
+                2 The war between Arabia and southern Old World.
+                3  Horror about Drachenfels
+        83-84 Lives of the Depraved, Konrad Steinhoff - Talabheim Schnuffler
+                & Son publishers, S, 2099, 80 gc, Reikspiel
+                Part of this book about Drachenfels is represented in the
+                handout section.
+        85 - A Theory of Chaos, Ludwig Mandelbrot, R, 2285, 225 GC, Classical
+                Speculations about Chaos as well as folklore. Different
+                subjects about Chaos is briefly mentioned. A part about
+                Zahnarzt the Bodiless - mentioned under the subject The
+                Eclipse of the Chaos Moon is represented In DoTL
+        86-89 Archaelologia Maledicta or A compendium of places wicked and
+                vile, Gunther Laubrich, U, 613 IC (first version), 100 gc,
+                Classical - Reikspiel or Arcane Latin.
+                This book represents the section in Annals of Sigmar XXXVII
+                Libram CXX (located in Nuln) - chapter of the same name. It
+                describes places and areas in the Old World renowned of their
+                wickedness and/or curses (before the year 613 IC!! This means
+                that Barony Witgenstein isn't described). No doubt this book
+                contains a detailed section about castle Drachenfels. The
+                more interesting part this section is described in the
+                adventure Castle Drachenfels.
+        89-90 The Commentary
+                Source: Hammer of the Stars
+                Huge dictionary of Folklore and Legends (The real book Funk
+                and Wagnals dictonary of folklore, mythology and legend
+                could be a good inspiration!)
+                Ex. Article: The hammer of the stars:
+                "Do you know 'Honorius'? The 'Riddle Song of the Seals'?
+                In most cities they have verses which are not sung elsewhere.
+                We would love to hear yours."
+                The Commentary: "Scholars call the riddle song a parable of
+                the soul's path to perfection. But the old view has not been
+                refuted, namely that the seal were real sacred objects of
+                great mage-ic power, not symbols, and the riddles refer to
+                their location."
+                "Some say the whole riddle song has a greater secret woven
+                into it - the way to an even older and more sacred item: The
+                Hammer of the Stars. Its use cannot be attained without the
+                mastery of the Seven Seals. It is protected by the mesmeric
+                influence of the song: one cannot hear ir and remember it
+                all."
+        91-00 Sagas
+               -Marvin the Conqueror, By his son, E, 2468, Worthless, Norsca
+                The print says "In memory of the great Marvin, by his son".
+                The book describes the life long adventure of Marvin
+                Brutalticos' search of his father. It also describes how he
+                slew Praznagar, demon prince of the horned rat, while the
+                cowardly sorcerer Bernard Philip de Garson lay wounded and
+                unconscious. Later this poor wreck of a wizard consumed
+                warpstone, by accident, and mutated into a very amusing form.
+                Later again, this poor wizard got his stilk eyeballs crushed
+                and was forced to swallow the throuses of a troll, and got an
+                ugly disease.
+                There isn't many persons in the old world who want this fairy
+                tale book, its not even complete because the last pages is
+                torn out. Highest bid is 2 GC and a couple of pennies.
+               -Hagmar Wyrmslayer. A lengendary hero who appears in the
+                folklores of Norsca and the Wasteland. He slew a dragon that
+                was laying waste to the Forest of Shadows/Southern Coast of
+                Norsca. Hagmar, son of a blacksmith, volunteered to go and
+                slay the beast. He filled a gutted carcass of a deer with
+                stones and set it to roast. The dragon swallowed the carcass
+                and the stones shattered inside the furnace-hot belly of the
+                dragon, killing it instantly. Hagmar looted the dragon's
+                cave and became rich. He forged several items of note, see
+                The Dagger of Hagmar, The Chainmail of Hagmar, the Talisman
+                of Hagmar, and The Buckle of Hagmar.
+78-84  Historical
+        -Historical Events, -, C-R, 30+ gc, -, - (After the event!)
+        These books contain details about some events in the Old World (or
+        outside it as you prefer). As well as the appropriate story, you can
+        also add events to the characters personal timeline. There a lots of
+        material to be found.
+        D100    Event                    
+        1-10    Siege of Praag
+        11-18   Drachenfels
+        19-29   Magnus the Pious. See CotWW: Magnus and the year of
+                shamming in Middenheim
+        30-41   Sigmars life (see Folklore: The history of Sigmar). -30 to 50
+        42-49   The Dwarf/elf war . -2005, -2000
+                /The war of the beard. -1997, -1974, -1948, (-1600), -1560,
+                -1501
+        50-59   The Goblin wars. -1499, -1498, -1457, -513, -469, -370, 0
+        60-62   The fall of Carag Eight Peaks. -513, 2473
+        63-64   Ariankas imprisonment and Solkan hunt for vengeance
+        65-66   Malekith the Witch-king. -4458, -4164, -2751, -2736
+        67-68   Prophet Mulhaed al-quyat. 996, 1050, 1060, 1065
+        69-79   Emperors of the Empire
+        80-88   The Religious war between Araby and The Southern Old World
+        89-90   Naggash (Citadels Kinder egg surprise! God that model is
+                ugly)
+        91      Warfare of the Skavens
+        92+     Still to be invented!
+85-90  Bestiaries, - , U-E, - , 30-100 gc, Usually Classical 
+        Bestiaries contains information of a variety of creatures. You can
+        determine the number of creatures by rolling a D10+4. Some bestiaries
+        might have more at your discretion. Remember that the creatures don't
+        have to be true creatures since many of these books have information
+        about imagined creatures, probably just to attract the readers. You
+        can use the information in the WFRP bestiary. Following creatures
+        contains more information: Dragon ogres (ROC-LD 154, see hand out
+        section), Minotaurs (ROC-LD 146), Beastmen (ROC LD 128). For other
+        creatures, you can roll up a chaos spawn, and make it a hybrid
+        between two creatures.
+        GM's with copies of Warhammer 40K could also use creatures from other
+        planes and worlds (one of these creatures could have entered the
+        warhammer world via a chaos vortex and been encountered by the
+        author), using the WFB to WFRP rules in the bestiary in the WFRP rule
+        book.
+        Names of Bestiaries could essentially be something like Liber
+        Monstrorum de Diversis generibus (Latin:Book about different kinds
+        of monsters), or Bestiis, or De Bestiis (Latin: About animals,
+        basically the same meaning as bestiary) - type
+        ex.:De Beastiis Chaotis for a bestiary containing creatures of Chaos.
+91-93 A race and its culture
+       -Skaven Society, Bargriam master of La Maisontaal, R, 100 gc,
+        Classical, 2491
+        This book describes the society of the Skavens. Although the player
+        may actually already know it, his character should obtain knowledge
+        of the different Skaven clans, and the council of the thirteen. The
+        clans described in this book is Clan Scruten, Moulder, Skryre,
+        Pestilens, And Eshin and also how they are positioned in the society.
+        The player can recognize a Skavens clan on a successfully Int check,
+        if it is a clan from the ones mentioned above. For more information
+        of the Skavens, you should reefer to the book of the rat in the
+        warhammer archives (I havent read it yet, but it looks promising).
+        Also you can let the player read the section about Skavens in the
+        WFRP bestiary.
+        The following can be added to a players personal Timeline:
+        IC 2491 Bagrian Master of La Maisontaal, infiltrates Skavenblight
+        and discovers the Black Arc. You can also add various skaven events
+        from the timeline (ex. 2387).
+       - Ogrish Standards of Etiquette, Translated by professor Werner
+        Bermann university of Nuln, S 100 gc, Reikspiel, 2476
+        This book describes the Ogres and how to deal with them without being
+        eaten. First part of chapter one is represented in the Doomstone
+        adventure Blood in Darkness, or Hogshead's Fire and blood.
+        Other informations can be found in the WFRP beastiary - such as
+        phrases, physique, and so on.
+94-96 Philosophy (non Theological)
+      - The spherical earth, Von Haldstadt, R, 2475,150 GC, Reikspiel
+        This book described the theory that the earth is round, a theory
+        believed and spoken off by a small number of people in The Old World.
+        The book mocks other writters description of the end of the world,
+        and claims that the earth has no end, as its spherical.
+        players with different opinions will have an opportunity to roleplay
+        some amusing discussions.
+      - The non-existent Gods (Front cover reads: Your Gods have perished!),
+        Anonymous, R, 2432, 50 GC, Reikspiel
+        This book is about the theory of atheist's and try to convince the
+        reader that the Gods doesn't exist with different examples and
+        explanations. The author declares himself a follower of the Chaos
+        God Necoho, not because he believes he exist but because of the
+        ideas the name symbolizes.
+        It will be hard for a player whether to denounce the book Chaotic or
+        not. Most of the Old Worlds religious cults (Especially Ulric,
+        Sigmar, and the more uncommon Law cults) have banned the book as
+        being blasphemous and many copies have been burnt (including the
+        Print house in Carroburg), while others is preserved and kept away
+        from the public in the larger Verena temples.
+      - Alternative Dimensions, Leonardo of Remas, R, 2378, 250 GC, Arcane -
+        Latin
+        This book describes the theory of planar dimensions, and warpspace.
+        A description of the Old Slann and their ability to travel through
+        dimensions is contained within the unsorted pages, but it is more
+        theory than actual facts.
+      - The philosophy of Morlum Necksnapper, Morglum necksnapper, E, ?, ?,
+        Orrakh
+        This book contains different writtings by the marauding Orc Morglum
+        Necksnapper, who was believed - by his fellow orcs, to be a great
+        thinker, but most important of all - could belt other orcs who
+        opposed him into a pulp. Three of his philosophies are represented
+        in the handout section.
+97-98  Foreseens/Prophesies
+       -Lieber Malific, Marius Hollseher, R, 2325, 250 GC, Reikspiel
+        The books main parts can easily be read by a player, by showing him
+        specific pages of the Realms of chaos books (represented in the
+        handout section without illustrations). The part "The book of chaos
+        foreseen" can be found in ROC-SD page 12, 38, and 68. The part "The
+        book of hated Khorne" can be found in ROC-SD page 110, and 210.
+        The part "The book of contemptible Slaanesh", can be found in ROC-SD
+        page 106. Handouts have been provided in appendix A. An INT test is
+        made for each of the last two parts. Failure means a gain of 1D3
+        insanity points, and success means that for the price of 100 EP,
+        a special Khorne, or Slaanesh theology skill can be gained.
+       -Omens and Prophecies of the Seer Unserfrau (DotR-33)
+99-02  Books of magic
+        01-08  Grimoire
+                Grimoires will typically contain only one type of magic
+                (eg. Necromantism or Elementalism). Determine the type on
+                this table.:
+                1D10    Type
+                01-25   Petty
+                26-60   Battle
+                61-75   Elementalism
+                76-90   Illusionism
+                91-96   Necromantic
+                96-00   Daemonology
+
+                If you play with the color colleges, you might want to use
+                the following table, when rolling a petty or battle result:
+                1D8     College
+                1       Amber
+                2       Amathyst
+                3       Celestial
+                4       Gold
+                5       Jade
+                6       Light
+                7       Bright
+                8       Grey
+
+                The Grimoire will normally contain 2D4 spells which should
+                be randomly determined individually.
+                D100    Spell level
+                01-55   1
+                56-85   2
+                86-95   3
+                96-00   4
+
+        09-14 Magic Scrolls
+                Determine which spell a scroll contains, using the above
+                rules for Grimoires. There is a 5% chance that the scroll
+                contains 1+1D3 spells rather than only one.
+        15-16 Books on spellcasting
+                Books about spell casting are rare indeed, since magic is
+                usually learned by a tutor, but they do exist. When found
+                they will typically be combined with a minor grimoire (The
+                grimoire will always be in Arcane language due to the spell
+                pronouncing).
+		D100	Magic concerned	
+		1-24	Petty magic (no spells)
+		25-50	Petty magic (D3 spells)
+		51-70	Petty magic (D6 petty spells)
+                71-80   Petty and battle lvl.1 (D6 spells)
+                81-90   Daemonologist lvl.1 (D3 spells). 
+                        Novice readers of this book gains D3 insanity points
+		91-00	Necromancy lvl.1 (D3 spells). Novice readers of this
+                        book gains D3 insanity points.
+        17-23 Books about Undeads
+                These books concerns the studying of magical Undead creatures.
+                Some can be like a bestiary, while others can be stories
+                about Undead creatures. The view points can be neutral -
+                boring dry facts!, or bear the stamp of religious viewpoints
+                - being more like a warning or apocalyptic prophecies. It
+                can of course also be an evil viewpoint, written by a
+                Necromancer, telling more about how to use Undeads than warn
+                against them. Depending on the contents, the reader will be
+                able to acquire Identify Undead/Necromantic Lore skill from
+                this book.
+                Look in SRiK for good inspiration about animated deaths.
+                Ex. Names: De Bestiis Necronomica, Liber Secretum Mors,
+                Beyond the Grave, The Restless dead (I know!), Physical death
+                and the after life, The living dead, The dark revenge below.
+        24-27 Books about Daemons
+                Basically the same as Books about Undeads above, except that,
+                of course, they tell about Daemons, and that their viewpoint
+                are rarely neutral. The reader can obtain Daemon Lore skill.
+                Ex. Names: De Beastiis Daemonica, Liber Secretum Daemonica,
+                Beings of the Void, Beyond the barriers of the Void, The
+                avengers from hell.
+        28-30 Scroll Lore/Manufacture scrolls
+        31-34 Manufacture Potions
+        35-41 Magick lore. 
+                These are books which give a theoretical insight into the
+                secret arts of magic. See description of Magick Lore skill
+                in RoSM. Ex. Names: The secret art of magick, Liber Secretum
+                Arcana Macicka, Arcana Macicka, De Magicka
+        42-49 Alchemical Lore
+                These are books which give a theoretical insight into the
+                secret arts of Alchemy. See description of Alchemical Lore
+                skill in RoSM.
+                Ex.: The Alchemicon
+                Source: The hammer of the stars:
+                Dictionary about the different effects of compounds and
+                substances (on Humans!).
+                Ex. Article: " Alas, it's as I feared! The Silver Wine of
+                Fallerion! This wine is more portent than any other. A man
+                who has drunk deeply of it shall succumb swiftly to hypnotic
+                chants or mesmeric songs", "Protection can be got from herbs
+                and seeds, most notably the Brown Pepper of Achillesia."
+        50-54 Enchant Lesser Artifact/manufacture magical items
+        55-58 Enchant Lesser Spirit Artifact
+        59-69 Prepare common Reagents
+        70-73 Prepare extraordinary Reagents
+        74-75 Prepare True Elemental Reagents
+        76    Manufacture Gas bombs
+        77-79 Thaumaturgic forms.
+                General or more throughout information on the Thamaturgic
+                forms in the art of magic. GM should reefer to the
+                Thamaturgic section in RoSM.
+        80-82 Elementals
+                General or more throughout information on Elementals and
+                Elementalism. GM should Reefer to the Elementals section in
+                RoSM. The reader will be able to obtain the Elemental Lore
+                skill (practically the same as Daemon lore, but concerning
+                Elementals and Elemental magic). Add viewpoints like the
+                books about Undeads and Daemons above.
+                Ex. Names: The Royal spirits of the Void, Elementals -
+                Spirits or just a Daemonic aspect, The four elements
+        83-89 Manufacture Alchemical compounds
+                These books are the Alchemist's "spellbooks". They contain
+                information about various compounds' effects and how to
+                manufacture them.
+                As well as being able to learn the different compounds, the
+                reader can also learn the Manufacture Alchemical Compound
+                skill. Remember, however, that the reader must have pretty
+                good insight in the subject (eg. Being a alchemist aprentice,
+                etc.).
+                ex. names: Liber Arkana Alchemy
+                The book will normally contain 2D4 compound recepies, which
+                should be randomly determined individually.
+                D100    Mastery level
+                01-55   1
+                56-85   2
+                86-95   3
+                96-00   4
+        90-94 Books about Magic artifacts
+                Books on this subject contains general information about the
+                signs and inscreptions on magical items. The books will also
+                contain examples of runes and the more common artefacts.
+                Apart from this, most books also contains information about
+                infamous and historical Artifacts.
+                The reader will be able to learn the Identify Magic artifacts
+                skill, from this book.
+        95-98 Rune Lore
+                These books contain information and some translations of the
+                ancient lore of the runes - Powerful inscriptions of the
+                words spoken by gods. The reader will be able to learn the
+                Rune Lore skill (see RoSM for more details).
+        99-00 Extremities
+                Some subjects about magic are very rare indeed Books about
+                these subjects are typically held by a powerful sorceror and
+                not available for the public.
+                It is however possible for an adventure to stumble upon
+                these ancient volumes, and they should handle them with care,
+                because many powerful villains want's to get their hands on
+                them.
+                D100 Subject
+                01-10 Runemastery!
+                11-20 Spawn Homunculi!!
+                21-26 Information on the Old Slann
+                27-30 Information of planar dimensional worlds (40k)
+                31-56 Enchant Greater Artifact!
+                57-79 Enchant Greater Spirit Artifact!
+                78-00 Enchant Daemon Artifact!
+103-104 Traps for the Unwary
+        1-50 Poison sting trap
+                Roll a new book (just for the cover identity!) adding -10 or
+                so. This book is not a real version, but contains instead a
+                device which springs up and stings the reader with one dose
+                of a random poison (Typically manbane in human areas).
+        51-65 Guardian spirit
+                Roll a new book (ignore any non book result). This book is
+                protected by a guardian spirit (see doomstone campaign -
+                Death Rock).
+        66-82 False Scroll/Grimoire
+                This grimoire or scroll actually has a real spell in it.
+                However it does not have the same effect as the description
+                states. Roll a random spell like normally, but let the spell
+                actually function like a evil spell instead. Welcome
+                Possession (RoSM) is a good one!
+        83-00 Guardian Daemon
+                Roll a new book adding +20 to the roll(ignore any non book
+                result). This book is protected by a guardian Daemon (see
+                the summon guardian Daemon spell).
+                Standard profile (feel free to improvise on details)
+                M WS BS S T W  I A Dex Ld Int Cl WP Fel
+                4 50 42 4 3 5 60 2  89 89  89 89 89  14
+                Fly as Swooper, Subject to instability, cause fear in living
+                creatues under 10 feet tall.
+                All other rules for lesser Daemons apply.
+105+ Evil and banned books
+        1-28    Don't know (empty space for later development, send your idea
+                today!!!)
+        28-36 Pox Vobiscum, no author, E, 2340, N/A, Reikspiel
+                Claiming to have been written by a high priest of Nurgle,
+                this is a declaration of a thousand year campaign to
+                overwhelm the world, and destroy it in an orgy of disease and
+                corruption. This may infact have been written by a
+                witch-hunter for propaganda purpose. Reading this book gives
+                the reader 1D3 insanity points. The book is highly
+                illegal, and the owner risk finding himself at the wrong end
+                of a rope. Nurgle followers would rather kill and steal the
+                book, than pay for it.
+        37-42 A lifetimes research on warpstone, Sufdilp Gyhr, E, 2449, 500
+                gc, Classical
+                This book is written on a pretty high level, making it
+                completely impossible to understand without good knowledge
+                on the subject (unlikely). If someone try a experiment from
+                the book, it will end in a horrible disaster. If someone
+                however is able to understand the book, there is nearly no
+                restriction to what he can learn about the use of warpstone.
+                The book is highly illegal, and death is the penalty of
+                possessing it. A wizard  who has interest in the study of
+                forbidden knowledge, will be willing to pay 500 gc for it,
+                but will start at a far lower price. "Well I don't know.
+                Its pretty ragged isn't it. I'll give you 25 crowns for it,
+                probably the best offer you can get.". You can also show the
+                player "Skaven armies" page 10+11.
+        43-58 Demonic names and correspondences, Treaster, E,  ?, 500 gc,
+                arcane language - Magick + demonic
+                The book claims to reveal the true names of a number of
+                lesser and mid-range daemons, as well as the use names of
+                many others, including a few of the greater variety. It also
+                contains a number of disguised mistakes, designed to trip up
+                anyone not conversant with the theory, and able to spot the
+                errors (apprentices for instance). The book is highly illegal
+                and the owner can expect nothing less than hanging or burning
+                by the authorities. A person with interest in demonology will
+                start with a price of 50 gc (like the book a lifetime
+                research on warpstone). If you wish, you can show the reader
+                ROC-SD 41(right side), and ROC-SD 53. For sample daemon names,
+                look at ROC-SD 23.
+        59-64 Physical Death and its Implications, Anonymous, E, 150+ gc,
+                Classical, ?
+                Supposely dictated from beyond the grave by a sorceress to
+                her aprentice. This book deals with  the survival of the
+                spirit and the realms it may encounter. The reader gains 1D3
+                insanity points. The owner can get into serious trouble with
+                religious cults.
+        65-66 The Book of Transmutation, Anonymous, E, 200 gc, Classical, ?
+                This book comprises of prophesies about the coming of
+                Tzeentch. The reader can get an insight into the Theology
+                and philosophy of Tzeentch.
+        67-68 Daemon books
+                Daemon books are books with a life of their own. A evil or
+                chaotic Daemon has been bound into a book bound in human
+                skin - and typically, also with pages of human skin, and
+                inscribed with unholy symbols in Human blood, to fulfill
+                some unknown task. These books have a life of their own, and
+                a person does not choose to own the book, but the book
+                Chooses its owner
+                The Daemons can add passages in the book to influence the
+                reader, and can also remove them again. It is also able to
+                move (crawl) and does so at M 1/2 (halve the travel time for
+                M 1), but only does so when no one can see it, since it
+                prefers discretion and secrecy about its identity and
+                presence.
+                If it is necessary the Daemon can try to control the owner
+                who will have to make a successful WP test in order to keep
+                control of himself. The Daemon may not try to control again
+                after 24 hours.
+                The person who owns, or who is owned by, the book will become
+                addicted to the book like a drug (see CotWW), and upon long
+                isolation from the book (typically when it has found a new
+                and better owner) he is, usually, driven crazy.
+                Players with this book in their possession, are in for a
+                nasty surprise and a lot of insanity points.
+                Normal Daemon warding rules apply, but the book never tests
+                for instability unless the Daemon has been freed.
+                There are always a secret way to unbound the Daemon (some
+                obscure ritual or merely a word) which the Daemon isn't aware
+                of himself.
+                Ex.: The book of Ashur (10% chance of this one), Unknown -
+                Dark elf origin, E(1), Priceless, Various - mostly Dark
+                tongue(but the Daemon chooses), ?
+                This ancient, and very huge, book has been told to hold all
+                spells in the world. Though lost and stolen many times, it
+                has always found its way back into the hands of those who
+                can be corrupted by the knowledge it contains.
+                This book has a life of its own. Long time before the humans
+                began to write books themselves, a mighty Daemon of
+                Tzeencthian origin was bound into the book - its true name
+                now long forgotten. The Daemon can teach the slave of the
+                book spells, by adding passages in the book, referring to
+                the spell the readers wants to learn, or the spell the
+                Daemon wants the reader to learn. There are a 60% chance
+                (-10% per level) that the reader will find the spell his
+                looking for (at GM's discretion it will turn out to be another
+                one when first used. Even magicks of another class can be
+                learned in this way). Any spell learned from the book will
+                always turn out to have devastating evil effect, and never
+                benefit other than maybe the caster, and surely the Daemon.
+                the reader will also gain D6 insanity points when learning a
+                spell.
+                The EP cost for learning spells is halved when learning a
+                spell from this book.
+                Each 24th hour, the bound Daemon may attempt to take control
+                of the books slave (usually only when necessary). The owner
+                must make a WP test in order to keep control of himself.
+                There is a cumulative -5 modifier for each week the book has
+                been in the characters possession.
+                Each week there is a 30% chance that a Chaos attribute start
+                developing, and additionally the subjects mind becomes more
+                dark and sinister.
+                All other rules for Daemon books apply (see above).
+
+From Drachenfels' Library:
+Forbidden Books in WFRP
+By cc697@cleveland.Freenet.Edu (Eric Oppen)
+Eric Oppen's books can be found at the Warhammer Archive
+
+        69-73 Claws of Darkness: Khaine Cult: "De Tenebris Mysteriis"
+                (On the Secrets of Darkness)
+        76-81 Slaanesh Cults (Various), Grimoire of Pleasure
+        82-89 Khorne Cults: Der Blutbuch (the Book of Blood)
+        90-97 Horned Rat cults: Der Kaufer auf der Weltwurzelen
+        98-99 Nurgle Cults: "Pestbuch" (The Book of Plague)
+        99-00 Malal Cults: "Handbuch der Verbotene Kulten den Alten Welt"
+                (Handbook of Forbidden Cults in the Old World)
+
+----------------------------------------------------------------------------
+
+Appendix A: Page handouts
+
+Lieber Malefic, the book of chaos foreseen
+Marius Hollseher
+The Book of Chaos Foreseen
+
+The Marcher Fortress
+--------------------
+There, the lands of Slaanesh stretched out below it, was a fortress of
+whimsies and foibles. It was an unlovely thing, stained by war and victory.
+Its towers, higher than any palace, wounded the sky. Its gateways were gaping
+maws that could swallow and vomit forth whole armies. Its walls were darkened
+stone, veined in unnatural colours and streaked with rotted lime and mortar.
+Here, at the Marches of Slaanesh , was the fortress, a sign of sovereignty,
+hated and condemmed by Khorne's bloody-handed whorshippers.
+
+Before the Fortress gates stretched a forest of death. From the walls to the
+near horizon was the dismal wrack of battle: corpses, the rusted swords and
+armour of the fallen, the standards of Slaanesh and  Khorne, all abandoned
+and forgotten long centuries ago.
+
+The graves of the fallen had become a rich loam, sucked upon by the trees of
+a dark forest. Pierced by tree roots, the dead had stirred once more, and
+each branch bore a skull, mildewed and pregnant with loathing, a macabre and
+cruel cargo. Only the ceaseless, horrendous laughter of the trapped shades
+disturbed the field. Their fleshless jaws clattered in the still air; the
+only reply the creaking of a windmill's sails and the grinding of its stones.
+
+For in the shadow of the castle a windmill turned, its sails moving in the
+still air, and their unclean breeze stirred the tattered flags of the death.
+Within, the grindstones shuddered and groaned, while between, pinioned and
+crushed, were the living corpses of the fallen, ground to make a rich mortar
+of blood and bone, sinew and brains. Thus was the fortress maintained and
+strengthened, its walls held aloft and marked by the power of mortality.
+Thus was the field before it harvested.
+
+And in the castle's mighty halls, its daemon overlords feasted and broke
+bread, in conscious parody of mans small amentities. All this i saw in an
+instant, and then my vision swept onwards....
+
+The Inevitable City
+-------------------
+The City was built of dark madness, and it stretched across the land to fill
+me with dread, for the path i trod would bring me to its portal. The City
+stones had been quarried from the night and in all their details and
+dressings they celebrated wickedness. No rain could wash the dust of evil
+from that place and no wind could drive out its corrupt air.  Insanity had
+served as architect, engineer and master to the City's masons, and had guided
+all their levels and plumblines.
+
+I turned my steps toward the far horizon, and still the City was before me.
+Once more I turned, and again, and yet another turning. With each freshly
+chosen course I drew nearer to the City gates, and its towers and walls
+loomed higher. The fateful gateways was the end of every road, and despair
+gnawed at my heart.
+
+As I paused to seek a new escape, I saw that I was not alone on the
+inevitable, hideous path. Between myself and the City stood a man, his head
+bent and his eyes downcast, lost in some deep contemplation. As I watched,
+he turned towards the City. His strides were firm, but he came no closer to
+the gate, and I watched as he passed me by, and went further from the gates
+until he vanished in the distant mists.
+
+Thus was it possible to avoid the City and its brooding darkness, and I
+resolved to march, against all reason, to the City. And when i did so, the
+City grew no closer, but was soon lost to my sight...
+
+The Drifting Castle
+-------------------
+The sky above grew darker than the blackest storm and a cold wind blew.
+There was no rain but a shower of mortar dust, yellowed leaves and tatters
+of flags.
+
+No storm was in the sky, but a castle much as might be found in any mortal
+land. Often had I imagined clouds to be trees and fish and mountains, and
+now a foible of some nameless and uncaring power had given this fortress the
+guise of a cloud. It was an island torn from the land, drifting as the mist
+on a breeze, yet solid and firm. In all that I had seen, this was as strange
+ as any of my visions.
+
+The castle was as empty as any ruin. Like an animal stuffed and mounted under
+glass, or a fish salted in a barrel, it had been preserved and pickled by the
+whim of Chaos. Cast aside, and left to wander across the heavens, all was
+still and desolate in that place. Its towers no longer knew the sounds of
+men, it halls held no lofty nobles, its gates admitted no tenantry, no
+sentinel stood guard, no porter waited by the gate. Even the carrion birds,
+sole visitors to its sad portals, had enjoyed their fill of the dwellers'
+hospitality.
+
+The shadow of the castle fell across my eyes, and I could see no more.
+
+The Book of Contemptible Slaanesh
+---------------------------------
+The Realm of Slaanesh was still and quiet, scented with sin and sweet
+corruption. Its silence was not that of the grave, nor of ease at labours'
+end, nor of peace after the storm. It was the malicious, plotting stillness
+of evil waiting to be done: the silence before a moon or scream of pain and
+pleasure. And in that awful quiet the small shrieks of slaanesh's daemons
+were swallowed and muted. Their endless masque and antimasque of forbidden
+pleasures and hideous pains were reduced to soft murmurs of decadence and
+depravity.
+
+As I passed over the Outer Realm of Slaanesh, my eyes were  numbed by its
+pale  softness and my ears by its endless quiet. I began to belive that any
+act could be contemplated if only it would provide variety and relief from
+the silence. I was saved from further weakness by a vile noise, carried on
+the perfumed and sickly breeze.
+
+Torn from the rocks and stones, there was a buzzing like a hundred angry
+swarm of bees. Before my eyes the land itself heaved  and pulsed, and spat
+forth mewling, puking and misshapen creatures. Lumpen and hideous, the
+monsters twisted and writhed in pleasure at their birthing, then turned upon
+one another in search of further deprevaty. When one fell, exhausted from
+its unlovely exertions, its fellows chortled and joked at its fate. The
+corpse sank slowly into the earth of that foul vale, and a new beast was
+given form from the clay.
+
+As I witnessed the decadence of Slaanesh's land, I was seen by the creatures.
+As those eyes beheld me, I turned and fled, the fiends of Slaanesh's Realm
+at my heels
+
+The Book of Hated Khorne 
+------------------------
+... I fell then, through charnel clouds and red mists that swirled about a
+land of dark ruin and much despair. The cries of some enormous beasts, their
+lowings of fear and desperation, reached my ears. And still i fell, driven
+now by fertid winds, towards a walll or cliff of deepest red and blackened
+iron. Its top was hidden in the clouds far above, its base was girt with
+boulders and skulls, no larger in my sight than sand specks, that it piled
+before its inexorable advance. The wall, for such it was, lay unbroken in
+its awful perfection from horizon to horizon.
+
+I grew afraid, for this was the Outer Realm of Khorne, the blood god, and
+this wall his bastion, the fortress about the Inner Lands. It now seemed to
+me that the stench of death broke my fall as I flew onwards, towards fresh
+visions of this vast corner of Chaos.
+
+And then ahead I saw a stair, surrounded by pinnacles and columns and
+archers of blood and carven bone,circled by daemons bound within black iron,
+brazen steps and shrieking mouths. All that could speak or gibber vomited
+forth the praises of Khorne and shrieked out songs of Blood and Death. The
+stair, its treads never built for mortal feet, climbed the dizzy heights,
+pausing at times before profane runes and stained sacrifice stones. Within
+the very fabric of the Daemon-thronged bastion were smaller landings, each
+of which could have held a lofty and noble palace of our small world. The
+stair twisted and rippled on itself, its daemons chuckling their insane
+glee at its dreadful geometry. Still it climbed, ever upwards into the
+clouds of gore that circled overhead
+
+In all my vision, I saw not one living beast or man.
+
+Through brazen gates and up endless steps I flew, my soul in dread as
+daemons snapped about my heels. And before my eyes, as I rose from that
+place, I beheld the fields and meadows of Khorne beyond the bastion, all
+quiete soaked in red, stained with souls, and plante dwith endless lines of
+corpses lashed to their stakes like a grotesquery of bean plants.
+
+Beastiarie supplement for Dragon ogres:
+---------------------------------------
+For Shartak and Shaggorth, the great and the small,
+For sharunrock, darkoth and Gathor,
+The lightnings children and the thunder's fall,
+Krakanrok and his kin will live for ever more.
+
+Use this handout for chaotic books or doom prophesies:
+------------------------------------------------------
+Despair! The age of mortals is ending. Time drains away and the stars fade
+from the sky. The bitter spawn of night crawls from its darkness to posses
+the world. Fools take refuge in faith and madness for no other hiding place
+remains. The realm of Chaos has begun.
+
+The declaration for Marienburgs independence
+--------------------------------------------
+Be it Known
+
+* That in the matter of the succession to the Barony of Westerland, I,
+  Emperor, Lord of Altdorf, Elector for the Grand Principality Of Reikland
+  etc., etc., do decree as follows:
+* Item - that following the heroic death of Graf Paulus van der maacht in
+  the defence of The Empire, his line has become extinct
+* Item -That while many claims have been pressed by the highest and most
+  illustrious houses of The Empire, there is no clear heir to the said
+  'Barony.
+* Item - that, following  many centuries of war and the most recent struggle
+  to save The Empire from the most deadly of foes, we cannot in all
+  conscience ask any of our noble houses to shoulder this further burden of
+  government in addition to the monumental tasks of healing ancient rifts
+  and rebuilding The Empire's proper greatness.
+* Therefore, it has  been decided, after careful consideration of all the
+  issues appertaining to this matter, that the Barony of Westerland shall
+  cease to be counted among the noble offices of The Empire.
+* By this decree is created the Province of Westerland, which shall be
+  governed by an appointed council drawn among the burghers of Marienburg.
+  The said council shall retain all the duties and privileges previously
+  invested in the Baron of Westerland, but may never seek or be granted
+  the status of Imperial Elector and shall be chosen by appointment rather
+  than blood succession.
+* Made by me, this thirty-second day of Vorhexen, in the Year of Empire two
+  thousand, three hundred and five.
+
+Great thinking and philosophies of the Orc Morglum Necksnapper.
+---------------------------------------------------------------
+If it ain't green, belt it till it stops movin'. Then belt it again,
+jus' ter be sure.
+- Morglum Necksnappar
+
+The only good humie'z a dead humie. The only thing better'n a dead Humie'z
+a dyin' Humie who tells yer where ter find 'is mates.
+- Morglum Necksnappar
+
+If we wozn't menter be Orcses, we wudn't be green,
+If we wozn't menter kill. We wudn't be strong,
+If we wozn't menter  rip, we wudn't 'ave weppuns,
+If we wozn't menter burn, we wudn't 'ave fire,
+If we wozn't menter  kill Humiez an' Stunties, they wudn't be where we can find 'em.
+- Morglum Necksnappar
+

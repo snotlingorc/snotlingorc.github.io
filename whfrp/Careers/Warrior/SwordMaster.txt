@@ -1,0 +1,47 @@
+From: Paul Swanson <pswanson@elk-grove.k12.il.us>
+To: The wfrp mailing list <wfrp@gojira.monsta.com>
+Subject: WFRP: Sword Masters
+
+Here is the revised version of the High Elf Sword Master
+
+High Elf Sword Master
+(High Elves only)
+
+Advanced Career
+
+Career Entrances - Any Elven Military career
+
+Advance Scheme
+
+M  WS  BS  S  T  W   I    A  DEX   LD  INT  CL   WP   FEL
+  +20     +2    +1  +20  +1  +10  +10      +10  +10   +10
+
+Skills --
+        SW - Elven Greatsword
+        Disarm
+        Dodge Blow
+        Secret Language - Battle Tongue ( High Elf)
+        Strike Mighty Blow
+
+Trappings -
+        Mail Coat
+        Elven Great Sword
+        Helmet
+
+Career Exits
+        Another military Career
+        Guardian of the Tower of Hoeth
+
+High Elf Great Sword
+        The elven great sword is a weapon of great length (up to 6 ft) and
+weight.  Only the High Elf Sword Masters have the skill and the strength to
+wield this powerful weapon.  In battle, it adds a +3 damage and -20 I.  Due
+to its great length the Greatsword imposes a penalty of -20 WS when used to
+parry.  However, in the right hands it makes a formidable foe.
+
+
+"As the young elf lord turned around his fair face drained of all color.
+There in the entrance of the cave stood a great elder dragon."
+pswanson@elk-grove.k12.il.us
+
+

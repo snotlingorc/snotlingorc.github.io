@@ -1,0 +1,31 @@
+Warrior Monk
+
+About Warrior Monks there isn't much to say: they train in combat, be
+that unarmed combat, armed combat, archery, or any other form of combat.
+Their focus in training depends heavily of the temple.
+
+		M   WS   BS    S   T   W   I   A  Dex  Ld  Int  Cl  Wp  Fel
+Warrior Monk	+1  +30 /+30  +2  +2  +6  +30 +2  +30  +10 +10  +30 +30 +10
+
+Warrior Monks get either +30 to WS or +30 to BS depending on the temple.
+
+Skills:						Trappings:
+Warrior Meditation				Weapon
+Spec Weapon(s) - as dictated by the Temple	Robes
+Dodge Blow					Temple's Symbol
+Warrior Powers - as dictated by the Temple
+Lore Skill - as dictated by the Temple
+Strike Mighty Blow
+Ki-Strike
+Martial Art - as dictated by the Temple
+Theology - any suitable, usually Buddhism
+Philosophy - any suitable
+Secret Language - Temple (different for all temples)
+Combat Acrobatics
+
+Career exits:	Abbot, Cleric, Templar, Weapon Master, Indurate
+
+Elandal (aka Ismo Peltonen)                    ## snail  Hanuripolku 5B15
+Home (UUCP)   Ismo.Peltonen@tower.nullnet.fi   ## mail     00420 Helsinki
+Univ (inet)   Ismo.Peltonen@Helsinki.FI        ##                 Finland
+Errare humanum est..                           ## phone    +358-0-5042609

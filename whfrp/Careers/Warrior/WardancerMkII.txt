@@ -1,0 +1,42 @@
+From: Marco Bizzarri <gemelli@sssup1.sssup.it>
+Subject: WFRP: Wardancers:a different advancement scheme
+
+Since Wardancers are thought as masters of elegance and grace, rather than
+Elven versions of Troll and Giant slayers, I'm suggestin a different
+advancement scheme which should reflect better this.
+
+I've also added my thoughts, in order to make them better understandable. 
+
+M   WS  BS  S  T  W   I   A  Dex  Ld Int Cl WP Fel 
++1 +40 +30 +1 +2 +8  +30 +2  +20 +10           
+
++40 WS: the master level for a character in WFRP, the right level I think for
+the elven master of weapon
+ 
++30 BS: since the Wardancers are supposed to throw also their weapon, a +30
+seems more appropriate
+
++1 S: wardancers do not make use of heavy armour: shields, leather.
+ 
++2 T: they do not have to sustain such hardness as a trollslayer or a
+giantslayer (who, if you remember, not only fight, but is also very likely to
+make use of alchool and drugs).  
+
++8 W: they do not make much use of armour, hence they have much more reasons to
+develop wounds than, let's say, a warrior in full plate armour with a shield. 
+
++30 I: they are thought as masters of quickness and nimbleness: they do not
+only fight: they perform very complex manouvres while fighting, manouvres which
+do not call only for high WS, but also for high I.
+ 
++2 A: the standard for an heavy fighting career 
+
++20 Dex: a reasonable amount, even if I suggest also to use a +10
+
++10 Ld: since a wardancer is also a dancer, and it should dance with other
+dancer, he should have some ability to follow the orders of the "dancemaster"
+(a super-powerful wardancer??? naaah!).
+
+
+
+

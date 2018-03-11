@@ -1,0 +1,144 @@
+From welsh_nh@ee.uwa.edu.auTue Oct  3 14:36:48 1995
+Date: Tue, 3 Oct 1995 11:19:51 +0800 (WST)
+From: noel welsh <welsh_nh@ee.uwa.edu.au>
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: An NPC character
+
+Rocertus Voodersteen
+A artisan/scholar for any fantasy roleplaying system
+
+  A brief introductory note: In an attempt to make this article 
+systemless and worldless, I haven't included any specifics 
+about Rocertus, such as where he studies (Monastery or 
+University etc.), or how he grew up (The merchant class wasn't 
+really powerful until the start of the Renaissance, so in a 
+standard D&D adventure, Rocertus' family may not have been very 
+rich). This missing information may have had a profound effect 
+on Rocertus' personality. That's up to you to decide. At the 
+end of the article, I'll give Warhammer specific information 
+for Rocertus detailing a bit more about him.
+
+  Rocertus is a merchant's son, whose family trades in rare and 
+expensive curiosities for the nobility. Rocertus was always 
+fascinated by the intricate mechanical toys his father 
+collected. Whilst his elder siblings were brawling, he would be 
+found crouched over some complex mechanical device, surrounded 
+by a litter of cogs and springs, probing the innards of the 
+device with a small knife.
+
+   Rocertus' father, the elderly Aquintus, recognised this 
+unhealthy interest in things mechanical in his son, and 
+apprenticed him to an artisan as soon as the boy was old 
+enough. He hoped that the boy might become a master craftsman, 
+and was well-pleased with his progress. However, it soon became 
+apparent that whilst Rocertus was gifted with an understanding 
+of mechanical apparatus, he lacked the ambition necessary to 
+make his way to the top of the Guild. 
+
+  Today, Rocertus studies mechanical devices from as far afield 
+as merchants travel. He has little to talk about outside of his 
+field, and so is seen as a quiet, reserved man by the general 
+populace. However, when he gets talking about his favourite 
+topics he will become quite animated, gesturing rapidly as he 
+explains concepts, and barking out laughter at jokes only a 
+fellow artisan would understand. Attempts to talk about other 
+topics will be meet with a distant stare and one word answers. 
+Common humour will perplex him. It is not that Rocertus is shy; 
+on the contrary, he is confident in his position in society, it 
+is just that he is not interested in anything outside his 
+speciality.
+
+   In appearance, Rocertus is a man of average height, with 
+short, light brown hair. He is paunchy from too many days spent 
+within a confined workshop, and is quite lazy, preferring to 
+send apprentices on errands, rather then leave his rooms. He 
+dresses in serviceable, dull clothes, and will typically be 
+wearing dirty leather overalls, with many pockets full of 
+springs, clips and tumblers.
+
+   Rocertus will be able to repair most mechanical devices, 
+though he will only do so if they interest him - he has better 
+things to do with his time then pick locks. He will also create 
+devices on order, though again, only if they are complex or 
+interesting. He typically has many projects on at once, and 
+quickly bores of them once he has solved a particular problem. 
+However, he is smart enough to realise who pays the bills, and 
+always completes a job on time.
+
+   Rocertus rarely trains apprentices. He is eager to share his 
+knowledge with those who show interest, but cannot relate to 
+the general concerns of students. He also tends to develop a 
+disdain towards those who show less dedication then himself. 
+Apprentices who show a lot of interest may study under him for 
+a while (especially if they bring interesting new devices with 
+them), but will typically leave Rocertus for a more practical 
+master.
+
+   A few examples of devices that Rocertus will be interested 
+in (assuming your campaign has the level of technology) are: 
+Locks, clocks, trigger mechanisms, finger-traps (watch the 
+Addam's Family!), astrolabes, mechanical manikins, magnifying 
+glasses and mechanical puzzles.
+
+  Adventure hooks: The PCs may meet Rocertus whilst looking for 
+someone to open some intricately locked and trapped ancient box 
+(and who knows what you will find inside old treasure chests). 
+Alternatively, one of the older Voodersteen's could meet 
+'something' out in the wilderness, and come home a rather 
+changed character. Rocertus in not completely cut-off from his 
+family, and may find himself drawn into the resulting chaos...
+
+
+Warhammer Specific:
+
+The statistics for Rocertus are:
+
+Base Statistics:
+M 3      WS  31    Ld  31
+S 3      BS  31    Int 35
+T 4      Dex 35    Cl  26
+W 7                WP  30
+I 32               Fel 32
+A 1
+
+Advances: Rocertus still has a +1 to T and +1 to W left in his 
+advance scheme.
+
+Current Statistics:
+M 3     WS  31    Ld  41
+S 4     BS  31    Int 35
+T 4     Dex 55    Cl  46
+W 8               WP  40
+I 52              Fel 42
+A 1
+
+Appearance: 5'8", Light brown hair, Paunchy 
+
+Family: Aquintas Voodersteen is the head of the venerable 
+Voodersteen family of merchants. The Voodersteens are based in 
+Nuln and trade mainly in curiosities and exotic items brought 
+from the distant reaches of the Old World, along with the odd 
+item from far-off Lustria. If you want an exotic animal or a 
+rare Arabian Jezail talk to the Voodersteens, but be prepared 
+to pay for it. The Voodersteens are rich, but not in the same 
+league as, for example, the Oldenhallers.
+
+Work: Rocertus runs his own business and also teaches at the 
+Universitae Royale in Nuln. His current great interest is 
+astronomy, and he is trying to construct a giant mechanical 
+planetarium to track all visible stars.  
+
+Age: 34 
+
+Careers: Artisan's apprentice - Artisan 
+
+Skills: Drive Cart, Cryptography, Etiquette, Sixth Sense, 
+Magical Sense, Secret Language - Guilder, Secret Signs - 
+Artisan, Astronomy, Metallurgy, Smithing.
+
+Trappings: Intricate tools, leather overalls, 25GC's, a handful 
+of cogs, gears and screws.
+
+Note: Warhammer and all associated material is copyright of 
+Games Workshop. I hope you found this article interesting. Happy gaming :)!

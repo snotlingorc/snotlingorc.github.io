@@ -1,0 +1,93 @@
+From: Psychedelic Goblin <PS4CC@merkland.rgu.ac.uk>
+Subject: WFRP: RUKH, god of Smithing
+
+the following god is based on a note on Ringil (Apocrypha Now pg 63)
+
+RUKH, dwarven god of smithing
+
+Rukh is the brother of Grungni and represents the dwarven crafting of 
+metal, and to a lesser extent, invention. He appears as a broad dwarf 
+with a short black beard, bronzed skin, wearing a leather apron, and 
+wielding a adamantine hammer. His arms are marvellous constructions
+of steel and mithril and can hammer tirelessly.
+Some scholars postulate that he is an aspect of the gnomic god 
+Ringil, but his followers vehemently deny this, stating that the 
+opposite is closer to the truth.
+Alignment - Neutral
+Symbol - A Hammer in a clenched metal fist. Worn as a pendant by his 
+clerics and branded onto their leather aprons.
+Area of Worship - Worshipped by dwarves throughout the Old World.
+Temples - All dwarven smiths and their guilds have a small shrine 
+dedicated to Rukh, the focus of which is usually a silver plated 
+anvil engraved with his symbol.
+Friends + Enemies - Rukh is on good terms with the dwarven pantheon 
+(esp his brother Grungni). He has very little to do with other cults, 
+but is on good terms with the Elemental gods, because he uses all 4 
+elements in the forging process. He hates the enemies of dwarven 
+kind.
+Holy Days - Rukh has no specific holy days but his followers offer 
+prayers to him at the start and completion of any construction.
+Cult requirements - Any adult dwarf who has completed a career as an 
+Engineer, Craftsman or Inventor may follow Rukh.
+Strictures - All initiates and clerics of Rukh must abide by the 
+following strictures:
+ - 10% of all income must be made over to the cult
+ - never leave a work unfinished
+ - the products of your craft are sacred and must not be abused or 
+allowed to fall into the hands of enemies (such as goblinoids)
+ - retrieve any items of dwarven manufacture that such an enemy holds
+ - dwarven artefacts are the races birthright. Spare no effort to 
+bring them back to the dwarven community
+Spell Use - Clerics of Rukh may use any Elementalist spells except:
+Walk on Water, Zone of Hiding, Cause Rain, Part Water, Become 
+Ethereal, Create Quicksand, Dust Storm, Hedge of Thorns, and Summon 
+Swarm.
+He can use the following Battle Magic spells:
+Hammerhand, Animate Sword, Curse of Arrow Attraction, Enchant Weapon
+He also has several cult specific spells.
+Skills - Clerics may spend XP each level to buy any of the following 
+skills: Engineer, Metallurgy*, Rune Lore, Smithing*
+* - indicates they may purchase the skill twice.
+Trials - Trials favoured by Rukh involve the construction of superior 
+items, and the retreival of lost dwarven artefacts.
+Blessings - Skills favoured include all craft type skills. Construct 
+is the only favoured test.
+
+CULT SPELLS
+
+Soften Metal
+Spell Level - 1
+Magic Points - varies
+Range - 1yd
+Duration - varies
+Ingrediants  - a small flame
+This spell softens the metal of any object being worked on. It cannot 
+soften items that are not being constructed, reworked, or repaired.
+For Iron/Steel it costs 1MP per 10enc
+For Mithril it costs 2MP per 10enc
+For Adamantite it costs 4MP per 10enc
+The net effect is an additional +10% to the construct test.
+
+Arm of Rukh
+Spell Level - 2
+MP - 1 per hour
+Range - Personal
+Duration - 1+ hours
+Ingrediants - small silver hammer (about 1GC)
+This spell endows the casters arm with tireless strength. He can work 
+the metal faster, longer and with more skill. It enables the 
+construct to be created in 50% of the normal time and gives +10% to 
+the construct test. Note that the MP cost must be expended every hour 
+while working and continue throughout the process.
+
+Find Flaw
+Spell Level - 2
+Magic Points - 1 per 5enc
+Range - Touch
+Duration - Instant
+Ingrediants - a tiny magnet
+This spell enables the caster to find any potential flaws or weakness 
+in a piece of metal and work around the flaw so the metal is 
+stronger. Increase the T of the item by 1 and its damage points by 
+d4+1. Note: this spell can only be used on unworked metal/ore, and does
+not increase the Armour Points of any armour made from it. 

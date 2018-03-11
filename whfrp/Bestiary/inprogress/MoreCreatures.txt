@@ -1,0 +1,12 @@
+Byttingen				/Campaign/Norsca.zip
+Cabuti-Fly				/Campaign/Miragliano.zip
+Divine Counselor			/Religion/RoDMSample.txt
+Jotuns					/Campaign/Norsca.zip
+Least Aeronoime			/Religion/RoDMSample.txt
+Mammoth				/Campaign/Norsca.zip
+Marsh Wolf				/Campaign/Miragliano.zip
+Norse trolls				/Campaign/Norsca.zip
+Sea Hydra				/Campaign/Miragliano.zip
+Slagworm				/Campaign/Miragliano.zip
+Tilean Manhounds			/Campaign/Miragliano.zip
+Ulfwerenar				/Campaign/Norsca.zip

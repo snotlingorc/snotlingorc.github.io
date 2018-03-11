@@ -1,0 +1,88 @@
+ADVANCED SKILLS
+by David Peterson
+
+It has often come up in discussion on the wfrp list that non-wizard characters have a tendency to run out of things to spend their hard-earned EP on.  One solution could be to send a character down a whole load of unlikely extra career paths in order to collect their advances - but this seems to me to be far more like powergaming than roleplaying.  Another option is to allow characters to "buy" Fate Points - once again I find this option to be rather distasteful.
+
+So here is my solution - Advanced Skills.  These are a separate class of skill in that:
+
+1)  They cost more
+2)  They have prerequisites
+3)  Their effects cannot be duplicated without possession of the skill
+4)  They may only be taken by characters who have completed at least 2 careers
+
+While they add flavour and interest to powerful PCs and NPCs, they do not have an unbalancing effect on the game.
+
+
+Combat Reflexes
+cost: 250 EP
+prerequisite: 40+ WS, 2+ A
+
+Normally all of a character's attacks for a round must be directed against the one opponent.  A character trained in this advanced skill, however, may ignore this stricture and fight more than one opponent in a round if he has sufficient attacks left.
+
+
+Lightning Strike
+cost: 250 EP
+prerequisite: 40+ I
+
+This advanced skill allows the character to draw a sheathed weapon and strike in the same movement, meaning that their is no Initiative penalty or loss of attacks when using a sheathed hand weapon.
+
+
+Martial Arts
+cost: 250 EP
+prerequisite: Streetfighting, Wrestling or some other unarmed combat skill
+
+Normally a blow struck by an unarmed opponent will be at -20 to hit and -3 to damage.  Even with wrestling and the like the -1 to damage still comes into effect.
+
+Characters with the Martial Arts skill, however, will be able to use their hands and feet to the same effect as a hand weapon, with no penalties to hit or to damage.
+
+
+Rapid Fire
+cost: 250 EP
+prerequisite: 30+ I, 40+ BS, ranger career
+
+This skill allows the character 2 missile attacks per round instead of the usual 1.  If this option is taken then each of the two shots will be at -10BS to reflect the minimal time spent aiming.  Note that this skill cannot be used with a crossbow or gunpower weapon of any sort.
+
+
+Specialist Knowledge
+cost: 250 EP and at least a year of study
+prerequistite: varies (usu. read/write)
+
+This skill represents extensive and detailed knowledge of a particular area - usually something fairly obscure.  The character will be able to answer any simple question on the topic automatically, but may need an Int test, appropriately modified at the GM's discretion for more detailed of difficult questions.
+
+What would be a suitable knowledge area would be up to the GM to determine. Knowledge of daemonology would generally require access to libraries  specifically reserved for the use of wizard college members, and would certainly not in itself allow any form of spell casting in itself.
+
+example: The other characters have all decided to take a year or two off adventuring to attempt to mix in higher social circles.  Siegfried the Scholar cares not for such things and elects to devote his time expanding his knowledge of Ancient Dwarvish civilisation - an area he found fascinating as a Student. The GM decides that it will take 6 months for Siegfried to find the information he needs at the Altdorf University Library, plus an excursion to the World's Edge Mountains to get further information from the source (and get the party adventuring again).
+
+
+Swashbuckle
+cost: 250 EP
+prerequisite: must be duellist, highwayman, outlaw chief, etc
+
+This advanced skill takes into consideration all of those nifty maneouvers like swinging from chandeliers and jumping around tables during battle - basically anything Errol Flynn would do (on screen at least).  Appropriate tests are made at +10 to Initiative.  Attempting most of these feats without this skill would almost certainly result in embarassing (and possibly painful failure).
+
+example: The Beige Pimpernel, highwayman extrordinaire finds himself cornered by the Graf's men in a second story room.  Being of basically good alignment, he has no desire to cause them serious injury, but yet has no desire to get big gaping holes in his natty outfit.
+
+The furniture in the room leaves insufficient space to Dodge normally, and so he uses his Swashbuckle skill instead to leap onto a table and avoid the flurry of swordstrokes headed his way.  He has taken a couple of wounds from this round and so decides that dicretion is the better part of valour and leaps out of an adjancent window onto his horse waiting below (failing that test might really hurt) galloping off into the night, leaving suitable witticisms behind him.
+
+
+Weapon Mastery
+cost: 250/500 EP
+prerequisite: 40+ WS/BS, currently in a non-academic career and see below
+
+Years of training and practical experience in the use of a particular kind of weapon gives the character a +10WS/+10BS in its use.  Note that the specific weapon to be mastered must be chosen rather than a broad weapon type:  longsword, shortsword, 2H flail, longbow, shortbow, fist - rather than hand weapon, 2 handed weapon, etc.  This skill may be taken multiple times for different weapons.
+
+Note that if the weapon requires a Specialist Weapon skill then the cost is 500EP rather than 250EP and the appropriate Specialist Weapon skill must be learnt first.
+
+/----------------------------------------------+---------------------------\
+|  ^ ^      David Peterson                     | "I want to get funky      |
+|  O O                                         |  I want to get funky      |
+|   L       peterson@sage.newcastle.edu.au     |  I want to get funky      |
+|  xxx      net.warhammer project co-ordinator |  But I don't know how"    |
+|  x-x                                         |                           |
+|   x       my name is dave and i am funky     |  -- The Beasts of Bourbon |
+\----------------------------------------------+---------------------------/
+
+
+
+
+

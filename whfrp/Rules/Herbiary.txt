@@ -1,0 +1,581 @@
+   THE OLD WORLDER HERBIARY
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+         -v 1.5 by Morten Krog 
+               and Andreas Forsberg
+
+The herbiary now contains plants, moss, grass, trees, mushrooms and toadstools.
+
+
+Notes on herb descriptions
+--------------------------
+Price: Two cost are given for one dose of each herb. The first is the
+        cost in season, and the second is the cost out of season.
+Method of Application: There are four methods of application;
+        Brew: the herb must be stood in boiling water for a few minutes and
+                then drunk.
+        Ingest: the herb must be eaten.
+        Inhale: the herb must be immersed in boiling water for a few minutes
+                and the fumes inhaled.
+        Smear: the herb is made into an ointment or poultice which is applied
+                to the injured part.
+Preparation: This is the time needed to dry and otherwise prepare the herb so
+        it can be used. No special equipment (other than a pestle and mortar)
+        or facilities are required. Once prepared, it will remain effective
+        for a period equal to the preparation time. After that there is a
+        10% cumulative chance per week that the herb loses its efficency.
+Dosage: This is the minimum time which must elapse before a second dose may
+        be administred. Failure to observe this requirement means that
+        a subsequent dose has no effect, and a period of twice this length
+        must elapse before another dose will have any effect.
+        This effect is cumulative.
+Skills: Any skills listed here must be possessed by the character
+        administering the herb, in addition to Herb Lore or Identify Plant.
+Tests:  Lists any test to be made by the administering character for the herb
+        to be effective.
+
+
+
+
+Angvars Help: (plant)
+-------------
+ Description: Long stems, many leaves, no flowers 
+ Availability: Average, Winter, Hills.
+ Price: 5/- and 1GC 6/-
+ Method of Application: Brew
+ Preparation: 3 Days
+ Dosage: 1 Week
+ Skills: Chemistry
+ Tests: Int
+ Effects: This plant helps the PC inhaling the steam from its brew with
+  any respiratory problems. It clears the lungs of any gases or similar.
+
+Black Cackler: (mushroom)
+-------------
+ Description: A tiny black mushroom with splodges of different colours.
+ Availability: Scarce, Spring, Wooded Hills.
+ Price: 5/- and 1GC
+ Method Of Application: Ingest
+ Preparation: 5 weeks
+ Dosage:  1 day
+ Skills: None
+ Tests: None
+ Effects:  It has a very bitter and distinct taste, easily recognized by anyone 
+  with any knowledge in these matters (+20 modifier). It causes uncontrolable
+  laughter and foolish behavior to any consuming character, who must make two
+  T-tests or suffer this effect to a light or severe degree for D6+4-T hours to
+  come.
+     Type: Happymaker        Price/dose: see above
+     Dependency: 35          Addictiveness: 40
+     Overdose: 10            Duration: see above
+     No. of doses to side effects: 5 + 1d10
+     Side effects: Bad skin, Confusion, Forgetfulness
+     Dosage: Ingest dried lumps
+
+Black Hove: (plant)
+-----------
+ Description: Brought to the Old World by elves from Ulthuan, in elven called
+  Saelisath, meaning "dark one". It is a completely black flower, with dark
+  green leaves
+  and stalk. 
+ Availability: Rare, Summer, Grassland (Only near Marienburg).
+ Price: 3GC and 6GC.
+ Method of Application: Brew
+ Preparation: 2 Months Brew
+ Dosage: 3 Weeks 
+ Preparation: 2 Months
+ Skills: Chemistry & Prepare Poisons
+ Tests: Int
+ Effects: The Black Hove is a magickally created plant, all magic using
+  creatures are immediately aware of any 'Hoves in their vicinity. Animals
+  shun it for some unexplained reason. This plant was created by one of
+  the high priests of the Pleasure Cult before it was outlawed in Ulthuan.
+  He fled to the Old World, but was hunted down and summarily killed.
+  Before his death he managed to plant his pet project in the marsh around
+  Marienburg. It has since thrived and expanded.
+  If drunk by magick creatures it will release a sudden burst of pent up
+  magick energy equal to the casters BMP (this is how much of it he "soaks" 
+  up). With this plant the MP's can go above the casters maximum. However
+  there are darker sides to this plant, and that is that it can be addictive,
+  as well as its side effects. One to three hours after drinking this brew
+  the person will at first become confused, then he will experience a high,
+  which lasts for about 3 hours, then the depressions begin. ALL percentage
+  characteristics are reduced by 15%. In its beginning the plants effect
+  didn't have the time lag between the release of energy and the high,
+  but as times past, the plant changed slightly.
+	Type: Stimulant
+	Price/dose: see above
+	Dependency: 30 
+	Addictiveness: 30
+	Overdose: 10 
+	Duration: 1d3
+	No. of doses to side effects: 10 + 1d10
+	Side effects: Loose 5% off one percentage Characteristic
+	Dosage: Drink Brew
+
+Capt'ns Heart: (plant)
+--------------
+ Description: Small red flowers resembling a heart.
+ Availability: Average, Autumn, Grassland.
+ Price: 9/- and 1GC 5/-
+ Method of Application: Brew
+ Preparation: 1 Week
+ Dosage: 5 Days
+ Skills: Prepare Poison
+ Tests: None
+ Effects: People used to think these were good for your heart, but they have
+  an altogether different effect if prepared properly. This plant is known by
+  the druids for its effect as a soothing herb, they often give it to wounded
+  animals so thet they will keep still enough to be healed. On humans it has
+  much the same effects, any person drinking this brew will become drowsy. 
+  Their characteristics are reduced as follows:
+   M-1,WS&BS -10,I-20,DEX-20,LD-20,INT-10,CL-10,WP-10. The person becomes
+  groggy and unbalanced(not mentally :), also any outside observer will assume
+  that the person is drunk.
+
+Deliona: (flower)
+--------
+ Description: Bright yellow flowers, with dark green stem and leaves
+ Availability: Rare, Spring, Lowland
+ Price: 2 GC and 4GC.
+ Method of Application: Ingest
+ Preparation: 9 Days
+ Dosage: 5 Days
+ Skills: None
+ Tests: None
+ Effects: Deliona is a pain killer. It lasts for approximately 4 hours,
+  depending on individual differences. The person eating this herb will 
+  lose all feeling of pain for the mentioned time, but also any other
+  feelings too. Nothing is felt, it is as if deliona "disconnects" any
+  emotional feelings that the person has.
+
+Dils: (plant)
+-----
+ Description: Thin green stems, branching out from the root, flowerless.
+ Availability: Common, Summer, Grasslands
+ Price: 10/- and 3GC
+ Method Of Application: Ingest
+ Preparation: 1 week
+ Dosage: 2 days
+ Skills: None
+ Tests:None
+ Effects: Induces a light sleep for 1d4 hours (No save). If there is much
+  noise nearby the person will wake up.
+
+
+Erwurgwort: (plant)
+-----------
+ Description: Brilliant blue flowers, many small flowers on a long stalk.
+ Availability: Very Rare, Autumn, Coniferous forest
+ Price: 10 GC and 25 GC
+ Method Of Application: Brew
+ Preparation: 5 weeks
+ Dosage: 3 weeks
+ Skills: Prepare Poison
+ Tests: INT
+ Effects: To avoid the worst of the damage, the recipient must make _two_ 
+  successful T tests (immunity to poison +10). If both tests were successful
+  the victim suffers respiratory problems and uncontrolled shaking for the
+  next five hours (-10 to all percentage characteristics). If one or both
+  of the tests failed the victims brething becomes laboured, after about one
+  hour the victims lungs are attacked by the poison and are paralysed,
+  leading to asphyxiation.
+
+Feuerkraut: (plant)
+-----------
+ Description: Red flower, short stalks, with many leaves.
+ Availability: Common, Early Spring, Mixed Forest
+ Price: 15/- and 2GC
+ Method Of Application: Smear
+ Preparation: 1 week
+ Dosage: 1 day
+ Skills: None
+ Tests: INT
+ Effects: When applied as a poultice to burns the herb helps to cool the
+  burns and the person recovers 1W from the healing effect (NOT cumulative).
+
+Fennel: (plant)
+-------
+ Description: Green herb, with a big white root.
+ Availability: Average, Autumn, Marsh
+ Price: 9/- and 2GC
+ Method of Application: Brew
+ Preparation: 1 week
+ Dosage: 1 week
+ Skills: Prepare Poisons
+ Tests: INT
+ Effects: This herb is a stimulant and very effective against poisons.
+  The person drinking the brew made from this herb is allowed another T test
+  against any poisonsthat have entered his/hers body within the last 30 min.
+
+Finkel: (plant)
+-------
+ Description: White flowers, long stems, not many leaves, long roots.
+ Availability: Scarce, Summer, Hills
+ Price: 8 GC and 20 GC
+ Method Of Application: Inhale
+ Preparation: 7 weeks
+ Dosage: (see below)
+ Skills: Prepare Poisons
+ Tests: None
+ Effects: This herb has a mild refreshing effect, but unfortunately it can
+  also be addictive (See Middenheim-City of the White Wolf p. 91).
+  CAN VERY EASILY BEMISTAKEN FOR GELBENWURZEL !!
+	Type: Tranquiliser
+	Price/dose: see above
+	Dependency: 25 
+	Addictiveness: 30
+	Overdose: 15 
+	Duration: 1d3
+	No. of doses to side effects: 10 + 1d10
+	Side effects: Hair loss, Depression
+	Dosage: Inhale vapours
+
+Foxtail: (plant)
+--------
+ Description: Dark red flowers, short stems, small roots.
+ Availability: Scarce, Late Summer, Grassland
+ Price: 2GC and 4GC
+ Method Of Application: Ingest
+ Preparation: 3 weeks
+ Dosage: 1 week
+ Skills: Chemistry
+ Tests: None
+ Effects: Foxtail is a strong poison, and will cause paralysis unless a
+  successful T test is made. The victim will be paralysed for 1d6+4 hours. 
+  The victim does recieve an INT test to find out if the food is drugged
+  (Foxtail has a very special taste, and all herbalists will immediately
+  recognize it - no test neccesary).
+
+Gelbenwurzel: (plant)
+-------------
+ Description: Yellow flowers, long stems, not many leaves, long roots.
+ Availability: Rare, Summer, Mountain Forest
+ Price: 3GC and 8GC
+ Method Of Application: Ingest (the root)
+ Preparation: 2 weeks
+ Dosage: 3 days
+ Skills: None 
+ Tests: None
+ Effects: The person who eats the root gains 10% to all percentage
+  characteristics for 1d4 hours, When the effecy wears off the character
+  looses 50% of all W, T and DEX for 2d6+5 hours.
+
+Goats horn: (mushroom)
+-----------
+ Description: A tall gray 3" high mushroom, shaped like a twisting horn, with its
+  upper part is covered in greenish slime.
+ Availability: Scarce, Autumn, Mixed forest
+ Price: 15/- and 3GC
+ Method Of Application: Smear
+ Preparation: -
+ Dosage:  -
+ Skills: None
+ Tests: None
+ Effects: It emmits a foul and fetid odor that, if applied, will cling to any
+  surface for up to a week, making it easily recognizeable and detectable.
+  It keeps its effect (and smell) for some four weeks before losing its potency.
+
+Gorfang: (mushroom)
+-------
+ Description: An oval ball in a metallic-black colour with a slimy outside
+  and spongy inside.
+ Availability: Very Rare, Autumn, Mountains & Heavy forest
+ Price: 50GC and 300GC
+ Method Of Application: Smear
+ Preparation: 6 weeks
+ Dosage:  -
+ Skills: Chemistry
+ Tests: None
+ Effects: It contains one of the most lethal toxins in the Old World.
+  A character suffering from this poison must make four T-tests to avoid its
+  horrifying effect, ranging from;
+        Paralysed: the affected part of the body is unable to function for
+                2D6-T hours and rather shaky afterwards for a few more hours.
+        Incapacitated: this part of the body fails to resist and looses
+                (2D4+2)*10% of its functionality for ever. This may cause
+                death if the affected part is the body or head of a victim.
+        Destroyed: the poison enters the affected part and often almost
+                completely destroys nerves and sinew in that part of the body,
+                often with deadly outcome. All function of that part is lost.
+        Fatal: failing to resist completely causes the whole nervsystem of
+                the victim to collapse causing an extremely painful death.
+
+Hallorns rest: (Mushroom)
+--------------
+ Description: Dirty white in colour, large hat, long root.
+ Availability: Scarce, Summer, Hills
+ Price: 12/- and 4GC
+ Method of Application: Ingest
+ Preparation: 4 weeks
+ Dosage: 2 days
+ Skills: Chemistry
+ Tests: None
+ Effects: A strong hallucinogen. Causes at first heavy sleep, then dreams.
+  It is these dreams that cause the greatest effect,they are _very_ unpleasant.
+
+Hellen-Auge: (plant)
+-----------
+ Description: A small bright-blue flower.
+ Availability: Scarce, Spring, Coniferous forest (Reikwald, Drakwald)
+ Price: 2GC and 12GC
+ Method Of Application: Smear
+ Preparation: 1 week
+ Dosage: 2 days
+ Skills: None
+ Tests: None
+ Effects: By applying the ointment on the area around the eyes, a characters get
+  an enhanced vision (3*range) and nightvision for 2D6 yards. This lasts for 10-T
+  hours and leaves the characters eyes bloodshot and bleary. A good nights sleep
+  or two and the eyes will be normal. 
+
+Horsefoot: (Small Bush)
+----------
+ Description: Thin brown branches, with dark green leaves and tiny blue
+  blossoms.
+ Availability: Common, Spring, Mountains
+ Price: 2/- and 15/-
+ Method of Application: Ingest
+ Preparation: 1 Week
+ Dosage: 2 Days
+ Skills: None
+ Tests: None
+ Effects: Leaves: If the leaves are eaten, they swell, easing the feeling
+  of hunger, and letting the PC worry about other, more important things
+  Note: the leaves are not sufficient as food, they do not provide any
+  sustenance, they merely ease the feeling of hunger.
+  Root: If eaten it causes mild stomach cramps and nausea. Not particularly
+  tasty either.
+
+Lathia: (moss)
+------
+ Description: A yellow-green moss, with long thin tendrils.
+ Availability: Very Rare, Summer, Mountains
+ Price: 5GC and 25GC
+ Method Of Application: Ingest
+ Preparation: 6 weeks
+ Dosage: 1 week
+ Skills: Heal wounds
+ Tests: Int
+ Effects: The smell of this preparation is _strong_, and the ingestion
+  leaves the character light-headed and dizzy. For a day afterwards all
+  disease-tests are made at a +20 bonus, and any cold and light fevers is cured.
+
+Mage-sleep: (plant)
+-----------
+ Description: Orange flowers, small stem, few leaves.
+ Availability: Rare, Winter, Mountain
+ Price: 7GC and 14 GC
+ Method of Application: Ingest
+ Preparation: 4 weeks
+ Dosage: 1 week
+ Skills: Chemistry
+ Tests: None
+ Effects: This does not put mages to sleep, rather it lets them stay awake.
+  When eaten(by spellcasters) it allows them to stay awake and still gain MP.
+  HOWEVER only 3/4 of the total MP's are regained when spending the night
+  awake.
+
+Skullcap: (mushroom)
+--------
+ Description:This smooth white mushroom grows to a hight of about 1'6" and its
+  large round head is covered by black eye-like spots.
+ Availability: Rare, Autumn & Winter, Underground & Mountains.
+ Price: 5GC and 20GC
+ Method Of Application: Brew
+ Preparation: 6 weeks
+ Dosage:  -
+ Skills: Chemistry
+ Tests: None
+ Effects: It emmits a foul odor that is slightly repellant to most undead,
+  and from its flesh are possible to manifacture up to 2D6 doses of a poison
+  similar to Graveroot. The dried flesh of the mushroom is made into a potion
+  that is poured(/thrown) over the offending undead.
+
+Slovefoot: (grass)
+----------
+ Description: Long grass stalks, with wooly white blossoms.
+ Availability: Average, Autumn, Marsh.
+ Price: 6/- and 1GC
+ Method of Application: Ingest 
+ Preparation: 5 Days
+ Dosage: 3 Days
+ Skills: None
+ Tests: None
+ Effects: This plant contains a strong drug that induces (or forces) the
+  person to sleep. The time, in hours, spent sleeping is approximately
+  6 x (no. of potions taken). The person wakes up clear and refreshed but
+  unable to remember anything that happened the last 3 hours before
+  taking the drug.
+
+Sorcerors Buttercup: (mushroom)
+--------------------
+ Description: An irregular golden globe, with a jellyish flesh.
+ Availability: Rare, Summer, March, Bog or Swamp
+ Price: 8GC and 40GC
+ Method Of Application: Ingest
+ Preparation: 2 weeks
+ Dosage:  2 days
+ Skills: Chemistry
+ Tests: None
+ Effects: About 5" high at the most, it clings to murky trees in swampy wetlands.
+  It has a very sharp flavor, and causes gagging reflexes after consuming, and
+  anyone able to hold it down falls into a deathlike slumber in 4D10 minutes,
+  sleeping for another 4D10 minutes. Each 5 minutes of sleep restores D4 MP.
+
+Splaymook: (plant)
+----------
+ Description: Small, broadleafed plant
+ Availability: Common, Summer, Grassland & Light woods.
+ Price: 5/- and 1GC
+ Method Of Application: Brew
+ Preparation: 2 weeks
+ Dosage: 1 day
+ Skills: None
+ Tests: None
+ Effects: The seeds of the plant is crushed and used as tea by many people
+  in the south of the Empire. Besides a "earthy" taste, it gives a +10 bonus
+  to test against herbal poisons for a day after ingestion.
+
+Spritzel: (plant)
+---------
+ Description: Small white flowers, thick stem and long thin leaves.
+ Availability: Common, Spring, Mixed Forest.
+ Price: 4/- and 9/-
+ Method of Application: Ingest
+ Preparation: 3 Days
+ Dosage: 7 Days
+ Skills: None
+ Tests: None
+ Effects: Spritzel keeps you awake during the night, and has much the
+  same effect as drinking a five litres of coffee. 
+
+Stampfeslaaf: (tree)
+------------
+ Description: Small tree (4'), white bark, with dark green leaves. 
+ Availability: Rare, Autumn, Coniferous forest (Reikwald, Drakwald)
+ Price: 3GC and 10GC
+ Method Of Application: Brew
+ Preparation: 2 weeks
+ Dosage: 1 day
+ Skills: None
+ Tests: None
+ Effects: D6+10 minutes after drinking the brew the character must make a
+   poison test or fall into a deep, almost lifeless, sleep for D10 hours.
+   The sleep in very refreshing and one hour of this sleep equals three normal.
+   The only sideeffect being a sour stomach for a few days.
+
+Storins Relief: (plant)
+---------------
+ Description: Thick dark green leaves, no flowers.
+ Availability: Rare, Winter, Grassland.
+ Price: 1GC and 3GC
+ Method of Application: Smear
+ Preparation: 1 Day
+ Dosage: 4 Days
+ Skills: None
+ Tests: None
+ Effects: When the evergreen leaves are smeared over any frostbites
+  they provide an oily cover that warms the skin, and ease the pain.
+  Minor frostbites treated with Storins Relief, and rested will heal
+  completely in 3 days, leaving no side effects.
+ 
+Toederlich Arka: (mushroom)
+----------------
+ Description:  This 2" mushroom has a deep orange colour, with a yellow veil.
+ Availability: Very Rare, Autumn, Heavily wooded hills
+ Price: 5/- and 1GC
+ Method Of Application: Ingest
+ Preparation: 2 days
+ Dosage:  -
+ Skills: None
+ Tests: None
+ Effects: Fresh, it is one of the deadliest mushrooms in the Old World and
+  anyone eating parts it is subject to the effect of four doses of manbane,
+  that is to make a T-tests per dose or suffer the appropriate effect (see 
+  WHFRPp82). Note that elves are totally immune to this toxin, but will feel
+  quite miserable at the ingestion of even a small piece.
+
+Purple Butterhat: (Mushroom)
+-----------------
+ Description: Purple hat, often with yellow spots, blackish root.
+ Availability: Average, Autumn, Coniferous forest
+ Price: 12/- and 3GC
+ Method of Application: Ingest
+ Preparation: None
+ Dosage: 3 days
+ Skills: Prepare Poisons
+ Tests: None
+ Effects:This herb has no effect on humans, but it has a great effect
+  on horses (inc. mules, ponies etc). The animal in question simply becomes
+  "inactive" for 10 min, after this the poison in the mushroom causes
+  the animal to become hyper-active. Not a pleasant experience for any rider.
+
+Veilbud: (plant)
+--------
+ Description: Root plant, white, has multiple layers of "veils" .
+ Availability: Rare, Spring, Mixed forest
+ Price: 2GC and 5GC
+ Method of Application: Ingest
+ Preparation: 2 weeks
+ Dosage: 5 days
+ Skills: None
+ Tests: INT
+ Effects: Veilbud causes violent stomach cramps for 1/2-1 hour. The victim
+  is unable to do much beside collapsing on the floor in agony.
+
+Yellowfoot: (Moss)
+-----------
+ Description: A green moss, with tiny yellow flowers.
+ Availability: Scarce, Summer, Grasslands
+ Price: 15/- and 5GC
+ Method of Application: Ingest
+ Preparation: 3 weeks
+ Dosage: 5 days
+ Skills: None
+ Tests: None
+ Effects: Has no other effect than to give the person eating this a
+  dark blue tongue (embarassing). 
+
+Witch-Pie: (toadstool)
+----------
+ Description: A dark brown toadstool, with a short stalk and broad hat.
+ Availability: Rare, Autumn, Mixed Forest
+ Price: 5GC and 15GC
+ Method Of Application: Ingest
+ Preparation: 1 day
+ Dosage:  -
+ Skills: None (/Chemistry)
+ Tests: None
+ Effects: The Witch-Pie is apparantly edible but its poisonous nature
+  reveals itself after some hours. The effects are rather deleriant (two
+  doses of Madman's Cap) and poisonous (two doses of Manbane strength
+  poison), but is still used by the Hedgewizardry and Witches of the Old
+  World as a ingredient in various potions and mumbo-jumbo.
+  If properly prepared (requires Chemistry) the extract is not poisonous.
+
+
+Cause and Effect
+----------------
+Some herbs need to be combined with other herbs to have an effect at all,
+while others should be kept as far away as possible from other herbs.
+
+When a person has been drugged by a herb that causes e.g. drowsiness, 
+another herb can be administered, to counter effect the first. I would
+not advise this, but it can be used as a last resort. Two herbs mixed 
+can cause varied side effects, They could become a super- stimulant 
+(the character is high for the next 24 hours), or the opposite; fall 
+into a coma. The GM should find the ideal (for the campaign) between
+these two extremes.
+
+When attempting to counter the effect of one herb with another, roll on the
+table below to see what sort of effect is attained.
+
+Table of effect
+---------------
+01-20 Super-Stimulant
+21-40 Mildly stimulating
+41-60 Cancellation
+61-80 Drowsiness
+81-00 Comatose
+
+

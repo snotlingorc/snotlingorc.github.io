@@ -1,0 +1,271 @@
+From ZZA95GGL@sheffield.ac.ukWed Oct 25 14:10:42 1995
+Date: Tue, 24 Oct 1995 00:15:16 +0100
+From: "G.G.Lepper" <ZZA95GGL@sheffield.ac.uk>
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: Dolgans
+
+First, as a warning, I'm thousands of miles away from my copy of 
+SRiK, and I've had to delete all the Dolgan postings (gulp!), so I 
+have no idea what languages Dolgans speak, or who they worship... so 
+take it easy on me folks...
+  
+  First the age/skill  chart.  Since the Dolgan lifestyle is a difficult 
+one, they learn early and die early.
+  16-20  +1
+  21-30  +2
+  31-40  +1
+  41-50  +0
+  51+     -1
+  Since they have a rigidly defined culture, all Dolgan's first skill 
+is Ride.  There is no other options.  All remaining skills can be 
+rolled randomly based on Careers.  Note, though, that Dolgans are 
+expert horsemen, and if they enter another career that offers Ride, 
+and they take it, the skill is doubled, for example, in relation to 
+risk tests.  This is only for Dolgans, and they may only do it once.
+I had a table of skills by career class, but I don't feel like typing 
+it out...
+  
+  Warrior Basic Careers
+01-10  Bodyguard.  The Dolgan is employed by possibly rich merchants 
+  or rich Kislevians, for their savage reputations.
+11-15  Labourer.  The Dolgan has left his society in search of jobs 
+  near the Wheatlands, etc.  Could possibly mean he has been an 
+  outcast of his village, or had to leave for certain reasons.
+16-30  Mercenary.  Dolgan's are employed and highly respected  by
+   Tsars as mercenaries to intimdate to   great effect.  Many Dolgans
+   see this as a honorable employment, and a   way of making money. 
+   It is also an outlet for the adventurous who  want to see the 
+  world, and play an important part in Kislev defense.
+31-40  Militia.  Often Dolgans near the Wheatlands often join the 
+  local militia to make money and provide much needed expertise.
+41-45  Noble.  Often a headman or leader, or possibly a close 
+  relative to one.  This is different than the career in the book. 
+46-55  Outlaw.  Dolgan's often find themselves raiding caravans, 
+  settlements, and become outlaws.
+56-60  Pit fighter.  Young Dolgans captured in battle or crime, find 
+  themselves as slave Pit fighters.
+61-70  Protagonist.  Warlike, many young Dolgans set off on their 
+  own, and live on what they take by force.
+71-80  Soldier.  A Dolgan employed by Kislev. Has Animal care and 
+  ride automatically 
+91-100  Warrior/ Horse archer.  A Dolgan who fights and dies for his tribe.
+
+Note:  Trappings should be carefully looked at.  Crossbows, etc. 
+should not be allowed.
+
+Dolgan Horse Archer
+  The finest horsemen in the world are the Dolgans.  The Dolgan Horse 
+Archer is amongst the best of the Dolgans themselves.  Responsible 
+for keeping the tribes safe, many are sought to be employed in the 
+Tsar's forces, so great are their skills.
+WS   BS   S T  W    I    A  Dex  Ld  Int  Cl  WP  Fel
++10 +20   -  -  +2 +10       +10
+Skills:
+  Animal Care
+  Marksmanship
+  Orientation
+  Ride
+  Trick Riding 
+Trappings
+  Shortbow
+  Quiver with 20 arrows
+
+Dolgan Noble/Chief/etc.
+  Responsible for the tribe during war, etc.
+WS   BS   S T  W    I   A   Dex   Ld   Int   Cl   WP  Fel
++10 +10   -  -  +2 +20  -    +10  +20    -   +10 +10  +10
+Skills:
+  Dodge Blow
+  Luck
+  Orientation
+  Ride 
+  Speak additional language
+  Strike Mighty Blow
+Trappings
+  Finest Dolgan clothing
+  Additional horse 
+
+Note:  Dolgan society is flexible.  Many Dolgans are "cross trained." 
+Exit careers for any Warrior are any of the careers listed as exits 
+under the career itself (which the GM approves of), any careers on
+the Dolgan warrior table, and Dolgan Lancer.  Any careers not above,
+the Dolgan must find someone to train and pay 200 Exp points for
+a career listed under the normal Warrior class table.  Any career
+outside, costs 400, to represent the role of cultural norms, mores, 
+and restrictions imposed by their lifestyles.
+
+Trappings for all Dolgan Warriors:
+  Hand Weapon
+  Sturdy Warm Clothing
+  Horse with Saddle
+  Spear
+  1d6 Starting Gold Pieces (instead of 3d6)
+
+Rangers-  Rangers play an essential role in Dolgan society, and 
+coupled with Warriors, make up the majority of careers in Dolgan 
+society.  With no further ado...
+
+Ranger Basic Careers
+
+01-15  Bounty Hunter.  Many Dolgans are employed because of their 
+  incredible reputation for persistence and savagery.  Criminals fear 
+  Dolgan bounty hunters more than most Greater Daemons.  (Well, not 
+  really, but they are scary blokes!  Look at their haircuts!)
+16-25  Caravaneer.  Some Dolgan tribes assist merchants in overland 
+  trade, instead of raiding it.
+26-35  Herdsman.  Pretty self explanatory.  If you need more info, 
+  post me privately.  You should have some idea...
+36-45  Hunter.  As above with herdsman.
+46-55  Muleskinner.  Hmm...seems like a caravaneer.
+56-65  Outrider.  Often employed in the tribes themselves, caravans, 
+  and the Tsar's army.
+66-70  Prospector.  Many Dolgans search the once Dwarven occupied 
+  mountains for forgotten wealth, since no one else dares...
+71-80  Trapper.  'nuff said...
+81-100 Horse Archer.  As in the Warrior class.  This allows the Horse 
+  Archer to choose from both Warrior and Ranger basic classes.
+
+Note:  Rules for career exits for Rangers are nearly the same as for 
+warriors.  They can exit to any acceptable career listed on the 
+career exits for their career, any on the Dolgan Ranger Basic Career 
+Chart, and Horse Lord.  Any non Dolgan Basic Ranger Careers cost 200, 
+and any others cost 400.
+
+Note:  Trappings for Dolgan Rangers are identical to Dolgan Warriors.
+
+Caravaneer
+  Many Dolgan's find that cooperating with trade can be far more 
+lucrative than risking their lives raiding it, and often find 
+themselves as escorts for the trade.
+ WS   BS   S  T   W    I   A  Dex   Ld    Int   Cl   WP   Fel
++10  +10   -   -   +2 +20  -   +10  +10 +10     -      -     +10
+Skills
+  Animal Care
+  Drive Cart
+  Evaluate
+  Follow Trail
+  Orientation
+  Ride Horse
+
+Rogues
+  Rogues in Dolgan society are very rare!  Due to the close knit 
+society, stealing from family is a bad idea.  However, some Dolgans 
+find themselves seperated from their families while young, and learn 
+all kinds of naughty things over in the big cities.  Most Rogue 
+careers are considered very shameful by traditional Dolgan society.
+
+Dolgan Basic Rogue Career Chart
+01-15  Entertainer.  Not always considered badly.  Depends on what 
+the career is.  It would be a good idea for the GM to choose one.  
+Somehow Pavement Artist seems unlikely.  Entertainers are similar to 
+bards or minstrels...
+16-20  Gambler.  Rare.  Some Dolgans wander into cities at a young 
+age and become embroiled in the seedy nightlife.  These are drawn by 
+the lure of easy money in games of chance.
+21-45  Pedlar.  Some Dolgans wander about between relations in 
+different tribes, peddling much needed goods, for a very small 
+profit.  While looked down upon, there services and goods are 
+sometimes badly needed.
+46-65  Rustler.  Yep, this is considered a very valuable career.  
+Taking horses and goods from the weak, and returning them to the 
+strong, the Dolgans.  Seen as brave warrior types striking a blow for 
+the Dolgans.  No Drive Cart, Animal Care 100%.
+66-85  Smuggler (Dolgan Smuggler).  Dolgans are sometimes used to 
+sneak goods into Kislev passed the border guards.  These are 
+specialists at avoiding the authorities.
+86-100  Thief.  They are unaccepted in society, often killed if 
+discovered as thieves.  They have no Sec Lang or Sec Signs, and no 
+Silent Move Urban or Conceal Urban , but Conceal Rural instead.  
+General thieves only, unless trained in cities otherwise.
+
+  Thieves in Dolgan society should be very rare.  If a character 
+wants to play a Dolgan Rogue, make him an outcast and let him wander 
+about with Imperial citizens in the Empire, or Kislev, where he is 
+more appropriate.
+
+Dolgan Smuggler
+  Often merchants don't feel that they should have to share some of 
+their profits with the local authorities and often employ locals to 
+help in the circumventing of exciseman.  For the caravans bringing 
+rare and splendid treasures from Cathay and Nippon along the 
+dangerous route, many turn to Dolgans to help them pass through the 
+borders.  Also, some seedy shifty looking individuals, maybe looking 
+quite cadaverous in appearance want something discreetly moved, and 
+also turn to the Dolgans.  Dolgan smugglers are good, but one must be 
+careful, for sometimes, they cost more than the taxes would...
+WS   BS   S T   W    I   A  Dex  Ld  Int  Cl  WP  Fel
++10 +10   -  -   +2 +10  -   +10   -      -     -     -      -
+Skills
+  Drive Cart
+  Conceal Rural
+  Follow Trail
+  Orientation
+  Silent Move Rural
+Career Exits:  all normal Smuggler career exits are invalid!  No 
+pilots, no seamen!  It's common-sense!
+Trappings:  sorry, no row boats!
+
+Note:  The rules for career exits are similar to Warriors, and 
+Rangers.  They however can only enter or exit through Dolgan Basic 
+Rogue Careers at 100 Exp points, and out through listed career exits 
+from their careers at 100 Exp also.  Other non Dolgan Basic Rogue 
+careers cost 200, and anything else 400.
+
+Trappings:
+  Hand weapon
+  Clothes
+  2d6 Gold pieces
+
+Dolgan Academics
+  Dolgan academics are quite rare, but often essential.  While most 
+Dolgans are needed to protect and feed the tribe, a few, for some 
+reason or other, turn to less martial pursuits.
+
+Dolgan Basic Academic Career Charts
+
+01-05  Artisan's Apprentice.  Most often a leather worker or 
+blacksmith.  With Dolgan reliance on manufactured goods, this career 
+is becoming less important.
+06-15  Druid.  Fairly rare. Some GM's might disallow this.  I think 
+that ragged half mad Dolgan hermits' as strange and mysterious wise 
+men sought out in times of need as quite interesting.  
+16-35  Herbalist.  Essential to the tribe.  Note however, no Sec Lang 
+Classical or Guilder, but 50% chance of Prepare Poison.
+36-55  Initiate.  To whatever god the Dolgan's worship.  I use a 
+Dolgan version of Taal.  If someone has any ideas, post it to me.  
+However, no Read/Write, no Scroll Lore, and no Sec Lang Classical.
+Herb Lore and Identify Plants instead...
+56-75  Seer.  Important to the tribe.  To maintain a certain degree 
+of equality, some ideas are thrown to the god's to be answered.  And 
+the seer, usually a deviant or eccentric type, an outsider within the 
+tribe, is used as a channel.
+76-90  Trader.  Similar to a pedlar.
+91-100  Wizards' Apprentice.  An apprentice to a Hedgewizard type or 
+an Elementalist.  
+
+Note:  The rules for Academic career entries and exits is exactly 
+identical to the rules for rogues.
+
+Basic trappings for all academics
+  Sturdy Dolgan Clothing
+  Horse
+  Whatever the DM feels neccessary to represent their place in the 
+society.  Amulets and talismans for initiates, seers, and wizards's 
+apprentices etc...
+
+  I apologize for all the space these postings have  taken up.  I hope 
+they add some sense of culture to the game.  My intention was to 
+alter some of the basic careers to reflect culture in the game, that 
+I felt has been neutered in the name of simplicity.  Odd that all 
+these various cultures and races have mostly the same careers, 
+spells, etc.
+  I felt that with the changes in the Warhammer world, that I'd 
+better post it while the Dolgans still have a place.  I also saw a 
+lot of interesting stuff on the Dolgans posted recently, and thought 
+I should include it while theres an interest.  
+  I will post a few more Dolgan careers tomorrow.  I don't want 
+people to see fifty postings by "G. G. Lepper" when they turn on the 
+computers.  One last thing...
+  ...what do you think?  Good, bad.  I will respond personally and 
+probably privately to everyone who responds...

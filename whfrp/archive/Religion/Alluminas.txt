@@ -1,0 +1,230 @@
+
+*Alluminas - Master of Light, Lord of Enlightenment
+
+*Description:
+ Alluminas, esoteric brother of Arianka and Solkan, embodies a pure, unchanging light 
+which renders anything it strikes unmoving and unchanging, and the idea of total 
+divine enlightenment.  His worshippers are few in the Old World, but his centre of 
+worship lies in the far eastern states of Cathay and Nippon, where he has several 
+monastic orders, the Monks of the Light (or 'White Monks': you might like to use the 
+monk careers in the archives or just use the normal cleric careers as an 
+approximation).  Nipponese worshippers know Alluminas as Annu-Minato.
+
+ Whether in the Old World or the far east, worshippers of Alluminas all share one 
+thing, the search for the Enlightenment which is oneness with their master.  They 
+study the scriptures of Alluminas as set out in his holy book (the Alluminamus), 
+meditate to strive for oneness in spirit and follow the Fourfold Path: through 
+Thought, Meditation, Dedication and Understanding comes, ultimately, divine 
+Enlightenment.
+
+*Alignment:
+ Lawful.
+
+*Symbol:
+ Alluminas' chief symbol is that of a four spoked wheel, representing the Fourfold 
+Path.  A less common symbol, but one more popular in the west, is that of a candle.
+
+ The White Monks wear white robes with the four spoked wheel embroidered in gold on 
+the left breast.  Old World worshippers usually wear the symbol of the candle 
+somewhere on their clothes or carry an amulet bearing the symbol, but generally not in 
+plain sight.
+
+*Area of Worship:
+ Alluminas has very few worshippers in the Old World and the vast majority of his cult 
+is made up of the White Monks of Cathay and Nippon, who know him as Annu-Minato and 
+whose monasteries can be found in the mountain foothills.  Even in the far east, 
+however, he has relatively few followers and monasteries, due to the strength of the 
+cult of Tzeentch (the strongest of the chaos cults in Cathay and Nippon, where he is 
+known as Lord Tsien-Tsin).  Alluminas also has a few followers who travel the world, 
+seeking out chaos, although little else is known of the 'Wanderers' (as the White 
+Monks call them).
+
+*Temples:
+ Alluminas has no temples or public shrines in the Old World and worshippers generally 
+maintain shrines in their homes.  In Cathay and Nippon, temples or shrines are built 
+as part of the monasteries.  The White Monks have one head monastery (housing the main 
+temple) and a small number of smaller monasteries who maintain subsidiary temples or 
+shrines.
+
+ Whether small shrine or large temple, worship areas consecrated to Alluminas are 
+simple and uncluttered.  The focus of the room is a wooden table, covered with a white 
+cloth which is often embroidered with one of Alluminas' symbols.  On the table is a 
+candle, which must always remain lit - if it is allowed to go out then the 
+temple/shrine must be reconsecrated to Alluminas before it can be used again.  Beside 
+the candle lies the Alluminamus.
+
+*Friends and Enemies:
+ Alluminas has little to do with the majority of religions - their weak stance against 
+chaos makes them next to useless in the struggle against it and hence not worth his 
+attention.  He is hostile to the gods of chaos (especially the traitorous Obscuras, 
+who turned away from law to rule over his own dark shadow realm) and has friendly 
+relations with the other law gods.
+
+*Holy Days:
+ Alluminas' main holy days are the Spring equinox and Summer soltice, while the Autumn 
+equinox and Winter solstice are lesser holy days, as are days when Mannslieb is full.  
+Vigils are held on the nights when Morrslieb is full to ward off chaos.
+
+*Cult Requirements:
+ Followers of Alluminas must be willing to seek the true path of enlightenment and 
+oppose chaos and change, regardless of the sacrifices they have to make.
+
+*Strictures:
+ - Oppose chaos and change whereever and whenever it is found.
+ - Study the Alluminamus, spend at least six hours a day in meditation to Alluminas 
+and follow the Fourfold Path.
+ - Abstain from the consumption of alcohol or other drugs, and from sexual activity.  
+Such things divert the mind from the primary task of seeking enlightenment.
+
+*Spell Use:
+ For spell use, the White Monks count as varying levels of cleric:  Initiate monks get 
+no magic, full monks count as clerics of level 1 to 4 (depending on the monks 
+seniority) and the Abbot is always level four.  Alluminas grants access to all petty 
+and battle magic spells, although they must get their gods' permission to use any 
+spell that causes large or permanent change (only granted in extremely rare cases).
+
+  *Hand of Light
+  Level 1, 5 MP, touch range, D6+3 turns duration
+  This spell causes the casters hand to glow with a soft light, which can be used as a 
+'weapon' in unarmed combat, although unarmed combat modifiers still apply.  A 
+successful touch causes the location touched to become 'frozen' for D6 rounds if the 
+target fails a magic test.  The location can be moved as a whole but not internally 
+(eg. a 'frozen' arm can be moved at the shoulder but can't be bent at the elbow).  
+This causes a -20 (or higher) penalty on all tests an affected limb attempts.  
+'Frozen' locations may still take damage as normal.
+
+  *Enlighten Mind
+  Level 2, 8 MPs, 36 yds range, D6 rounds duration
+  This spell causes the target to see mental images of the glory and wisdom of 
+Alluminas, with differing effects according to who/what it is cast upon.
+  - If the target is a follower of Alluminas, the images temporarily enhances his 
+search for enlightment, giving him +20 WP.
+  - Intelligent others (Int>10) feel compelled to study and understand the images, and 
+must pass a magic test for every action attempted (including moving, talking, etc.) to 
+do anything other than contemplate the images floating in their mind.
+  - Less intelligent others (Int<=10) have no capacity to understand the images but 
+cannot ignore them.  They suffer -10 to WS, BS, I and WP, halved if a magic test is 
+passed.
+
+  *Remove Mutation
+  Level 3, 14 MPs, touch range, instantaneous
+  Based on the Cure Insanity spell of Shallya, this spell allows the caster to attempt 
+to remove one chaos atrribute from any one target on a single location touched.  The 
+recipient of the spell must make a WP test, with a penalty equal to half the casters 
+WP.  If this is successful, the spell has no effect.  If the test is failed, however, 
+the location touched is removed of one chaos attribute.  The attribute is not healed 
+but simply gone, leaving an open wound in most cases.
+
+  *Create Statue
+  Level 3, 14 MPs, touch range, 2D6 rounds duration
+  Casting this spell and touching a target causes the target to be 'frozen' in the 
+position they are in for 2D6 rounds on a failed magic test.  The statue (which has a 
+toughness of 7 and is a prone target) still takes damage, and will appear to be 
+'chipped' or bits will break off as appropriate.  When the spell expires, chipped 
+areas are equated to wound loss and bits broken off will remain detached (and dead), 
+leaving an open wound where the broken off part was.  Should the statues head be 
+broken off, the target will be dead when the spell expires.
+
+  *LightBall
+  Level x, x MPs, 48 yds range, instantaneous
+  Essentially a magical missile version of Create Statue, this spell allows the caster 
+to throw a ball of pure white light at the target (within 48 yds), who will be hit 
+automatically.  Please refer to the description of Create Statue for further details.
+
+*Skills:
+ Initiates and initiate monks can and must buy Meditation skill at normal EP cost 
+before advancing to level one cleric or full monk status.
+
+*Trials:
+ Trials to Alluminas usually involve long periods of meditation (a number of hours 
+equal to twice the characters' WP, say).  Trials involving actively seeking out chaos 
+are less common, as they interrupt the quiet life that aids enlightenment.  Other 
+possible trials include opposing some of the changes that characterise human society 
+and development (eg. opposing the clearing of a forest or the construction of a large 
+building).
+
+*Blessings:
+ Alluminas is extremely selective as regards who he gives blessings, even more so than 
+other gods (I'd suggest he grants a blessing on a roll of 1-2 on D1000), and such 
+blessings are wondrous events, usually given only to Monks of the Light who have spent 
+years or decades in worshipping him.  The most wondrous of the blessings Alluminas 
+will grant is the Call of the Ancestors, described below.
+
+ At the heart of each monastery, next to the temple or shrine to Alluminas, is the 
+Hall of the Ancestors.  This great and wondrous place contains many statues, the 
+forever preserved bodies of those who have acheived total enlightenment and left the 
+confines of their mortal bodies to join Alluminas in his divine realm, the statues of 
+the Enlightened.  Ocasionally, when a monk reaches a state of almost total 
+understanding, he feels the Call of the Ancestors and makes his way to the hall, where 
+he meditates before one of the holy statues.  He enters an almost unbreakable holy 
+trance and his physical needs (food, drink, etc.) become ever smaller, until the monk 
+(after a long period of meditation) becomes perfectly Enlightened.  He will be 
+commanded to take up his place with the other statues, and will then be struck by 
+Alluminas' heavenly light.  His body will become frozen as it is, ever preserved, and 
+his spirit will join with Alluminas in his divine realm, becoming a Seraph: a lesser 
+demon of Alluminas, described further below.
+
+
+*Seraphim
+
+ Seraphim (singular form Seraph, also called Angels of Light) are the lesser demons of 
+Alluminas, the ex-mortal servants (usually White Monks) of Alluminas who have acheived 
+total enlightenment and who Alluminas has given immortality.  Of Alluminas' demons, 
+Seraphim are the ones most usually sent back to the material realm, especially when 
+the task involves conversing with mortals.  Seraphim always appear similar to their 
+mortal form, retaining their mortal size, but gain wings (they fly as swoopers) and 
+their stats are given by taking the mortal stats and applying the following: S+2, T+2, 
+Wx2, I+20, A+2, WP+20.
+
+ Any magic a Seraph could cast while mortal it can now cast at no magic point cost and 
+all Seraphim have the ability to imitate the effects of any of Alluminas' special 
+spells at whim (no time need be spent to cast the spells).  In addition, they can 
+choose to radiate a weak form of Alluminas' holy light (radius one yard).  Chaos 
+creatures within range of the light must pass a WP test or be forced to either flee 
+from it or (in the case of demons) flee back to the warp, while other creatures are 
+affected as if by the Enlighten Mind spell (Alluminas followers: WP+20; intelligent 
+others: must pass WP test to perform any action, including moving and speaking; 
+cerebrally challenged others: -10 to WS, BS, I and WP unless a WP test is passed).
+
+ Seraphim cause fear in creatures under ten feet tall and all chaos creatures below 
+the rank of greater demon.  They themselves are immune to all psychology except if 
+caused by a greater demon or god.  They are immune to non-magical attacks and cause no 
+physical damage themselves.  They generally avoid combat, but when forced into it they 
+use the Hand of Light or Create Statue spells.
+
+ A Seraph returning to the material world (usually only at the command of Alluminas or 
+to warn former colleagues of some grave threat) always appears similar to its' mortal 
+form.  It may choose to appear with or without wings and radiating its' light or not 
+as it wishes.
+
+
+* Heliaphim (based on an idea by Elvis(mbsimon@artsci.wustl.edu))
+[I'm not too sure about this name, which I based on the greek 'helios'='sun', but it 
+was the best I could come up with.  Ideas for alternative names are welcome.]
+
+ The greater demon of Alluminas, Heliaphim (singular form Heliaph, also mistakenly 
+called Light Elementals) have been seen by very few individuals.  Appearing at first 
+as a pin-prick of light, everything which is in contact with that point of light stops 
+changing.  For plants, they stop moving, the wind keeps the same direction and speed.  
+The pin-prick appears to grow as everything which stops changing starts giving off 
+light.  Intelligent creatures, or those still around, must make a WP test, to do 
+anything.  If after one round, the intelligent creature does not act at least once, 
+they are frozen, and become part of the unchanging light.
+
+ Being overcome by the light has the following effects.  Any chaos attributes are 
+gone.  Not healed, just gone.  This usually leaves chaos creatures with lots of open 
+wounds.  No action may be performed while overcome.  One may watch, but cannot move 
+their eyes.  Magic wielding PCs or NPCs may 'battle' with the Heliaph, which requires 
+a WP vs WP test.  (Whoever succeeds by the largest amount wins.  A tie is redone) 
+Three successes in a row must be scored, to "force" change on the demon, which dispels 
+it.  This has never been done, to anyone's knowledge, but magical theorists swear it 
+works theoretically.
+
+ When the demon leaves, those left must make a WP test to move.  If they fail they 
+can't move and may try again 2D12 hours later.  They do not need food or water while 
+they can't move, but also can't stop others from robbing them.
+
+ The main characteristic of a Heliaph is that it doesn't change.  No matter what, even 
+if a character hit it, it wouldn't change.  The only stat that the Demon needs is WP 
+100.
+

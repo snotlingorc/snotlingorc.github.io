@@ -1,0 +1,238 @@
+From: "G.G.Lepper" <ZZA95GGL@sheffield.ac.uk>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: >New Career: Sensitive
+
+
+New Basic Career: Sensitive
+
+  A little seed of Chaos is in every person.  That little seed can 
+twist and alter people.  However, sometimes, the taint of chaos 
+doesn't always come in physical form.  For some it can be a curse, 
+for others, a blessing. 
+  A Sensitive is a person tainted by Chaos, and as a result receives 
+some time of precognitive types of power.  They don't start off with 
+a career, because up until this point in their lives, they relied on 
+their "gifts" to get them through life.
+
+ WS  BS S T   W     I   A   Dex   Ld   Int    Cl   WP   Fel
++10    -   -  -   +2 +10   -       -       -   +10 +10 +20     -
+  Skills:
+Roll once:
+  01-15 Clairaudience
+  16-40 Clairvoyance
+  41-65 Empathy
+  66-100 Psychometry
+Magical Awareness
+Sixth Sense
+50% chance of Meditation
+
+  Career Entries:
+  None.  This career should only be used when the GM gives it to a 
+player as a starting career for a specific campaign.  If you are 
+given this career by the GM, it means you're probably an exceptional 
+player, and can handle the responsibility!  Don't disappoint your GM!
+  Career Exits:
+  Could be anything.  Since the Sensitive has relied on his/her 
+abilities, it's really up to the players' roleplaying abilities and 
+the GM kindness to both determine exits.  Exits in the academic field 
+are most likely, e.g Wizard's Apprentice. 
+ 
+Note:  Before the character could control their gift, they often 
+experienced random and painful experiences.  For example, a 
+Clairaudient of voyant seeing their father beat their mother 
+senseless in the next room.  The gifts also occur in their dreams, so 
+sometimes others' nightmares creep into theirs.  All this 
+uncontrolled mayhem has played havoc with the Sensitives mind, and 
+therefore, they have start with one mental disorder.  This can be 
+determined by the GM, or rolled randomly
+
+Sensitive's Gifts
+  Clairaudience: 
+  The sensitive can hear things beyond their range of hearing.  A 
+sensitive sitting in their room in the inn, could possibly hear all 
+the activity happening in the inn.  They rarely hear whole 
+conversations, but usually just hear fragments.  If a sensitive wishes to use 
+this ability, they must roll under their WP.  If successful, they may 
+(GM's allowance) be able to hear what's going on in a nearby area.  
+The range for this ability is the WP stat in yards.  WP=30, the 
+Sensitive can pick up a specific conversation within 90 yards.
+
+  Clairvoyance
+  The sensitive can see things beyond their range of vision.  They 
+often get flashes of imagery, for a few seconds, faces, clothing, but 
+they can't understand what is being said.  Even with read lips, the 
+sight is ethereal, and such a skill could not normally be used.  The 
+possible range and use for this skill is the same as Clairaudience.
+
+  Empathy
+  The sensitive is particularly aware of the emotional state of a 
+person nearby.  Usually, this is a fairly passive skill.  A person's 
+mental state is usually visible from their body language.  And 
+Empathy just confirms what the sensitive's other perceptions tell 
+him.  But in cases of extreme mental distress, insanity, or emotional 
+intensity, the Empath will become more aware, and can look through 
+people's image management.  If the Empath thinks somebody is lying to 
+them, they can use Empathy to sense guilt.  If when questioning the 
+person, and they feel guilty, it still might concern something else.  
+Maybe the fellow slept with his friends wife.  If the person is a 
+sociopath, no guilt would be detected.
+  The emotions that can be picked up would be like exuberance, 
+happiness, contentment, anger, hatred, rage, sadness, loneliness, 
+apathy, guilt, frustration, and other extremes.
+  To find the effective range for this skill, it's one tenth of the 
+empath's WP in feet.  WP of 40, effective range of four feet.  To use 
+this skill to probe someone's mental state, a test against WP in 
+needed.  If successful, the senstive has discovered only the person's 
+mental state, not the reasons for it.
+
+  Psychometry
+  The sensitive is particularly aware of the latent  experiences 
+stored in objects.  By touching an object, and successfully testing 
+against WP, the psychometrist can pick up fleeting images attached to 
+the object.  A weapon might conceal glimpses of it's maker, it's 
+bearers, or its victims.  But which are which, the sensitive might 
+not know.  It could be very dangerous, picking up strange objects, or 
+Chaos artifacts!  Problems using the bedpans, or garderobes also.
+  The range for this ability is touch.  How much of these fleeting 
+images is understood by the psyometrist is determined by the GM and 
+the success of the dice roll.
+
+Note:  each intentional  use of a Sensitive's gift by the PC, whether
+successful or not, reduces the Sensitives Will Power by ten.  There
+is a cost for exerting oneself!  This is not recovered until the Sensitive has 
+slept.  If the GM uses the Sensitive's gift to advance the game 
+along, the GM decides whether or not to subtract from Will Power.
+  Also, if a Sensitive, when testing against Will Power, rolls a 
+double (e.g. 66, 88, 100), and that double is above their Will Power, 
+they're ability has worked, but in a horrible way.  A Clairvoyant or 
+Clairaudient may have peered into the Chaos realms, an Empath may 
+have looked into places in a person's heart that shouldn't be viewed!
+And a Psychometrist might have almost lost their personality in the 
+object they were examining.  
+  When this happens, the Sensitive must immediately make a WP roll 
+based on the new reduced level.  If they succeed, they gain 1 
+Insanity Point, and can avoid the worst of it.  If they fail, they 
+gain 1d6 insanity points, as the horror of it alters their minds!
+  Looking places you shouldn't, SHOULD BE RISKY!  This is
+not a Psionic character class.  This is a person tainted with
+Chaos, (but not Chaotic), and it's both a curse and a blessing!!!
+This brings that taint in humanity into play in the game.  Chaos
+is in every human!  By the way, this is for humans only!
+
+Notes:  Most rolls for the initial use of the "gifts"  should be
+done by the GM.  A success, may give vague clues.  Give cryptic
+or obscure answers.  Don't answer, "Yeah, she feels guilt.  The type
+of guilt that only a high Priestess of the Golden Phallus of Slaanesh 
+should feel!"  No, more like "You sense a dark and turbulent past 
+about this woman.  You feel a shiver up your spine."  A person who
+relies only on their "gift" should get set up by the GM to humble 
+the player! 
+  A failed non critical use  may produce nothing, or a false or an 
+ irrelevant image decided by the GM.  That's why the roll should 
+be done in secret.  Whether or not successful, the GM should make 
+sure that the WP drops. This increases the chance of the exhausted 
+and weary Sensitive of making a mistake...
+  Also, the GM can use passive (GM induced effects, as opposed to 
+active use, chosen by the PC.) effects to move the game along.  The 
+character's are going nowhere, the GM passes the sensitive a note, 
+with a vision.  They neglected to get the power word neccessary for 
+the artifact, the GM gives the Sensitive a note.  Since it's not the 
+Player using the ability actively, more a plot device of the GM, WP 
+should not drop, since it's a perk compared to the other 
+disadvantages.
+  This also gives the GM a constant plot device, and the ability to 
+pass lots of secret little notes!  Which I love to do!
+  The GM should only give this starting Basic career to an 
+exceptional role player, and only then if it's part of the campaign.  
+This career should never be used as a random role!
+  Also, the GM should not show undue favor to the Sensitive.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Si
+
+  Cheers!
+
+         Rev. Garett Lepper
+         zza95ggl@sheffield.ac.uk
+
+"Before bed, I prefer to bludgeon myself to sleep."
+  -DM, Bob 3:16

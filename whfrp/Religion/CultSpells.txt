@@ -1,0 +1,390 @@
+From MadAlfred@aol.comMon Aug 14 08:48:18 1995
+Date: Thu, 9 Feb 1995 23:58:04 -0500
+From: MadAlfred@aol.com
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: WFRP@gojira.monsta.com
+Subject: WFRP: Cult Spells
+
+   In addition to the cult related careers, I developed some new cult related
+spells.  These are detailed below.
+
+(Obligatory copyright statement)
+   I am releasing the following material I have written which may be used
+only in a GM's home campaign.  I reserve all rights to the descriptive
+material while system-specific material is copyright by GW.
+
+
+Alfred Nunez
+MadAlfred@AOL.com
+Hauptdirektor-Schwarzmantel
+
+
+
+===Petty===
+
+Ease Pain (Rhya)
+Spell Level: Petty
+Magic Points: 2
+Range: Touch
+Duration: Instantaneous
+Ingredients: Small cloth or feather
+   This spell grants the cleric the ability to ease the pain experienced by
+an individual.  Usually it's used to ease the pain of childbirth and other
+minor injuries which does not normally result in a loss of W.  However, this
+spell can be used to lessen the effects of any first level spell which cause
+injury (such as a fireball).  If cast on the victim within 10 rounds of
+injury, the wounds inflicted are reduced by 1 (even if the character is
+seriously wounded). 
+
+
+===First Level===
+
+Morr's Peace (Morr)
+Spell Level: First
+Magic Points: 1
+Range: Touch
+Duration: Instantaneous
+Ingredients: None
+   The spell grants the cleric the ability to protect the soul of the newly
+deceased by summoning a Guide of Morr (Lesser Daemon of Morr in ethereal
+form) to escort that soul to Morr's dark realm.  In areas where Morr has
+sacred ground (e.g., cemeteries, shrines) within 25 miles, the Guide collects
+the soul immediately.  Outside that radius, there is a very small chance (2%)
+that a spirit minion of Khaine arrives to capture the soul before the Guide
+of Morr can arrive.  Without this spell, Guides of Morr have only 75% chance
+of finding the spirit of the newly deceased.  Those souls not found may
+wander the land as restless spirits.  These spirits tend to be those located
+by Necromancers and used for their nefarious purposes.
+   This spell also provides some protection for the decease's body from
+Necromancers.  To use a body protected by this spell, the Necromancer must
+test with a -30 penalty to their WP.  Failure brings additional risks to the
+Necromancer as Morr alerts his Witch Hunters to their presence.  Should the
+Necromancer "fumble" (roll doubles) his failure, Morr may send a Guide of
+Morr (in physical form) in place of a Witch Hunter to deal with the
+troublesome Necromancer.
+
+
+===Second Level===
+
+Sunspear (Ormazd)
+Spell Level: Second
+Magic Points: 8
+Range: 10 yards
+Duration: Instantaneous
+Ingredients: A 1" copper rod
+   The cleric grants the ability to call down a narrow beam of fire from the
+heavens which burns one targeted individual or creature.  This spell may only
+be cast if sunlight is present.
+   Non-flammable creatures receive 1d6+2 wounds at Strength 6.  Flammable
+creatures receive 2d6+4 wounds at Strength 6.  Flammable objects struck by
+the sunspear burst into flame.
+   The sunspear has great power against Daemons and Undead, causing 2d6+4
+wounds at Strength 6 and blinding the target for 1d4 rounds.  Also, such
+creatures must make an Instability test immediately.  Any control exercised
+over targeted Undead is immediately broken and must be re-established by the
+controller.
+
+
+Ward Vegetation (Rhya)
+Spell Level: Second
+Magic Points: 5 per 125 Cubic Yards
+Range: touch
+Duration: 1d3 days
+Ingredients: None
+   The cleric is granted the power to protect a large area of vegetation (and
+the soil within which they are rooted) from blight and other infestations.
+ In addition, this spell can slow any seepage of contamination from Chaos
+substances such as Warpstone and Warpdust.
+   The volume to be warded must be marked off by holy symbols inscribed onto
+the barks of trees and stems of smaller plants.  Once invoked, the inscribed
+symbols disappear from normal view and can only be perceived by those with
+the Magical Sense skill. 
+
+
+===Third Level===
+
+Flaming Scimitar (Ormazd)
+Spell Level: Third
+Magic Points: 10
+Range: Touch
+Duration: 1d6+3 rounds
+Ingredients: A 2" plate of burnished copper
+   The cleric is granted the ability to cause one touched scimitar to become
+a magical flaming weapon for the duration of the spell.  In addition this
+spell grants the wielder of the flaming scimitar a temporary increase of +10
+to WS and +1 to Strength.
+   Non-flammable creatures receive 1d6+2 wounds at the strength of the
+wielder.  Flammable creatures receive 2d6+4 wounds at the strength of the
+wielder.  Flammable objects struck by the flaming scimitar burst into flame.
+   The flaming scimitar has great power against Daemons and Undead, causing
+2d6+4 wounds at the strength of the wielder.  Such creatures must make an
+Instability test immediately.  Any control exercised over targeted Undead is
+immediately broken and must be re-established by the controller.
+
+
+Meld into Stone (Grungni)
+Spell Level:  Third
+Magic Points: 6
+Range: Touch
+Duration: 1d6+3 rounds
+Ingredients: Crushed stone
+   Once invoked, this spell grants the cleric or fellow cultist the ability
+to meld into stone objects (including most tunnel walls).  This spell also
+permits the individual passage through stone objects at that person's
+cautious rate of movement.  Should the individual still be in the stone
+object at the time the spell effect expires, then they are ejected from the
+stone at the point they entered.  If underground, the effected individual may
+enter another passage, room, or chamber before the spell ends to avoid being
+returned to the point of entry.
+
+
+Summon Pack (Ulric)
+Spell Level: Third 
+Magic Points: 8 MP to invoke, +1 MP per turn after first 
+Range: 2500 yards radius, centered on the invoking cleric
+Duration: Variable
+Ingredients:Pinch of wolf hair
+   Once invoked, the nearest pack of wolves within the area of effect will be
+summoned to the side of the cleric.  For the duration of the spell, the
+primary duty of the pack is to protect the cleric from anything harmful.
+ This could range from huddling against the cleric to keep him warm during a
+winter storm to defending him from enemies in the great forests of the
+northern Old World (such as Goblins, Beastmen, etc.).  In addition, the pack
+will fight alongside the cleric should the latter decide to press the attack
+against his enemies.  Under no circumstance will the pack attack on orders
+from the cleric.  Ordering the wolves to attack while the cleric is standing
+back from combat is very much against the principles of Ulric (it is a
+cowardly act, after all).  Any cleric treating the summoned pack in this
+manner will immediately end the spell and subject himself to the displeasure
+of Ulric (thus prompting some sort of penance).
+   Wolves that serve as mounts for Goblins are immune to this spell as they
+are beyond the influence of Ulric (these wolves are considered to be in the
+service of the Orcish deities).  
+
+
+Sword of Cleansing Flame (Solkan)
+Spell Level: 3 
+Magic Points: 15 Range: 
+Touch Duration: 1d6+3 rounds 
+Ingredients: None
+   This spell grants the cleric the ability to cause one touched sword to
+become a magical flaming weapon for the duration of the spell.  In addition
+this spell grants the wielder of the sword of cleansing flame a temporary
+increase of +10 to WS and +1 to Strength.
+   Inflammable creatures receive 1d6+2 wounds at the strength of the wielder
+while flammable creatures receive 2d6+4 wounds at the strength of the
+wielder.  Flammable objects struck by the swordof cleansing flame will be set
+aflame.
+   The sword of cleansing flame has great power against Daemons and Chaotic
+beings, causing 3d6+6 wounds at the strength of the wielder.  Also, Daemons
+hit by the sword of the cleansing flame must make an Instability test
+immediately, even those who are protected by the Daemonic Magic spell Stop
+Daemonic Instability (Level 2).
+
+
+Ward Portals (Myrmidia)
+Spell Level: Third
+Magic Points: 10 + 5 per additional day
+Range: 20 yards
+Duration: Until sunrise of the following day
+Ingredients: A wooden wedge
+   Once invoked, the cleric is granted the ability to provide some protection
+to all doors or gates of a stronghold within the spell's range against
+physical and sorcerous attacks.  All doors warded against such attacks add a
++1 modifier to their T while stronghold gates add a +2 modifier.  In
+addition, warded portals nullify any magic which could open such portals
+without attacking them (such as the petty spell "Open").
+
+
+===Fourth Level===
+
+Alter Appearance (Ranald)
+Spell Level: Fourth
+Magic Points: 10
+Range: Touch
+Duration: 5d6 rounds
+Ingredients: A party mask
+   The cleric is granted the power to alter the outward appearance of an
+individual (including self) and their clothing/trappings.  This alteration
+may change the individual's height (up to one foot in either direction),
+weight (maximum 25 lbs.), body shape, hair color and length, eye color, and
+other distinguishing features.  The specifics of the altered appearance is
+determined by the invoking cleric (with a 10% chance that Ranald overrides
+the cleric's decision in favor of his own).  This spell does not change the
+personality, age, or gender of the individual.  In addition, this spell does
+not allow an individual to assume the appearance of a specific personality
+(such as the Emperor).  Anyone suspicious of the altered individual must test
+against Intelligence with a -30% modifier to see through the alteration
+(Illusionists and clerics of Ranald do not apply the negative modifier).
+ Other modifiers may applying depending upon how the altered individual
+behaves and uses other appropriate skills (e.g., acting).
+   When invoked, the effect of this spell takes effect immediately for any
+willing follower of Ranald (including the invoking cleric).  Those who do not
+follow Ranald have a innate resistance to this spell and require a failed WP
+test to have their appearance altered.  An unwilling follower of Ranald must
+also take a WP test to resist.
+
+
+Intervention (Solkan)
+Spell Level: 4 
+Magic Points: 25 
+Range: 100 yards 
+Duration: 1d3 hours 
+Ingredients: None
+   The spell grants the cleric an appeal to his patron to possess a cultist
+(or invoking Cleric) during an extremely dire situation (e.g., being
+surrounded by a Chaos warband led by a Greater Daemon).  The possessed
+cultist assumes the profile and abilities of a Greater Daemon.  In addition,
+the effected cultist grows in height to that of a Greater Daemon and may
+cause fear in creatures of less than 10 feet in height.  Note: the possessed
+cultist will always follow the dictates of their patron deity.
+   There is a high degree of risk to the possessed cultist, however, in that
+the driving force of Solkan's burning passions may consume the cultist.  The
+effected cultist must test vs. Toughness x 10, adding a +10 modifier.
+ Success means that the cultist will be exhausted and unable to perform
+strenuous activities for the following 1d3 hours.  If failed by 20 or less
+points, the cultist suffers 1d6 wounds at strength 5 from burns inflicted by
+the possession.  If failed by over 20 points, the cultist suffers 2d6 wounds
+at strength 10.
+
+
+Pacify (Liadriel)
+Spell Level: Fourth
+Magic Points: 12
+Range: Cleric
+Duration: Until next sunrise
+Ingredients: A drop of wine
+   This spell grants the invoking cleric the ability to calm all creatures
+within the area of effect (25 yards centered on the cleric) who are hostile
+towards the cleric or his companions.  These once hostile creatures will lay
+down their weapons and sit as they find contentment in the song or music that
+must accompany this spell.  Moreover, should the invoking cleric pass a Fel
+test (with the appropriate modifiers), these creatures may be called upon to
+provide a service, such as protecting the cleric and his companions or
+leaving them alone.  Naturally, any request that is obviously intended to do
+the pacified creatures harm ("Would you mind looking the other way while I
+slipped this sword through your ribs.") will automatically end the spell's
+effect.  If the cleric luckily survives that episode, he'll still have to
+contend with Liadriel (after all, this action would definitely be a gross
+violation of Liadriel's principles).
+   This spell also provides the cleric and his companions with a +20 modifier
+to all fear and a +10 modifier to all terror tests caused by hostile
+creatures within the area of effect.
+
+
+Sanctify Food (Esmeralda)
+Spell Level: Fourth
+Magic Points: 14
+Range: 25 yards
+Duration: Immediate
+Ingredients: A pinch of salt
+   This spell grants the invoking cleric the ability to neutralize any
+poison, toxins, and deleriants added to any food and drink within the area of
+effect.  Additionally, this spell reverses any spoilage and resulting
+(natural) toxins from the effected food and drink.  So healthy does the food
+and drink become that anyone wounded will recover D3 wounds simply by
+consuming such food and drink.  Should the consumer be suffering from the
+effects of disease, poison, etc., they will be able to take another Toughness
+test with a +30 modifier to overcome their affliction.
+   Note: the benefits of the spell occur immediately upon consumption of the
+food and drink.  Any failed test cannot be retaken until another spell is
+invoked.
+
+
+Summon Undead of Morr (Morr)
+Spell Level: Fourth
+Magic Points: 25
+Range: 10 yards of cleric
+Duration: Until next dawn
+Ingredients: Feather of a raven
+   The cleric is granted the power to summon the deceased soul of a Morr
+cultist in whatever form Morr decided will fit the purposes of the cleric.
+ The Undead of Morr must be summoned within 10 yards of the invoking cleric.
+ Unlike other undead, the Undead of Morr do not require controllers.  In
+fact, they can think and act independent without penalty.  Undead of Morr
+understand their task as well as their current state of existence.  Once
+their task is completed, the spirit returns to Morr's realm.
+ 
+Undead of Morr
+ M   WS  BS   S   T    W    I   A   Dex   Ld   Int   Cl   WP   Fel
+  4    55   55*   4   4   24   65   3    50*   60   60   75   80    45
+          * assumes form is physical
+
+Magic Points: 35
+
+Undead of Morr are immune to psychological rules, cannot be forced to leave
+combat and, if they choose, cause terror in all living creatures.  Undead of
+Morr can even cause fear in all undead creatures except liches, vampires, and
+wraiths.  Moreover, Undead of Morr have spellcasting abilities and spell
+availability of a third level cleric of Morr.  Further, Undead of Morr are
+not subject to instability unless they are on sacred ground of Khaine,
+Orcish, Daemonic, or Chaos cults.
+
+
+Summon Wild Hunt (Taal)
+Spell Level: Fourth
+Magic Points: 30
+Range: 10 yards of cleric
+Duration: Until the hunt is completed or dawn breaks
+Ingredients: A hunter's horn
+   One of the strongest available to clerics, this spell must be used only in
+the most desperate of situations (e.g., when a mighty Chaos warband of thirty
+strong led by a Chaos Hero is about to descend on a camp of a young noble
+lady escorted by three armed guardsmen).  The spell grants the cleric the
+power to summon the Wild Hunt into the world.  The Huntsman and his hounds
+appear facing the direction of their quarry, but wait for the cleric's
+request before sounding the horn (signaling that the hunt has begun).  The
+Huntsman, a large man with stag antlers and cloven hooves for feet, runs with
+the baying hounds as they pursue their prey.  He is armed with spear, sword,
+and bow and may use spells as if he were a fourth level cleric of Taal.
+ Should the quarry be particularly powerful, the Huntsman may tap into the
+Magic Points of his hounds.  Thus, only the strongest of foe have any chance
+-- remote that it is -- to survive the hunt.
+
+Huntsman
+ M   WS  BS   S   T    W    I   A   Dex   Ld   Int   Cl   WP   Fel
+  9    85   55    9    9   22  85   6    75    85   85   85    85    55
+
+Magic Points: 40
+
+6 Hounds of the Wild Hunt
+ M   WS  BS   S   T    W    I   A   Dex  Ld   Int    Cl   WP   Fel
+  9    45    0     5    5   11  55   3     0    40   35   60    40    25 
+
+Magic Points: 10
+
+   Should the cleric summon the Wild Hunt for a trivial matter (e.g., killing
+a band of ten goblin wolfriders because the cleric and his four buddies
+didn't want to risk themselves in a battle), the Huntsman will appear without
+his hounds.  Facing the offending cleric, the Huntsman will announce that the
+cleric has incurred the wrath of Taal and punishment would be forthcoming.
+ There is a 10% chance that the punishment will result in the offending
+cleric becoming the object of the hunt (in which case the Huntsman will give
+the cleric a fifteen minute head start).  Otherwise, the Huntsman will simply
+vanished and the cleric will have to await Taal's decision.
+
+
+Ward Battlements (Myrmidia)
+Spell Level: Fourth
+Magic Points: 20 + 10 per additional day
+Range: 35 yards
+Duration: Until sunrise of the following day
+Ingredients: A small blanket
+   Once invoked, the cleric is granted the power to ward any 20 ft section of
+battlement or wall in which soldiers defend against melee and missile
+attacks.  Missile attacks against these warded structures and the soldiers
+who defend them are made at a -20 modifier to BS (in addition to other
+modifiers, such as hard cover) and a -1 modifier to the ES (Strength) of the
+weapon.  For example, a crossbow normally has a weapon ES of 4.  Against a
+defender behind a warded wall, the weapon will have an ES of 3.  Attackers
+fighting over the warded structures suffer a -10 modifier to WS (in addition
+to other modifiers, such as hard cover) and a -1 modifier to the attacker's
+S.  Once over the warded battlement of wall, the attacker may melee without
+any further effects from this spell.
+   In addition, this spell weakens the strength of sorcerous (wizard's) magic
+directed at the warded battlement or wall.  All sorcerous spells suffer a -2
+modifier to S.  Further, defenders of the warded structure gain a +10
+modifier on saves against area of effect spells.  Note that this does not
+effect spells which are not area of effect, but can be targeted on an
+individual.
+

@@ -1,0 +1,21 @@
+From: Psychedelic Goblin <PS4CC@merkland.rgu.ac.uk>
+Subject: WFRP: Yet More Careers!
+
+PIKEMAN
+Pikemen are an integral part in the armies of the Old World, and pike 
+units are greatly feared on the battlefield. The countries of 
+Averland and Stirland are famous for their pikemen, and mercenary 
+pikemen from these areas are very popular in Tilea. pike units are 
+some of the only units who can engage enemy cavalry without being 
+hopelessly beaten.
+M  WS  BS  S  T  W    I    A  Dex  Ld  Int  Cl  WP  Fel
+      +10                +2 +10 +1          +10
+Skills:                                           Trappings:
+Disarm                                                   Mail Shirt
+Dodge Blow                                           Pike
+Secret Language - Battle Tongue
+Sec.Wpn - Pike
+Street Fighting
+Strike Mighty Blow
+Entered from: Militiaman
+Exits: Mercenary Captain

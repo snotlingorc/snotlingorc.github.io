@@ -1,0 +1,41 @@
+From: Psychedelic Goblin <PS4CC@merkland.rgu.ac.uk>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: Pikes etc revisted
+
+Regarding Pikes:
+----------------
+A pike is essentially a very long spear, usually 10-12 ft long, but 
+ranging up to 20ft (the longer ones being used in tight unit 
+formations). These rules are for a standard Pike 10-12ft long.
+Weapon:Pike  Init:+20/+30   To Hit:-10   Dam:-   Parry:-10
+Notes:The Pike user receives a +20 Init. bonus during the first round of 
+combat and during subsequent rounds if they are winning. If their 
+opponenet is mounted, they receive a +30 Init bonus during the first 
+round of combat and subseqeunt rounds if winning. 
+
+The To Hit penalty is used for all attacks due to the length of the 
+weapon.
+
+Due to the pikes length, an opponent cannot attack the pike user unless
+the pike user misses an attack, the attacker beats the pike user with 
+Init.(remember the pike user gets a +20/+30 bonus), or the opponent 
+successfully dodges or parries and then makes a successful Init. 
+roll.
+
+On the downside, a pike is useless once the opponent bypasses the 
+point and closes in.
+
+Halberds:
+---------
+The existing rules for halberds are fine but neglect the fact that 
+many had hooks to dismount riders.
+
+Rules for hook use:
+Against mounted opponents roll to hit at -10 penalty, but the attack 
+does no damage. The halberd user must then roll Str to hold the 
+weapon fast. If successful the mounted opponent must roll Ride (not 
+Str) in order to remain mounted. If the mounted character is 
+galloping/charging both rolls are made at -10.
+
+Against foot opponents use the above rule but the opponent makes a 
+Str test to remain standing.

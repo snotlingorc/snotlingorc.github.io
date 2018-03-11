@@ -1,0 +1,32 @@
+Date:          Mon, 16 Dec 1996 16:25:54 EST
+From: "SkeKster" <MMIE4997@SIMCL.STJOHNS.EDU>
+To: wfrp@buddha.incite.com
+Subject: Re: Rules for weapon breaking
+Message-ID: <2D7C8AB69A9@SIMCL.STJOHNS.EDU>
+
+Hi all,
+    I'm relatively new to the list but I thought I'd post my rules for 
+breaking weapons.  The system is really simple because I feel weapon 
+breaking should not occur all that often and definitely should not 
+take up much game time.  Basically I only check to see if weapons 
+break during a parry in the following situations:
+    1) When their is a difference in strength of 3 or more.
+    2) When the character parrying rolls a '01'.
+I only check for armour breaking 
+    1) on the roll of a '01' to hit.
+    2) when the attacker's S is 7 or greater.   
+ Anyway, once you have determined that a break may occur check to see 
+if it does.  A break occurs on the roll of a '1' and the quality of 
+the weapon/armour dictates what die is rolled. 
+Wooden weapons               D4
+Metal weapons/armour         D6
+High quality weapons/armour  D8
+Dwarf forged weapons/armour  D10
+Mithril weapons/armour       D12
+Magic weapons/armour         D20-D100 
+Magic Artifacts              D100
+
+I admit the system is not very elegant but it works well.  I 
+have rules for sword breakers, I'll post them if anyone is interested.
+
+SkeKster 

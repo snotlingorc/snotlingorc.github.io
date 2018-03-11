@@ -1,0 +1,17 @@
+
+There's a new funny skill from Polish magazine "Talizman". While it doesn't
+change things much, it gives a cool narrative opportunity.
+
+ Neat blow: a western-style blow, after which victim flies along the ballistic
+ curve, showing his/her boot size and falling with loud "thump", creating a
+ cloud of dust (regardless of weather and other conditions). Of course,
+ victim is also knocked out for D3 rounds.
+
+Same source, new rule proposal.
+
+ For unarmed combat, if both fighters are unarmed, normal penalties are
+cancelled and appropriate skill gives +10 bonus. Normal damage is ignored,
+only extra damage is considered - multiplied by 5 it's treated as percentage
+chance of KO (change multiplier for "fragile" hit locations).
+
+ BTW: I'd also count Strength effect for Str of 7 or higher.

@@ -1,0 +1,55 @@
+From apile10@alsvid.scu.edu.auWed Aug 16 18:01:21 1995
+Date: Mon, 8 May 1995 15:42:42 +1000 (EST)
+From: Aaron John Pile <apile10@alsvid.scu.edu.au>
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: >Cool tests
+
+> >Anyone else have a problem with the uniformity of the cool test. Your just
+> >as likely to curl up into a ball at the sight of an ugly jaberwock as a
+> >greater deamon.
+> 
+> But a jabberwock only causes fear, while a greater daemon causes terror
+> (and possibly insanity). Quite a different proposition.
+I didn't have the rule book on me. Change that to the difference between a
+greater an lesser deamon then (Assuming lesser deamons cause fear.).
+
+> >
+> >Perhaps each terror/fear causing creature should have a terror/fear rateing,
+> >which a characters cool is subtracted from, to give the chance of being
+> >terrified out of your wits!
+> 
+> That would work, I guess. And rather than having some things cause fear and
+> other things cause terror, how about having multiple levels of fear and
+> terror, linked to the amount by which the Cool test was failed? Effects
+> could range from mildly unsettled (-10 to %-based tests until the situation
+> has passed), through the existing fear and terror effects to the full
+> Cthulhoid sanity-blasting.
+
+perhaps a combination of them both
+
+Chance of causing terror:
+    Lesser deamon:  70%-cool
+    Greater deamon: 90%-cool 
+
+effects:
+   Fail by 1%-5%   Stunned by Shear disbelief - defend only
+   Fail by 6%-10%  Flees in fear- gains a few insanity points
+   Fail by 11%-15% Curls up into ball and bables - counts prone- insanity
+                   gain
+
+> Another thing that might be good would be for some characters to have
+> modifiers to Cool tests caused by particular things. For instance,
+> Daemonologists and Witch Hunters might be less prone to be terrified by
+> Daemons than would, say, Templars with equally high Cool scores, who've not
+> spent so much time studying the beasties and seeking them out.
+
+ All in the gms realm of roleplaying. As long as the charcters can
+sufficiently justify it. You'd have to take into consideration the amount of
+the cool advances that they get just for studying deamons and such though.
+
+
+-- 
+.' '.                    Internet: apile10@scu.edu.au
+Southern Cross University
+Lismore NSW Australia

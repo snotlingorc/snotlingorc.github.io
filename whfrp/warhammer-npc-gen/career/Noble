@@ -1,0 +1,40 @@
+M:0
+WS:10
+BS:10
+S:0
+T:0
+W:2
+I:10
+A:0
+Dex:10
+Ld:20
+Int:0
+Cl:10
+WP:0
+Fel:10
+Skills:13
+Blather
+Charm
+Ettiquette
+Heraldry
+Luck
+Read/Write
+Ride
+Wit
+50%gamble
+50%Public Speaking
+25%Consume Alcohol
+25%Specialist Weapon - Fencing Sword
+10%Musicianship
+Trappings:5
+Horse
+Expensive cloths
+2d6 Gold Crowns
+Jewellery worth 10d6 Gc's
+1d4 Handers-on
+Exits:5
+Bawd
+Duelist
+Freelance
+Gambler
+Student

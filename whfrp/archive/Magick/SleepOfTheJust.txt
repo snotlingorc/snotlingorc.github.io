@@ -1,0 +1,23 @@
+From: Gregory Jay Scott <scott3@america.net>
+Subject: [WFRP:1528] Re: Scenario Ideas for Wars
+
+Sleep of the just
+-----------------
+
+Spell level: 3
+Magic points: (the number of targets divided by 10 rounded up).
+Range: variable
+Duration: To gain effects sleep by the target in question must occur
+between the casting and the next sunrise. the effects last until the next
+sunset.
+Ingredients: The dried skin and/or fresh entrails of any Chaotic being.
+Saving throw: none
+
+The area to be effected must be surrounded by a continuous border
+defined by a rope of the ingredients. Any non-evil/chaotic being
+sleeping in side this area rolls a d8 upon waking, if they roll equal
+to or below the number of hours slept they gain +3 WP, +3 Cl, and roll a 5%
+chance of begin able to ID undead. Note that the 5% is a one time roll
+and either effects them for the entire day or has no effect. Remember
+that all effects cease at sunset. Note that this CAN effect animals
+(think Warhorse's that are even less likely than normal to balk.)

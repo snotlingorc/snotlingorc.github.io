@@ -1,0 +1,115 @@
+From: dace.ecc@argonet.co.uk (David Eccles)
+Subject: [WFRP:1211] BOOZE!
+                          The Drinking Binge (for WFRP)
+                         -=============================-
+NB. This has been Adapted from a multitude of ideas and articles about inns
+and such like and follows a similar pattern to that of the 'Pelican's Pearch'
+rules.
+
+ Rules for Boozers
+-=================-
+
+   i) each time the the character has a drink the player (or GM which is more
+fun) must keep a record of how many Alcohol points that character has.
+  ii) When it is that the number of Alcohol points is divisible by toughness
+than a Strength test is required with a penalty of the no. of Alcohol points.
+ iii) Each time a test is failed the number of alcohol points in % is deducted
+from all percentile scores, if the test is failed by 50% or more then deduct
+one point of movement as well.
+  iv) If any percentile characteristics reach zero then the charcter collapses
+into a drunken stupor for d3 + no. of Alcohol points. Also the character gains
+one insainity point which will lead to Alcoholism in the long term. If all the
+movement is lost before percentile the PC's have lost the ability to walk, if
+they attempt this they will most likely fall flat on their faces and puke up
+everywhere with a distinct lack of dignity.
+   v) Lost characteristics are regained at the rate of D10 per hour of sleep
+or D3 per hour of activity, a severe hang-over may hamper some tasks though
+such as spell casting, reading, etc...
+
+ Example
+-=======- 
+(NB this actually happened in a game) Gibbons a scholar with T3 consumes a
+bottle of Apple brandy (12 alcohol points) since this is 4 times his toughness
+he needs to make 4 tests with a S3 (30% - 12 A.P. = 18%) unsuprisingly he
+fails all four by 50% or more losing all four of his movement points. This is
+where the roleplaying fun came in, since he is at a rather swanky ball
+attended by lots of aristocrats. Gibbons trying to get to the privy, suddenly
+realises his legs have stopped working and trips into a Duchess, promptly
+being violently sick down her expensive ball gown, she wasn't too happy... 
+
+ At the Bar
+-=========-
+Some common alcoholic beverages are:
+
+Drink                                       type/size   Alcohol pts   cost
+
+Beer                                        Half pint       0.5        3d
+Beer                                           pint          1         7d   
+Local Ale                                   Half pint       1.5        5d
+Local Ale                                      pint          2         9d
+Strong Ale                                  Half pint       1.5        7d
+Strong Ale                                     pint          3         1/-
+Braakbroew Ale                              Half pint        2         1/-
+Braakbroew Ale                                 pint          4         1/9
+Imperial Brandy                                shot          4         4/-
+Imperial Brandy                               bottle        16        12/-
+Apple Brandy                                  goblet         3         3/6  
+Apple Brandy                                  bottle        12        10/6
+Kislevite vodka                                dram         4.5        3/9
+Kislevite vodka                               bottle        18        15/-
+Norse Aquavit                                  dram          5         5/-
+Norse Aquavit                                 bottle        22        2GCs
+House wine           						goblet     		1			6d
+House wine           						bottle     	 	8		  4/-
+Estalian white       						goblet     		2 		  1/-
+Estalian white       						bottle    		17		  8/-
+Estalian red         						goblet     		2		  1/2
+Estalian red         						bottle    		18		  9/-
+Brettonian white     						goblet		    2		  1/6
+Brettonian white     						bottle    		17		  10/6
+Brettonian red       						goblet     		3		  1/8
+Brettonian red       						bottle		    22		  12/-
+
+
+Thats made me thirsty now! If you didn't want this, tough! you've got it :-)
+
+And Gavin <grb@psyc.nott.ac.uk> responded
+
+I really like the rules you have given.  It makes a lot more sense that the
+simple T test.  I had actually been thinking of rules for fighting whilst
+drunk, did I hear anyone think bar brawl...
+
+I had actually been thinking of modifiers for combat, but I really like the
+idea of alcohol points.  I had a scheme where depending upon how much you
+had drunk you would get a corresponding amount off various characterisitcs
+
+WS BS I Dex would all get -10/1 or more as you drink
+but T would be increased by 1, as you'd be too drunk to care
+I had also thought about a +1 damage as you will use all your might in
+hitting things.  However these T & S modifiers would only be used once the
+character actually fails a drunkeness test.  This to me seems to capture
+the essence of the drunken idiot swirling about himself/herself with a
+chair leg....
+
+I have also a set of modifiers for fumbles.  On the role of a natural
+double the weapon you have gets dropped or embedded in something.
+
+11 you swing violently and your blow glides over your opponent, - 10 I
+22 you put all your effort into a lunge which your opponent sidesteps -20 I
+33 swinging your weapon above your head spins you round lose next A
+44 you smack your weapon into a chair/tree and the blow stings your hand, make
+   I/Dex average test to avoid dropping it -5 WS for the numbness
+55 your weapon flys from your hand, roll d12 & d6 to discover where it lands
+66 you stumble, make a dex test to avoid falling otherwise lose rest of A,
+   or all attacks next round if last attack
+77 you manage to embed your weapon in the floor/furniture S test to remove
+88 you trip on your own boots and stumble forward at your opponents feet
+99 swinging wildly you manage to crash into a chair/table, take S4 hit to the
+   body and only parry rest of round
+00 you go for the final blow, unfortunately you hit your own leg, take
+   normal damage, including S & the +1D (embarassing way to die....)
+
+Maybe these are a little extreme, but then you are drunk...
+
+Well they are my modifications for the periluous act of drunken combat
+Comments please

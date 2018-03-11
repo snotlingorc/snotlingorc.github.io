@@ -1,0 +1,49 @@
+From: Gregory Jay Scott <scott3@america.net>
+Subject: Roman spears and misc. magic items
+
+Roman spear.
+This weapon is a real historical based weapon. Its head is about 1 to 1.5 
+feet long and is made from unquenched low grand steel. It does one less 
+damage than a regular spear. It does have several advantages over a 
+regular spear. For one thing (although this is more the thing you might 
+worry about in WFB) if they hit the ground, especially rocky ground, 
+they will bend over. This makes it so that the enemy can not throw them 
+back at the owner. Stone will always have this effect, sand or well 
+cultivated soil never. On regular soil(with some small pebbles etc) or wood 
+there is approxiamately a 25% chance of it bending over. Also if it 
+peratrats bone, scales, plate armor or perhaps scale armor it will deform 
+around the peretration point. Thus it is very hard to remove and in the 
+case of armor will most likely require that the armor be cut appart. In 
+the case of scales or bone taking the spear out will take a intellegence 
+test by a person with surgery skill this takes about an hour. Failure 
+means a one point critical is rolled on the for the approriate area. Also 
+the until the spear is removed I is 10, WS -15 and all risk tests are 
+taken at -20. this is to account for the imbalance resulting from having 
+a 6 foot long spear sticking out of you.
+
+A magical equivalent of this is a thin metal spear with a bulging flat
+head. A large group of these are use usually paired with a magic trinket
+such as a ring or a amulet. It causes most of the same problems as a roman
+spear. It does not bend like a roman spear. When the end strikes anything
+solid it adheres so strongly that it is easier to have a black smith or
+surgeon chisel away the spear shaft or cut the armor/flesh away than to
+pull the spear off. If the surface hit is very dirty it will stick to a
+layer of dirt and fall off. If it is cut out by a surgeon the surgeon must
+pass a Int check or cause 1 wound to the patient a non-surgeon using a
+dagger or scalpel may attempt this but automatically causes 1d3 wounds
+ripping it requires a test against (S-T+2)*10, were S is the pullers
+strenght (-1 if trying to rip it off of your self) and T is the
+victem/patients toughness. If successful this causes d6 wounds. A
+anti-magic spell will negate it perminently or contact with the trinket it
+is paired with with negate it for the duration of the combat. It has an ES
+two less than a normal spear and caused the same problems except the item
+hit may usually be removed. If it hits skin it will loosen and fall off as
+the skin naturally replaces it self. In case of scales the next molting
+process will be difficult due to the spear being in the way but when
+completed will have left the spear behind. If you want to tone this down
+have the PC's find several spears but not the trinket that goes with them. 
+
+A similar item is a metal disk with the same enchantment on one side and a
+ring on the other. Again a set of them are paired with a magical tricket. 
+This is in valuible for anchoring ropes when climbing or whatever. A
+hydrologist master might have a few of these and there matching trinket. 

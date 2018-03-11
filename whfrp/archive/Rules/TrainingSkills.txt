@@ -1,0 +1,45 @@
+From: Michael Andersen <ia9501@knold.ballehs.dk>
+Subject: Rules: Training in Skills
+
+Training in Skills
+By Michael Andersen and Brian Andersen
+
+In our gaming group training of skills have always been a frustrating subject.
+We all wants some realism in the rules and became quite happy when we 
+discovered the rules "Practice makes perfect". But then another realism
+problem showed up: When a character had trained a skill, it was like the
+skill has just suddenly 'popped up'. Nothing was mentioned about the 
+characters progress in the skill, and we discussed situations where a
+character had a week back of his training time in a skill, but still was
+as useless as ever to perform a specific task.
+
+The following rules is a addition to the rules about gaining skills in 
+Apocrypha Now, The Restless Dead, or WD 90 called Practice makes Perfect. A 
+character wishing to learn a new skill must train for a number of weeks before 
+he can pay the amount of EP's needed for the skill.
+Unfortunately these rules doesn't state anything about the characters progress 
+in the learned skill. 
+If a character trying to do something which require a skill the character 
+doesn't have, the character will have to test against 20% of the characteristic 
+in question. 
+The rule is this: The rolled number of weeks for the training time, is divided 
+into 8 periods. Each passed period increases the characters chances in the 
+affected characteristic.
+The easiest way to calculate this is to divide the characteristic by 10. You 
+now have the tenth amount, and can multiply this number.
+
+Of course there exist some special cases. These are mentioned here:
+
+Specialist Weapon - it is mentioned in the rulebook that a character trying to 
+wield a specialist weapon he isn't skilled in, must roll under 10%. Instead 
+the character should roll under 20% of his WS as the other skills.
+
+What do you think?? Is the idea useless or?? Comments add-ons??
+
+
+BTW, Does anyody have any ideas for critical tables about the folowing types of 
+damage??? You would be Our hero if you could create a table or two for these
+types of damage (and We're sure others would be happy too, right?!?)
+
+Blunt Weapons critical, Claw critical, Gunpowder weapon critical, Explosives 
+critical, Fire critical.

@@ -1,0 +1,48 @@
+From: Gabriel <VAMPIRE@URSUS.BKE.HU>
+Subject: WFRP: And now .... Chaos Rules again!
+
+-----------------------------------------------------
+The Plague Monk (Templar of Nurgle) - Advanced Career
+-----------------------------------------------------
+
+   The Templar of Nurgle is a thing, whose spectacle is so disgusting,
+that even the most braves' heart is shaking when they come face to face
+with it. The Templar is a plague-rotten being, whose goal is to spread
+the disease which will lastly kill him, too. He is the Chosen One, who
+live with the disease, and uses it as a weapon to complete his god's
+dark intentions.
+
+Advance Scheme:
+WS +30, BS +30, S +1, T +2, W +10, I +20, A +2, Dex +10, Int +20,
+Cl +40, WP +40
+
+Skills:
+Arcane Language - Demonic
+Cast Spells - Nurgle Battle Magic (see the WH Battle Magic)
+Demon Lore
+Dodge Blow
+Immunity to Disease (he is the carrier of many diseases, and his body is
+ in ruins, but he won't die in them)
+Immunity to Poisons
+Prepare Poisons
+Resist Pain (bacause of his bloated body, he can't feel the pain, so ignore
+ all rules on the effect of pain)
+Spread Disease (the touch of the Templar is highly contagious - victim rolls
+ d100: if the result is higher than his Toughtness, he is infected with a
+ randomly chosen disease)
+Very Resilient
+
+Trappings:
+Full Plate Armour with the symbol of Nurgle or Robes (like the ones the
+leprous wore in the Middle Age)
+Various Weapons
+D4 Chaos Mutations (I used the table in the old WH40000 game)
+  - usually mutations which ruin the physical appearance
+
+
+Character entries:
+Warrior of Chaos (use the statistics from the Bestiary)
+ - I don't have an idea for more, but if someone have, please send me -
+
+Character exits:
+No

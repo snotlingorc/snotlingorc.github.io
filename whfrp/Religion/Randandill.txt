@@ -1,0 +1,164 @@
+From: "G.G.Lepper" <ZZA95GGL@sheffield.ac.uk>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: Even More Gnome Stuff
+
+  The final, and most mysterious deity is Randandill.  Gnome society 
+is rich in folklore and stories.  Usually it involve Ringil 
+outwitting someone, or rescuing wayward Gandangil.  However, in many 
+stories, Ringil is accompanied by a mysterious Raven.  This Raven 
+is believed to be Randandill, the cynical brother of Ringil.  It was 
+believed that Randandill, of all the gods, sought out the "truth", 
+the secrets that lie behind reality and perceptions-and discovered 
+it.  However, the knowledge altered his nature, and now the god 
+straddles deceit and honesty, light and shadow, the truth and 
+deception.
+  Randandill embodies cynicism and a world wearyness.  Many Gnomes, 
+jaded of the world, turn to his worship, and involve themselves in 
+the mysteries of this cult.
+
+Alignment: Neutral
+Symbol:  None for certain, but all temples and ceremonial robes bear 
+a cross with all legs the same length: a "+".
+Area of Worship:  Worshipped in Bleakbearing, and in small groups 
+amongst Gnome society.  Gaining in popularity in Bretonnia.
+Temples:  The only major temple is in Bleakbearing.  In most shrines 
+of Ringil, one of the two adjoining shrines is dedicated to 
+Randandill.
+Friends and Enemies:  All human cults are fairly ignorant of this 
+cult, perceiving it as a cult to Ringil's brother, one who represents 
+old age (of course, this is wrong-but many facts about Randandill are 
+mysteriously obscured outside of Gnome culture).
+Holy Days:  One holy day, secretive, celebrated in Bleakbearing, when 
+Randandill allegedly saved it from a rampaging army of goblinoids.  
+Many local Gnome communities have local holidays, when enemies were 
+turned back by illusions and deception.
+Cult Requirements:  Must be an adult Gnome, capable of keeping a 
+secret, and intensely curious about the nature of things.  
+Strictures:  
+  1)  Never act openly against an opponent
+  2)  Don't reveal the nature of the Cult to non Gnomes, and don't 
+reveal Cult secrets even to Gnomes
+  3)  Always pursue knowledge
+  4)  Protect Gnome society
+  5)  Never kill a raven
+  6)  Never act openly, conceal all your actions, and conceal your 
+concealment-none must know you're plotting or seeking knowledge.
+Spell Use:  Clerics of Randandill may use all Petty spells, 
+Illusionist spells, and the Elementalist Level Three Spell: Become 
+Ethereal, and a few cult spells.  All illusionist spells only cost 
+the Gnome half the magic point cost of the spell.
+Skills:  They must buy one of the following per level:  Acting, 
+Charm Animal Raven, Hypnotise, and Ventriloquism.
+Trials:  The acquisition of an ancient tome, the defense of a Gnome 
+community, a deception that provides Gnomes safety from the outside 
+world (example, tricking a nobleman in to leaving the Gnome 
+community alone).
+Blessings:
+  Blather, Spot Trap, Palm Object, Charm Animal-Raven, Conceal Urban 
+or Rural, Hypnotise, Charm, Ventriloquism, and favored tests are 
+Observe, and Bluff.
+Career Exits:  The may become Diplomats, Gnomic Loremasters, Spy, or 
+any thieving career.
+
+Spells:
+  Wisdom
+  Petty Magic
+  Range: Personal
+  Spell Cost: 1
+  Duration: One turn
+  Ingredients:  Powdered glass
+  Allows the Gnome to sense when they are being watched.  May be 
+extended each turn at the expense of another point.  They have a 
+general sense of the watcher, and the degree of interest the viewer 
+has on the Gnome.
+  
+  Speak to Raven
+  Level 1
+  Magic Points: 2 per turn
+  Range: 10 yards
+  Duration: 1 turn +
+  Ingredients:  Raven feather
+  The Gnomic cleric, while concentrating on any single raven in the 
+area, may telepathically communicate with it on a rudimentary level.  
+May ask the raven what it has seen, where it has been, what is 
+around, or how far to a location, and may, at the expense on two 
+additional points, get the raven to carry out a single task, which it 
+is then obliged to fulfill.  This task must not senselessly endanger 
+the ravens life.  If the raven dies under the influence of this 
+spell, the cleric loses all Clerical spell casting abilities until 
+they fulfil their penance.
+  
+  Contact Raven Familiar
+  Spell Level Two
+  Magic Points: Four to cast
+  Range: Personal
+  Duration: Permanent
+  Ingredients:  gold jewelry, valued at least 100GCs.
+  This will summon a Raven Familiar, who will act like the Raven 
+Familiar for the Old Faith.  A servant of Randandill, the Raven may 
+be revoked at the breaking of any stricture by the GM, and this spell 
+may not be cast until penance is done.  The familar gives the skills 
+of Excellent Vision and Divination to the Cleric, as well as a +10 
+bonus to Initiative as long as the spectral raven is within 10 yards. 
+In all other aspects the rules for this raven are the same as for 
+familiars of the Old Faith, with the exception that the Raven is 
+allowed to make itself visible, withing 10 yards, and may go beyond 
+10 yards, to a distance in yards equal to the Clerics Will Power, for 
+a duration of rounds equal to the Cleric's Will Power.  However, when 
+the Raven goes beyond ten yards, the bonus skills and Initiative are 
+lost until the Raven returns.  If the Raven Familiar is killed, the 
+Cleric loses 1d6 Wounds, 1 toughness, 1 fate point permanently, and 
+may no longer acquire a Raven familiar, and must do penance to 
+continue in their Clerical studies.
+
+  Eyes of the Raven
+  Spell Level 3
+  Magic Points: 4 per round
+  Duration: one round plus
+  Ingredients:  a small gem, worth at least 20 GCs
+  If the caster meditates, and then casts this spell, they may direct 
+their Raven Familiar to fly in any direction, and as long as the 
+Cleric meditates and spends MP, may direct the Raven, and see through 
+it's eyes.  If the Raven is killed, the normal effects happen, and 
+the Cleric loses 1d10 off of WP, Int, and Cl permanently from the 
+shock.  When the spell is ended, the Cleric awakens from the 
+meditation, and the Raven will return in the number of turns it took 
+for it to fly to it's destination.
+
+  Manifest in Familiar
+  Spell Level: Four
+  Magic Points: 10 + 2 per turn
+  Range: personal
+  Duration: 1 turn or more
+  Ingredients:  small ebony raven figurine (worth about 20 GCs, freq: 
+rare).
+  This allows the Cleric to shapechange and occupy the form and spirit 
+of the Raven Familiar.  The Cleric has all the Physical stats of the 
+Raven, and the Clerics own Mental Stats.  The Cleric may then fly 
+about without anyone noticing.  The Cleric may make the Raven appear, 
+but then it is possible to be attacked  with non magic weaponry. 
+Otherwise the Raven/Cleric is ethereal.  No spells may be cast.  The Cleric 
+may then fly somewhere, land, and end the spell, and be in a new location 
+after having scouted out the area.  If the spell ends while in 
+flight, the Cleric takes falling damage from the relevant height.  If 
+the Raven form is killed (T=1 W=1 !!!), then the Cleric is 
+irrevocable killed, and the Raven Familiar is destroyed, and the 
+mutilated Clerice body falls from the heavens or trees, or wherever 
+it's perched.  The GM should make sure the player knows how much time 
+is left each turn.  But if the fool Cleric tries to cross great 
+bodies of water, or tall mountains, they should face the 
+consequences.
+  If all goes well, at the end of the spell, the Raven Familar 
+manifest itself as the Cleric emerges from the Raven's body.  Doing this 
+publicly breaks cult strictures.
+ 
+
+  
+
+  Cheers!
+
+         Rev. Garett Lepper
+         zza95ggl@sheffield.ac.uk
+
+"Before bed, I prefer to bludgeon myself to sleep."
+  -DM, Bob 3:16

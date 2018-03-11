@@ -1,0 +1,76 @@
+
+More drugs of the Old World
+
+This stuff was written by Stefan Fuhs,
+
+
+Reikswald Moss ('Steppenkraut')
+-------------------------------
+This herbal drug is usually a dried part of the Reikswald Moss. The
+effect is a relaxing daze in which the user feels comfortably lost.
+Quite like weed, actually - here's the Warhammer version of it. Treat
+Reikswald Moss like the normal tranquillisers described in the
+Middenheim sourcebook, p.90.
+
+Type: Tranquilliser	
+Price/dose: 3 to 4 /-
+Dependency: 5	
+Addictiveness: -
+Overdose: -	
+Duration: 1d3+1
+No. of doses to side effects: 1d100+20	
+side effects: absent minded, melancholia
+Availibility: common	
+dosage: smoked in a pipe
+effects: as described
+
+
+Winterdreams
+------------
+Winterdreams is a synthetic drug from the alchemistic underground labs
+of the Estalian City States. It is a strong hallucinogen that implies
+the feeling of being in a winter landscape. The intensity of the
+illusions depends upon the number of doses taken, but usually the
+world seems to be silent and peaceful - enwrapped by snow and ice.
+Note that there is a chance of a bad trip, since Winterdreams is a
+normal hallucinogen. How this mind-boggling, horrifing trip exactly
+looks like is up to the GM.
+
+Type: hallucinogen	
+Price/dose: 8 GC
+Dependency: 20	
+Addictiveness: 3
+Overdose: 10	
+Duration d3+1
+No. of doses to side effects: 3d12+3	
+side effects: gain 1 insanity point every 2 days
+Availibility: Rare	
+dosage: White pill - to be put on tongue
+
+
+Rage of the beast ('Bloodletter')
+---------------------------------
+This stimulant is a nightmarish, brain-toasting combination of toxic
+mushrooms, gunpowder, blood and obscure alchemistic ingredients. Rage
+supresses all intellectual activity of the brain and focuses only on
+combat, a reason why it is mainly used by burned-out warriors and pit
+fighters. Treat Rage like the normal stimulant described on p.90, but
+add an additional A+1, and change the movement penalty to M-4, due to
+the incredible sour muscles afterwards.
+
+Type: Stimulant	
+Price/dose: 1 GC
+Dependency: 20	
+Addictiveness: 40
+Overdose: 5	
+Duration: 2d6
+No. of doses to side effects: 15+1d6	
+side effects: Frenzy, weight loss, animosity, Int-5
+Availibility: Scare	
+dosage: just eat the ugly black paste
+
+Written by Stefan Fuhs, who - unfortunately - hasn't got an internet
+access.
+
+
+

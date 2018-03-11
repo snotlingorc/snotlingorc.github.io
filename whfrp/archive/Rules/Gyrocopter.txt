@@ -1,0 +1,144 @@
+GYROCOPTER
+  The Gyropcopter is a airborne vehicle relying on steam to spin the 
+turbine, rotating the blades mounted above the engine, to bring it aloft 
+and to a hover.  A single Dwarven pilot sits at the front of it, directing 
+and guiding it by controlling the angle and rate of spin of the rotors.  
+As it is based on a Steam Engine, the Dwarves have ingeniously 
+converted it so that a blast of steam may be released to attack targets 
+below and ahead of the Gryocopter.
+  
+  Strength:  6
+  Toughness:  8
+  Wounds:  15
+
+Movement
+  When on the ground, the Gyrocopter is incapable of moving itself.  
+However, two dwarves or three or more people with a combined 
+Strength of twelve may drag the Gyrocopter at half their slowest 
+cautious move rate.
+  It will take three rounds to start the Grycopter.  It must first lift off 
+for one round, to a height of at least ten yards.  
+  When the Gyrocopter is airborne it has variable Move Rates.  Treat is 
+as a creature with a maximum Move of 6.  It may move at Cautious, 
+Standard and Running Rates.  It may move at any slower rate.  It may 
+climb or dive at 10 yards per round, but there may be no horizontal 
+movement, due to it's lack of agility. Being a rudimentary flying 
+mechanical devcice, it is not as agile as a creature that is a natural 
+flying creature.  The advantage of the Gyrocopter is that it may 
+suspend itself in the air, inching forward.  
+  However, the use of the Steam Cannon will slow it down.  When 
+the Steam Cannon has fired more than three times, the Gyrocopter 
+may not move at a Running rate.
+  If the pilot is killed, incapacitated, or in any way is rendered incapable 
+of flying the Gyrocopter, it will crash.
+  All Climbs and Dives require the full concentration of the pilot, so 
+that all attacks or parries by the pilot are impossible.  If charged while 
+at ground level, the pilot may evade by climbing ten yards, avoiding the 
+charging attackers.
+
+  Example: Gottfried Gottrek, pilot, boards his Gyrocopter.  On the first 
+round he starts it.  Three rounds later, he climbs to ten yards.  Spending 
+three more rounds, he continues to climb, hovering over the same 
+spot.  He is now 40 yards, or a hundred and twenty feet in the air.  
+He then moves forward at a Move Rate of Four, at a Cautious pace.  
+Seeing a group of Orcs fleeing across a field, he flies towards them, 
+increasing his move rate to six, and to a Running rate, moving at full 
+speed.  Arriving, he lowers two rounds, minus twenty yards, to a height 
+of a sixty feet, where he proceeds to use his Steam Cannon.  Firing four 
+times, he has expended much of the steam.  Seeing a Orc Wyvern take to 
+the sky, he turns to flee.  Moving at a Standard Rate of Six, due to the 
+reduced efficiency of the Gyrocopter from overuse of the Steam 
+Engine, he flees.
+
+Aerial Combat
+  The Gyrocopter may always be attacked by airborne opponents.
+  Airborne Opponents, if they charge from a dive at the Grycopter, 
+suffer a S 8 Hit, as they strike the Spinining rotors.  The Gyrocopter 
+will also take a hit equivelant to the Opponents S +1.  
+  For the pilot to engage in hand to hand combat against airborne 
+opponents, there is a penalty of -10, as he is distracted.  All parries 
+and Dodges are also at -10, due to lack of mobility.  Bombs and the 
+Steam Cannon may not be used if the pilot is in hand to hand combat.  
+The Steam Cannon and the Bombs can not be used against aerial targets.
+  Strikes resolved against the Gyrocopter automatically hit.    They m
+ay do additional damage.  If the Gyrocopter is reduced to a Wound 
+of zero or less, it seizes up and plummets down.
+
+    Ground Combat 
+  The Gyrocopter, when airborne, can be beyond comabat reach of 
+opponents on the ground.
+  Bombs and Steam Cannon may not be used if the pilot is fighting in 
+hand to hand combat.  If the Gyrocopter is attacked by a Wind Blast, 
+Plague Wind, Death Wind, or a Wind Elemental of size 5 or more, the 
+pilot must make a roll to maintain control.
+  The Gyrocopter may hover near Ground Level, and be engaged by 
+ground opponents in melee.  The Attackers may strike at either the 
+pilot or the Gyrocopter.  The Gyrocopter pilot will be too distracted 
+to fight back, and may not attack or parry, but may dodge at -10.  If 
+the Gyrocopter pilot is charged by opponents, he may evade by climbing 
+from beyond ground level.  This is considered a climb, and the pilot may 
+not make any attacks while evading and climbing.
+  If the Gyrocopter is reduced to zero wounds as a result of Hand to 
+Hand combat at Ground Level, it just drops in heap.  If struck while 
+lying at ground level, it will explode as listed under "Crashing".
+
+  Bombing 
+  As mentioned earlier, the Gyrocopter can carry up to ten bombs.  
+The Gyrocopter pilot simply lights the fuse from the burner under 
+the Steam Engine, aims, and then drops the bomb on the targets below... 
+  To hit, the pilot rolls against Ballistic Skill, with a +10 advantage due 
+to the height advantage.  If the target is not covered from the air, 
+such as in a building or other location, all targets in soft cover incur 
+no penalty to hit, and targets in Hard cover cause a -10 penalty to the 
+Pilot's Ballistic Skill.
+  Use the rules for bombs and deviation in the WFRP book, or in 
+Apocrypha now...
+  Hovering: +10
+  Height: -10 for every 100 feet of height.
+  Speed: -10 if moving at a rate of more than 2
+               -20 if moving at a rate of more than 4
+  
+Gyrocopters and Magic
+  Gyrocopter could very well be beyond the range of a spell.  If the copter 
+is attacked by a wind blast, and flies is in or flies into the area of effect, the 
+pilot must make a flight roll  to maintain control.  Magic cannot be cast from 
+a Gyrocopter.
+
+  Steam cannon:
+  The steam cannon, may be used once a round, but requires time to
+ build up steam!  It takes one round for the cannon to refill it's tanks.  
+So the minimum wait time is one round.  If used then on the second 
+round after the initial firing: the S is 1.  For every round thereafter, 
+the steam builds, and the Strength increases until a maximum of 4.  
+Since the weapon is steam, it ignores all forms of non magical armor.  
+A magical shield, since it cover all locations, affords the armor points 
+of only the enchanment on the shield.  Magical armor only defends if 
+it covers the whole body with it's bonuses.
+  To use the Steam cannon requires a Ballistic Skill test to operate the 
+mechanisms: at +10 due to the area effect of the weapon.  A failure 
+means the weapon did not function.  A crit failure indicates the 
+weapon malfunctioned and the Gyrocopter is immersed in a superheated 
+cloud of steam.  The pilot and the Gyrocopter takes the hit.  A successful 
+test automatically affects all in the area of effect.  A roll vs I allows a leap 
+aside for half damage.  No other action may be taken on that turn by those 
+who try.  Dodge blow has no effect. and a shield parry if successful, will 
+reduce the final damage by half.  Steam Cannon may only be operated at 
+attack height.  
+  The Steam Cannon burst is 10 yards long, and 5 yards wide, creating a 
+swath of blistering steam.
+  The Gyrocopter has enough steam to power the Gyrocopter for six shots.  
+After firing three times though, the Gyrocopter will be less efficient if fired 
+more times.  The fourth to sixth shots, will reduce the Movement of the 
+Gyrocopter, as detailed under "Movement".
+  Psychology
+  The sound of the Gyrocopter will cause Fear in all creatures of 
+animal intelligence.
+
+  Crashing
+  When the Gyrocopter crashes from a Height above ground level, it 
+will strike the Earth, causing damage to it's occupants and any in the 
+immediate vicinity.  The pilot, if still alive, takes a S8 hit in the crash.  
+Any struck by the Gryocopter take a S6 hit.  When the Gyrocopter 
+crashes, the fuel used to heat the turbines, and the steam tank itself, 
+explode, filling a 10 yard radius, with all in the radius, including those 
+surviving the crash, take a S4 hit.

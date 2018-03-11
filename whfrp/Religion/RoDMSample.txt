@@ -1,0 +1,807 @@
+Realms of Divine Magick Sampler
+Extracts from the Realms of Divine Magick manuscript
+by Ken Rolston (kenrolston@aol.com)
+
+
+The following material remains the copyright of the author and has kindly been
+provided by the author for the benefit of the WFRP list members who wish to
+write their own material to be compatible with the forthcoming Realms of Divine
+Magick tome.
+
+
+
+Chapter 2b: Skills________
+
+
+Clerical Skills______________________________________
+
+The following skills are often learned through clerical careers, but may be
+learned through various other careers, or may be learned as non-career
+skills. (Those clerical skills that may not be learned as non-career skills
+are indicated in the skill descriptions below.)
+
+Associated Skill Characteristic and Skill Rating: After the title of each
+skill is listed the skill's associated characteristic. 
+
+Each skill has a skill rating which is equal to the score of the character's 
+associated characteristic score for that skill. Skill ratings may be used in
+two ways: 1. to test against in determining success or failure in the use of
+the skill, and 2. as a general indication of the character's competence in
+the skill. Gamemasters should use these competence guidelines to judge
+whether easy tasks might deserve a bonus for those of above-average
+competence, or whether difficult tasks might receive penalties for those of
+below average competence.
+
+Use the following guidelines to judge a character's competence with a skill:
+
+Skill Rating                      Skill Guideline                            
+
+01-25: Below average for a person professing the skill, but more
+knowledgeable and adept than someone completely ignorant of the skill. May be
+a beginner, a dilettante, or a clod. Capable of competent work, but when
+hurried or careless, even if successful may produce at only a barely passable
+or substandard level.
+026-50: Average for a person professing the skill. Fairly knowledgeable --
+doesn't embarrass himself in bull discussions or boasting matches -- but
+unfamiliar with eccentric, sophisticated, or innovative aspects of the skill.
+Capable of performing most common tasks effectively, given time, and making
+allowances for mistakes. Seldom brilliant, but occasionally clever or notably
+effective.
+51-75: Above average knowledge and competence. Often recognized by neighbors
+and colleagues as an expert. Very rarely makes serious mistakes with common
+tasks, and may be capable of occasional brilliance.
+76-00: Superhuman or heroic ability. Likely to have a substantial reputation.
+Difficult tasks are performed with ease. Impossible tasks may be attempted
+with enthusiasm.
+
+Example #1: Uschi, a priestess of Shallya, has the cult doctrine skill. The
+associated characteristic for cult doctrine is Intelligence (Int). Uschi has
+an Int score of 45. Uschi's skill rating for cult doctrine is 45.
+Testing for Success with the Skill: Uschi's companions attack a manticore.
+The Shallya cult prohibits killing, even in self-defense. But... can she kill
+to protect the lives of others? Can Uschi come to the aid of her companions?
+Uschi consults her cult doctrine skill. The dice are rolled -- 67 --
+indicating that Uschi doesn't know, or doesn't remember, whether killing
+might be justified in this case. (If the dice has rolled 45 or lower, Uschi
+might have remembered that some cult scholars hold that taking one life to
+save several others may be justified in certain circumstances. Whether these
+are those ertain circumstnaces, Uschi must decide for herself.)
+
+Example #2: Alexis, a priest of Ulric, has the cult doctrine skill, too, but
+has an Int of 70.
+General Indication of Competence: Alexis is taken captive by a goblin raiding
+band and tortured to force him to reveal the details of a border fort's
+defenses. The Ulric cult prohibits its initiates and priests from the use of
+trickery or deceit, but exaggerating the fort's strengths, particularly since
+the goblins know Alexis is a priest of Ulric and prohibited from lying, might
+discourage the goblins from attacking the defenseless fort and its citizens.
+With a skill rating of 70, Alexis is wise and experienced in interpreting
+cult doctrine, and he would realize that, though exaggerating the fort's
+strength is dishonest and a sin by cult standards, it is nonetheless a good
+thing to do in these circumstances, even though it means that Alexis must
+make a minor penance for breaking the cult's rules.
+
+Resist Magic (Will Power)
+Beings with this skill receive a +20 bonus to tests vs. WP to resist magick
+effects.
+
+Sense Magic (Intelligence)
+Active magickal effects cause perceptable disturbances in the aethyr. Use of
+this skill reveals 1. the presence of active magickal effects within ten
+yards [note change from "BMP yards"] and 2. the direction from the character
+to the magickal effects.
+Unskilled characters have a Default Rating of 5% with this skill.
+Inactive Magickal Effects (for example, inactive divine artifacts and sacred
+tokens) cannot be perceived with this skill. Thus, one cannot identify a
+being or object as being capable of producing magickal effects with this
+skill. (See Active and Inactive Magickal Effects" in Terms above.)
+Background: Aethyrial disturbances accompanying magickal effects are
+perceiveable by the Spirit, though untrained individuals cannot effectively
+interpret the features of the sensations or distinguish the source of the
+emanations.
+GM Guidelines: Use the following guidelines for modifiers to tests to sense
+exceptionally powerful divine magickal sources:
+Divine Artifacts (eg, magickal devices associated with greater and lesser
+divine powers) -- +20 bonus. 
+GM Note: Sense Magic replaces the original WFRP skills Magical Sense and
+Magical Awareness.
+
+Meditation (Cool)
+Beings with this skill are able to enter a dream-trance state in which they
+can swiftly replenish their reservoirs of magick potential.
+The character remains in the meditation trance for 2 hours, then tests
+against Cool.
+If the test is successful, the being recovers 100% of his Basic Magic
+Potential (ie, he is restored to full BMP).
+If the test fails by 1-29 points, the being recovers to at least 50% of his
+Basic Magic Potential. If he is already at 50% of his BMP or better, there is
+no further effect.
+If the test fails by 30 points or more, the being recovers no magic points.
+In addition, if 96-00 is rolled, 1 Insanity Point is gained.
+While in a mediation trance, a being is unaware of its surroundings and
+cannot stir if attacked or otherwise disturbed for the duration of the 2-hour
+trance. They are completely helpless during the trance duration (treat as
+prone in combat), and cannot move, speak, or otherwise respond to other
+beings or events.
+
+Cult Doctrine (Intelligence)
+All cultists are expected to know the basic beliefs and responsibilities of a
+cult member. However, Initiates, Priests, Druids, and Fanatics are expected
+to understand and memorize details of religious ceremony, appropriate garb,
+holy days, special observances, honored and prohibited behavior, and so
+forth, and to be able to teach these details to interested cultists and
+supplicants.
+GM Guidelines: An initiate should at least have memorized the cult
+requirements and strictures as described in Cult Descriptions. Priests should
+be able to describe the cult symbols, typical ceremonies and other religious
+observances, list and explain the significance of the holy days celebrated by
+the cult, and and describe the traditional layouts of cult shrines and
+temples.
+
+In religious arguments, characters should test vs. Cult Doctrine.  The
+highest successful Cult Doctrine score indicates the character whose argument
+is most persuasive. (It may, of course, be completely heretical as cult
+doctrine, but the other characters, unable to refute his arguments, will
+yield to his superior logic.)
+
+Skill Rating                      Skill Guideline                            
+
+01-25: Knows where the local shrine is and how to behave there. Knows what
+behavior is absolutely prohibited by the cult. Knows the cult holy days.
+Recognizes initiates and priests of own cult, and knows cult's worst enemies
+and best friends.
+026-50: General knowledge of cult ceremony, history, and philosophy. Knows
+local shrines and temples; has knowledge of famous shrines in distant lands.
+Recognizes initiates and priests of most Old World cults. Knows benefits and
+responsibilities of advanced clercial careers within cult. Appreciates
+obvious similarities and differences in major Old World cult doctrines.
+51-75: Detailed knowledge of cult ceremony, history, and philosophy.
+Accounted wise in everyday affairs and on larger philosophical issues.
+General knowledge of major Old World cults, even outlawed cults.
+76-00: Saintly comprehension of cult doctrine. Judgements are often inspired
+by divine insights. Widely quoted and praised for his wisdom. Actions are
+taken as examples for the instruction of the devout.
+
+Invoke Prayer (Intelligence)
+There are specific invocation skills for each Mastery Level of the Initiate
+and Priest careers. Characters can only obtain these skills by entering the
+appropriate career, and by learning the skill as all other skills are
+learned.
+
+Ceremony (Intelligence)
+Once a day the cleric may conduct a ceremony dedicated to his divine patron.
+The ceremony must take place on sacred ground, and all cultists to benefit
+from the ceremony must stand on sacred ground. The Cleric tests vs. Int. If
+the Int test is successful, all followers (including the cleric) within the
+effect of the ceremony test vs. WP. A successful WP test means the cultist
+regains 1d6+3 MP. A failed test means the cultist receives 1 MP. If the
+cleric's Int test fails, the cleric has failed to please his divine patron;
+no MP are regained, and the discouraged cleric is at a -10 WP penalty for the
+following 24 hours.
+
+Retreat (Cool)
+The cleric retreats into personal prayer and devotions in a shrine or on
+other sacred ground for 24 hours. At the end of this time the cleric is
+refreshed and renewed in spirit, and he regains all expended MP up to his
+full BMP score. Test vs. Cool. If successful, also receive a cult blessing (a
+one-time-use +10 bonus with any skill test favored by the cult).
+
+Bind Wound (Intelligence)
+This is a first aid skill for emergency treatment of victims of sccidents,
+natural disasters, and battlefield wounds, including stopping bleeding,
+bandaging open-wounds, and immobilizing broken bones. Successful use of this
+skill stops continuing wound losses resulting from Critical Hit Table results
+and stabilizes the victim's condition. Specifically stops terminal bleeding.
+Does not restore wounds, does not repair injuries or remove penalites
+resulting from injuries.
+
+True Sight (WP)
+At the cost of one MP, a character is warned of impending Danger, Betrayal,
+Friendship, and Good Fortune. The use of the skill may be triggered
+voluntarily when a character uses the divination skill, or it may be
+triggered involuntarily at the GM's discretion as a sign of the divine
+patron's will. 
+Test vs. the character's WP. If the test is successful, the character
+receives a specific image of an impending event. If the test is failed, the
+character receives vague premonitions of portentious events ahead.
+
+
+Divine Notes Part Three
+
+Cult Membership and Laymen's Benefits__
+
+Becoming a Layman
+Rule Summary: The cost of becoming a layman of a cult is 100 EPs and an
+offering of 20GC per career completed, or, if no careers have been completed,
+an offering of 3 GC.
+
+Cult Member Benefits
+Laymen, Initiates, and Priests in good standing may expect
+ the following benefits from their cult membership:
+- Members of a cult may receive the renewing of spiritual energy (recharging
+of lost MP) though the use of the ceremony skill by a cult cleric (
+see "Ceremony" on page ??).
+- Food and shelter for traveling cult members may be found at a cult shrine
+or temple at a nominal fee (2 shillings) or for labor. The accommodations and
+fare are typically modest (equivalent of lodging in an decent inn's common
+room), and often frequented by lower classes persons forced to travel on
+personal business, but clean and fairly safe nonetheless. More-fortunate
+cultists are expected to volunteer a little extra in payment to defray the
+costs of their less-fortunate cult bret
+hren. 
+- Cult members may receive medical care and healing prayers where available.
+The qual
+ity of medical care available varies greatly.
+- Cult members who perform an extraordinary service for the cult may receive
+a fate point as a blessing of the divine patron. This personal recognition of
+ea cult member by a god is extremely rare, and granted only for exceptional
+services.
+- Cult members may receive training in skills favored by the cult at one-half
+the normal ep cost, and even if the skill to be learned is outside the cult
+member's current career, the skill may be learned as if it were within the
+current career -- that is, without passing an Int test (see WFRP, Character
+Advancement and Experie
+nce, "Non-Career Skills," page 93).
+- Priests and cult members of certain favored careers (eg, Templars of the
+Fiery Heart of the cult of Sigmar) may receive special magickal "gifts" as a
+sign of 
+the deity's favor (see below).
+- Other benefits for cult members may be available according to the
+individual cult (see Cult Descriptions for details).
+
+Gifts
+Gifts are extraordinary abilities granted by a divine patron to priests and
+some special groups of laymen including Forestors, Templars, Demagogues,
+Assassins and other careers as described in individual Cult Descriptions.
+These gifts are received when a character achieves a new Rank of the Priest
+Career or when he enters one of the careers specially favored by his cult.
+These gifts are kept as long as the character remains a cleric or a favored
+lay member of his cult in good standing. Each cult has its own gifts. For a
+list of gifts granted by each cult to clerics and favored laymen, see Cult
+Descriptions.
+
+Cult Member Obligations
+1. OBSERVE CULT DEVOTIONS
+2. SEEK JUDGEMENT ON ORDAINED CULT HOLY DAYS
+3. RESPECT AND DEFEND CULT PRINCIPLES AND DOCTRINES
+4. RESPECT AND DEFEND CULT INITIATES AND PRIESTS (AND OTHER ESPECIALLY
+FAVORED CULT LAYMEN LIKE TEMPLARS, DEMAGOGUES, ETC.)
+5. RESPECT AND DEFEND SACRED GROUND, SHRINES, AND TEMPLES
+6. HONOR THE CONDITIONS OF ANY TERRIBLE OATH SWORN
+
+Devotions
+Devotions are regular, daily religious observances required by one's cult.
+All cult members must make an offering of 1 MP per day in personal
+devotions. When possible, devotions must be made on sacred ground under the
+guidance of a cult cleric. If not possible, one's god must be satisfied with
+the circumstances, or one may be called to account on regular Judgement Day
+(holy days). An occasional lapse may require a small penance. A serious lapse
+may result in loss of benefits until a penance is served.
+
+Divine Judgement, Holy Days, Blessings, and Penances
+On specified cult holy days each cultist must go to a temple, shrine, or
+other cult sacred ground and ask for divine judgement. Details vary from cult
+to cult, but in essence the cultist privately and personally asks his divine
+patron to review the cultist's recent thoughts and actions and judge whether
+the cultist has been a worthy follower.
+Normally a cultist who has earnestly tried to observe the doctrines and
+devotions of the cult, and whose dedication to the cult is sincere, will
+satisfy his god's scrutiny and will feel refreshed in spirit and strengthed
+in his faith.
+A character who has been especially virtuous and devoted to the cult may
+receive a small blessing in token of the god's favor. (In game terms, the
+blessing is in the form of a one-use 10-point bonus on the use of any
+cult-favored skill.) 
+A cultist who has failed in the regular observance of his devotions, or who
+has failed to honor the basic cult doctrines or strictures, or who has
+disgraced or offended his divine patron in some way, receives a rebuke from
+his divine patron. An offending cultist is told of the nature of his fault
+("You have been lax in your daily devotions." "You have offended against the
+Word of Ranald in the wanton use of violence in your roguish pursuits.") and
+warned to amend his ways or face banishment from the cult. If the cultist's
+faults are serious, or his transgressions habitual (ie, he has received
+Judgement Day rebukes in the past), he may also receive a penance (see
+below). A cultist who has been given a penance by his god is denied the
+benefits of his cult until the penance is completed.
+
+Losing Cult Member Benefits
+Failure to observe cult doctrines and practices may result in temporary loss
+of cult benefits.
+The following misdeeds automatically result in temp
+orary loss of cult benefits:
+- Omission of Daily Devotions: The cultist receives no cult ben
+efits until regular daily devotions are once again observed.
+- Failure to seek Judgement on the Appointed Cult Holy Day: The cultist
+receives no cult benefits until he appears to receive Judgement on sacred
+ground or in the presence of a cult cleric.
+
+Penances
+A cultist assigned a penance by his god loses all cult benefits until his
+penance is completed. Penances vary according to the cult and the
+circumstances and severity of the transgression.
+Light Penances: Minor transgressions by otherwise dedicated cultists
+ usually receive light penances. For example:
+- Make a special offering of 1GC to the cult.
+
+- Spend one full day in devotions at a shrine or temple.
+- Humble yourself to cleaning the steps to the temple at the direction of
+your priest.
+Stern Penances: More serious offenses, or minor offe
+nses repeated by already-rebuked cultists, may result in a stern penance. For
+example:
+- Make a s
+pecial offering of 50GC to the cult.
+- Place yourself at the disposal of the shrine's priest for one
+ month, during which you shall feed and care for the poor and attend to their
+needs.
+- Deny yourself the pleasures of ale or strong spirits for one month as a
+sign of your resolve to mend your ways.
+-
+ Make a pilgrimage to the Shrine of Sigmar in Middenheim and make an offering
+of 100GC there in Sigmar's name.
+Heavy Penances: Repeated serious offenses against cult doctrines and
+practices may result in the levying of a heavy penance. Such heavy penances
+are signs that the god has wearied of the cultist's m
+isdeeds, and is doubtful of the cultist's suitability to serve the cult. For
+example:
+- Go forth into the Great Forest, seek out Archdruid Matham, and serve at his
+bidding for one full turn of the
+ seasons.
+- Yield up thy robes, pens, books, and scholarship. Go into the streets of
+Altdorf and live as a beggar fom the fall to the winter solstice, and learn
+more of your fellow man than you have learned from your books.
+- Go forth into the wilderness among the heathen orcs for the summer campaign
+season. Refuse no challenge. Refuse no opportunity to test your strength at
+arms and your honor in combat. Come back with your shield or on it.
+
+Renouncing a Cult
+One may renounce membership in the former cult. Such a character of course
+immediately loses all benefits of that cult, and he may never join that cult
+again; in addition, a minor or great curse is usually placed on such a
+character. 
+
+
+Divine Notes Part Four
+
+
+Divine Summonings__________________
+
+Warhammer cultists are granted by their divine patrons the power to summon
+various magickal creatures and spirit beings. Cultists don't need to prepare
+pentagrams or engage in contests of wills to control divine summonations --
+the divine patron guarantees the summoning's willing service -- but
+summonings may be more or less cooperative in fulfilling the cultist's
+request for specific services according to temperment, circumstances, and
+cult doctrine. The four basic varieties o
+f magickal creatures and spirit beings summonable with divine magick --
+numina, Khaine's Undead, elementals and daemons -- are described in the
+sections that follow.
+Many divine summonings are intelligent creatures with distinctive magickal
+powers. As such, they require the same forethought and development as other
+important non-player characters in your scenarios.
+
+Numina _________________________________________________
+Numina (singular numen; Classical Old Worlder -- "divine will" or "divine
+power") are divine spirit and magickal entities summoned from the
+shadowrealms to aid, protect, and counsel cult priests. The characteristics
+and abilities of numina vary from cult to cult, but they all fall into four
+categories:
+divine counselors: ghostlike spirits, typically of deceased cultists, who may
+share their experience, wisdom, and practical knowledge, but who have little
+or no power to act on this plane
+divine guardians: magickal creatures or ghostlike spirits which protect
+cultists or sacred ground from enemies or intruders
+divine servants: ghostlike spirits, typically of deceased cultists, who may
+provide both counsel and magickal assistance to a cultist
+divine avatars: immensely powerful divine spirits which embody the virtues
+and principles of the divine patron 
+
+Abilities and Limitations of Numina
+Abilities: All numina have the following abilities, including those listed in
+the specific descriptions below:
+1. A magickal attack (spell, prayer, enchanted or blessed weapon, etc.) or a
+weapon forged or coated with True Silver is required to hit a numen.
+2. A numen's attack is magickal, and therefore may affect beings affected
+only by magickal attacks.
+3. Numina sense magickal emanations and recognize cult alignments of
+creatures. These abilities work the same way as the petty prayer detect
+magick and the third rank prayer know alignment, but numina may exercise
+these abilities at will, without expending MP.
+4. Numina with other magickal abilities (ie, the ability to invoke prayers or
+create other special magickal effects) expend MP to produce those effects,
+just like clerics, unless stated otherwise.
+Limitations: All numina have the following limitations, including those
+listed in the specific descriptions below:
+1. Numina are subject to instability (see Rules, page ??).
+2. When reduced to zero wounds, numina are unable to maintain their magickal
+and substantial manifestations on this plane and must return immediately to
+the shadowrealm of their divine patron.
+
+Example of Numina
+
+Divine Counselors__________________________________________
+Divine counselors generally appear as ghostly apparitions of deceased
+cultists who have served their divine patrons well in life, and who have been
+chosen as spiritual guides to advise and chasten the cult's mortal followers.
+Divine counselors are like ghosts in that they: 1. can pass through solid
+objects without penalty, 2. cannot be wounded by non-magickal weapons and 3.
+cannot cause damage to mortal beings or objects in the material plane.
+However, they are unlike ghosts in that they are visible only to cultists of
+the counselor's divine patron, and in that they do not cause fear in those
+who gaze upon them. Divine counselors must also remain within the bounds of
+the sacred ground where they were summoned, and may not move beyond those
+bounds. 
+Divine counselors are summoned to share the benefits of their life
+experience, wisdom, and common sense with the petitioning cultist. Though
+they are occasionally knowledgeable, particularly in the skills favored by
+the cult, and often make useful observations and suggestions, they also seem
+to take a great delight in chastizing cultists for their folly and
+carelessness in adherence to cult doctrine. Like all teachers and counselors,
+they vary in the quality and charm of their advice. (See summon counselor
+prayer, page ??, and Staging Divine Magicks, "Hints and Guidelines for
+Presenting Divine Counselors, Servants, and Avatars," page ??, for further
+details on summoning divine counselors.)
+
+Divine Counselor
+M   WS   BS   S   T   W   I   A   Dx   Ld   Int  Cl   WP   Fel  MP
+4   10   10   2   5  10   60  1   50   50   50   60   60    50  10
+Fly as swoopers. Skills: (Own) Cult Doctrine, Cult Lore, all layman cult
+skills, other skills at GM discretion. 
+
+Example of Elementals
+Elementals are magickal creatures of the elemental domains. Cultists are
+granted the power to summon them directly through the divine patron or
+indirectly through agreements between the divine patron and the rulers of the
+elemental domains.
+
+Abilities and Limitations of Elementals
+Abilities: All elemental have the following abilities, in addition to those
+listed in the specific descriptions below:
+1. A magickal attack or a weapon forged or coated with True Silver is
+required to hit an elemental.
+2. An elemental's attack is magickal, and therefore may affect beings which
+are only affected by magickal attacks.
+3. Elementals sense magick emanations and perceive spirits of the living and
+undead creatures. These abilities work in the same way as the petty sorcery
+spells detect magick and perceive spirit, but elementals may exercise these
+abilities at will, without expending MP. (The sorcerous detect magick spell
+is similar to the divine petty prayer of the same name; the perceive spirit
+spell permits the being to be aware of the presence and location of the
+spirits of all living beings within approximately 15 yards.)
+4. Elementals with other magickal abilities (ie, abilities to cast spells,
+rituals, invoke prayers, or to create other magickal effects) expend MP to
+produce those effects, just like sorcerors and clerics.
+5. Elementals can communicate telepathically or empathically with their
+summoners as long as they are within line of sight and within 10 yards of the
+summoner. 
+Limitations: Elemental must remain in a sustaining environment with an
+adequate volume of substance associated with their elemental domain, or they
+rapidly weaken, losing the ability to manifest in the Material Realm. An
+elemental in complete isolation from a sustaining environment loses 1
+Strength point for each round it is isolated. When its Strength is reduced to
+zero, its elemental consciousness fails, its elemental substance dissipates,
+and it disappears. If returned to its sustaining environment, lost Strength
+returns at 1 point per round.
+Sustaining environments for each of the elemental domains are:
+Earth: ground, soil, stone
+Air: air 
+Fire: flammable substances 
+Water: a substantial body of water
+When reduced to zero wounds, elemental sprites lose their substantial
+manifestations and disappear from the material world. They do not, however,
+"die" in a sense that mortals understand. They retain their consciousness and
+memories of events, though less intelligent sprites remember hardly more than
+an instinctive positive or negative feeling for familiar persons, locations,
+and events.
+Other Abilities and Limitations: Elementals may also have other abilities and
+limitations at the GM's discretion. If an ability or limitation is not
+explicitly listed here or in the descriptions below, that does NOT imply that
+the elemental CANNOT have that ability. Use common sense. For example, water
+elementals are not listed as extinguishing fires -- because common sense
+indicates that water will extinguish fire.
+
+Service Traits and Service Tests
+Elementals of different domains are more or less reliable as summoned
+servants. When a caster gives a summoned elemental a command, a Service Test
+must be made against the Faithful and Vengef
+ul Traits of the sprite. (See Rules and Terms, "Service Traits and Service
+Tests," page ??.)
+Below are listed the Service Traits for each of the Elemental Domains:
+Elemental Air: Faithful 10, Vengeful 4.
+Elemental Fire: Faithful 7, Vengeful 10.
+Elemental Water: Faithful 17, Vengeful 5.
+Elemental Earth: Faithful 17, Vengeful 3.
+
+Least Elementals (also known as Elemental Servants)_____
+Least Elementals are modest coherences of elemental matter no more than 1
+cubic yard in volume. They usually assume the forms of small animals, but may
+also appear as miniature versions of natural phenomena (eg, whirlwinds,
+flames, fountain, etc.). Basic profiles of two sample forms are given below
+for each type of least elemental. Servants cannot use armor, weapons, and/or
+tools.
+Least elementals are fairly intelligent, can understand and speak Elemental
+Tongue, and can follow directions about as well as a well-trained,
+supernaturally-intelligent  domestic animal. They follow commands literally,
+however, and seldom show initiative or imagination, except when presented
+with an undesirable task, when they may display some ingenuity in avoiding
+the task without directly refusing to complete it. The GM may require
+Intelligence tests (did the least elemental understand the command?) and Will
+Power tests (was the caster persuasive?) at his discretion.
+Though all least elementals of a given domain are similar in attitude and
+temperment, they vary in character about as much as do domestic animals.
+Least elementals are fairly tractable, but least pyronomes and geonomes in
+particular may present some threat to the summoning cultist if not
+controlled.
+
+Least Aeronome
+
+Dust Devil form: A small, whirling tornado funnel. Swift, aggressive fighter.
+Reckless and carelessly destructive. Fly as hoverer.
+ M WS BS S T  W  I A Dx Ld IQ CL WP Fel MP
+10 35  0 1 2  6 70 1 20 10 15 10 30 20   8
+
+Crow form: A black, yellow-billed bird about 12-18 inches tall. Mimicks human
+speech. Manipulates objects well with beak and claws. Fly as swooper.
+ M WS BS S T  W  I A Dx Ld IQ CL WP Fel MP
+ 8 25  0 2 2  6 70 1 30 10 20 10 30 20   8
+
+Restrictions: -2 modifier to damage. 
+Service Traits: Faithful 10, Vengeful 4.
+Attitude and Temperment: Occasionally playful and distractable but likely to
+concentrate on a task and use some ingenuity when presented with unforeseen
+difficulties. Quirky and tempermental at times, often rude and disrespectful.
+Similar to a parrot or trained raven in personality.
+Typical Applications: Produce light equivalent to a lantern. Carry or crudely
+manipulate light objects (ie, torch, tankard of ale, etc. of Encumbrance 5 or
+less). Retrieve remote objects. Distract and confuse opponents in melee.
+Scout for living beings or magickal emanations.
+
+
+A Sample Cult - Ecate
+
+
+Ecate Cult______________________________________
+
+"By the pricking of my thumbs/ something wicked this way comes."
+ Shakespeare, Macbeth
+
+Description: Lesser God; Dark Children pantheon; dau
+ghter of the Earth Mother, mistress of Taal, mother of Khaine. Ecate is the
+patroness of bitter truths, vengeance, dark knowledge, and black magick. The
+search for Mastery is the burning desire of man; Mastery is sought through
+acknowledgement of the dark human desires of lust, greed, and domination,
+ruthless weighing of greed and pain, and unflinching pursuit of the Dark
+Sources of Power.
+
+Where Worshipped: Worshipped by the nomadic Romany peoples throughout the Old
+World, by various other barbarian cul
+tures under other names, and by scattered secret cults and individuals. Ecate
+worship is generally considered evil, and is outlawed or persecuted except in
+several kingdoms of the Border Princedoms.
+
+Alignments: Neutral and Evil are preferred. Good (and Slaneesh Chaos only)
+are accepted. Law and Chao
+s (other than Slaneesh) are prohibited. (Worshippers of Ecate are not
+necessarily evil, but are often the enemies of the common Old World cults and
+cultures. Most Lay Priests and masters will be harmless
+hedgewizard-equivalents who sell modest magickal services to the people.
+However, since the principles guiding the use of those magickal powers are
+hardly humanistic, witches do tend to be the source of more harm than good.
+Witches often protest that they are just providing the weak and poor with
+services that normally only the rich and powerful can afford; nonetheless,
+those magickal services are more often spiteful and greedy than compassionate
+and community-minded.)
+
+Friends and Enemies: Allied with Khaine, though disdainful and wary of his
+madness. Wary diplomacy with Slaneesh; hostile to other Chaos Powers. Bitter
+hostility towards Young Gods. Rebellious but respectful of Old Faith. Neutral
+but sympathetic 
+with Elder Race cults.
+
+Cult Symbols and Dress: The symbolic correspondences of Ecate are pe
+rsonal and idiosyncratic; universally associated with Ecate worship, however,
+is the cauldron -- the
+ mystical source of dark magicks. Lay Priests and Priests of Ecate are
+referred to as Masters or Mistresses of the Craft, and are popularly known as
+Witches and Warlocks. Advanced clerical careers in E
+cate do not perform conventional priestly duties, though they may lead
+worship ceremonies at religious festivals like the Sabbats. Ceremony and
+tradition dictates that black or dark garments be worn, but i
+t is not obligatory. Masters who emphasize the revenge and domination
+principles of Ecate we
+ar black; Masters who seek dark knowledge and power for its own sake wear
+white, and are called "Whi
+te Witches."
+
+Cult Careers Available: Lay Priest, Priest (called Master or Mistress of the
+Craft; Lay Priest and Priest alike are commonly called Witches and Warlocks)
+
+Distinguishing Principles and Doctrines: The mysteries of Craft must be kept
+secret from Outsiders -- likewise the identities of Masters of Craft.
+Serve yourself, your family, your companions. Trust no Outsider; they are
+your enemies, and you must muster your strength to defend yourself against
+them.
+The Outsiders are cattle. Only the strong may Master the Craft.
+Knowledge is power. The knowledge that others seek to forbid you is the power
+they seek to deny you for their own ends.
+Just because you fear a thing does not make it evil. It may simply be
+dangerous, and you must be more dangerous still to deal with it.
+Nothing ventured, nothing gained. If you seek power, you must risk. Be
+bloody, bold, and resolute.
+All beings seek gratification, wealth, and power. Champions of other ideals
+may be well-intentioned, tender-hearted dreamers, but they are deluded -- or
+they may use these ideals as postures to conceal their true desires.
+The Old Ways are best -- serve and protect the clan, honor the Powers that
+preserve you, and shun not the Darkness.
+
+Afterworld: After death there is nothing for the individual. When the body
+dies, the individual dies. Normally the spirit
+ goes to Ecate in payment for the power and protection the body received in
+life. Those who have Mastery may choose to avoid the death of the individual,
+but the price is great, and the life of undying spirit is bitter -- but
+Masters with great desires for vengeance or domination may elect to remain as
+ghosts,  haunts, or other shades.
+
+Temple and Shrines: No temples or shrines. Worship is pursued in secret.
+There is no formal hierarchy, but Masters of the Craft are acknowledged as
+such and shown respect and deference. Convocations may be called by a Grand
+Master or by a group of Crafters to consider and discuss issues of common
+interest to many worshippers.
+A coven is a formal bonding of Craft Masters for mutual support,  protection,
+and sharing of knowledge and craft; such groups are not ordained but are fav
+ored by Ecate. Traditionally the number of a coven is thirteen; in practice
+any number of Crafters may establish themselves as a coven. Each coven
+determines its own rule: some are dominated by one or two powerful Crafters;
+others are communities of more-or-less equals. Some covens may have regular
+meetings for worship and practice of magick; other covens gather irregularly
+if at all.
+
+Saints and Heroe
+s:  Because of Ecate's dedication to secrecy, most saints and heroes of the
+cult are anonymous, known only by the legends of their exploits. The greatest
+of these saints and heroes are the anonymous authors and compilers of the
+great grimoires -- books recording the secret knowledge of the Craft, ha
+nded down from one generation to next, like Liber Spiritum, Grimoire Verum,
+The Fiend's Coercion, Sword of Urtur, Key of Hermes, etc. Since many of the
+Craft are illiterate, these ancient books seem all the more marvelous. The
+science of alchemy is thought to have learned many secrets from the perusa
+l of such books; among alchemists there may be many who worship Ecate.
+
+Cult Requirements: Requirements for Layman Status: Automatic for offspring of
+the Romany. Others are elected for initiation by Lay Priests or priests. One
+cannot apply for initiation to the cult in any formal manner, though those
+expressing a desire for Dark Knowledge, Power, or Revenge are often made
+known to the Craft in some unknown fashion.
+Requirements for Lay Priest Status: Granting of detect magick is commonly
+acknowledged as a sign of a Calling. Usually elected and sponsored by a
+Master or Mistress of the Craft; occasionally pe
+rsonally elected by Ecate herself.
+Requirements for Priest Status:  Usually elected and spon
+sored by a Master or Mistress of the Craft; occasionally personally elected
+by Ecate herself.
+
+Trials: Trials typically involve searching out a Master or Mistress to Lay
+Priest the aspiring cultist in some Mystery of Dark Knowledge -- often a
+difficult and dangerous task, since Masters and Mistresses of the Craft are
+secretive and perilously aggressive in protecting their privacy.
+
+Blessings: One-time-use bonus or automatic success with silent move rural,
+concealment rural, charm, charm animal, sixth sense, luck
+, palm object, pick pocket, flee!, divination skills.
+
+Penances: Ecate rarely commands a formal penance from a worshipper. A
+worshipper in disfavor is simply denied access to magickal power or ben
+efits of the cult; it is up to the worshipper to figure out what actions have
+offended Ecate, and
+ how to redeem himself in her eyes.
+
+Holy Days: Ecate does not observe formal Judgement Days. She takes little
+personal interest in her worshippers. They usually do not come to her
+attention except through dramatic service or disservice to the cult, or
+through direct contact with the goddess (either through personal petition, or
+through favorable or unfavorable report by a fellow Crafter).
+Worshippers wishing 
+the direct attention of Ecate may participate in the occasional festivals
+called Sabbats. There are no regular schedules or provisions for calling a
+Sabbat; such celebrations rely on the spontaneous energies and ambitions of
+Masters or Mistresses. Traditionally Sabbats are observed on nights of a full
+moon, from midnight to cock-crow at a crossroads or Old Faith ley site;
+worship services are usually led by a prominent Master or Mistress. Newcomers
+are Lay Priestd, and worship ceremonies and rituals are accompanied by
+orgiastic dancing and sexual activities. Worshippers participating in sabbats
+may receive blessings just as worshippers of other cults receive blessings on
+Judgements Days; they may also make special petitions; Terrible Oaths sworn
+at a Sabbat receive special and usually favorable attention from 
+Ecate.
+
+Gifts: 
+Rank 1: Gain an animal-spirit familiar as a companion. Upon becoming a Priest
+1st Rank the Master is granted a dream vision in which a spirit-creature
+comes to him. Roll once on th
+e Ecate Familiar Table (see "Special Rules" below) to discover the familiar's
+species. The spirit-creature becomes the character's constant companion, and
+confers certain advantages to the character in keeping with the
+spirit-creature's nature, while in return the character is required to honor
+certain strictures. In addition, the character is assured of a friendly, or
+at least neutral, response from all encountered animals of the familiar's
+species. 
+See Divine Terms and Rules, "Familiars," pp. ??-??, for details concerning
+familiars.
+Use the evil eye ability as the Level 2 Necromantic spell evil eye once per
+day
+
+
+
+Prayer List
+
+
+Petty Prayer Table
+
+Prayer MP Range Duration Area of Effect Resist? Effects Summary Page #
+Animal Empathy 1 6 yards 1 turn One Creature of Nature None read beast
+(Int6-14) emotions ???
+Bless Token 1 token 1d6+3 hours one sacred to
+ken None token is sacred ground ???
+Blessed Sacraments 1 touch 1d6+3 turns F
+ood,drink for 10  None +10 Cool,WP; 1d4 hrs ???
+Detect Magic 2 token Instantaneo
+us 6 yards square None reveal passive & active magick ???
+Exalted Shield 1 6 yar
+ds 1d6+3 rounds one cultist shield None parry 1 melee or missile attack ???
+Gift 
+of Tongues 2 self/cultist 1d6+6 turns 10 yard radius none understand & speak
+language ???
+Heal Cultist 3 Touch Instantaneous one  cultist None heal 1d6+1 W
+ for cultist ???
+Heal Petitioner 3 Touch Instantaneous one non-cultist None 
+heal 1d6-1 W for non-cultist ???
+Know Follower 1 token  Instantaneous 10 yard ra
+dius None locate cultists ???
+Light the Path 1 sacred token one hour 6 yard 
+radius None shed light like a lamp ???
+Obscure the Path 3 self 1 hour cle
+ric's trail None conceal trail and scents ???
+Seek Shrine 1 Self Instantaneous 
+Self None location of nearest sacred ground ???
+Shadeward 2 touch 1d6+3 roun
+ds cleric/cultist None +20 WP vs. fear of undead ???
+Summon Skel. Warrior 3 10 y
+ards 'til next dawn NA None 1 skeletal warrior of Khaine ???
+Vigilance 3 
+Self 1d6+3 hours Self None no surprise or +20 Init ???
+
+
+
+Ecate Familiar Table
+
+   _________ Strictures _____________________________________
+D100 Familiar Skills Armor Shield Weapons Times/Places
+01-05 Bat Night Vision, Acute Hearing leather no 2-handed, firearms night
+06-10 Cat Silent Move Rural, Li
+ghtning Reflexes none no blunt, 2-handed forest or mountain
+11-15  Eagle 
+Excel. Vision, Animal Training (hawk) none no blunt mountain
+16-20 Frog Swim
+, Acrobatics none no 2-handed, firearms water
+21-25 Owl Night Vision, Silent Mov
+e Rural none no blunt night
+26-30 Rabbit Flee!, Dodge Blow none no 
+2-handed, firearms night, underground
+31-35 Rat Immunity to Disease, Frenzied Attack 
+leather yes 2-handed night, underground, town
+36-40 Raven Excellent Vision, Divi
+ning none no blunt forest, battlefield
+41-45 Stoat Hypnotise, Game Hunting 
+leather yes 2-handed forest
+46-50 Viper Immunity to Poison, Hypnotize leath
+er no 2-handed not town
+51-00 Imp Sixth Sense, Luck leather no none dusk, midnight, dawn
+Skills: The first skill listed is gained at 1st rank, the second skill listed
+at 2nd rank. Both skills are received free without ep cost.
+Armor, Shield, & Weapons: Shows type of armor permitted, whether shield is
+permitted, and prohibited weapon types.
+Times/Places: The character can regain magick points with meditation only at
+the listed times and places.
+
+
+

@@ -1,0 +1,43 @@
+Artisan - Artist - Advanced/Academic	/Campaign/Miragliano.zip
+Barrowman - Basic Rogue			/Campaign/BorderPrinces.zip
+Berserker - Advanced/Warrior		/Campaign/Norsca.zip
+Bondsman - Basic/Ranger			/Campaign/Norsca.zip
+Caravaneer - Basic/Ranger		/Campaign/Dolgns.txt
+Councillor - Advanced/Academic		/Campaign/WoodElves.txt
+Daemonologist - Advanced/Academic	/Magick/RoS.zip RoS_rtf.zip
+Diver - Basic/Ranger			/Bestiary/SeaElves.txt
+Dolgan Horse Archer - Basic Warrior	/Campaign/Dolgans.txt
+Dolgan Noble/Chief - Basic Warrior	/Campaign/Dolgans.txt
+Dolgan Smugler - Basic Rogue		/Campaign/Dolgans.txt
+Elementalist - Advanced/Academic	/Magick/RoS.zip RoS_rtf.zip
+Fat Head Shaman - Snotling career	/Religion/CultOfYor.txt
+Gondoliere - Basic/Rogue		/Campaign/Miragliano.zip
+Healer - Advanced/Academic		/Campaign/WoodElves.txt
+Hedgewizard - Basic/Academic		/Magick/RoS.zip RoS_rtf.zip
+Hirdmen - Advanced/Warrior		/Campaign/Norsca.zip
+Huscarl - Basic/Ranger			/Campaign/Norsca.zip
+Illusionist - Advanced/Academic		/Magick/RoS.zip RoS_rtf.zip
+Inceptor - Basic/Academic Wood Elven    /Campaign/WoodElves.txt
+Jarl - Advanced/Warrior			/Campaign/Norsca.zip
+Merchant Prince - Advanced		/Bestiary/SeaElves.txt
+Mulatore - Basic/Rogue			/Campaign/Miragliano.zip
+Necromancer - Advanced/Academic		/Magick/RoS.zip RoS_rtf.zip
+Pygmy Champion				/Bestiary/Pygmies.txt
+Pygmy Major Hero			/Bestiary/Pygmies.txt
+Pygmy Minor Hero			/Bestiary/Pygmies.txt
+Red Branch Warrior - Basic/Warrior	/Campaign/WoodElves.txt
+Red Branch Unit Leader - Advanced/Warr	/Campaign/WoodElves.txt
+Savant - Advanced/Academic		/Campaign/WoodElves.txt
+Seatrader - Advanced/Warrior		/Campaign/Norsca.zip
+Sentinel - Basic/Ranger			/Campaign/WoodElves.txt
+Sentinel Patrol Leader - Advanced/Rang	/Campaign/WoodElves.txt
+Skald - Advanced/Academic		/Campaign/Norsca.zip
+Talecrafter - Basic/Academic		/Campaign/WoodElves.txt
+Tellirani - Basic/Ranger		/Campaign/BorderPrinces.zip
+Thrall - Basic/Rogue			/Campaign/Norsca.zip
+Vigilante - Basic/Warrior		/Bestiary/SeaElves.txt
+Viking - Basic/Warrior			/Campaign/Norsca.zip
+Wardancer (modified) - Advanced/Warrio	/Campaign/WoodElves.txt
+War Wizard - Advanced/Academic		/Magick/RoS.zip RoS_rtf.zip
+Witchdoctor 				/Bestiary/Pygmies.txt
+Wizard's Apprentice - Basic/Academic	/Magick/RoS.zip RoS_rtf.zip

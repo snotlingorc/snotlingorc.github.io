@@ -1,0 +1,17 @@
+From: Psychedelic Goblin <PS4CC@merkland.rgu.ac.uk>
+Subject: WFRP: New Careers
+
+>Wrecker
+(based on information from pg10 of River Life of the Empire)
+Wreckers are pirates who often take advantage of a trecherous and 
+fairly remote stretch of river and attempt to lure boats onto rocks 
+or sandbanks. Grounding the vessel this way enables them to board, 
+slaughter the crew, and steal the cargo. They tend to masquerade as 
+bogus pilots, or set out false beacons at night or in bad weather,
+WS+20 BS+10 S+1 T+1 W+3 I+10 A+1 Dex+10 Ld+20 Cl+20 WP+10
+Skills: Consume Alcohol, River Lore, Row, Sail, Story Telling
+Street Fighter, Strike Mighty Blow, Swim
+Trappings: Hand Weapon, Leather Jack, Weatherproof Coat, 10yds Rope,
+2 lanterns, boat
+
+

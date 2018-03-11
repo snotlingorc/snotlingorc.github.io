@@ -1,0 +1,464 @@
+The Underworld in WFRP
+
+
+(Obligatory copyright statement)
+I am releasing the following material from another article 
+I have written which may be used only in a GM's home 
+campaign.  The status of the article is that it has been 
+submitted some time ago to another Company undergoing 
+reorganized.  I reserve all rights to the descriptive 
+material, including locations and characters, while 
+system-specific material is copyright by GW.
+
+Alfred Nunez
+Hauptdirektor- Schwarzmantel
+copyright 1993 Alfred Nunez
+
+
+BEHIND THE SCENES
+
+A Warhammer Fantasy Roleplay Look at the Underworld and 
+Covert Organizations in the Old World 
+
+In the darkened room where he felt most comfortable, Hans 
+Lichterfinger worked quietly; quietly as a cat prowling for 
+mice. This job was his most challenging yet.  More so than 
+the townhouses in Nuln's Neupalast district.  He had thought 
+crossing the Niederfluss district would have taken more 
+effort, but his skills at disguise and concealment proved more 
+than adequate. Entry into the townhouse of Ludwig Grossfaust, 
+chief bookkeeper for "Il Padrone," was also relatively easy.  
+In fact, the only hard part of this job was finding the hidden 
+safe.  It had to be somewhere in this room. 
+
+Hans had approached the bookcase at the far end of the room 
+when he heard footsteps.  Scurrying toward the window from 
+which he entered, Hans hid behind the heavy drapery.  The 
+sounds of approach ceased.  The door opened and two men entered.
+
+"As I told Il Padrone, I think the new guy in Protection, your 
+partner, is some sort of spy.  Maybe one of Kafka's men, or 
+even one of the Graukappen."
+
+"Where d' ya git da idea dat he's a spy, Herr Grossfaust?"
+
+"A couple of the boys have noticed some rather odd behavior 
+on his part.  In addition, the collections from Protection 
+have not met the projections."
+
+"Whatcha goin' ta do?"
+
+Ludwig walked towards the window.  As he neared, Ludwig 
+paused for an moment, then turned toward the man from 
+Protection.  "At the moment, nothing but watch and wait.  
+Anyway, it's getting late and I need you to keep an eye on 
+this new guy.  I'm going to get someone from Enforcement 
+to talk to you about some plans to trap your partner.  Why 
+don't you return to your flat and get some rest.  Enforcement 
+will be there by early morning.  Karl will show you out."
+
+Hans remained as he was while Ludwig returned to the center 
+of the room and the other man left.  Slowly, quietly he 
+reached for the window latch.  Ludwig seated himself at 
+the large oak desk and began to write a note.  Moments later, 
+another individual entered and stood near Ludwig.  The 
+bookkeeper put down his pen, folded the paper, and sealed it 
+with wax.
+
+"Karl, send this letter to our 'unofficial' contact at the 
+Schwarzmantel.  She has an appointment with the man who just 
+left.  This pouch," Ludwig tossed something onto the desk 
+that clinked like a large amount of coins, "will ensure that 
+it will look like an accident."  Ludwig rose and walked over 
+to the open window.  Closing it, he espied a figure clad in 
+black racing across the grounds.  "Also, put word on the 
+street that there will be 20 Crowns for anyone with 
+information on an uptown 'Cat' who lost his way tonight."
+
+
+ORGANIZED CRIME IN THE OLD WORLD
+
+Organized crime is found in all cities and most of the 
+larger towns in the Old World.  Some of these organizations 
+are family run operations like those headed by Fritz Kafka 
+in Nuln and Francesco Sarducci in Altdorf.  Others are 
+organized as a guild similar to most any other guild (some 
+say that the Merchants' Guild is just another name for a 
+Thieves' Guild).
+
+The rest are street gangs of young toughs (known as "Punk 
+Gangs" in some quarters).  Except in large cities, only 
+one of these organizations exist in any given city or town.  
+In the larger cities, a number of these crime groups will 
+coexist in a rather uneasy truce.  Each will operate within 
+established turfs whose boundaries change with an 
+organization's relative strength to its rivals.  An 
+exception to this is Brionne, City of Thieves, in Bretonnia 
+where the city is run by a council of crime organizations, 
+Le Cartel des Poing (headed by the Governor of Brionne 
+himself).
+
+Structurally, these crime organizations have many 
+similarities, as well as differences.  At the top, these 
+structures are directed by a Crime Lord.  Depending on the 
+nature of the group, these individuals are called 
+Guildmaster, Padrone, Boss, Big Man, Godfather, Big Cheese, 
+Numero Uno, etc.  After the Crime Lords are their trusted 
+lieutenants.  In the cases of Guilds and Families, these 
+lieutenants are responsible for a specific area of the 
+"business" (Enforcement, Protection, and Collections). 
+Reporting to these lieutenants are another layer of 
+"bureaucrats."  These would be "blind contacts" for the grunts 
+in the organization.  Blind contacts are those who meet the 
+footsoldiers in darkened rooms, behind screens, through 
+closed windows.  Essentially, any situation in which 
+communications are other than face-to-face.  In contrast, 
+Punk Gangs deal directly with their members and lieutenants 
+are merely a second level in the pecking order.
+
+The central difference between the three types of crime 
+organizations is found in their methods of conducting 
+"business." The most basic of the three is the Thieves' 
+Guild organization. The Guild (as it is known by its members) 
+is a secret organization that operates outside the mainstream 
+of society. Members are sworn upon pain of death not to reveal 
+or acknowledge the Guild's existence to outsiders (using Guild 
+secret languages, rituals, and signs to recognize one another).  
+In the tradition of pyramid schemes, the Guild exists so that 
+the leaders can sponge off the profits of criminal activity in 
+their turf while giving the illusion of benefit to its members.  
+Ranald, God of Thieves and Tricksters, does delight in that 
+jest! "Jobs" are doled out based upon favoritism with the most 
+dangerous being assigned to dissenters within the ranks.  
+"Benefits", such as training and protection, still require 
+payment of a tithe to the upper echelon of the Guild.
+
+Naturally, most thieves in a Guild are blind to any negative 
+aspects of the Guild.  Actually, many truly believe that the 
+Guild is their protection against an otherwise hostile world 
+(Ranald smiles upon those with the foresight to take 
+advantage of the unknowing).
+
+Unlike Guilds, family-run crime is operated in a manner 
+similar to large merchant houses.  The Family's business 
+extends from illegal activities (loan sharking, smuggling, 
+and extortion) to legal businesses (trade and operating 
+gambling casinos) to philanthropic causes (financing soup 
+kitchens).  Businesses are strictly segmented (e.g., 
+Protection, Enforcement, Loans) and headed by a high ranking 
+member of the Family.  These individuals are, in turn, 
+ultimately accountable to the head (Crime Lord) of the Family.  
+The Family works within the framework of society by 
+compromising or bribing those who may interfere with or 
+adversely affect the Business.  Any who cannot be compromised 
+may find themselves tied up in the courts by the legions of 
+lawyers employed by the Family.  Worse, they might be tied to 
+a rock at the bottom of a river, lake, or other large body of 
+water (the deeper the better).
+
+The Street or "Punk" Gangs are the most violent.  Eschewing 
+any pretense of working within society's framework (avoiding 
+them altogether) Punkers utilize intimidation and violence to 
+cower others.  Needless to say, many Punkers are young (teens 
+to early twenties) and impulsive.  Rarely do they live a long 
+life.  Most will meet a violent and bloody end (usually at the 
+hands of another Punker) long before they realize the trap 
+into which they have fallen.  Victims of their crimes also 
+stand a good chance of being snuffed out.  Punkers do not have 
+the patience, finesse,nor inclination to plan a "job" to 
+minimize their risks.  A source of great pride for a Punker is 
+the number of victims they have "taken out".  It increases 
+their standing in the Gang (Worshippers of Khaine, Lord of 
+Murder, find some of their best recruits from Punk Gangs).
+
+Given the violence which surrounds them, Crime Lords and their 
+lieutenants are always accompanied by bodyguards.  Especially 
+when gang warfare erupts in their turf.  Such wars may be 
+caused by:
+(1) nearby organizations sensing a rival's sudden weakness;
+(2) a new Crime Lord trying to carve out his own turf;
+(3) a more powerful organization's desire to humble an upstart 
+rival or
+(4) revenge in a blood feud.
+
+Naturally, these wars result in a large number of casualties 
+(many fatal).  Some of those fatal are found and buried in 
+paupers' cemeteries, while others find their way into more 
+imaginative locations such as lake and river bottoms, or the 
+foundations of new manor houses or castles.
+
+
+CRIME LORD
+
+Description: Crime is well organized in the large cities of 
+the Old World.  In some places, things are organized in 
+guild fashion with a Guildmaster at the top surrounded by 
+trusted lieutenants.  In other places, such as Tilean 
+City-States, these organizations are like a family business 
+with the head of the extended family ("Don", or "Padrone" in 
+Tilean families) as "Boss" surrounded by his sons and other 
+trusted family members.  These Crime Lords usually control 
+most of the illegal activities in their areas of control 
+(smuggling, extortion, slavery, illegal gambling, and loan 
+sharking).
+
+These activities are covered by legitimate ones (mostly the 
+Family-run operations) such as trade and craft. In addition, 
+many Crime Lords contribute to openly philanthropic causes, 
+especially for the poorer classes.  The Street or Punk Gangs 
+are the exception to this as they deal with the world on 
+their own violent terms.
+
+Would-be Crime Lords have to either take over a current Crime 
+Lord's territory or carve out a piece of that territory.  
+Either way, the would-be Crime Lord would have to initiate 
+gang warfare. A would-be Crime Lord can become a Crime Lord 
+in fact only by surviving such a war and gaining territory 
+and exclusively directing criminal activity therein.  Ensuing 
+warfare can erupt at any time.
+
+
+ M   WS   BS   S   T   W    I   A   Dex  Ld   Int  Cl   WP   Fel
+ --  +30  +30  +2  +2  +5  +30  +2  +30  +40  +30  +30  +20  +20
+
+
+Skills:
+Bribery
+Charm
+Dance
+Embezzling
+Etiquette
+Evaluate
+Immunity to Poison
+Numismatics
+Secret Language- Guilder
+Specialist Weapon- Firearms
+Spot Trap
+Street Fighter
+Torture
+
+Trappings:
+Hand Weapon
+Hidden Pistol
+Townhouse
+Warehouse(s)
+10D6 Gold Crowns
+2D6 Bodyguards
+2D6 Racketeers
+
+Career Entries:
+Assassin
+Outlaw Chief
+Racketeer
+Slaver
+
+Career Exits:
+Nil
+
+
+COVERT OPERATIONS
+
+No self-respecting crime organization would be complete 
+without some way to handle those delicate situations in a 
+rather final and tidy manner.  This is where the assassin 
+steps in.
+
+Assassins' guilds are rumored to exist in only the largest of
+ Old World cities.  These guilds are headed by a Grandmaster 
+whose identity, and those of their lieutenants, are the closest 
+of secrets.  Few of the lowest rung of assassins know who the 
+identity of their most immediate contact, much less that of 
+those above.  The cost of an assassin's services is predicated 
+upon four things:
+(1) the experience of the assassin;
+(2) the social standing of the target;
+(3) the abilities of the target itself (i.e. another 
+assassin? A Judicial Champion? Perhaps a skilled fighter?) and
+(4) whether the assassin controls the manner and timing of the 
+hit.
+
+Assassins who are not members of a formal organization are 
+known as "free agents."  They are commonly found in the 
+seedier (and deadlier) parts of the largest cities and towns 
+in the Old World. Contacting these people for a job is a 
+risky and uncertain proposition.  Many are the times where 
+the client ends up as the victim instead.  Generally, contact 
+is made through the barkeeps whose run down taverns and dives 
+are frequent in these vermin-infested parts of town.
+
+Like assassins, spies are also feature prominently in the 
+world of organized crime.  Unlike assassins, spies are 
+generally attached to one organization or another.  It is not, 
+however, altogether uncommon to find a free agent spy.  Like the 
+free agent assassins, these spies are contacted through sources 
+in the worst part of town.
+
+
+USE OF SPIES AND ASSASSINS
+
+In normal, everyday operations, crime organizations may 
+employ spies against rival organizations.  The more tense 
+the relations between  organizations the more spies are 
+used to probe the rival's defenses for weaknesses.  Most 
+of their efforts are directed towards identifying a 
+disgruntled member of the upper echelon likely to "turn" 
+or betray the Crime Lord).  Spies are also utilized to 
+keep tabs on Merchant houses (another natural rival to 
+the organizations), the City Watch, City Garrisons, 
+various Guilds, and selected Houses of the Nobility.
+
+In times of gang warfare, assassins are hired to eliminate 
+rivals, other assassins hired by their rivals, and any other 
+perceived threats.  These assassins are not members of the 
+crime organization, but are free agents whose methods of 
+operation are known to a number of Crime Lords and their 
+lieutenants. Sometimes after an assassin hits a particular 
+organization he may find himself in the employ of that 
+"victim" organization to return the "favor" by hitting the 
+organization that initially employed him.
+
+Like crime organizations or guilds, most Old World nations 
+and city-states employ spies. While serving a similar purpose, 
+these organizations vary by nation as to the manner in which 
+they operate.
+
+Some groups are highly structured, centralized, and efficient 
+like the Marienburg Effenmunten and the Imperial 
+intelligence-gathering agency, the Graukappen.  Based in 
+Altdorf, the Graukappen are  attached to the Imperial River 
+Patrol headed by Count Siegfried von Walfen of Reikland.  A 
+cousin of the late Emperor Karl Franz I. The Count was 
+Internal Minister of the Imperial River Patrol during his 
+cousin's reign and continued into that of Heinrich X.
+
+Other covert operations, like the Bretonnian Les Sans Face, 
+are distrustful and decentralized.  Their members spend more 
+time spying on other chapters than they do on other targets.  
+Still others are a combination, highly centralized but 
+untrusting.  The Estalian Los Piadosos exemplify this variety 
+of operation.  An arm of the Inquisition, their time is spent 
+rooting out heretics from the people as well as their own 
+ranks. 
+
+As with crime organizations, assassins are a tool of Old 
+World governments.  In a few cases, they are a branch within 
+the Intelligence agency, as is the case with the Estalian 
+Los Piadosos.  More commonly, they are an organization in a 
+separate Ministry and described as "Special Services."  These 
+organizations discreetly handle situations involving traitors, 
+spies, demagogues, agitators, and any others designated as 
+"Enemies of the State."  The Middenheim-based Schwarzmantel, 
+serving the Empire, is a well known example of a Special 
+Services organization.
+
+Other organizations that may employ large numbers of spies and 
+the occasional assassin include most of the powerful guilds 
+(such as Merchant Guilds) and the large Merchant Houses.  These 
+spies are generally used against one another for market and 
+other advantages.  It is a rare occasion when the large Merchant 
+Houses or Guilds employ spies against the crime organizations.  
+Lesser guilds (Teamsters and Stevedores) hire muscle and thugs 
+only from within their own ranks.
+
+
+CAT BURGLARS
+
+There are times, all the same, when the skills of spies and 
+assassins do not fill the bill.  For these highly specialized 
+jobs only the finesse of a Cat Burglar will suffice.
+
+When it comes to break-ins and thievery, no one matches the 
+Cat Burglar for sheer ability.  Although loners and very 
+independent, it is the rare challenge that will entice a "Cat" 
+to leave his normal haunts in the high and upper middle class 
+districts. Since successful conclusion of their work furthers 
+their reputation, these jobs must be against high-profile 
+targets with an exceptional degree of difficulty. 
+
+Contacting a Cat is very difficult as their identities are 
+closely kept secrets.  When not prowling places a Cat frequents 
+are as individual as the Cat.  Some organizations use spies to 
+track Cats back to their lairs.  This will enable the 
+organization to compromise a Cat, making them more agreeable 
+to "accepting" commissions.  Of course, finding and tracking 
+down a Cat is no easy task.  Many are the occasions where a Cat 
+was spotted and lost after a long and merry chase (as if the Cat 
+sensed that it was being followed).  Thus, trying to find a Cat 
+or a place to leave word to arrange a meeting with one is a 
+challenge in itself.
+
+
+CAT BURGLAR
+
+Description: In most Old World nations, only the eldest son of 
+noble inherits the family fortune.  Many younger sons follow a 
+military career so as to experience the thrilling, and bloody, 
+pursuit of war. Others seek a celebrated status more suited to 
+their class.  So they undertake the task of becoming skilled in 
+the art of burglary, while developing the flair and style which 
+will give them the notoriety they crave.
+
+Many take on colorful monikers ("the Panther," etc.) and leave a 
+calling card (perhaps a white monogrammed glove) at the scene of 
+their crime.  Besides the nobility, more talented charlatans may 
+become "Cats."  Most develop a facade of noble birth, as well as 
+the style and flair required of Cats.
+
+In order to locate and case potential victims, Cats mix in High 
+Society.  They attend the lavish parties and social events 
+frequented by the nobility.  A number of Cats adopt foreign 
+accents and titles (Count or Viscount of something exotic) so 
+as to intrigue potential victims, especially those of the 
+opposite sex.  Cats may, as necessary, develop a "relationship" 
+with their victim before the heist.  In most cases, however, the 
+Cat will avoid any deep personal involvement.
+
+Besides the thrill of the burglary, Cats need the money.  Fencing 
+stolen merchandise funds their extravagant lifestyles.  After all, 
+living as nobility requires lots of money.  The fencing of stolen 
+items is usually handled by underlings who will never reveal their 
+employers.  These underlings will deal "blind" (anonymously) with 
+fences or they will hire other "blinds" to interact with fences.
+
+Whenever a Cat senses that they may have "overhunted" their 
+territory (i.e., they have robbed just about everybody) and 
+are at high risk of capture, they move on.  In some cases, too 
+many Cats may turn up in a city.  This situation will usually 
+end up in an unseen, though not unfelt, war between Cats until 
+the number is reduced to that which the city can support.  The 
+losers of these secret wars are either driven off to another 
+locale or are killed.
+
+
+ M   WS   BS   S   T   W    I   A   Dex  Ld   Int  Cl   WP   Fel
+ --  +20  +30  +1  +2  +4  +30  --  +30  +20  +20  +30  +20  +30
+
+
+Skills:                         Skills:
+Blather                         Bribery
+Charm                           Concealment Urban
+Dance                           Etiquette
+Evaluate                        Gamble
+Heraldry                        Luck
+Numismatics                     Palm Object
+Pick Lock                       Pick Pocket
+Read/ Write                     Ride
+Scale Sheer Surface             Secret Language- Thieves' Tongue
+Secret Signs- Thieves' Signs    Seduction
+Sense Magic Alarm               Silent Move Urban
+Sixth Sense                     Specialist Weapon- Fencing
+Spot Trap                       Wit
+
+Trappings:                      Trappings:
+Black-Hooded Tunic              Expensive Clothes
+Hand Weapon                     Lockpicking Tools
+Ordinary Clothes                Rope- 10 yards
+Townhouse                       6D6 Gold Crowns
+
+Career Entries:  
+Charlatan
+Noble
+
+Career Exits:
+Locksmith
+Spy

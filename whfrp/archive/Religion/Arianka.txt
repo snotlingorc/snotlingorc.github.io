@@ -1,0 +1,157 @@
+From: Ian Ward <ACA95IDW@sheffield.ac.uk>
+Subject: [WFRP:1590] Arianka!
+
+*ARIANKA - Goddess of Law and Discipline
+
+*Description:
+ Arianka, sister of Solkan and Alluminas and consort of Solkan, is 
+the embodiment of law and discipline.  In the distant past, Tzeentch, 
+changer of the ways, saw Arianka as a great threat to his plans and 
+imprisoned her in a crystal coffin which can be opened only by a set 
+of keys, hidden somewhere in the world but whose whereabouts are 
+unknown.  Many Old Worlders believe Arianka is nothing more than 
+legend.
+
+ One legend tells of how Arianka forged Laihtendrung, her crystal 
+sword, out of a special magical crystal that shone with a soft inner 
+light.  The tale claims the substance, called Laihtero crystal, was 
+created as a reaction to the existence of the solidified chaos known 
+as Warpstone, and that its' properties are such that it produces an 
+aura of stasis around it, that nothing changes as long as the 
+crystals' soft light is shining on it.  No such crystals have ever 
+been found, however, and the tales are largely believed to be nothing 
+more than that.
+
+ It is also said that Ariankas' legendary coffin is made of Laihtero 
+crystal, locking her in the stasis field thus generated around her.  
+The legend surrounding her does not make clear how her captor trapped 
+her thus, but the coffin is said to lie in Praag, Kislev.  Ariankas' 
+followers are dedicated to the search for the keys which will free 
+her from her imprisonment.
+
+*Special Note:
+ Being as Arianka is imprisoned, she is unique amoung the warhammer 
+gods in that opinions differ over whether (and how) her cult persists 
+today.  This description cannot cater for all these views and makes 
+no attempt to do so.
+ Also, a quest for Ariankas' keys is a good campaign hook, so I'm 
+leaving out details like the number of keys, etc. as GMs can then 
+decide on them as fits their campaign.  This description assumes the 
+character worships Arianka alone (as opposed to being in some joint 
+Arianka/Solkan sub-cult) and is meant as a sort of generic template 
+to put the scalpel to as you see fit.  My personal view on Arianka is 
+in a section at the end.
+
+*Alignment:
+ Lawful.
+
+*Symbol:
+ Ariankas' symbol is her crystal sword, Laihtendrung, with which she 
+is said  to dispense her punishment.  Cultists believe that on the 
+day of her release she will take up Laihtendrung and join Solkan in 
+taking revenge upon the chaos god who imprisoned her.
+
+*Area of Worship:
+ Members of the cult come from all over the Old World, but are few in 
+number, and tend to come from the south of the Old World.  Local 
+cults in a particular area generally get together with others on 
+Ariankas' holy days to meet in prayer and discuss any leads found in 
+the search.
+
+*Temples:
+ All Ariankas' old temples have long since crumbled to ruins.  Few 
+cultists are willing to give up the quest for the keys to oversee the 
+rebuilding of the temples, and, where a cultist has been willing to 
+do so, the new temples have reportedly collapsed on placing the last 
+brick/stone.  Services are usually held in shrines set up in cultists 
+homes or property bought by the cult for the purpose.
+
+*Friend and Enemies:
+ The cult is contempible towards the majority of Old World religion, 
+because its' weak stance against chaos, but Ranald in particular is 
+an enemy for his constant belittling of authority.  Not surprisingly, 
+The cult is vehemently hostile to the chaos gods.  Relations are 
+friendly with the other gods of law.
+
+*Holy Days:
+ Holy days are the first and last day of each month and since her 
+imprisonment, the day believed to be the anniversary of her 
+imprisonment is also held holy.
+
+*Cult Requirements:
+ New cultists must never have broken the law, except where allowed by 
+Ariankas' scriptures.
+
+*Strictures:
+ - Oppose chaos and its' minions whenever they are encountered.
+ - Oppose weak and foolish laws which make a mockery of law and 
+dicipline.
+ - Never let a crime go unpunished.
+ - Obey and enforce the letter of the law unless this would break any  
+of the above strictures.
+ - Never pardon others who question or disobey an order from a 
+superior, or do so yourself, unless to obey would break any of the 
+above strictures.
+
+*Spell Use:
+ Before imprisonment, Arianka granted all petty and battle magic 
+spells.  Being currently imprisoned, however, Arianka has no power to 
+grant magical aid to clerics.
+
+*Skills:
+ Initiates of Arianka must buy the Law skill, at normal EP cost, 
+before advancing to level one cleric.
+
+*Trials:
+ Trials to Arianka are never set, as the quest for the crystal keys 
+and coffin is considered too important.  When a trial is indicated, 
+the character must accumulate another 100 EP and try again.  Were 
+Arianka not imprisoned, a typical test might be to thwart a group of 
+criminals that were currently evading the authorities.
+
+*Blessings:
+ Arianka favours tests based on Ld, Cool and WP, especially Loyalty, 
+resistance to bribes, etc., although she has no power to grant 
+blessings (or curses) while she is imprisoned.
+
+*Personal View (long):
+ I see the cult of Arianka as being alive and well.  When Tzeentch 
+defeated her, he imprisoned her in a Laihtero crystal coffin which 
+does indeed lie in Praag, Kislev.  The nine keys (also made of 
+Laihtero, as is Laihtendrung) are hidden somewhere in the world, but 
+noone knows where - they change location randomly at the whim of 
+Tzeentch.  Her cult collapsed on her imprisonment, but some remnants 
+survived.
+ Many cultists were disspirited and never quite recovered.  Some were 
+totally absorbed in the cult of Solkan (who took up the torch of 
+discipline when she was imprisoned), while some were partially merged 
+in the cult of Solkan and persist as a sub-cult worshipping both gods 
+(they are subject to both sets of cult requirements and have to 
+follow both sets of strictures, holy days, etc. but receive magic and 
+blessings from Solkan for their dedication).
+ Others still remained loyal to Arianka alone and this sub-cult of 
+hers also persists today.  This sub-cult is itself composed to two 
+groups.  The first group knows of the true location of her coffin and 
+go to great lengths to ensure that the world at large does not find 
+out, a few members of the joint sub-cult with Solkan are also trusted 
+with this sensitive information.  The other group is generally not 
+trusted enough to be told and will be told only in times when there 
+is no other choice.  Arianka also has an order of knights templar, 
+the Knights of the Holy Quest.
+ Not only is her cult alive and well, but so too is Arianka herself.  
+She is alive and semi-conscious in her coffin, and considerably 
+weakened in her godly powers by the stasis field.  She does, however, 
+have limited control over the crystal (although exercising it costs 
+her dearly in strength).  She thus has the power to grant magical 
+spells and effects to cultists within D8-6 yards of the coffin 
+(reroll every round, minimum of zero) and can grant blessings within 
+the same range, although these too end when the subject leaves the 
+range of Ariankas' influence.  Laihtendrung lies beside her in the 
+coffin.
+
+
+  TTFN.  Ian Ward 
+  aca95idw@sheffield.ac.uk
+  ---------------------------------------------
+  "That which we do not bring to consciousness, 
+   appears in our lives as fate."  (C.C.Jung)

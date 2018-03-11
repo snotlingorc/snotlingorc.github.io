@@ -1,0 +1,181 @@
+From: Ian Ward <ACA95IDW@sheffield.ac.uk>
+Subject: [WFRP:1384] Alluminas description
+
+*Alluminas - Master of Light, Lord of Enlightenment
+
+>Description:
+ Alluminas, esoteric brother of Arianka and Solkan, embodies a pure, 
+unchanging light which renders anything it strikes unmoving and 
+unchanging, and the idea of total divine enlightenment.  His 
+worshippers are few in the Old World, but his centre of worship lies 
+in the far eastern states of Cathay and Nippon, where he has several 
+monastic orders, the Monks of the Light (or 'White Monks': you might 
+like to use the monk careers in the archives or just use the normal 
+cleric careers as an approximation).
+ Whether in the Old World or the far east, worshippers of Alluminas 
+all share one thing, the search for the Enlightenment which is 
+oneness with their master.  They study the scriptures of Alluminas as 
+set out in his holy book (the Alluminamus), meditate to strive for 
+oneness in spirit and follow the Fourfold Path: through Thought, 
+Meditation, Dedication and Understanding come, ultimately, divine 
+Enlightenment.
+
+>Alignment:
+ Lawful.
+
+>Symbol:
+ Alluminas' chief symbol is that of a four spoked wheel, representing 
+the Fourfold Path.  A less common symbol, but one more popular in the 
+west, is that of a candle.
+ The White Monks wear white robes with the four spoked wheel 
+embroidered in gold on the left breast.  Old World worshippers 
+usually wear the symbol of the candle somewhere on their clothes or 
+carry an amulet bearing the symbol, but generally not in plain sight.
+
+>Area of Worship:
+ Alluminas has very few worshippers in the Old World and the vast 
+majority of his cult is made up of the White Monks of Cathay and 
+Nippon, whose monasteries can be found in the more mountainous areas.  
+He also has a few followers who travel the world, seeking out chaos, 
+though little else is known of them.
+
+>Temples:
+ Alluminas has no temples or shrines in the Old World and worshippers 
+generally maintain shrines in their homes.  In Cathay and Nippon, 
+temples are built as part of the monasteries.
+ Whether small shrine or large temple, worship areas consecrated to 
+Alluminas are simple and uncluttered.  The focus of the room is a 
+wooden table, covered with a white cloth which is often embroidered 
+with one of Alluminas' symbols.  On the table is a candle, which must 
+always remain lit - if it is allowed to go out then the temple/shrine 
+must be reconsecrated to Alluminas before it can be used again.  
+Beside the candle lies the Alluminamus.
+
+>Friends and Enemies:
+ Alluminas has little to do with the majority of religions - their 
+weak stance against chaos makes them next to useless in the struggle 
+against it and hence not worth his attention.  He is hostile to the 
+gods of chaos (especially the traitorous Obscuras, who turned away 
+from law to rule over his own dark shadow realm) and has friendly 
+relations with the other law gods.
+
+>Holy Days:
+ Alluminas' main holy days are the Spring equinox and Summer soltice, 
+while the Autumn equinox and Winter solstice are lesser holy days, as 
+are days when Mannslieb is full.  Vigils are held on the nights when 
+Morrslieb is full to ward off chaos.
+
+>Cult Requirements:
+ Followers of Alluminas must be human and be willing to seek the true 
+path of enlightenment, regardless of the sacrifices they have to 
+make.
+
+>Strictures:
+ - Oppose chaos whereever and whenever it is found.
+ - Study the Alluminamus, spend at least six hours a day in 
+meditation to Alluminas and follow the Fourfold Path.
+ - Abstain from the consumption of alcohol or other drugs, and from 
+sexual activity.  Such things divert the mind from the primary task 
+of seeking enlightenment.
+
+>Spell Use:
+ For spell use, the White Monks count as varying levels of cleric:  
+Initiate monks get no magic, full monks count as clerics of level 1 
+to 4 (depending on the monks seniority) and the Abbot is always level 
+four.  Alluminas grants access to all petty and battle magic spells, 
+as well as the following special spells:
+
+  >Enlighten mind
+  Level 1, 6 MP, 48 yds range, D2 rounds duration
+  This spell, which can be cast at any target within 48 yds or on the 
+caster himself, has varying effects, depending on who it is cast on:
+  - On followers of Alluminas it brings temporarily heightened 
+enlightenment on the glory of Alluminas, giving +20 WP.
+  - On the unenlightened (anyone else), it casts the same images into 
+their minds but they are interpreted differently and cause temporary 
+confusion and distraction.  The target suffers -20 to BS, I and Int, 
+and -10 to WS and WP.  These penalties are halved if the target 
+passes a WP test.
+
+  >Hand of Light
+  Level 2, 8 MP, personal range, D6+3 turns duration
+  This spell causes the casters hand to glow with an intense light.  
+The light has two effects:
+  (i)  It inflicts D6 W's at (casters' S)+1 on a successful touch in 
+unarmed combat.  Normal unarmed combat modifiers apply.
+  (ii) It distracts melee opponents, causing them to have a -10 
+penalty to I and WS.  This effect is avoided if the opponent passes a 
+WP roll to keep his concentration.  Note that the opponent attempting 
+to shield or avert his eyes from the light would cause the same 
+penalties.
+
+  >LightBall
+  Level 3, 12 MP, 48 yds range, instantaneous
+  This spell allows the caster to throw a ball of pure light at a 
+target within 48 yds.  It is a magical missile and automatically hits 
+its' target.  It inflicts D10 W's at a stength of 6 and non-magical 
+armour is ignored.  Targets with Night Vision or who are currently 
+affected by the Night Sight spell are partially blinded for one round 
+(-20 to WS, BS and I) by the intense frequencies contained within the 
+ball that are outside the normal visible range.
+
+>Skills:
+ Initiates and initiate monks can and must buy Meditation skill at 
+normal EP cost before advancing to level one cleric or full monk 
+status.
+
+>Trials:
+ Trials to Alluminas usually involve long periods of meditation (a 
+number of hours equal to twice the characters' WP, say).  Trials 
+involving actively seeking out chaos are less common, as they 
+interrupt the quiet life that aids enlightenment.
+
+>Blessings:
+ Alluminas is extremely selective as regards who he gives blessings, 
+even more so than other gods (I'd suggest he grants a blessing on a 
+roll of 1-2 on D1000), and such blessings are wondrous events, 
+usually given only to Monks of the Light who have spent years or 
+decades in worshipping him.  The most wondrous of the blessings 
+Alluminas will grant is the Call of the Ancestors, described below.
+
+
+*The Call of the Ancestors
+
+ The Hall of the Ancestors is a great and wondrous place.  It is a 
+great hall with many statues, the forever preserved bodies of those 
+who have acheived total enlightenment and left the confines of their 
+mortal bodies to join Alluminas in his divine realm.  They are the 
+statues of the Enlightened.
+ Ocasionally, a monk reaches a state of almost total understanding.  
+He feels the Call of the Ancestors and makes his way to the hall, 
+where he meditates before one of the holy statues.  He enters an 
+almost unbreakable holy trance and his physical needs (food, drink, 
+sleep) become ever smaller, until the monk (after many years of 
+meditation at least) becomes perfectly Enlightened.
+ He will be commanded to take up his place with the other statues, 
+and will then be struck by Alluminas' heavenly light.  His body will 
+become frozen as it is, ever preserved, and his spirit will join with 
+Alluminas in his divine realm.
+ The spirit becomes a Seraph, a divine agent (I don't like the word 
+'demon' with the law gods) of Alluminas.  It gains wings and its' 
+true height is doubled to a minimum of ten feet.  The Seraphs' stats 
+are given by taking the mortal stats and applying the following: S+2, 
+T+2, Wx2, I+20, A+2, WP+20.  Seraphim are immune to non-magical 
+attacks and all psychology except if caused by a god.  They cause 
+fear in creatures under ten feet tall and all chaos creatures below 
+the rank of greater demon, and their own attacks count as magical.  
+Any magic a Seraph could cast while mortal it can now cast at no 
+magic point cost.
+ When Seraphim return to the material realm (usually only at the 
+command of Alluminas or to warn former colleagues of some grave 
+threat) they can choose to appear in their true form (complete with 
+wings and all ten feet of height) or as when mortal.  In the latter 
+case, a Seraph may choose to cause fear or not (and in whom it wants 
+to), walking around and getting no special attention at all, as it 
+desires.
+
+  TTFN.  Ian Ward 
+  aca95idw@sheffield.ac.uk
+  ---------------------------------------------
+  "That which we do not bring to consciousness, 
+   appears in our lives as fate."  (C.C.Jung)

@@ -1,0 +1,37 @@
+From cc697@cleveland.freenet.eduMon Aug 14 09:07:58 1995
+Date: Mon, 10 Jul 1995 03:14:27 -0400
+From: Eric Oppen <cc697@cleveland.freenet.edu>
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: More NPCs, as promised.
+
+Edmund von Schwarzenatter
+Human, Male
+Noble
+
+M 4 WS 49 BS 43 S 4 T 3 W 9 I 39 A 1 DX 46 LD 51 INT 40 CL 50 WP 25 FEL 42
+
+Skills:  blather, charm, heraldry, luck, ettiquette, read/write, ride
+(horse), wit, gamble, public speaking, specialist weapon (fencing sword,
+pistol), secret language (Classical).
+
+Edmund von Schwarzenatter is the son of exiled Albionese nobility.  He
+lives in Middenheim, ostensibly off the revenues from some estates.  In
+fact, he is a ranking agent ofthe Middenheim Freistadt Innere- und Aussere-
+Sicherheitsburo---the Middenheim secret police and espionage service.  With
+his noble background, he is able to infiltrate plots among the nobilitiy,
+and visit neighboring Electoral courts and the like without attracting
+particular notice.  His two stupid sidekicks---Freiherr Schwantz von
+Schwantz (descended from another exiled Albionese nobleman, Lord Percy
+Percy) and his incredibly dim servant, S. Balderich, also distract
+attention from him with their incredible dumbness.
+
+Special Rules:  Must save vs. Cl or get silly haircut when severely
+traumatized. 
+
+Description: Pale skin, large dark eyes, thick curly black hair, curly
+black beard, always wears black-on-black clothing.
+
+Quotable Quote:  "Balderich, that 'cunning plan' of yours is easily the
+stupidest idea I've ever heard of since your 'cunning plan' to only make
+love wearing clothes to ensure that the baby wouldn't be born naked." 

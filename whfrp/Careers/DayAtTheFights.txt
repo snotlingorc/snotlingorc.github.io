@@ -1,0 +1,195 @@
+From toaster@pvv.unit.noFri Oct  6 14:37:30 1995
+Date: Wed, 4 Oct 1995 17:31:15 +0200 (DFT)
+From: Thomas Oesterlie <toaster@pvv.unit.no>
+Reply to: The wfrp mailing list <wfrp@gojira.monsta.com>
+To: "Mailinglist. Warhammer FRP" <wfrp@gojira.monsta.com>
+Subject: WFRP: A day at the fights
+
+The following material is copyright(c)1995 Thomas Oesterlie.
+It may only be used in the GM's home campaign.
+
+A DAY AT THE FIGHTS
+===================
+
+Having read Graeme Davis' excellent article in White Wolf Inphobia issue 57,
+I felt that there were some fleshing out of the environment around the Pit
+Fighters that were worth detailing. Take a tour with us to the wondrous
+world of pit fights:
+
+BETTING
+
+Most people who go to pit fights, do it for the sake of the show, and to
+bet. In all pit fighter arenas there are Bookmakers. These bookmakers
+calculate the odds before the fights, and collects the spectators' bets.
+Deciding the odds is up to the GM. The writer of this article must confess
+his inability at this point. I have never been to any horse races. Ever. I
+haven't actually been to a place where people bet at all, so I am left in
+the dark when it comes to calculating odds. That is why I will not try to
+give any good ideas to how odds should be calculated in WFRP
+
+Bookmaker (Basic Rogue Career)
+
+The Bookmaker is the person people turn to when they are going to bet in a
+pit fight. Be it a legal or an illegal one: Bookmakers are everywhere. It
+must be said that betting with a Bookmaker in an illegal fight may be risky
+business. It is not unknown for Bookmakers to sneak out in the middle of a
+fight taking all the money with them. Where the pit fights are more
+organised, there are guards or even sentries to make sure that no Bookmakers
+try to sneak out with the money.
+
+Most pit-owners will have to approve of the Bookmaker's presence at their
+arena. In the more organised arenas of the legal and semi-legal pit fights,
+the Bookmakers are all pit-owner approved, and there are usually someone
+making sure that there are no non-approved-of Bookmakers there.
+
+Usually Bookmakers have to pay percentages of their earnings to the
+pit-owner. This is rarely more than five to ten percent of the night's
+earnings. 
+
+Advanced Scheme
+M WS  BS S  T W  I A Dex Ld Int Cl WP Fel
+  +10      +1 +1     +20
+
+Skills
+Embezzle
+Evaluate - Pit Fighters
+Numerate
+Flee!
+Palmistry
+Silent Move Urban
+
+Trappings
+Pouch for money
+Dagger
+License with a pit owner for bookmaking
+
+Career entries
+Random Basic Career
+
+Career exits
+Charlatan
+Racketeer
+Slaver
+
+
+THE FIGHTS
+
+Not only is the main activity for the Pit Fighter to enter the pit and win,
+it is actually his main responsibility, too. Pit Fighters rarely arrange
+their own fights. The main reason for this is that they very often do not
+have the right connections to do it. They do not, in addition, have the
+credibility they need in the pit fighting-establishment. Few are willing to
+fight against an unknown, never-heard-of-before Pit Fighter who wants to
+fight in the pits. No one knows how good this guy is, and it is bad for most
+established Pit Fighters to fight too good opponents, as well as too bad
+opponents.
+
+There is actually a group of people who have made it their profession to
+take care of Pit Fighters and arrange fights: the Stablemasters.
+
+Stablemaster (Advanced Career)
+
+"Someone has to take care of these guys! They're almost my sons! What can I
+do for them that I don't already do? I give them shelter. I feed them. I
+make sure they're in the best physical shape. And you say I rip them off!?"
+
+A Stablemaster may be independent, or he may belong to one Pit Fighter
+school. Independent Stablemasters rarely have more than three or four Pit
+Fighters in their stable. Stablemasters belonging to a school may have
+twenty to forty Pit Fighters in their stables.
+
+The Stablemaster is always on the look for new talents. Hanging out at bars
+scouting for talents is a major part of their job. Wealthy Stablemasters
+hire their own talent-hunters to take care of the job. He takes good care of
+the boys in his own stable; never letting them fight unworthy opponents, but
+not too skilled opponents either. The longer a fighter is able to go into
+the pit and fight, the more money the Stablemaster will earn. It would be a
+waste to let a Pit Fighter that has been invested with lots of money in
+training and developing, get killed in his first or second fight.
+
+Of course: some Stablemasters earn their living by drafting poor men in
+desperate need of money. Not giving them any training, and letting them
+directly into the pit. These speculators seldom ever move from warm-ups to
+the big-league. Some of them do earn lots of money, though.
+
+A Stablemaster makes his living through percentages of the bookmaker's
+earnings and percentages of the vendor's ticket money. Usually the
+bookmakers have to pay five to ten percent of their profit to the vendor.
+This money is then distributed to the Stablemaster's. Stablemasters do
+rarely take less than fifty percent of the money from the vendor. It is not
+unknown that they might even take up to eighty- eighty-five percent. This
+might seem as a rip-off to most, but remember every Stablemaster is
+responsible for paying instructors, physicians, surgeons, weapons and armour
+for the Pit Fighters in their stable. Now, does eighty percent seem
+un-reasonable to you?
+
+The Stablemaster's job is not always as straight forward as it may seem.
+Being a big-league Stablemaster is easy going, but trying to fight one's way
+up from nothing as an independent may be rough. The Stablemaster will have
+to find people willing  to fight unknown Pit Fighters. Most independent
+Stablemasters start off in the illegal Pit Fighting business where there are
+lots of other small-time independents trying to carve their way up to the
+big-league. The greatest problem for these Stablemasters are scouts from
+more established stables and schools stealing their Pit Fighters.
+
+Finding opponents for unknown fighters can be dangerous sometimes. There are
+always someone willing to fight if one seek out the right places. It is a
+known fact that many an independent Stablemaster trying to carve his way up,
+has gone into the sewers of the Old World's cities in search of opponents.
+One never know what creatures lurk down there.
+
+In addition to the things mentioned above, most Stablemasters will have to
+keep their own Pit Fighters out of trouble if they are into the
+illegal/semi-illegal pit fighting business. Bribing local Watchmen are for
+these the order of the day. Stablemasters forgetting to bribe the local
+Watchmen are sure to have no stable left at the end of the week.
+
+Being a big-league Stablemaster means lots of money. Some Stablemasters
+having made it in the semi-illegal Pit Fighting business, use their money
+and their fighters to build an organisation around themselves - taking
+control of the semi-legal and illegal activities of an area, making
+themselves Crime Lords - like Horatio 'The Hound' Hohenzee in Nuln. Other
+Stablemasters use their wealth in a more constructive way as traders.
+
+Needles to say: there are no Stablemasters taking care of the religious Pit
+Fighters. The ceremonial pit fights are arranged by the cult concerned.
+
+Advanced Scheme
+M  WS  BS  S  T   W   I  A  Dex  Ld  Int Cl Fel WP
+  +20     +1  +2 +2             +20  +20    +20
+
+Skills
+Charm
+Blather
+Bribery
+Embezzle
+Evaluate - Pit Fighter*
+Gamble
+Heal Wounds
+Numismatics
+Read/Write
+Wit
+
+Career Entries
+Bawd
+Charlatan
+Fence
+Pit Fighter
+
+Career Exits
+Crime Lord+
+Trader
+Merchant
+
+*New Skill - Characters with this skill may be able to judge the ability of
+a Pit Fighter by studying them. +10 to all Estimate tests when judging the
+prowess of Pit Fighter.
+
++Career taken from the article 'Behind the Scenes' by Alfred Nunez. The
+article is available at the Warhammer Archives (ftp.pvv.unit.no
+/pub/warhammer/Careers/ BehindTheScenes.txt
+
+Thomas Oesterlie
+toaster@pvv.unit.no
+PVV - The Software Workshop, University of Trondheim, Norway
+

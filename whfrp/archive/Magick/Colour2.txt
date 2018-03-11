@@ -1,0 +1,279 @@
+COLOR MAGIC, COLOR COLLEGES, AND WFRP SORCERY
+((The following is an extract from the rough draft of REALMS OF SORCERY,
+presenting background and rules adapting the idea of color magic (first
+detailed in White Dwarf 113 & 114 and implemented in current Warhammer
+Fantasy Battle rules) to sorcery for Warhammer Fantasy Roleplay.))
+
+The Colleges Arcane and the Old Secret Societies:  In earlier periods of cult
+persecution of sorcery the practices and traditions of sorcery were guarded
+and passed on in the Old World by various secret societies. Now that sorcery
+is sanctioned by the sovereigns, many former secret societies have been
+assimilated into the guild and academy system as the Colleges Arcane (also
+known as "color colleges"). The Colleges Arcane preserve the ancient secret
+society practices and traditions in fraternal organizations within the
+academy and guild system. 
+   In large Guildhalls all of the different colleges are often represented in
+the staff and students, but small study centers and guild chapters might be
+comprised of members of only one ot two color colleges.
+
+The following list indicates the formal (and informal) titles of the
+best-known Colleges Arcane, with a brief description of their guiding
+principles.
+
+   Aquilia Aureus (Golden Wizards): Though asserting a dedication to Perfect
+Reason and Honor, Gold Wizards have a popular reputation for mercenary greed
+and opportunistic ethics. Favored by War Wizards and Necromancers.
+    Turris Lumen ( Light Wizards): Preserves traditional values of ancient
+Hedgewizardry -- aid the poor, protect the weak, scorn and sting the rich and
+powerful. Persecuted by the authorities, honored by peasants and lower
+classes. Favored by Illusionists.
+   Triskele Triplex (Jade Wizards): Specializes in the nature-oriented
+magicks of the rural countryside and wilderness. Favored by Elementalists.
+   Carpe Vita (Amethyst Wizards): Playful, immoderate, and self-indulgent,
+regarding magick as a toy for art and amusement. Favored by War Wizards and
+Daemonologists.
+   Espada de la Guardiana (Grey Wizards): Self-appointed itinerent champions
+of Justice. Typically War Wizards, often military mercenaries and
+soldiers-of-fortune, solitary or in the company of other mercenary warriors,
+sometimes cynical, sometimes earnest in pursuit of Justice. Also associated
+with Necromancy.
+   Cardo Artis (Bright Wizards): Honors the pursuit of Magickal Knowledge,
+with little concern for the fates or fortunes of society. Associated with
+indiscriminant use of battlefield magicks. Favored by War Wizards and
+Daemonologists.
+   Sagittarius Arcanus (Amber Wizards): Dedicated to improving the reputation
+of sorcery through good works in the community and for the state. Diplomatic,
+pragmatic, eager in service of merchant interests, new nobility, and
+military. Favored by Elementalists.
+   Nuntius Caelestis (Celestial Wizards): Blend astrological mysticism with
+intellectual, elitist pretensions. Haven for hyper-intelligent, talented
+crackpots. Favored by Illusionists.
+   Annulus Mirabilis (Wizards of The Great Wheel): Modern college, vague and
+inoffensive, primarily social in nature.
+   Oculus Divinus (Rainbow Wizards): Modern college, vague and inoffensive,
+primarily social in nature.
+   Aranei Tenebrarum (Dark Wizards): This secret society is suppressed by the
+Guild and outlawed by the State. Though no Guild wizard would admit to
+membership in this college, it remains an open secret among practitioners in
+criminal subcultures and certain aristocratic factions.
+
+Other Sorcerous Secret Societies: These societies have remained secret for
+various reasons, typically because their practices and traditions are
+outlawed or abhorent.
+   The Cup and Serpent: An ancient alchemist's society, masters of poisons and appalling potions
+   Dead Man's Taper: A necromantic society of Pharonic origin (symbol is a 
+candle made from a dead man's hand, with wicks at the tips of the thumb and 
+fingers like a candelabra).
+   Spines of the Thistle: Ancient and beneficent secret order of adventuring
+scholars. Suspicious of the current climate of tolerance, they remain a
+secret order in isolation. The sign of the thistle in a remote ruin or on a
+strange artifact means that the Thistle has gone before and found no harm.
+(Symbol is purple thistle blossom at the top of a stalk covered with sharp
+spines.)
+
+
+BENEFITS OF MEMBERSHIP IN COLLEGES ARCANE (COLOR COLLEGES)
+The Colleges Arcane share exclusive trade secrets with their members which
+provide two main benefits for Sorceror characters:
+   1. Each college conserves special knowledge which aids in learning and
+mastering certain spells and rituals. Because of this special knowledge,
+these spells and rituals are easier to learn for college members. (half ep
+cost to learn spells and castings in the province of the color college)
+   2. Each college conserves secret techniques for sensing and shaping flux
+energies. When flux is at a low ebb, these techniques permit sorcerors to
+make most effective use of weak flux to cast certain spells and rituals. When
+flux is abundant, these techniques permit sorcerors exceptional economies in
+expenditure of personal magic power. (When flux is weak, members cast spells
+and rituals from their own colleges at normal cost while other sorcerors pay
+double magic points. When flux is strong, members cast spells and rituals at
+half normal magic points cost, while other sorcerors pay normal costs.)
+   NOTE ON FLUX: In Fantasy Battle, the winds of magic shift, limiting the
+types of magic that can be cast at any given momen
+t. I like the flavor of this, though I don't want it to play a significant
+role in WFRP melee. Two schemes suggest themselves:
+   1. Roll for flux at regular intervals (for example, each melee round, or
+at the beginning of each melee).
+   2. Flux is a function of time, place, and circumstance (i.e., a
+GM-moderated element of the setting).
+
+SAMPLE SPELL AND RITUAL LIST
+The following list indicates the Color College associated with each spell and
+casting for the academies of War Wizards and Daemonologists.
+    Some spells are also noted as DARK; such spells and castings are the
+specialties of Dark Wizards. Dark spells are officially proscribed by the
+Guild and outlawed by the State; however, by Imperial decree, these spells
+are taught and practiced by the academies under the strict supervision of the
+Guilds. Dark spells and castings rely on dangerous manipulations of the Void
+(i.e., Chaos), and risk permanent damage to the mind, spirit, and body of the
+caster.
+
+PETTY
+
+Detect Magick (Petty, page ??) LIGHT
+Discorporate Flesh (Petty, page ??) AMETHYST
+Distract Awareness (Petty, page ??) BRIGHT
+Lesser Circle (Petty, page ??) GOLD
+Distract Memory (Petty, page ??) LIGHT
+Bond Elements (Petty, page ??) GOLD
+Perceive Spirit (Petty, page ??) AMBER
+Voidsend Message (Petty, page ??) GREY
+Lesser Pentagram (Petty, page ??) AMBER
+Deepsleep (Petty, page ??) LIGHT
+Summon Elemental Node (Petty, page ??) GOLD
+Toughen Flesh (Petty, page ??) JADE
+Vaporbloom (Petty, page ??) CELESTIAL
+Rend Flesh (Petty, page ??) BRIGHT
+Powerlink Artifact (Petty, page ??) GREY
+Burning Blade(Petty, page ??) BRIGHT
+Aethyrshock (Petty, page ??) AMETHYST
+
+WAR WIZARD
+
+Battle Level 1
+
+Accelerate Flesh (Battle Level 1, page ??) JADE
+Accelerate Healing (Battle Level 1, page ??) AMBER
+Command (Battle Level 1, page ??) AMETHYST
+Excite Enmity [Hostility?] (Battle Level 1, page ??) BRIGHT
+FarSleep (Battle Level 1, page ??) LIGHT
+Fireball (Battle Level 1, page ??) BRIGHT
+Flight Minor (Battle Level 1, page ??) CELESTIAL
+Harmonize Minds (Battle Level 1, page ??) GREY
+Lesser Square (Battle Level 1, page ??) LIGHT
+Lesser Triangle (Battle Level 1, page ??) GREY
+MuscleMight (Battle Level 1, page ??) JADE
+PainMind (Battle Level 1, page ??) BRIGHT
+SpiritShield (Battle Level 1, page ??) AMETHYST
+Toxicbloom (Battle Level 1, page ??) JADE
+WildWind (Battle Level 1, page ??) CELESTIAL
+Detect Magic Trance (Battle Level 1, page ??) LIGHT
+Levitate (Battle Level 1, page ??) AMBER
+Lightball (Battle Level 1, page ??) CELESTIAL
+Iceball (Battle Level 1, page ??) GOLD
+Earthball (Battle Level 1, page ??) GOLD
+Acelerate Self (Battle Level 1, page ??) JADE
+
+Battle Level 2
+
+Aethyrward (Battle Level 2, page ??) AMETHYST
+DimWit (Battle Level 2, page ??) GOLD
+Excite Panic (Battle Level 2, page ??) BRIGHT
+Flight Major (Battle Level 2, page ??) CELESTIAL
+Greater Pentagram (Battle Level 2, page ??) AMBER
+Inspire Heroism (Battle Level 2, page ??) GREY
+Lightning (Battle Level 2, page ??) CELESTIAL
+Lungfirebloom (Battle Level 2, page ??) AMBER
+Mystic Mist (Battle Level 2, page ??) JADE
+Precipitate Plasm (Battle Level 2, page ??) GREY
+Sap Will (Battle Level 2, page ??) LIGHT
+Shatter Elemental Bonds (Battle Level 2, page ??) GOLD
+Fleshfrenzy (Battle Level 2, page ??) JADE
+Shatter Flesh (Battle Level 2, page ??) AMETHYST
+Scald Flesh (Battle Level 2, page ??) BRIGHT
+Aethyr Grapple (Battle Level 2, page ??) LIGHT
+
+Battle Level 3
+
+Chaos Wormhole (Battle Level 3, page ??)  BRIGHT/DARK
+Corrosionbloom (Battle Level 3, page ??) JADE
+Darken Reflection (Battle Level 3, page ??) LIGHT
+Enchant Lesser Weapon (Battle Level 3, page ??) GOLD
+Enchant Lesser Armor (Battle Level 3, page ??) GOLD
+Ensorcel Mind (Battle Level 3, page ??) AMETHYST
+Excite Terror (Battle Level 3, page ??) AMBER
+Freeze Mind (Battle Level 3, page ??) CELESTIAL
+Greater Circle (Battle Level 3, page ??) JADE
+Precipitate Plasm Bridge (Battle Level 3, page ??) GREY
+Speak in Mind (Battle Level 3, page ??) LIGHT
+Voidlink Message (Battle Level 3, page ??) GREY
+Winddeflection (Battle Level 3, page ??) CELESTIAL
+Cause Instability (Battle Level 3, page ??) AMBER/DARK
+Precipitate FIiery Plasm (Battle Level 3, page ??) BRIGHT
+Aethyrblast (Battle Level 3, page ??) AMETHYST
+Voidflare (Battle Level 3, page ??) BRIGHT/DARK
+
+Battle Level 4
+
+Block Emotion (Battle Level 4, page ??) GREY
+Drain Spirit (Battle Level 4, page ??) LIGHT
+Fortify Flesh (Battle Level 4, page ??) JADE
+Greater Square (Battle Level 4, page ??) GOLD
+Greater Triangle (Battle Level 4, page ??) AMETHYST
+Ignite Vaporbloom (Battle Level 4, page ??) BRIGHT
+Null Aethyr (Battle Level 4, page ??) GREY
+Regeneration (Battle Level 4, page ??) JADE
+SpiritWalk (Battle Level 4, page ??) CELESTIAL
+Strengthen Mind (Battle Level 4, page ??) GOLD
+VoidTravel (Battle Level 4, page ??) CELESTIAL
+Convulse Aethyr (Battle Level 4, page ??) AMETHYST
+Dreadwave (Battle Level 4, page ??) AMBER
+
+
+DAEMONOLOGIST
+
+Daemonologist Level 1
+
+Banish Lesser Daemon (Daemonologist Level 1, page ??) AMETHYST/DARK
+Command (Battle Level 1, page ??) AMETHYST
+Daemonfire (Daemonologist Level 1, page ??) BRIGHT/DARK
+Hold Daemon (Daemonologist Level 1, page ??) AMETHYST/DARK
+Lesser Square (Battle Level 1, page ??) LIGHT
+Lesser Triangle (Battle Level 1, page ??) GREY
+Muddle Mind (Illusionist Level 1, page ??) LIGHT
+PainMind (Battle Level 1, page ??) BRIGHT
+Spiritshield (Battle Level 1, page ??) AMETHYST
+Summon Daemon Steed (Daemonologist Level 1, page ??) BRIGHT/DARK
+Summon Imp (Daemonologist Level 1, page ??) BRIGHT/DARK
+
+Daemonologist Level 2
+
+Cause Instability (Battle Level 3, page ??) AMBER/DARK
+Chaos Wormhole (Battle Level 3, page ??) BRIGHT/DARK
+Precipitate Plasm (Battle Level 2, page ??) GREY
+Aethyrward (Battle Level 2, page ??) AMETHYST
+Greater Pentagram (Battle Level 2, page ??) AMBER
+Banish Daemon Horde (Daemonologist Level 2, page ??) AMETHYST/DARK
+Extend Service (Daemonologist Level 2, page ??) BRIGHT/DARK
+Fiendish Horde (Daemonologist Level 2, page ??) BRIGHT/DARK
+Summon Daemonic Energy (Daemonologist Level 2, page ??) AMETHYST/DARK
+Summon Daemon Creature (Daemonologist Level 2, page ??) BRIGHT/DARK
+Suppress Instability (Daemonologist Level 2, page ??) AMETHYST/DARK
+
+Daemonologist Level 3
+
+Enchant Lesser Weapon (Battle Level 3, page ??) GOLD
+Enchant Lesser Armor (Battle Level 3, page ??) GOLD
+Precipitate Plasm Bridge (Battle Level 3, page ??) GREY
+Voidlink Message  (Battle Level 3, page ??) GREY
+Greater Circle (Battle Level 3, page ??) JADE
+Bind Daemon (Daemonologist Level 3, page ??) AMETHYST/DARK
+Daemonwrack (Daemonologist Level 3, page ??) AMETHYST
+Destroy Spirit (Daemonologist Level 3, page ??) BRIGHT/DARK
+Spread Insanity (Daemonologist Level 3, page ??) AMETHYST/DARK
+Summon Great Power (Daemonologist Level 3, page ??) BRIGHT/DARK
+Summon Lesser Daemon (Daemonologist Level 3, page ??) BRIGHT/DARK
+Summon Sorcerous Aid (Daemonologist Level 3, page ??) AMETHYST/DARK
+
+Daemonologist Level 4
+
+Greater Triangle (Battle Level 4, page ??) AMETHYST
+Greater Square (Battle Level 4, page ??) GOLD
+Null Aethyr (Battle Level 4, page ??) GREY
+Spiritwalk (Battle Level 4, page ??) CELESTIAL
+VoidTravel (Battle Level 4, page ??) CELESTIAL
+Banish Greater Daemon (Daemonologist Level 4, page ??) AMETHYST/DARK
+Daemon Portal (Daemonologist Level 4, page ??) AMETHYST/DARK
+Summon Djinn (Daemonologist Level 4, page ??) BRIGHT/DARK
+Summon Greater Daemon (Daemonologist Level 4, page ??) BRIGHT/DARK
+Summon Total Power (Daemonologist Level 4, page ??) BRIGHT/DARK
+Welcome Possession (Daemonologist Level 4, page ??) AMETHYST/DARK
+
+-- 
+Clay Luther                              clay@cool.khis.com
+Macintosh Software Engineer              Kodak Health Imaging Systems
+
+Brion Gysin's All-Purpose Nuclear Bedtime Story:  Some trillions of years ago, 
+a sloppy, dirty giant flicked grease from his fingers.  One of those gobs of 
+grease is our universe on its way to the floor.  Splat. - WSB
+
+

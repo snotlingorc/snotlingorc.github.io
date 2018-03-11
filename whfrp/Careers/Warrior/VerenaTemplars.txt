@@ -1,0 +1,80 @@
+From: "Mr. Whippy" <SC3NG@app_science.rgu.ac.uk>
+To: wfrp@gojira.monsta.com
+Subject: WFRP: Rant:Jesters, Dart Guns, Verenan Templars
+
+
+VERENAN TEMPLARS
+----------------
+
+Verena is the Goddess of learning and Justice.  Her templars reflect 
+both of these attributes in their skills and profiles.  As violence 
+is the last resort when reason has failed - templars of Verena have
+reduced combat profiles but this is balanced with by their increased
+skills and mental statistics.  However some templars of Verena have 
+been employed as Inquisitors - it is their duty to 'police' the 
+cult and weed out anyone who is less than honest.
+
+
+M   Ws   Bs   S  T  W  I   A  Dex  Ld  Int   Cl   Wp  Fel
+-  +20  +20  +1 +2 +6 +30 +2 +20  +20  +30  +20  +30  +20
+    --   --         --                  ++        ++
+ 
+Skills: Disarm, Dodge, Intimidate(cf. apocrypha now p. 18), 
+Read/Write,
+Ride-Horse, SS-Templar, StrikeTS, Sense Deception(new skill!).
+
+Trappings: armour as listed, no lance, sword (for justice), writing 
+kit, large tome filled with strictures and laws, horse & tack & 
+harness, small scales (to indicate guilt in a visible manner - as 
+each piece of evidence is given a small bead is added to one pan or 
+the other), darker coloured robes, skull cap.
+
+SENSE DECEPTION
+
+Because of the auditor / inquisitor side of the duties of a verenan 
+templar, this often involves dealing with would-be embezzlers or 
+similar people who have achieved a position of trust in the cult's
+heirarchy (or for that matter in a guild or wherever the templar is 
+requested to be).  The ability to detectlies by inflection of the 
+voice 
+and other physical signs is highly  valued.
+
+The templar confronts the subject and asks them numerous 'test' 
+questions.
+This is to gauge the normal reaction of the 'liar'.  The templar then 
+proceeds to discuss the matter being investigated.
+
+Falsehoods can be detected as the templar enters an almost 
+trance-like 
+state and analyses the words of the test subject.  Tests are done 
+against 
+the characters force of will, thus Wp is used.  The whole 'trance 
+process'
+can take up to an hour.
+
+
+Regrettably this is not entirely accurate as often a templar is 
+prejudiced 
+against the subject, as simply  being called to this duty indicates that 
+something is 
+amiss, and the templar is there - in part - to extract the 'truth' as
+indicated by the (often 'amended' evidence given to him).
+
+Tests are as follows:
++10 if the subject is afraid of the inquisitor (ie where intimidate 
+comes  in).
++10 if subject is known to have completed ANY rogue career.
++10 for any evidence that indicated guilt on the subjects' part.
+-5  if subject is an initiate of Verena
+-10/level if subject is a Cleric of Verena
+-5 (cumulative) if subject posesses any of the following: acting, 
+blather,
+      charm, seduction, wit (as the inquisitor is mislead)
+
+NB:  Templars are the martial arm of the church - so combat skill are 
+still used to some extent, note the verenan templar ISN'T supposed to 
+be a Torquemada-clone, BUT - some of them will be embittered to their 
+lifestyle an d perhaps will be over-zealous in a manner similar to 
+witch hunters...
+
+
