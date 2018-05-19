@@ -44,6 +44,63 @@
     border: 1px solid #ccc;
     border-top: none;
 }
+
+/*  https://codepen.io/aronduby/pen/qliuj
+ *  Flex Layout Specifics
+*/
+main{
+  display:flex;
+  flex-direction:row;
+}
+.round{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  width:200px;
+  list-style:none;
+  padding:0;
+}
+  .round .spacer{ flex-grow:1; }
+  .round .spacer:first-child,
+  .round .spacer:last-child{ flex-grow:.5; }
+
+  .round .game-spacer{
+    flex-grow:1;
+  }
+
+/*
+ *  General Styles
+*/
+body{
+  font-family:sans-serif;
+  font-size:small;
+  padding:10px;
+  line-height:1.4em;
+}
+
+li.game{
+  padding-left:20px;
+}
+
+  li.game.winner{
+    font-weight:bold;
+  }
+  li.game span{
+    float:right;
+    margin-right:5px;
+  }
+
+  li.game-top{ border-bottom:1px solid #aaa; }
+
+  li.game-spacer{
+    border-right:1px solid #aaa;
+    min-height:40px;
+  }
+
+  li.game-bottom{
+    border-top:1px solid #aaa;
+  }
+
     </style>
 </head>
 <body>
@@ -80,8 +137,7 @@
                 </div>
 
                 <div id="Intro" class="tabcontent">
-                    <div id="gpx_content" class="filenum-4 gp_page_display cf">
-                        <div class="GPAREA filetype-text"><h1>Introduction</h1>
+                        <div class="GPAREA filetype-text">
                             <p>A mysterious dark wanderer has been spotted roaming the streets of late. Nobody knows
                                 who or what he is and why he is here. Some believe he is bringing the apocalypse,
                                 others believe he will bring wealth and happiness to all. What do you think?
@@ -92,13 +148,26 @@
                                 deaths on the pitch, the long bombs and corrupt refs. Oh how happy they were to finally
                                 have Blood Bowl back in town.
                             </p>
+
+                            <p>The teams that have gathered are as follows:
+                            <table border="1">
+                                <tr><th>Name</th><th>Race</th></tr>
+                                <tr><td>Blackbeard Bezerkers</td><td>Chaos Dwarves</td></tr>
+                                <tr><td>Cheezers</td><td>Skaven</td></tr>
+                                <tr><td>Goats who Stare at Men</td><td>Chaos Chosen</td></tr>
+                                <tr><td>Mean Greeners</td><td>Human</td></tr>
+                                <tr><td>The Old World Order</td><td>Chaos Chosen</td></tr>
+                                <tr><td>Our Lady of Nuffle</td><td>Human</td></tr>
+                                <tr><td>Shiny Niners</td><td>Orc</td></tr>
+                                <tr><td>Taldorn Silverbolts</td><td>Necromantic</td></tr>
+                            </table>
+
+                            </p>
                         </div>
-                    </div>
                 </div>
 
                 <div id="Week1" class="tabcontent">
-                    <div id="gpx_content" class="filenum-4 gp_page_display cf">
-                        <div class="GPAREA filetype-text"><h1>Week 1</h1>
+                        <div class="GPAREA filetype-text">
                             <p>What’s this, the Dark Wanderer is in the crowd? What is he doing here? What is happening?
                                 Suddenly, he removes his hood revealing himself…it’s the Holy Wizard of Nuffle! He is here to
                                 bless the teams on opening day as he is the biggest fan of them all! This really is the best
@@ -116,119 +185,127 @@
                             </p>
                             <p>Matches Week 1:</p>
                             <table border="1">
-                                <tr><th colspan="3" bgcolor="#48C9B0">Home</th><th colspan="3" bgcolor="#AED6F1">Away</th></tr>
-                                <tr><th>Name</th><th>Race</th><th>Score</th><th>Name</th><th>Race</th><th>Score</th></tr>
-                                <tr><td>The Old World Order</td><td>Chaos Chosen</td><td>0</td><td>Shiny Niners</td><td>Orc</td><td>0</td></tr>
-                                <tr><td>Blackbeard Bezerkers</td><td>Chaos Dwarves</td><td>0</td><td>Cheezers</td><td>Skaven</td><td>0</td></tr>
-                                <tr><td>Our Lady of Nuffle</td><td>Human</td><td>0</td><td>Goats who Stare at Men</td><td>Chaos Chosen</td><td>0</td></tr>
-                                <tr><td>Taldorn Silverbolts</td><td>Necromantic</td><td>0</td><td>Mean Greeners</td><td>Human</td><td>0</td></tr>
+                                <tr><th colspan="2" bgcolor="#48C9B0">Home</th><th colspan="2" bgcolor="#AED6F1">Away</th></tr>
+                                <tr><th>Name</th><th>Score</th><th>Name</th><th>Score</th></tr>
+                                <tr><td>The Old World Order</td><td>0</td><td>Shiny Niners</td><td>0</td></tr>
+                                <tr><td>Blackbeard Bezerkers</td><td>0</td><td>Cheezers</td><td>0</td></tr>
+                                <tr><td>Our Lady of Nuffle</td><td>0</td><td>Goats who Stare at Men</td><td>0</td></tr>
+                                <tr><td>Taldorn Silverbolts</td><td>0</td><td>Mean Greeners</td><td>0</td></tr>
                             </table>
 
                         </div>
-                    </div>
                 </div>
 
                 <div id="Week2" class="tabcontent">
-                    <div id="gpx_content" class="filenum-4 gp_page_display cf">
-                        <div class="GPAREA filetype-text"><h1>Week 2</h1>
+                        <div class="GPAREA filetype-text">
                             <p>Week 2 Text
                             </p>
-                        <p>Matches this Week:</p>
+                        <p>Matches Week 2:</p>
                         <table border="1">
-                            <th colspan="3" bgcolor="#48C9B0">Home</th><th colspan="3" bgcolor="#AED6F1">Away</th>
-                            <tr><th>Name</th><th>Race</th><th>Score</th><th>Name</th><th>Race</th><th>Score</th></tr>
-                            <tr><td>Shiney Niners</td><td>Orc</td><td>0</td><td>Blackbeard Bezerkers</td><td>Chaos Dwarves</td><td>0</td></tr>
-                            <tr><td>Cheezers</td><td>Skaven</td><td>0</td><td>The Old World Order</td><td>Chaos Chosen</td><td>0</td></tr>
-                            <tr><td>Taldorn Silverbolts</td><td>Necromantic</td><td>0</td><td>Our Lady of Nuffle</td><td>Human</td><td>0</td></tr>
-                            <tr><td>Goats who Stare at Men</td><td>Chaos Chosen</td><td>0</td><td>Mean Greeners</td><td>Human</td><td>0</td></tr>
+                            <th colspan="2" bgcolor="#48C9B0">Home</th><th colspan="2" bgcolor="#AED6F1">Away</th>
+                            <tr><th>Name</th><th>Score</th><th>Name</th><th>Score</th></tr>
+                            <tr><td>Shiney Niners</td><td>0</td><td>Blackbeard Bezerkers</td><td>0</td></tr>
+                            <tr><td>Cheezers</td><td>0</td><td>The Old World Order</td><td>0</td></tr>
+                            <tr><td>Taldorn Silverbolts</td><td>0</td><td>Our Lady of Nuffle</td><td>0</td></tr>
+                            <tr><td>Goats who Stare at Men</td><td>0</td><td>Mean Greeners</td><td>0</td></tr>
                         </table>
                         </div>
-                    </div>
+
                 </div>
 
                 <div id="Week3" class="tabcontent">
-                    <div class="GPAREA filetype-text"><h1>Week 3</h1>
+                    <div class="GPAREA filetype-text">
                         <p>Week 3 Text
                         </p>
 
                         <p>Matches Week 3:</p>
                         <table border="1">
-                            <th colspan="3" bgcolor="#48C9B0">Home</th><th colspan="3" bgcolor="#AED6F1">Away</th>
-                            <tr><th>Name</th><th>Race</th><th>Score</th><th>Name</th><th>Race</th><th>Score</th></tr>
-                            <tr><td>The Old World Order</td><td>Chaos Chosen</td><td>0</td><td>Blackbeard Bezerkers</td><td>Chaos Dwarves</td><td>0</td></tr>
-                            <tr><td>Mean Greeners</td><td>Human</td><td>0</td><td>Our Lady of Nuffle</td><td>Human</td><td>0</td></tr>
-                            <tr><td>Cheezers</td><td>Skaven</td><td>0</td><td>Goats who Stare at Men</td><td>Chaos Chosen</td><td>0</td></tr>
-                            <tr><td>Shiney Niners</td><td>Orc</td><td>0</td><td>Taldorn Silverbolts</td><td>Necromantic</td><td>0</td></tr>
+                            <th colspan="2" bgcolor="#48C9B0">Home</th><th colspan="2" bgcolor="#AED6F1">Away</th>
+                            <tr><th>Name</th><th>Score</th><th>Name</th><th>Score</th></tr>
+                            <tr><td>The Old World Order</td><td>0</td><td>Blackbeard Bezerkers</td><td>0</td></tr>
+                            <tr><td>Mean Greeners</td><td>0</td><td>Our Lady of Nuffle</td><td>0</td></tr>
+                            <tr><td>Cheezers</td><td>0</td><td>Goats who Stare at Men</td><td>0</td></tr>
+                            <tr><td>Shiney Niners</td><td>0</td><td>Taldorn Silverbolts</td><td>0</td></tr>
                         </table>
                     </div>
                 </div>
 
                 <div id="Week4" class="tabcontent">
-                    <div class="GPAREA filetype-text"><h1>Week 4</h1>
+                    <div class="GPAREA filetype-text">
                         <p>Week 4 Text
                         </p>
 
                         <p>Matches Week 4:</p>
                         <table border="1">
-                            <th colspan="3" bgcolor="#48C9B0">Home</th><th colspan="3" bgcolor="#AED6F1">Away</th>
-                            <tr><th>Name</th><th>Race</th><th>Score</th><th>Name</th><th>Race</th><th>Score</th></tr>
-                            <tr><td></td><td></td><td>0</td><td></td><td></td><td>0</td></tr>
-                            <tr><td></td><td></td><td>0</td><td></td><td></td><td>0</td></tr>
-                            <tr><td></td><td></td><td>0</td><td></td><td></td><td>0</td></tr>
-                            <tr><td></td><td></td><td>0</td><td></td><td></td><td>0</td></tr>
+                            <th colspan="2" bgcolor="#48C9B0">Home</th><th colspan="2" bgcolor="#AED6F1">Away</th>
+                            <tr><th>Name</th><th>Score</th><th>Name</th><th>Score</th></tr>
+                            <tr><td></td><td>0</td><td></td><td>0</td></tr>
+                            <tr><td></td><td>0</td><td></td><td>0</td></tr>
+                            <tr><td></td><td>0</td><td></td><td>0</td></tr>
+                            <tr><td></td><td>0</td><td></td><td>0</td></tr>
                         </table>
                     </div>
                 </div>
 
                 <div id="Week5" class="tabcontent">
-                    <div class="GPAREA filetype-text"><h1>Week 5</h1>
+                    <div class="GPAREA filetype-text">
                         <p>Week 5 Text
                         </p>
 
                         <p>Matches Week 5:</p>
                         <table border="1">
-                            <th colspan="3" bgcolor="#48C9B0">Home</th><th colspan="3" bgcolor="#AED6F1">Away</th>
-                            <tr><th>Name</th><th>Race</th><th>Score</th><th>Name</th><th>Race</th><th>Score</th></tr>
-                            <tr><td></td><td></td><td>0</td><td></td><td></td><td>0</td></tr>
-                            <tr><td></td><td></td><td>0</td><td></td><td></td><td>0</td></tr>
-                            <tr><td></td><td></td><td>0</td><td></td><td></td><td>0</td></tr>
-                            <tr><td></td><td></td><td>0</td><td></td><td></td><td>0</td></tr>
-                        </table>
+                            <th colspan="2" bgcolor="#48C9B0">Home</th><th colspan="2" bgcolor="#AED6F1">Away</th>
+                            <tr><th>Name</th><th>Score</th><th>Name</th><th>Score</th></tr>
+                            <tr><td></td><td>0</td><td></td><td>0</td></tr>
+                            <tr><td></td><td>0</td><td></td><td>0</td></tr>
+                            <tr><td></td><td>0</td><td></td><td>0</td></tr>
+                            <tr><td></td><td>0</td><td></td><td>0</td></tr>                        </table>
                     </div>
                 </div>
 
                 <div id="Week6" class="tabcontent">
-                    <div class="GPAREA filetype-text"><h1>Week 6</h1>
+                    <div class="GPAREA filetype-text">
                         <p>Week 6 Text
                         </p>
 
                         <p>Matches Week 6:</p>
                         <table border="1">
-                            <th colspan="3" bgcolor="#48C9B0">Home</th><th colspan="3" bgcolor="#AED6F1">Away</th>
-                            <tr><th>Name</th><th>Race</th><th>Score</th><th>Name</th><th>Race</th><th>Score</th></tr>
-                            <tr><td></td><td></td><td>0</td><td></td><td></td><td>0</td></tr>
-                            <tr><td></td><td></td><td>0</td><td></td><td></td><td>0</td></tr>
-                            <tr><td></td><td></td><td>0</td><td></td><td></td><td>0</td></tr>
-                            <tr><td></td><td></td><td>0</td><td></td><td></td><td>0</td></tr>
-                        </table>
+                            <th colspan="2" bgcolor="#48C9B0">Home</th><th colspan="2" bgcolor="#AED6F1">Away</th>
+                            <tr><th>Name</th><th>Score</th><th>Name</th><th>Score</th></tr>
+                            <tr><td></td><td>0</td><td></td><td>0</td></tr>
+                            <tr><td></td><td>0</td><td></td><td>0</td></tr>
+                            <tr><td></td><td>0</td><td></td><td>0</td></tr>
+                            <tr><td></td><td>0</td><td></td><td>0</td></tr>                        </table>
                     </div>
                 </div>
 
                 <div id="Playoffs" class="tabcontent">
-                    <div class="GPAREA filetype-text"><h1>Playoffs</h1>
+                    <div class="GPAREA filetype-text">
                         <p>Playoffs Text
                         </p>
 
                         <p>Matches:</p>
-                        <table>
-                            <tr><td>_Team 1_</td><td>        </td><td>         </td></tr>
-                            <tr><td>        </td><td>_Team 1_</td><td>         </td></tr>
-                            <tr><td>_Team 2_</td><td>        </td><td>         </td></tr>
-                            <tr><td>        </td><td>        </td><td> _WINNER_</td></tr>
-                            <tr><td>_Team 3_</td><td>        </td><td>         </td></tr>
-                            <tr><td>        </td><td>_Team 3_</td><td>         </td></tr>
-                            <tr><td>_Team 4_</td><td>        </td><td>         </td></tr>
-                        </table>
+                        <main id="tournament">
+                            <ul class="round round-1">
+                                <li class="spacer">&nbsp;</li>
+                                <li class="game game-top winner">Team 1 <span>1</span></li>
+                                <li class="game game-spacer">&nbsp;</li>
+                                <li class="game game-bottom ">Team 2 <span>0</span></li>
+                                <li class="spacer">&nbsp;</li>
+                                <li class="game game-top ">Team 3 <span>0</span></li>
+                                <li class="game game-spacer">&nbsp;</li>
+                                <li class="game game-bottom winner">Team 4 <span>1</span></li>
+                                <li class="spacer">&nbsp;</li>
+
+                            </ul>
+                            <ul class="round round-2">
+                                <li class="spacer">&nbsp;</li>
+                                <li class="game game-top winner">Team 1 <span>1</span></li>
+                                <li class="game game-spacer">&nbsp;</li>
+                                <li class="game game-bottom ">Team 4 <span>0</span></li>
+                                <li class="spacer">&nbsp;</li>
+                            </ul>
+                        </main>
                     </div>
                 </div>
             </div>
