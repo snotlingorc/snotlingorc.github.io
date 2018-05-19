@@ -9,9 +9,41 @@
     <link rel="stylesheet" type="text/css" href="/data/main.css"/>
     <link rel="canonical" href="/bloodbowl/games/SpringFling2018" />
     <style>
-        #greyimg { -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-        filter: grayscale(100%);
-        }
+    /* Style the tab */
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
     </style>
 </head>
 <body>
@@ -36,9 +68,21 @@
 
                 <h3><a href="The Bloody Cup Spring Fling.pdf">Rules</a></h3>
 
-                <h3>Introduction</h3>
-                <table>
-                    <tr>
+                <div class="tab">
+                    <button class="tablinks" onclick="openTab(event, 'Intro')">Introduction</button>
+                    <button class="tablinks" onclick="openTab(event, 'Week1')">Week 1</button>
+                    <button class="tablinks" onclick="openTab(event, 'Week2')">Week 2</button>
+                    <button class="tablinks" onclick="openTab(event, 'Week3')">Week 3</button>
+                    <button class="tablinks" onclick="openTab(event, 'Week4')">Week 4</button>
+                    <button class="tablinks" onclick="openTab(event, 'Week5')">Week 5</button>
+                    <button class="tablinks" onclick="openTab(event, 'Week6')">Week 6</button>
+                    <button class="tablinks" onclick="openTab(event, 'Playoffs')">Playoffs</button>
+                </div>
+
+                <div id="Intro" class="tabcontent">
+                    <h3>Introduction</h3>
+                    <table>
+                        <tr>
                         A mysterious dark wanderer has been spotted roaming the streets of late. Nobody knows who or
                         what he is and why he is here. Some believe he is bringing the apocalypse, others believe he
                         will bring wealth and happiness to all. What do you think?
@@ -47,12 +91,14 @@
                         joyous day was here, Blood Bowl Spring Fling was about to begin! This was making fans forget
                         about everything that did not involve bone shattering hits and deaths on the pitch, the long
                         bombs and corrupt refs. Oh how happy they were to finally have Blood Bowl back in town.
-                    </tr>
-                </table>
+                        </tr>
+                    </table>
+                </div>
 
-                <h3>Week 1</h3>
-                <table>
-                    <tr>
+                <div id="Week1" class="tabcontent">
+                    <h3>Week 1</h3>
+                    <table>
+                        <tr>
                         What’s this, the Dark Wanderer is in the crowd? What is he doing here? What is happening?
                         Suddenly, he removes his hood revealing himself…it’s the Holy Wizard of Nuffle! He is here to
                         bless the teams on opening day as he is the biggest fan of them all! This really is the best
@@ -76,12 +122,14 @@
                             <tr><td>Our Lady of Nuffle</td><td>Human</td><td>Goats who Stare at Men</td><td>Chaos Chosen</td></tr>
                             <tr><td>Taldorn Silverbolts</td><td>Necromantic</td><td>Mean Greaners</td><td>Human</td></tr>
                         </table>
-                    </tr>
-                </table>
-<p></p>
-                <h3>Week 2</h3>
-                <table>
-                    <tr>
+                        </tr>
+                    </table>
+                </div>
+
+                <div id="Week2" class="tabcontent">
+                    <h3>Week 2</h3>
+                    <table>
+                        <tr>
                         Week 2 rules
                         <p>Matches this Week:</p>
                         <table border="1">
@@ -91,12 +139,14 @@
                             <tr><td>Taldorn Silverbolts</td><td>Necromantic</td><td>Our Lady of Nuffle</td><td>Human</td></tr>
                             <tr><td>Goats who Stare at Men</td><td>Chaos Chosen</td><td>Mean Greaners</td><td>Human</td></tr>
                         </table>
-                    </tr>
-                </table>
-<p></p>
-                <h3>Week 3</h3>
-                <table>
-                    <tr>
+                        </tr>
+                    </table>
+                </div>
+
+                <div id="Week3" class="tabcontent">
+                    <h3>Week 3</h3>
+                    <table>
+                        <tr>
                         Week 3 rules
                         <p>Matches this Week:</p>
                         <table border="1">
@@ -106,8 +156,9 @@
                             <tr><td>Cheezers</td><td>Skaven</td><td>Goats who Stare at Men</td><td>Chaos Chosen</td></tr>
                             <tr><td>Shiney Niners</td><td>Orc</td><td>Taldorn Silverbolts</td><td>Necromantic</td></tr>
                         </table>
-                    </tr>
-                </table>
+                        </tr>
+                    </table>
+                </div>
 
                 <div class="gpclear"></div></div></div><div id="gpAfterContent"><div class="gpArea_ GPAREA"></div></div>
 
@@ -125,6 +176,28 @@
     <!-- end #footer -->
 
 </div>
+<script>
+function openTab(evt, cityName) {
+    // Declare all variables
+    var i, tabcontent, tablinks;
+
+    // Get all elements with class="tabcontent" and hide them
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+
+    // Get all elements with class="tablinks" and remove the class "active"
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    // Show the current tab, and add an "active" class to the button that opened the tab
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+</script>
 
 </body>
 </html>
