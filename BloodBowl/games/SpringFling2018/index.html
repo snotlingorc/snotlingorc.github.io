@@ -69,7 +69,7 @@
                 <h3><a href="The Bloody Cup Spring Fling.pdf">Rules</a></h3>
 
                 <div class="tab">
-                    <button class="tablinks" onclick="openTab(event, 'Intro')">Introduction</button>
+                    <button class="tablinks" onclick="openTab(event, 'Intro')" id="defaultOpen">Introduction</button>
                     <button class="tablinks" onclick="openTab(event, 'Week1')">Week 1</button>
                     <button class="tablinks" onclick="openTab(event, 'Week2')">Week 2</button>
                     <button class="tablinks" onclick="openTab(event, 'Week3')">Week 3</button>
@@ -120,7 +120,7 @@
                             <tr><td>The Old World Order</td><td>Chaos Chosen</td><td>Shiny Niners</td><td>Orc</td></tr>
                             <tr><td>Blackbeard Bezerkers</td><td>Chaos Dwarves</td><td>Cheezers</td><td>Skaven</td></tr>
                             <tr><td>Our Lady of Nuffle</td><td>Human</td><td>Goats who Stare at Men</td><td>Chaos Chosen</td></tr>
-                            <tr><td>Taldorn Silverbolts</td><td>Necromantic</td><td>Mean Greaners</td><td>Human</td></tr>
+                            <tr><td>Taldorn Silverbolts</td><td>Necromantic</td><td>Mean Greeners</td><td>Human</td></tr>
                         </table>
                         </tr>
                     </table>
@@ -137,7 +137,7 @@
                             <tr><td>Shiney Niners</td><td>Orc</td><td>Blackbeard Bezerkers</td><td>Chaos Dwarves</td></tr>
                             <tr><td>Cheezers</td><td>Skaven</td><td>The Old World Order</td><td>Chaos Chosen</td></tr>
                             <tr><td>Taldorn Silverbolts</td><td>Necromantic</td><td>Our Lady of Nuffle</td><td>Human</td></tr>
-                            <tr><td>Goats who Stare at Men</td><td>Chaos Chosen</td><td>Mean Greaners</td><td>Human</td></tr>
+                            <tr><td>Goats who Stare at Men</td><td>Chaos Chosen</td><td>Mean Greeners</td><td>Human</td></tr>
                         </table>
                         </tr>
                     </table>
@@ -152,7 +152,7 @@
                         <table border="1">
                             <th colspan="2" bgcolor="green">Home</th><th colspan="2" bgcolor="blue">Away</th>
                             <tr><td>The Old World Order</td><td>Chaos Chosen</td><td>Blackbeard Bezerkers</td><td>Chaos Dwarves</td></tr>
-                            <tr><td>Mean Greaners</td><td>Human</td><td>Our Lady of Nuffle</td><td>Human</td></tr>
+                            <tr><td>Mean Greeners</td><td>Human</td><td>Our Lady of Nuffle</td><td>Human</td></tr>
                             <tr><td>Cheezers</td><td>Skaven</td><td>Goats who Stare at Men</td><td>Chaos Chosen</td></tr>
                             <tr><td>Shiney Niners</td><td>Orc</td><td>Taldorn Silverbolts</td><td>Necromantic</td></tr>
                         </table>
@@ -177,6 +177,8 @@
 
 </div>
 <script>
+document.getElementById("defaultOpen").click();
+
 function openTab(evt, cityName) {
     // Declare all variables
     var i, tabcontent, tablinks;
