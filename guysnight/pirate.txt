@@ -11,7 +11,7 @@ Krackins Kiss - Pirate name for the ship
 
 #Party Loot
 240p
-220g
+353g
 200s
 5 gems
 875gc essence undead
@@ -27,7 +27,7 @@ wand - cure moderate wounds 15 charge
 masterwork chain shirt +1
 masterwork heavy mace
 cloak resistance +1
-133gold
+
 
 ## Session 16
 
