@@ -17,6 +17,7 @@ Krackins Kiss - Pirate name for the ship
 200s
 5 gems
 875gc essence undead
++350 +300 +400 +900 +1500
 4 large undead gems
 19 small undead gems
 
@@ -29,6 +30,106 @@ wand - cure moderate wounds 15 charge
 masterwork chain shirt +1
 masterwork heavy mace
 cloak resistance +1
+
+
+## Session 21 - The bowels of the ship
+
+same order as last time.
+cleared out the bad things.  It appears as though they where an old
+adventuring party.
+
+cleric:
+* clock resistance +1 - horatio
+* scale mail armour +1 light fortication  - harry
+sorcerer:
+* headband aluring chrisma +2 - horatio
+* amulet natural armour +2 - baas
+* ring protection +3 - took
+barbarian:
+* amulet natural armour +2 - took
+* ring of protection +2 - harry
+
+
+
+## Session 20 - The Cook Awakens
+
+#Chest 2
+4 Gems
+MW rapier
+MW short bow
+3 potions
+  protection from evil
+  resist cold
+  resistance
+2 scrolls
+  acid splash
+  obsuring mist
+2 wands
+  create water
+  ghost sound
+104 gp
+307 sp
+987 cp
+
+#Chest 3
+mw bastard sword
+mw chain mail
+mw light crossbow
+3 potions
+  oil of sactify corpse
+  cure light wounds
+  protection from arrows  -- used by took
+1 scroll
+  identify
+1 wand
+  magic stone
+24 pp
+194 gp
+129 sp
+744 cp
+
+Cook drops down from the captians quarters.  a couple dead bodies. 2 hammocks.. but
+he rouses something.
+
+2 undead creatures in the next room.
+30 bas
+21 drakus
+19 harry
+18 horatio
+16 shin
+9 took
+
+con/dex and -1 damage!  nasty undead things
+Galley room, large stove against the bulk head.
+trap door going down near the door and a derek against the wall (used to bring things up and down the trap door)
+
+no green gems on these 2.
+Circlet - 1000 gp
+drains essence - 100 gc
+breast plate/helm with  red died moehawk
+
+hidden cabinet near the stove.
+* herbs
+* 5 pp
+* 20 gp
+
+net room - lots of hammocks, 5 undead elvish archers.
+they bring in their undead wolf companions.
+
+xx - ghouls/ballista/undead
+xx - archers
+25 - horatio
+24 - dracus
+21 - took
+19 - harry
+12 - shin
+12 - baas
+
+one of the undead elves opens a door to the hold.
+Baas tumbles into the doorway. reavling what is inside the hold.
+2 teams of 3 Drugars with a ballista, and at 4 other undead creatures (2 are goulish)
+
+
 
 
 
