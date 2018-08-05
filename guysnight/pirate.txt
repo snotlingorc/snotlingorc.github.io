@@ -5,31 +5,76 @@
 Innkeepers Daughter - Privateer name for the ship
 Krackins Kiss - Pirate name for the ship
 
-#Personal Gold count:  0
+Personal Gold count:  0
 
-#Bonuses
+# Bonuses
 * +1 to knockout for size small creatures.
 * +1 reflex against fire elemental
 
-#Party Loot
-240p
-353g
-200s
-5 gems
-875gc essence undead
-+350 +300 +400 +900 +1500
-4 large undead gems
-19 small undead gems
+# Treasure
+## Magic items
+ Masterwork Chain Shirt +1
+ Cloak Resistance +1
+ Potions:
+   Protection from Evil
+   Resist Cold
+   Resistance
+   Oil of sanctify Corpse
+   Cure Light wounds
+  Cure Moderate Wounds (cr, 300 gp)
+ Scrolls:
+  Acid splash
+   Obscuring mist
+   Identify
+   Calm Animals (cr, 25 gp)
+   Detect Poison (cr, 12 gp 5 sp)
+   Keen Senses (apg, 25 gp)
+ Wands:
+   Create Water
+   Ghost Sound
+   Cure Moderate Wounds - 15 charge
+   Magic Stone
+   Acid Splash (cr, 375 gp) – 50 charge
+   Stabilize (cr, 375 gp) – 27 charge
 
-Silver Dagger
-a gold ring, engraved with an unknown marking.  (non-magical)
-Token from Senator
-Alcamendl Silver Dagger
+ ## Non Magical
+ Silver Dagger
+ MW Heavy Mace
+ Gold Ring, engraved with an unknown marking.  (non-magical)
+ Token from Senator
+ Alchemist Silver Dagger
+ MW Rapier
+ MW Short Bow
+ MW Bastard Sword
+ MW Chain Mail
+ MW Light Crossbow
+ Circlet - 1000 gp
+ Breast Plate/Helm with  red died mohawk
+ * herbs
+ MW Sap (301 gp)
 
-wand - cure moderate wounds 15 charge
-masterwork chain shirt +1
-masterwork heavy mace
-cloak resistance +1
+## Treasure
+ 295 pp
+ 1209 gp
+ 962 sp
+ 3017 cp
+ Gems
+    Black Pearl (400 gp)
+    Bloodstone (50 gp)
+    Jet (110 gp)
+    Rose Quartz (55 gp)
+ Ghoul Parts
+ 4425 gc essence undead
+ 4 large undead gems
+ 19 small undead gems
+ Gorbo’s 4 linked gems
+
+
+
+## Session 22 - more depths of the ship
+
+
+
 
 
 ## Session 21 - The bowels of the ship
